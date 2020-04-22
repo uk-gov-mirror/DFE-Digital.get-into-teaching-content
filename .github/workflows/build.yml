@@ -1,7 +1,7 @@
 name: Build and Deploy
 on: [ push ]
 env:
-  DOCKERHUB_REPOSITORY: dfedigital/get-into-teaching-web
+  DOCKERHUB_REPOSITORY: dfedigital/get-into-teaching-frontend
   GOVUKPAAS_ORG: dfe-teacher-services
   GOVUKPAAS_SPACE: get-into-teaching
 jobs:
