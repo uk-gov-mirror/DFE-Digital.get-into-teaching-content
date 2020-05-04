@@ -1,0 +1,4 @@
+---
+applications:
+- name: get-into-teaching-app
+  memory: 256M

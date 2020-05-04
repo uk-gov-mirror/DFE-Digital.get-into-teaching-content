@@ -1,11 +1,4 @@
-ARG PUBLISHIMG=dfedigital/get-into-teaching-publisher:latest
-FROM $PUBLISHIMG AS build
+ARG RAILSAPP=dfedigital/get-into-teaching-web:latest
+FROM $RAILSAPP
 
-COPY content content
-RUN bundle exec nanoc compile
-
-FROM nginx:stable-alpine
-ENV PORT=80
-COPY docker-run.sh /
-CMD /docker-run.sh
-COPY --from=build /app/output/ /usr/share/nginx/html/
+COPY content app/views/content

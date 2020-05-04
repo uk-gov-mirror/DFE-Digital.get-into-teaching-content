@@ -1,5 +1,9 @@
 name: Build and Deploy
-on: [ push ]
+on:
+  repository_dispatch:
+  push:
+    branches:
+      - master
 env:
   DOCKERHUB_REPOSITORY: dfedigital/get-into-teaching-frontend
   GOVUKPAAS_ORG: dfe-teacher-services
@@ -25,7 +29,6 @@ jobs:
   deploy:
     name: Deploy to GovUK PaaS
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/master'
     needs:
       - build_and_push
     steps:
@@ -42,4 +45,4 @@ jobs:
       - name: Current Org and Space
         run: cf target
       - name: Deploy Built Image
-        run: cf push get-into-teaching-web --docker-image $DOCKERHUB_REPOSITORY:sha-$(git rev-parse --short $GITHUB_SHA)
+        run: cf push get-into-teaching-app --docker-image $DOCKERHUB_REPOSITORY:sha-$(git rev-parse --short $GITHUB_SHA)
