@@ -7,7 +7,7 @@ backlink: "../../"
 section{
 ##From senior associate lawyer to assistant headteacher  
 
-![Helen's Story](../../assets/images/case-study-helen.png)
+![Helen's Story](/assets/images/case-study-helen.png)
 
 ###Helen Winter, director of teaching school and assistant headteacher
 
@@ -35,7 +35,7 @@ If you want a career that provides you with job satisfaction and swift progressi
 section{
 ##Owen’s rapid career ascent
 
-![Owen's Story](../../assets/images/case-study-owen.png)
+![Owen's Story](/assets/images/case-study-owen.png)
 
 ###Dr Owen Mather, leader of teaching standards
 
@@ -61,7 +61,7 @@ Why not emulate Owen’s ascent to leadership and apply for teacher training? It
 section{
 ##Climbing the career ladder
 
-![Paul's Story](../../assets/images/case-study-video.png)
+![Paul's Story](/assets/images/case-study-video.png)
 
 ###Paul Evason, assistant headteacher
 
@@ -117,7 +117,7 @@ Thousands of people successfully retrain as teachers every year, and applying fo
 section{
 ##From NQT to head of biology in two years
 
-![Sarah's Story](../../assets/images/case-study-sarah.png)
+![Sarah's Story](/assets/images/case-study-sarah.png)
 
 ###Sarah Fisher, head of biology
 
@@ -172,7 +172,7 @@ He was offered a job at one of his placement schools, and his rapid climb up the
 section{
 ##Become a role model in your school
 
-![Karen's Story](../../assets/images/case-study-karen.png)
+![Karen's Story](/assets/images/case-study-karen.png)
 
 ###Karen Falcon, head of geography
 
