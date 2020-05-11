@@ -19,7 +19,7 @@ quick{
 }
 
 section{
-##Bursaries and scholarships
+## Bursaries and scholarships
 Bursaries and scholarships are tax-free amounts of money to help you while you train. You don’t need to pay them back.
 
 They are only available in subjects where there is a shortage of teachers. You’ll need a first, 2:1, 2:2 degree or a PhD or Master's to be eligible.
@@ -30,7 +30,7 @@ You could get a bursary of up to £26,000 or apply for a scholarship of up to £
 }
 
 section{
-##Get student finance
+## Get student finance
 If a bursary or scholarship is not available for your course, you can borrow money to help pay for your fees and living costs. You can apply for a tuition fee and/or a maintenance loan even if you already have a student loan.
 
 You can apply for a tuition fee loan of up to £9,250 to cover the full cost of your course fees and a maintenance loan of up to £11,672 to help with your living costs.
@@ -41,7 +41,7 @@ Use the [student finance calculator on GOV.UK](https://www.gov.uk/student-financ
 }
 
 section{
-##Get financial help if you’re a parent, a carer or you have a disability
+## Get financial help if you’re a parent, a carer or you have a disability
 You may be able to get financial help if you have a disability, or if you have children or dependent adults. If you get this type of funding, you do not need to pay it back.
 
 You could apply for:
@@ -55,7 +55,7 @@ You could apply for:
 }
 
 section{
-##Applying for funding if you live outside England
+## Applying for funding if you live outside England
 
 Whether you’re a home student (living in Wales, Scotland or Northern Ireland), an EU student or a student from outside the EU, you may still be eligible for funding to train to teach.
 

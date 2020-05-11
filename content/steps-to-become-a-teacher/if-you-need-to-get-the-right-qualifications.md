@@ -22,7 +22,7 @@ quick{
 }
 
 section{
-##If you don’t have a degree
+## If you don’t have a degree
 
 You’ll need to apply for an initial teacher training (ITT) course that will give you qualified teacher status (QTS). Courses usually take 3 to 4 years and include:
 
@@ -39,7 +39,7 @@ Sign up to get support from a teacher training adviser, who can help you with yo
 }
 
 section{
-##If you have an overseas degree
+## If you have an overseas degree
 
 If you studied overseas, you’ll need to find out if your qualifications are recognised in the UK. Contact us on 0800 389 2500 for advice.
 
@@ -51,7 +51,7 @@ Contact the school or university you want to train with to find out.
 }
 
 section{
-##If your degree is not in the subject you want to teach
+## If your degree is not in the subject you want to teach
 
 If you need to top up your knowledge of the subject you want to teach, you could take a subject knowledge enhancement course (SKE). An SKE may be right for you if:
 
@@ -79,29 +79,29 @@ If you think an SKE course will help you, contact the schools or universities yo
 }
 
 section{
-##Specialist ways to get into teaching
+## Specialist ways to get into teaching
 
-###School Direct salaried places
+### School Direct salaried places
 
 You’ll earn a salary while you train and you will not pay tuition fees. These places are usually given to graduates with at least 3 years’ work experience.
 
-###Postgraduate teaching apprenticeship
+### Postgraduate teaching apprenticeship
 
 Postgraduate teaching apprenticeships are similar to school direct salaried places. You’ll be employed by a school to learn on the job over 4 terms. You’ll then take an assessment. This is a salaried training place so you will not pay tuition fees.
 
-###Teach First
+### Teach First
 
 You’ll need to have a 2:1 degree or higher to apply for a place. You’ll train over 2 years by learning on the job. You’ll be paid as an unqualified teacher and you will not pay tuition fees.
 
-###Researchers in schools
+### Researchers in schools
 
 You’ll need (or be about to finish) a doctorate in the subject you want to teach. You’ll then train over 3 years with a bursary. If you have a lot of relevant work experience you could train and earn a salary.
 
-###Assessment only (AO)
+### Assessment only (AO)
 
 If you’re a teaching assistant or unqualified teacher with two years’ experience you can be assessed over 12 weeks to get QTS. This way of getting QTS will not give you a PGCE. You’ll only need a PGCE if you want to do a master’s qualification or teach outside the UK.
 
-###Postgraduate Early Years Initial Teacher Training (EYITT)
+### Postgraduate Early Years Initial Teacher Training (EYITT)
 
 A number of postgraduate Early Years Initial Teacher Training (EYITT) courses are available at university or via a school-led route – all lead to Early Years Teacher Status (EYTS) on successful completion. EYTS is different to QTS in that you specialise in working with children up to five years old only.
 

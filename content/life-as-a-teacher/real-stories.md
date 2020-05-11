@@ -5,11 +5,11 @@ backlink: "../../"
 ---
 
 section{
-##From senior associate lawyer to assistant headteacher  
+## From senior associate lawyer to assistant headteacher  
 
 ![Helen's Story](/assets/images/case-study-helen.png)
 
-###Helen Winter, director of teaching school and assistant headteacher
+### Helen Winter, director of teaching school and assistant headteacher
 
 <p class="lead">Helen went on a journey to transition from lawyer to teacher - and hasn't looked back since. She is now on the same salary as she was as a senior associate lawyer. In addition, Helen’s progression to a leadership group teacher was also quick.</p>
 
@@ -33,11 +33,11 @@ If you want a career that provides you with job satisfaction and swift progressi
 }
 
 section{
-##Owen’s rapid career ascent
+## Owen’s rapid career ascent
 
 ![Owen's Story](/assets/images/case-study-owen.png)
 
-###Dr Owen Mather, leader of teaching standards
+### Dr Owen Mather, leader of teaching standards
 
 <p class="lead">Just one year after completing his postgraduate teacher training, Owen progressed to head of department – and since then, he has continued to climb the career ladder.</p>
 
@@ -59,11 +59,11 @@ Why not emulate Owen’s ascent to leadership and apply for teacher training? It
 }
 
 section{
-##Climbing the career ladder
+## Climbing the career ladder
 
 ![Paul's Story](/assets/images/case-study-video.png)
 
-###Paul Evason, assistant headteacher
+### Paul Evason, assistant headteacher
 
 <p class="lead">As a newly qualified teacher, Paul was keen to move up the teaching career ladder – now he’s reached assistant headteacher he shares his story on why he got into teaching and his tips on career progression.</p>
 
@@ -86,9 +86,9 @@ As you progress as a teacher, so will your salary - in fact, the average salary 
 }
 
 section{
-##Leaping to head of department
+## Leaping to head of department
 
-###Jon Simons, head of department
+### Jon Simons, head of department
 
 <p class="lead">Jon hasn't looked back since starting his teaching career - he was head of year 18 months after qualifying as a teacher, and a year later he was promoted to head of department. Find out how the support and guidance you get as a teacher can help you progress.</p>
 
@@ -115,11 +115,11 @@ Thousands of people successfully retrain as teachers every year, and applying fo
 }
 
 section{
-##From NQT to head of biology in two years
+## From NQT to head of biology in two years
 
 ![Sarah's Story](/assets/images/case-study-sarah.png)
 
-###Sarah Fisher, head of biology
+### Sarah Fisher, head of biology
 
 <p class="lead">Sarah never saw herself working in a nine-to-five office job, and has embraced the challenges and career progression teaching has to offer. She made the jump from NQT to head of biology in just two years.</p>
 
@@ -141,9 +141,9 @@ For anyone looking to emulate Sarah’s success, she gives the following advice:
 }
 
 section{
-##The rapid career climber
+## The rapid career climber
 
-###Olly Carr, assistant headteacher
+### Olly Carr, assistant headteacher
 
 <p class="lead">Oxford graduate Olly briefly considered a career in finance before deciding that wasn’t for him. Instead he chose to use his degree to share his passion for physics and make it accessible for all pupils. He hasn’t looked back since – quickly climbing the career ladder via a number of leadership roles.</p>
 
@@ -170,11 +170,11 @@ He was offered a job at one of his placement schools, and his rapid climb up the
 }
 
 section{
-##Become a role model in your school
+## Become a role model in your school
 
 ![Karen's Story](/assets/images/case-study-karen.png)
 
-###Karen Falcon, head of geography
+### Karen Falcon, head of geography
 
 <p class="lead">From newly qualified teacher (NQT) to head of faculty in just five years, geography teacher Karen says she “couldn’t have made a better decision” than joining the profession. While her classroom time has been reduced, she still thrives on making a positive difference for students.</p>
 

@@ -8,18 +8,18 @@ You could choose teacher training with a SEND specialism. These courses focus on
 
 Find courses with a SEND specialism by selecting ‘Show only courses with a SEND specialism’ on [Find postgraduate teacher training](https://www.gov.uk/find-postgraduate-teacher-training-courses "external-inline").
 
-##Get experience
+## Get experience
 
 You don’t have to take a SEND specialist course. If you want to be a SEND teacher you can apply to teach in a special school if you have:
 
   - been teaching for a few years
   - experience of managing SEND pupils in your primary or secondary school
 
-##Teaching children with sensory impairments
+## Teaching children with sensory impairments
 
 If you want to teach pupils with hearing, vision or multi-sensory impairments, you’ll need a specific qualification. Find out about [mandatory qualifications](# "external-inline") for specialist teachers.
 
-##Be a Special Educational Needs Coordinator (SENCo)
+## Be a Special Educational Needs Coordinator (SENCo)
 
 As a SENCo you’ll be responsible for assessing, planning and monitoring the progress of children with SEND. To apply for a job as a SENCo, you'll need to:
 

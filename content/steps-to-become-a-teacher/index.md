@@ -15,13 +15,13 @@ You will then need to take a teaching qualification called initial teacher train
 If you want to teach in a fee-paying or private school, the rules may be different. You’ll need to check with the type of school you want to teach at.
 
 section{
-##Your Step-by-step guide
+## Your Step-by-step guide
 
 <ol class="step-by-step" id="step-by-step">
   <li markdown="1">
 <h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">1</span></span> Check your qualifications <span class="twiddle"></span></h3>
 
-####If you have a degree
+#### If you have a degree
 
 If you want to teach in a primary or secondary school you can apply for postgraduate initial teacher training (ITT) to give you qualified teacher status (QTS).  This usually takes a year, unless you study part-time.  All ITT courses include a minimum of 24 weeks in school - usually two schools or more.
 
@@ -83,7 +83,7 @@ For primary and secondary school teaching you’ll do postgraduate Initial Teach
 
 Both types of training will give you lots of classroom experience and the knowledge to teach successfully. The type of course you choose will depend on whether you want to study at a university or be based in a school.
 
-####Train at university
+#### Train at university
 You’ll do a postgraduate certificate in education (PGCE) or a postgraduate diploma in education (PGDE) to give you QTS. Most courses are full time for one year. You may be able to study part time if the university you choose has this option. 
 
 During your course you will:
@@ -98,7 +98,7 @@ Training at university may be the right choice for you if it’s important to yo
 
 [Find a teacher training course](https://www.gov.uk/find-postgraduate-teacher-training-courses "external")
 
-####Train in a school
+#### Train in a school
 
 This will usually take 1 year. You’ll spend your time learning from experienced teachers by working in the school team whilst studying the theory of teaching at college or university.  These courses lead to QTS and most include a PGCE qualification too, but it’s worth checking with your training provider first to make sure. 
 
@@ -137,7 +137,7 @@ Once you have decided that you want to train to become a teacher and have the ne
 }
 _________________________________
 
-##Training to teach children with special educational needs and/or disabilities (SEND)
+## Training to teach children with special educational needs and/or disabilities (SEND)
 
 All teaching courses with QTS include training on working with pupils who have special educational needs and/or disabilities (SEND).
 
