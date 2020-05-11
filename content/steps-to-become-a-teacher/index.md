@@ -1,5 +1,6 @@
 ---
 title: "Steps to become a teacher"
+image: "/assets/images/steps-to-teacher-header.jpg"
 backlink: "../"
 ---
 
@@ -27,15 +28,30 @@ If you want to teach in a primary or secondary school you can apply for postgrad
 To study for ITT, you’ll need:
 
   - grade 4 (C) or above in English and maths GCSE
-  - grade 4 (C) or above in GCSE science if you want to teach primary
+  - science GCSE grade 4 (C) or above, if you want to teach at primary school
 
-If you do not have GCSEs in English, maths and science, you’ll need to show that you have an equivalent level of education.
+If you do not have the required GCSEs, you’ll need to show that you have an equivalent level of education.
 
-[If your degree is not in the subject you want to teach](./if-you-need-to-get-the-right-qualifications#specialist-ways-to-get-into-teaching "internal")
+[If your degree is not in the subject you want to teach](./if-you-need-to-get-the-right-qualifications#if-your-degree-is-not-in-the-subject-you-want-to-teach "internal")
+  </li>
+  
+<li markdown="1"> 
+  <h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">2</span></span> Find out about funding <span class="twiddle"></span></h3>
+There are a number of different ways you can get funding to train as a teacher in England.  
+ 
+These may vary, depending on: 
+ 
+ - which subject you’re going to teach
+ - if you’re going to teach in secondary or primary school 
+ - whether you can get a scholarship
+ - if you qualify for a bursary 
+ 
+[Find out more](../funding-your-training) about the funding you could get. 
+
   </li>
 
   <li markdown="1">
-<h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">2</span></span> Get school experience <span class="twiddle"></span></h3>
+<h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">3</span></span> Get school experience <span class="twiddle"></span></h3>
 
 You’ll find it useful to get some classroom experience, although it’s not compulsory. You’ll see teaching in action and get a taste of school life. Spending time in a school will also help you understand some of the skills and qualities teachers have. Teachers need the ability to:
 
@@ -48,7 +64,7 @@ Your experience can help you decide whether teaching is right for you.
 
 Use the [Get school experience](https://schoolexperience.education.gov.uk "external-inline") service.
 
-Do a [teaching internship](# "external-inline") if you’re a STEM-related degree student.
+Do a [teaching internship](https://www.gov.uk/guidance/paid-internships-for-teaching "external-inline") if you’re a STEM-related degree student.
 
 <div class="explanation" markdown="1">
 **STEM-related degree**
@@ -58,7 +74,7 @@ STEM stands for science, technology, engineering and mathematics and refers to a
   </li>
 
   <li markdown="1">
-<h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">3</span></span> Decide how to train <span class="twiddle"></span></h3>
+<h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">4</span></span> Decide how to train <span class="twiddle"></span></h3>
 
 For primary and secondary school teaching you’ll do postgraduate Initial Teacher Training (ITT) to give you QTS. You could do your training:
 
@@ -68,8 +84,9 @@ For primary and secondary school teaching you’ll do postgraduate Initial Teach
 Both types of training will give you lots of classroom experience and the knowledge to teach successfully. The type of course you choose will depend on whether you want to study at a university or be based in a school.
 
 ####Train at university
+You’ll do a postgraduate certificate in education (PGCE) or a postgraduate diploma in education (PGDE) to give you QTS. Most courses are full time for one year. You may be able to study part time if the university you choose has this option. 
 
-You’ll do a postgraduate certificate in education (PGCE) to give you QTS. Most courses are full time for one year. You may be able to study part time if the university you choose has this option. During your course you will:
+During your course you will:
 
   - study on campus
   - spend 24 weeks on school placements at 2 schools
@@ -83,10 +100,7 @@ Training at university may be the right choice for you if it’s important to yo
 
 ####Train in a school
 
-Training to teach in a school will usually take 1 year. You’ll spend your time:
-
-learning from experienced teachers by working in the school team
-studying the theory of teaching at college or university
+This will usually take 1 year. You’ll spend your time learning from experienced teachers by working in the school team whilst studying the theory of teaching at college or university.  These courses lead to QTS and most include a PGCE qualification too, but it’s worth checking with your training provider first to make sure. 
 
 Training to teach in a school is often called school-led training.
 
@@ -97,26 +111,31 @@ School-led training may be the right choice for you if you want to:
 
 [Find a teacher training course](https://www.gov.uk/find-postgraduate-teacher-training-courses "external")
 
-There are some other, [specialist ways](./degree-is-not-in-the-subject-you-want-to-teach#specialist-ways-to-get-into-teaching) to get into teaching which you can apply for too. These include:
+There are some other [specialist training options](./if-you-need-to-get-the-right-qualifications#specialist-ways-to-get-into-teaching) to get into teaching. These include:
 
   - School Direct salaried places
   - Postgraduate teaching apprenticeship
   - Teach First
   - Researchers in schools
   - Assessment only (AO)
+  - Postgraduate Early Years Initial Teacher Training (EYITT)
   </li>
 
   <li markdown="1">
-<h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">4</span></span> Application process <span class="twiddle"></span></h3>
-Once you have decided that you want to train to become a teacher and have the necessary qualifications you’ll need to [prepare your application](../how-to-apply) using the following steps.
+<h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">5</span></span> Application process <span class="twiddle"></span></h3>
 
-  - [Choose your course](https://www.gov.uk/find-postgraduate-teacher-training-courses "external-inline").
-  - Write a personal statement.
-  - Get two references.
-  - Apply for teacher training.
+Once you have decided that you want to train to become a teacher and have the necessary qualifications you’ll need to [prepare your application](https://qa.apply-for-teacher-training.education.gov.uk/candidate "external") using the following steps:
+
+
+  - [choose your course](https://www.gov.uk/find-postgraduate-teacher-training-courses "external")
+  - write a personal statement
+  - get two references
+  - [apply for teacher training](https://qa.apply-for-teacher-training.education.gov.uk/candidate "external")
   </li>
 </ol>
+
 }
+_________________________________
 
 ##Training to teach children with special educational needs and/or disabilities (SEND)
 

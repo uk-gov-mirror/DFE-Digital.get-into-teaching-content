@@ -1,5 +1,6 @@
 ---
 title: "How to apply"
+image: "/assets/images/how-to-apply-header.jpg"
 backlink: "../"
 ---
 
@@ -11,6 +12,11 @@ quick{
   [Get two references](#get-two-references)
 
   [Apply for teacher training](#apply-for-teacher-training)
+}
+
+section{
+You can only apply for a training programme when it’s open. Applications for 2020 entry opened on 8 October 2019.
+Places are allocated on a first-come, first-served basis, so be aware that popular courses will fill up quickly. Some subjects have a limited number of places available, so don't leave your application to the last minute.
 }
 
 section{
@@ -67,7 +73,7 @@ Contact them before you apply and ask them to reply quickly when UCAS ask for th
 section{
 ##Apply for teacher training
 
-Sign up to [get support from a teacher training adviser](# "external-inline"), who can help you with your personal statement, which funding you can get and how to complete your application.
+Sign up to [get support from a teacher training adviser](https://register.getintoteaching.education.gov.uk/register "external-inline"), who can help you with your personal statement, which funding you can get and how to complete your application.
 
 You can [apply via UCAS](https://www.ucas.com/postgraduate/teacher-training/ucas-teacher-training-apply-and-track "external-inline"), or by using a [new GOV.UK service called Apply for teacher training](https://www.apply-for-teacher-training.education.gov.uk "external-inline"). We’ll help you choose the service that’s right for you.
 }

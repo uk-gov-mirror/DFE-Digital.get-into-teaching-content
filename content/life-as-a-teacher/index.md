@@ -1,5 +1,6 @@
 ---
-title: "Life as a teacher"
+title: "Teaching as a career"
+image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../"
 ---
 
@@ -12,9 +13,9 @@ As a teacher you can help children develop their talents and expand your own ski
 
 In addition to the day job you can get involved in after-school activities, clubs, trips or sport.
 
-[How I became a teacher](./real-stories "internal")
+[My story into teaching](./real-stories "internal")
 
-[Find out about Teachers’ salaries and other financial benefits](./teachers-salaries-and-benefits "internal")
+[Salaries and other financial benefits](./teachers-salaries-and-benefits "internal")
 
 ##Career progression
 Training to be a teacher will give you the opportunities to add to your professional skills and help you achieve your ambitions.
@@ -35,7 +36,7 @@ In these roles you’ll still teach, but have additional responsibilities.
 If you’re interested in the welfare of students throughout their education, a pastoral role might be for you. You could also take on the role of a mentor for young people with special educational needs.
 
 ##Early Career Framework
-The Department for Education has developed a 2 year package to support new teachers at the start of their career, based on the [Early Career Framework](#).
+The Department for Education has developed a 2 year package to support new teachers at the start of their career, based on the [Early Career Framework](https://www.gov.uk/government/publications/supporting-early-career-teachers "external-inline").
 
 The Early Career Framework was designed with an expert advisory group to support early career teacher development.
 
