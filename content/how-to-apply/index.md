@@ -1,5 +1,6 @@
 ---
 title: "How to apply"
+image: "/assets/images/how-to-apply-header.jpg"
 backlink: "../"
 ---
 
@@ -14,7 +15,12 @@ quick{
 }
 
 section{
-##Choose a course
+You can only apply for a training programme when it’s open. Applications for 2020 entry opened on 8 October 2019.
+Places are allocated on a first-come, first-served basis, so be aware that popular courses will fill up quickly. Some subjects have a limited number of places available, so don't leave your application to the last minute.
+}
+
+section{
+## Choose a course
 You can use the [Find postgraduate teacher training](https://www.gov.uk/find-postgraduate-teacher-training-courses "external-inline") service to search for courses in your area as well as further afield.
 
 When you’re researching courses, you could also:
@@ -28,12 +34,12 @@ When you’re researching courses, you could also:
 }
 
 section{
-##Write your personal statement
+## Write your personal statement
 You must include a personal statement to apply for teacher training.
 
 Your personal statement is the main part of your application, so write about the knowledge and skills you’ll bring to teaching. Make sure you get across your energy, enthusiasm and passion for teaching.
 
-###What to put in your statement
+### What to put in your statement
 
 Include information about:
 
@@ -50,7 +56,7 @@ Use relevant examples from:
 }
 
 section{
-##Get two references
+## Get two references
 You must give two references to apply for teacher training.
 
 Your referees need to comment on:
@@ -65,9 +71,9 @@ Contact them before you apply and ask them to reply quickly when UCAS ask for th
 }
 
 section{
-##Apply for teacher training
+## Apply for teacher training
 
-Sign up to [get support from a teacher training adviser](# "external-inline"), who can help you with your personal statement, which funding you can get and how to complete your application.
+Sign up to [get support from a teacher training adviser](https://register.getintoteaching.education.gov.uk/register "external-inline"), who can help you with your personal statement, which funding you can get and how to complete your application.
 
 You can [apply via UCAS](https://www.ucas.com/postgraduate/teacher-training/ucas-teacher-training-apply-and-track "external-inline"), or by using a [new GOV.UK service called Apply for teacher training](https://www.apply-for-teacher-training.education.gov.uk "external-inline"). We’ll help you choose the service that’s right for you.
 }
