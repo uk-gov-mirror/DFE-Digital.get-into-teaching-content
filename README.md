@@ -1,5 +1,8 @@
 #  DFE-Digital Get into Teaching website content
 
+![Build and Deploy](https://github.com/DFE-Digital/get-into-teaching-content/workflows/Build%20and%20Deploy/badge.svg)
+![Release to test](https://github.com/DFE-Digital/get-into-teaching-content/workflows/Release%20to%20test/badge.svg)
+
 ## Prerequisites
 
 - None
