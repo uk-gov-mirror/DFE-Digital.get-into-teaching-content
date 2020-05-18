@@ -1,0 +1,10 @@
+---
+applications:
+- name: get-into-teaching-app-test
+  memory: 256M
+  docker:
+    image: {{DOCKER_IMAGE}}
+  env:
+    HTTPAUTH_PASSWORD: {{HTTPAUTH_PASSWORD}}
+    HTTPAUTH_USERNAME: {{HTTPAUTH_USERNAME}}
+    SECRET_KEY_BASE:   {{env.SECRET_KEY_BASE}}
