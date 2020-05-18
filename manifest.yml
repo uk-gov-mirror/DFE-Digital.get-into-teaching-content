@@ -5,6 +5,6 @@ applications:
   docker:
     image: dfedigital/get-into-teaching-frontend:sha-9ce8e21
   env:
-    HTTPAUTH_PASSWORD: "{{HTTPAUTH_PASSWORD}}"
+    HTTPAUTH_PASSWORD: {{HTTPAUTH_PASSWORD}}
     HTTPAUTH_USERNAME: getintoteaching
     SECRET_KEY_BASE: GVucHtQSz59QaV4IAOlX
