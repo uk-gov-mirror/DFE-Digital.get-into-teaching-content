@@ -1,4 +1,10 @@
 ---
 applications:
-- name: get-into-teaching-app
+- name: get-into-teaching-app-test
   memory: 256M
+  docker:
+    image: dfedigital/get-into-teaching-frontend:sha-9ce8e21
+  env:
+    HTTPAUTH_PASSWORD: userneeds
+    HTTPAUTH_USERNAME: getintoteaching
+    SECRET_KEY_BASE: GVucHtQSz59QaV4IAOlX
