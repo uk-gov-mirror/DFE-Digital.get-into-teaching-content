@@ -41,7 +41,7 @@ jobs:
         run: sudo dpkg -i /tmp/cf-cli.deb
       - name: Get Short SHA
         id: sha
-        run: echo ::set-output name=short::$(git rev-parse --short ${{GITHUB_SHA}})
+        run: echo ::set-output name=short::$(git rev-parse --short $GITHUB_SHA)
       - name: Deploy Built Image
         uses: cuchi/jinja2-action@v1.1.0
         with:
