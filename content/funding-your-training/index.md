@@ -35,6 +35,7 @@ backlink: "../"
   <li>Childcare Grant</li>
   <li>Parents Learning Allowance</li>
   <li>Adult Dependants’ Grant</li>
+  </ul>
   
   <p><a href="financial-help">Find out more about financial help for parents, carers and people with disabilities</a></p>
   
