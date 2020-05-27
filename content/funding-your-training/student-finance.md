@@ -4,17 +4,24 @@ image: "/assets/images/funding-header.jpg"
 backlink: "../../"
 ---
 
-If a bursary or scholarship is not available for your course, you can borrow money to help pay for your fees and living costs. You can apply for a tuition fee and/or a maintenance loan even if you already have a student loan.
+<div class="content__left">
 
-## Apply for a tuition fee loan
 
-You can apply for a tuition fee loan of up to £9,250 to cover the full cost of your course fees. This means you will not need to:
+<p>If a bursary or scholarship is not available for your course, you can borrow money to help pay for your fees and living costs. You can apply for a tuition fee and/or a maintenance loan even if you already have a student loan.</p>
 
-pay course fees upfront
-repay the loan until you’re working and earning money
+<h2> Apply for a tuition fee loan </h2>
 
-## Apply for a maintenance loan
+<p>You can apply for a tuition fee loan of up to £9,250 to cover the full cost of your course fees. This means you will not need to:</p>
 
-You can apply for a maintenance loan of up to £11,672 to help with your living costs. You’ll repay the loan when you’re working and earning money.
+<ul>
+  <li>pay course fees upfront</li>
+  <li>repay the loan until you’re working and earning money</li>
+</ul>
 
-Use the student finance calculator to find out how much you can get.
+<h2>Apply for a maintenance loan</h2>
+
+<p>You can apply for a maintenance loan of up to £11,672 to help with your living costs. You’ll repay the loan when you’re working and earning money.</p>
+
+<p>Use the student finance calculator to find out how much you can get.</p>
+
+</div>
