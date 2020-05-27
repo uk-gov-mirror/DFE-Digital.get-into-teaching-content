@@ -25,3 +25,6 @@ backlink: "../../"
 <p>Use the student finance calculator to find out how much you can get.</p>
 
 </div>
+
+<div class="content__right">
+</div>
