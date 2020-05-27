@@ -56,6 +56,7 @@ backlink: "../"
   <ul>
   <li>to early rollout areas in September 2020</li>
   <li>nationally from September 2021</li>
+  </ul>
 
 <p>This is part of government’s commitment to transform support for early career teachers.</p>
 </div>
