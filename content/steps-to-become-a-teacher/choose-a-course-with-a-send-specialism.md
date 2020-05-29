@@ -4,6 +4,8 @@ image: "/assets/images/steps-to-teacher-header.jpg"
 backlink: "../../"
 ---
 
+<div class="content__left">
+
 <p>You could choose teacher training with a SEND specialism. These courses focus on developing your skills for working with pupils with SEND.</p>
 
 <p>Find courses with a SEND specialism by selecting ‘Show only courses with a SEND specialism’ on <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses/">Find postgraduate teacher training</a>.</p>
@@ -32,6 +34,12 @@ backlink: "../../"
 
 <p><a href="https://nasen.org.uk/training-and-cpd.html">Find out about NASENCO</a></p>
 
+
+
 <h2>Special educational needs (SEN) allowance</h2>
 
 <p>If you’re a qualified teacher of pupils with SEND, you could get an allowance of between £2,209 and £4,359 per year.</p>
+</div>
+
+<div class="content__right">
+</div>
