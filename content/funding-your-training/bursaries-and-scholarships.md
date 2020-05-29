@@ -126,7 +126,7 @@ backlink: "../../"
 <ul>
 <li>
   <h3>Computer science</h3> 
-  <p>BCS The Chartered Institute for IT
+  <p>BCS The Chartered Institute for IT</p>
 </li>
 
 <li>
