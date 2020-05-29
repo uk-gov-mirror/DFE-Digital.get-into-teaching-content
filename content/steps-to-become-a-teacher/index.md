@@ -10,6 +10,7 @@ backlink: "../"
     <div class="content__left__header__icon icon-train-to-teach"></div>
     <div class="content__left__header__text">
       <h4>To become a primary or secondary school teacher in England you will need to have a degree.</h4>
+      <p>For equivalent qualifications, you’ll need to confirm your qualification is equivalent to a degree.</p>
     </div>
   </div>
 
@@ -124,7 +125,7 @@ backlink: "../"
   <div class="steps-header">
     <h1>
       <div class="steps-header__number"><span>4</span></div>
-      Decide how to train
+      Ways to train
       <i class="fas fa-chevron-up"></i>
     </h1>
   </div>
@@ -153,7 +154,7 @@ backlink: "../"
   </p>
 
   <ul>
-    <li>study on campus</li>
+    <li>study on campus at your chosen university</li>
     <li>spend 24 weeks on school placements at 2 schools</li>
   </ul>
 
