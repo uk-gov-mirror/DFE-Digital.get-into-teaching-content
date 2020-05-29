@@ -26,13 +26,19 @@ backlink: "../../"
 <p>If you have an unrelated degree, but you studied the subject you want to teach at A level (or you have got professional experience in it) you could get a bursary for a subject knowledge enhancement course.</p>
 
 <!--<div class="funding-table" markdown="1">-->
-<h3>Chemistry</h3>
+
 
 <table>
   <tr>
     <th>Subject</th>
     <th>Bursary</th>
     <th>Scholarship</th>
+  </tr>
+  
+  <tr>
+      <td>Chemistry</td>
+      <td>£26,000</td>
+      <td>£28,000</td>
   </tr>
   
   <tr>
@@ -106,8 +112,10 @@ backlink: "../../"
       <td>£6,000</td>
       <td> - </td>
   </tr>
+  
+  </table>
 
-</div>
+<!--</div>-->
 
 <h2>Get help to apply for a scholarship</h2>
 
