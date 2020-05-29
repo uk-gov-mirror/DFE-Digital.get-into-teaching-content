@@ -47,7 +47,7 @@ backlink: "../../"
 <p>If you’re a graduate from outside the European Economic Area (EEA), you may need to apply for a visa before starting your teacher training course.</p>
 
 <p>Contact the school or university you want to train with to find out.</p>
-}
+
 
 
 <h2>If your degree is not in the subject you want to teach</h2>
