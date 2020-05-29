@@ -4,112 +4,150 @@ image: "/assets/images/funding-header.jpg"
 backlink: "../../"
 ---
 
-You may be able to get a bursary or scholarship. This is a tax-free amount of money to help you while you train. You don’t need to pay this back.
+<div class="content__left">
 
-They are only available in subjects where there is a shortage of teachers. You’ll need a first, 2:1, 2:2 degree or a PhD or Master's to be eligible.
 
-## Get a bursary
+<p>You may be able to get a bursary or scholarship. This is a tax-free amount of money to help you while you train. You don’t need to pay this back.</p>
 
-You could get a bursary of up to £26,000. If the subject you want to teach is eligible for a bursary, you’ll get one when you start your course. You do not need to apply for a bursary.
+<p>They are only available in subjects where there is a shortage of teachers. You’ll need a first, 2:1, 2:2 degree or a PhD or Master's to be eligible.</p>
 
-## Apply for a scholarship
+<h2>Get a bursary</h2>
 
-You can apply for a scholarship of up to £28,000. You’d get this instead of a bursary. There’s a lot of competition for scholarships. Whether you get one will depend on the subject you want to teach and the grades you’ve got.
+<p>You could get a bursary of up to £26,000. If the subject you want to teach is eligible for a bursary, you’ll get one when you start your course. You do not need to apply for a bursary.</p>
 
-## Check which subjects have bursaries and scholarships
+<h2>Apply for a scholarship</h2>
 
-If your subject is not listed, there is not a bursary or scholarship available. Primary teacher training bursaries are only available if you specialise in maths.
+<p>You can apply for a scholarship of up to £28,000. You’d get this instead of a bursary. There’s a lot of competition for scholarships. Whether you get one will depend on the subject you want to teach and the grades you’ve got.</p>
 
-If you have an unrelated degree, but you studied the subject you want to teach at A level (or you have got professional experience in it) you could get a bursary for a subject knowledge enhancement course.
+<h2>Check which subjects have bursaries and scholarships</h2>
 
-<div class="funding-table" markdown="1">
-#### Chemistry
+<p>If your subject is not listed, there is not a bursary or scholarship available. Primary teacher training bursaries are only available if you specialise in maths.</p>
 
-| Bursary | £26,000 |
-| Scholarship | £28,000 |
+<p>If you have an unrelated degree, but you studied the subject you want to teach at A level (or you have got professional experience in it) you could get a bursary for a subject knowledge enhancement course.</p>
 
-#### Languages - French, German or Spanish
+<!--<div class="funding-table" markdown="1">-->
+<h3>Chemistry</h3>
 
-| Bursary | £26,000 |
-| Scholarship | £28,000 |
+<table>
+  <tr>
+    <th>Subject</th>
+    <th>Bursary</th>
+    <th>Scholarship</th>
+  </tr>
+  
+  <tr>
+      <td>Languages - French, German or Spanish</td>
+      <td>£26,000</td>
+      <td>£28,000</td>
+  </tr>
+  
+   <tr>
+      <td>Maths</td>
+      <td>£26,000</td>
+      <td>£28,000</td>
+  </tr>
 
-#### Maths
+ <tr>
+      <td>Physics</td>
+      <td>£26,000</td>
+      <td>£28,000</td>
+  </tr>
 
-| Bursary | £26,000 |
-| Scholarship | £28,000 |
+ <tr>
+      <td>Computer science</td>
+      <td>£26,000</td>
+      <td>£28,000</td>
+  </tr>
 
-#### Physics
+ <tr>
+      <td>Biology</td>
+      <td>£26,000</td>
+      <td> - </td>
+  </tr>
 
-| Bursary | £26,000 |
-| Scholarship | £28,000 |
+ <tr>
+      <td>Classics (if the course is in Latin or Ancient Greek)</td>
+      <td>£26,000</td>
+      <td> - </td>
+  </tr>
+  
+  <tr>
+      <td>Geography</td>
+      <td>£15,000</td>
+      <td>£17,000</td>
+  </tr>
+  
+   <tr>
+      <td>Design and technology</td>
+      <td>£15,000</td>
+      <td> - </td>
+  </tr>
+  
+  <tr>
+      <td>English</td>
+      <td>£12,000</td>
+      <td> - </td>
+  </tr>
 
-#### Computer science
-
-| Bursary | £26,000 |
-| Scholarship | £28,000 |
-
-#### Biology
-
-| Bursary | £26,000 |
-| Scholarship | - |
-
-#### Classics (if the course is in Latin or Ancient Greek)
-
-| Bursary | £26,000 |
-| Scholarship | - |
-
-#### Geography
-
-| Bursary | £15,000 |
-| Scholarship | £17,000 |
-
-#### Design and technology
-
-| Bursary | £15,000 |
-| Scholarship | - |
-
-#### English
-
-| Bursary | £12,000 |
-| Scholarship | - |
-
-#### History, RE, business studies
-
-| Bursary | £9,000 |
-| Scholarship | - |
-
-#### Art and design, music
-
-| Bursary | £9,000 |
-| Scholarship | - |
-
-#### Primary with maths (if you have maths A level at grade B or equivalent)
-
-| Bursary | £6,000 |
-| Scholarship | - |
+  <tr>
+      <td>History, RE, business studies</td>
+      <td>£9,000</td>
+      <td> - </td>
+  </tr>
+  
+  <tr>
+      <td>Art and design, music</td>
+      <td>£9,000</td>
+      <td> - </td>
+  </tr>
+  
+  <tr>
+      <td>Primary with maths (if you have maths A level at grade B or equivalent)</td>
+      <td>£6,000</td>
+      <td> - </td>
+  </tr>
 
 </div>
 
-## Get help to apply for a scholarship
+<h2>Get help to apply for a scholarship</h2>
 
-You can get help to apply for a scholarship by using our Teacher Training Adviser Service.  You can also contact the awarding body for your subject to find out more.
+<p>You can get help to apply for a scholarship by using our Teacher Training Adviser Service.  You can also contact the awarding body for your subject to find out more.</p>
 
-## Scholarship awarding bodies by subject
+<h2>Scholarship awarding bodies by subject</h2>
 
-**Computer science**  
-BCS The Chartered Institute for IT
+<ul>
+<li>
+  <h3>Computer science</h3> 
+  <p>BCS The Chartered Institute for IT
+</li>
 
-**Chemistry**  
-RSC The Royal Society of Chemistry
+<li>
+    <h3>Chemistry</h3> 
+    <p>RSC The Royal Society of Chemistry</p>
+</li>
 
-**Geography**  
-The Royal Geographical Society (with IBG)
+<li>
+    <h3>Geography</h3> 
+    <p>The Royal Geographical Society (with IBG)</p>
+</li>
 
-**Languages**  
-The British Council
+<li>
+     <h3>Languages</h3>
+     <p>The British Council</p>
+</li>
 
-**Maths**  
-Mathematics Teacher Training Scholarships
+<li>
+     <h3>Maths</h3> 
+     <p>Mathematics Teacher Training Scholarships</p>
+</li>
 
-**Physics**  
-Insitute of Physics
+<li>
+     <h3>Physics</h3> 
+     <p>Insitute of Physics</p>
+</li>
+</ul>
+
+</div>
+
+<div class="content__right">
+</div>
