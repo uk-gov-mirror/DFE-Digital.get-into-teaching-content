@@ -27,6 +27,7 @@ backlink: "../"
 <p>Use the <a href="https://www.gov.uk/student-finance-calculator">student finance calculator on GOV.UK</a> to find out how much you can get.</p>
 
 <h2><a id="get-financial-help-if-youre-a-parent-a-carer-or-you-have-a-disability">Get financial help if you’re a parent, a carer or you have a disability</a></h2>
+
 <p>You may be able to get financial help if you have a disability, or if you have children or dependent adults. If you get this type of funding, you do not need to pay it back.</p>
 
 <p>You could apply for:</p>
@@ -49,7 +50,7 @@ backlink: "../"
 
 <p>If you live outside the UK or EU/EEA, you can get advice about training to be a teacher by using the Teacher Training Adviser Service.</p>
 
-<p><a href="funding-outside-england">Find out how to apply for funding if you live outside England</a>
+<p><a href="funding-outside-england">Find out how to apply for funding if you live outside England</a></p>
   
 </div>
 
