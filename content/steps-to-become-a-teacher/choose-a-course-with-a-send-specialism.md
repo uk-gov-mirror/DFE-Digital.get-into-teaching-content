@@ -4,30 +4,34 @@ image: "/assets/images/steps-to-teacher-header.jpg"
 backlink: "../../"
 ---
 
-You could choose teacher training with a SEND specialism. These courses focus on developing your skills for working with pupils with SEND.
+<p>You could choose teacher training with a SEND specialism. These courses focus on developing your skills for working with pupils with SEND.</p>
 
-Find courses with a SEND specialism by selecting ‘Show only courses with a SEND specialism’ on [Find postgraduate teacher training](https://www.gov.uk/find-postgraduate-teacher-training-courses "external-inline").
+<p>Find courses with a SEND specialism by selecting ‘Show only courses with a SEND specialism’ on <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses/">Find postgraduate teacher training</a>.</p>
 
-## Get experience
+<h2>Get experience</h2>
 
-You don’t have to take a SEND specialist course. If you want to be a SEND teacher you can apply to teach in a special school if you have:
+<p>You don’t have to take a SEND specialist course. If you want to be a SEND teacher you can apply to teach in a special school if you have:</p>
 
-  - been teaching for a few years
-  - experience of managing SEND pupils in your primary or secondary school
+  <ul>
+  <li>been teaching for a few years</li>
+  <li>experience of managing SEND pupils in your primary or secondary school</li>
+  </ul>
 
-## Teaching children with sensory impairments
+<h2>Teaching children with sensory impairments</h2>
 
-If you want to teach pupils with hearing, vision or multi-sensory impairments, you’ll need a specific qualification. Find out about [mandatory qualifications](# "external-inline") for specialist teachers.
+<p>If you want to teach pupils with hearing, vision or multi-sensory impairments, you’ll need a specific qualification. Find out about <a href="">mandatory qualifications</a> for specialist teachers.</p>
 
-## Be a Special Educational Needs Coordinator (SENCo)
+<h2>Be a Special Educational Needs Coordinator (SENCo)</h2>
 
-As a SENCo you’ll be responsible for assessing, planning and monitoring the progress of children with SEND. To apply for a job as a SENCo, you'll need to:
+<p>As a SENCo you’ll be responsible for assessing, planning and monitoring the progress of children with SEND. To apply for a job as a SENCo, you'll need to:</p>
 
-  - be a qualified teacher
-  - complete the National Award in Special Educational Needs Coordination (NASENCO) when you take up the SENCO post
+  <ul>
+  <li>be a qualified teacher</li>
+  <li>complete the National Award in Special Educational Needs Coordination (NASENCO) when you take up the SENCO post</li>
+  </ul>
 
-[Find out about NASENCO](https://nasen.org.uk/training-and-cpd.html "external").
+<p><a href="https://nasen.org.uk/training-and-cpd.html">Find out about NASENCO</a></p>
 
-Special educational needs (SEN) allowance
+<h2>Special educational needs (SEN) allowance</h2>
 
-If you’re a qualified teacher of pupils with SEND, you could get an allowance of between £2,209 and £4,359 per year.
+<p>If you’re a qualified teacher of pupils with SEND, you could get an allowance of between £2,209 and £4,359 per year.</p>
