@@ -108,7 +108,7 @@ backlink: "../../"
 <p>A number of postgraduate Early Years Initial Teacher Training (EYITT) courses are available at university or via a school-led route – all lead to Early Years Teacher Status (EYTS) on successful completion. EYTS is different to QTS in that you specialise in working with children up to five years old only.</p>
 
 
-<p><a href="https://www.gov.uk/find-postgraduate-teacher-training-courses" target="_blank">Find a school-led teacher training course</a>
+<p><a href="https://www.gov.uk/find-postgraduate-teacher-training-courses" target="_blank">Find a school-led teacher training course</a></p>
 
 
 </div>
