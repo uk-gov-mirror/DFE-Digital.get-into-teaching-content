@@ -19,9 +19,9 @@ backlink: "../"
   </div>
 
   <p>
-    You will then need to take a teaching qualification called initial teacher training (ITT). ITT gives you qualified teacher status (QTS). You’ll need QTS to teach in a state school in England.
+    You will then need to take a teaching qualification called initial teacher training (ITT). ITT gives you qualified teacher status (QTS). You will need QTS to work as a teacher in state schools in England.
   </p>
-
+  
   <p>
     <a href="./if-you-need-to-get-the-right-qualifications#if-you-dont-have-a-degree">If you do not have a degree</a>
   </p>
