@@ -94,6 +94,10 @@ backlink: "../"
       <i class="fas fa-chevron-up"></i>
     </h1>
   </div>
+  
+  <p><a href="#train-at-university">Train at university</a></p>
+  <p><a href="#train-in-a-school">Train in a school</a></p>
+  <p><a href="#get-school-experience">Get school experience</a></p>
 
   <p>
     For primary and secondary school teaching you’ll do postgraduate Initial Teacher Training (ITT) to give you QTS. You could do your training:
@@ -108,7 +112,7 @@ backlink: "../"
     Both types of training will give you lots of classroom experience and the knowledge to teach successfully. The type of course you choose will depend on whether you want to study at a university or be based in a school.
   </p>
 
-  <h4>Train at university</h4>
+  <h4><a id="train-at-university">Train at university</a></h4>
 
   <p>
     You’ll do a postgraduate certificate in education (PGCE) or a postgraduate diploma in education (PGDE) to give you QTS. Most courses are full time for one year. You may be able to study part time if the university you choose has this option.
@@ -136,7 +140,7 @@ backlink: "../"
     <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses">Find a teacher training course</a>
   </p>
   
-  <h4>Train in a school</h4>
+  <h4><a id="train-in-a-school">Train in a school</a></h4>
 
   <p>
     This will usually take 1 year. You’ll spend your time learning from experienced teachers by working in the school team whilst studying the theory of teaching at college or university.  These courses lead to QTS and most include a PGCE qualification too, but it’s worth checking with your training provider first to make sure. 
@@ -171,7 +175,7 @@ backlink: "../"
     </ul>
   </p>
   
-  <h4>Get school experience</h4>
+  <h4><a id="get-school-experience">Get school experience</a></h4>
   
   <p>
     You’ll find it useful to get some classroom experience, although it’s not compulsory. You’ll see teaching in action and get a taste of school life. Spending time in a school will also help you understand some of the skills and qualities teachers have. Teachers need the ability to:
