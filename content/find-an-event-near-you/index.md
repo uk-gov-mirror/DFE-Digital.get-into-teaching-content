@@ -5,43 +5,54 @@ backlink: "../"
 ---
 
 
-Our nationwide events are informal opportunities for you to get free expert advice about your next steps into teaching. 
+<div class="content__right">
+</div>
 
-## Types of events
+<div class="content__left">
 
-### Train to Teach
+<p>Our nationwide events are informal opportunities for you to get free expert advice about your next steps into teaching.</p> 
 
-At our Train to Teach events, you can meet experienced teaching professionals who can answer all of your questions. 
+<h2>Types of events</h2>
 
-You’ll get the chance to:
+<h3>Train to Teach</h3>
 
-* speak to experts about ways into teacher training and available funding
-* talk one-to-one with experienced and newly qualified teachers to find out what teaching is really like
-* get advice on your teacher training application
-* meet schools and universities in your area to help you decide where to train and how to apply
+<p>At our Train to Teach events, you can meet experienced teaching professionals who can answer all of your questions.</p> 
 
-You can drop in at any time. Allow at least two hours to make the most of your visit. [Train to Teach presentations](https://drive.google.com/file/d/1OuHTmB1j-ceovpLQw96UGhs_07ALWvlK/view) run hourly throughout the event. 
+<p>You’ll get the chance to:</p>
 
-Check event timetables to make sure you don’t miss anything.
+<ul>
+  <li>speak to experts about ways into teacher training and available funding</li>
+  <li>talk one-to-one with experienced and newly qualified teachers to find out what teaching is really like</li>
+  <li>get advice on your teacher training application</li>
+  <li>meet schools and universities in your area to help you decide where to train and how to apply</li>
+  </ul>
 
-### Online
+<p>You can drop in at any time. Allow at least two hours to make the most of your visit.</p>
 
-These interactive sessions let you talk with a panel of specialist advisers and get questions answered within minutes. See what matters to other potential trainee teachers too. Joining a conversation is easy – check in regularly to see what discussions we’ve got lined up.
+<p><a href="https://drive.google.com/file/d/1OuHTmB1j-ceovpLQw96UGhs_07ALWvlK/view">Train to Teach presentations</a> run hourly throughout the event.</p> 
 
-### School and university events
 
-Schools and universities that run teacher training courses often hold their own events. Typically they cover areas such as:
 
-* course information
-* application advice
-* school experience
-* opportunities to talk to current trainees or staff
+<h3>Online</h3>
+
+<p>These interactive sessions let you talk with a panel of specialist advisers and get questions answered within minutes. See what matters to other potential trainee teachers too. Joining a conversation is easy – check in regularly to see what discussions we’ve got lined up.</p>
+
+<h3>School and university events</h3>
+
+<p>Schools and universities that run teacher training courses often hold their own events. Typically they cover areas such as:</p>
+
+<ul>
+  <li>course information</li>
+  <li>application advice</li>
+  <li>school experience</li>
+  <li>opportunities to talk to current trainees or staff</li>
+</ul>
 
 
 <div class="form-top"></div>
 <form action="." method="get" markdown="1">
 
-## Search for event near you
+<h2>Search for event near you</h2>
 
 <label for="postcode">Enter your postcode</label>
 
@@ -51,3 +62,5 @@ Schools and universities that run teacher training courses often hold their own 
 
 </form>
 <div class="form-bottom"></div>
+
+</div>
