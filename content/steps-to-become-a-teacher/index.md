@@ -98,7 +98,7 @@ backlink: "../"
   <p><a href="#train-at-university">Train at university</a></p>
   <p><a href="#train-in-a-school">Train in a school</a></p>
   <p><a href="#get-school-experience">Get school experience</a></p>
-  <p><a href="#teaching-children-with-special-educational-needs">Training to teach children with special educational needs and/or disabilities</p>
+  <p><a href="#teaching-children-with-special-educational-needs">Training to teach children with special educational needs and/or disabilities</a></p>
 
   <p>
     For primary and secondary school teaching you’ll do postgraduate Initial Teacher Training (ITT) to give you QTS. You could do your training:
