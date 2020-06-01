@@ -89,6 +89,14 @@ backlink: "../../"
 
 <p>Courses last between 8 and 28 weeks. SKE courses are funded, so you will not have to pay any tuition fees. You may also be eligible for a bursary of £5,600 for a 28-week course or £2,400 for a shorter course of 12 weeks.</p>
 
+<p>They can be:</p>
+<ul>
+  <li>completed before or alongside ITT courses</li>
+  <li>offered online, through distance learning, face-to-face or a mixture of these approaches</li>
+</ul>
+
+<p>Usually, a training provider will make sitting a SKE a ‘condition’ of taking up your offer of a teacher training place.</p>
+
 <p>If you think an SKE course will help you, contact the schools or universities you want to apply to for more information.</p>
 
 <h2 id="specialist-ways-to-get-into-teaching">Specialist ways to get into teaching</h2>
