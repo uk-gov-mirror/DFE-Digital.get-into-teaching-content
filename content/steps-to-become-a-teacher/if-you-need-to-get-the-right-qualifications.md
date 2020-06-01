@@ -4,6 +4,16 @@ image: "/assets/images/steps-to-teacher-header.jpg"
 backlink: "../../"
 ---
 
+<div class="content__right">
+  <ul class="content-nav">
+  <li><a href="#if-you-dont-have-a-degree">If you don’t have a degree</a></li>
+  <li><a href="#if-you-have-an-overseas-degree">If you have an overseas degree</a></li>
+  <li><a href="#if-your-degree-is-not-in-the-subject-you-want-to-teach"></a></li>
+  <li><a href="#specialist-ways-to-get-into-teaching">Specialist ways to get into teaching</a></li>
+  </ul>
+</div>
+
+
 <div class="content__left">
 
 
@@ -19,7 +29,7 @@ backlink: "../../"
 <p>You may also want to find out about other <a href="#specialist-ways-to-get-into-teaching">specialist ways to get into teaching</a> and how to <a href="#training-to-teach-children-with-special-educational-needs-and-or-disabilities-send">teach children with special educational needs and/or disabilities</a>.</p>
 
 
-<h2>If you don’t have a degree</h2>
+<h2 id="if-you-dont-have-a-degree">If you don’t have a degree</h2>
 
 <p>You’ll need to apply for an initial teacher training (ITT) course that will give you qualified teacher status (QTS). Courses usually take 3 to 4 years and include:</p>
 
@@ -30,7 +40,7 @@ backlink: "../../"
 
 <p>Search <a href="https://digital.ucas.com/search" target="_blank">UCAS</a> to find a degree with QTS.</p>
 
-[Go back to the home page](../../)
+<!--[Go back to the home page](../../)-->
 
 <p>Sign up to get support from a teacher training adviser, who can help you with your personal statement, which funding you can get and how to complete your application.</p>
 
@@ -38,7 +48,7 @@ backlink: "../../"
 
 
 
-<h2>If you have an overseas degree</h2>
+<h2 id="if-you-have-an-overseas-degree">If you have an overseas degree</h2>
 
 <p>If you studied overseas, you’ll need to find out if your qualifications are recognised in the UK. Contact us on 0800 389 2500 for advice.</p>
 
@@ -50,7 +60,7 @@ backlink: "../../"
 
 
 
-<h2>If your degree is not in the subject you want to teach</h2>
+<h2 id="if-your-degree-is-not-in-the-subject-you-want-to-teach">If your degree is not in the subject you want to teach</h2>
 
 <p>If you need to top up your knowledge of the subject you want to teach, you could take a subject knowledge enhancement course (SKE). An SKE may be right for you if:</p>
 
@@ -81,7 +91,7 @@ backlink: "../../"
 
 <p>If you think an SKE course will help you, contact the schools or universities you want to apply to for more information.</p>
 
-<h2>Specialist ways to get into teaching</h2>
+<h2 id="specialist-ways-to-get-into-teaching">Specialist ways to get into teaching</h2>
 
 <h3>School Direct salaried places</h3>
 
@@ -113,12 +123,4 @@ backlink: "../../"
 
 </div>
 
-<div class="content__right">
-  <ul>
-  <li><a href="#if-you-dont-have-a-degree">If you don’t have a degree</a></li>
 
-  <li><a href="#if-you-have-an-overseas-degree">If you have an overseas degree</a></li>
-
-  <li><a href="#specialist-ways-to-get-into-teaching">Specialist ways to get into teaching</a></li>
-  </ul>
-</div>
