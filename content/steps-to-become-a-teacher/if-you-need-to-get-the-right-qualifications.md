@@ -8,7 +8,7 @@ backlink: "../../"
   <ul class="content-nav">
   <li><a href="#if-you-dont-have-a-degree">If you don’t have a degree</a></li>
   <li><a href="#if-you-have-an-overseas-degree">If you have an overseas degree</a></li>
-  <li><a href="#if-your-degree-is-not-in-the-subject-you-want-to-teach"></a></li>
+  <li><a href="#if-your-degree-is-not-in-the-subject-you-want-to-teach">If your degree is not in the subject you want to teach</a></li>
   <li><a href="#specialist-ways-to-get-into-teaching">Specialist ways to get into teaching</a></li>
   </ul>
 </div>
