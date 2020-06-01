@@ -4,7 +4,8 @@ image: "/assets/images/steps-to-teacher-header.jpg"
 backlink: "../"
 ---
 
-
+<div class="content__right">
+</div>
 
 <div class="content__left">
   
