@@ -98,6 +98,7 @@ backlink: "../"
   <p><a href="#train-at-university">Train at university</a></p>
   <p><a href="#train-in-a-school">Train in a school</a></p>
   <p><a href="#get-school-experience">Get school experience</a></p>
+  <p><a href="#teaching-children-with-special-educational-needs">Training to teach children with special educational needs and/or disabilities</p>
 
   <p>
     For primary and secondary school teaching you’ll do postgraduate Initial Teacher Training (ITT) to give you QTS. You could do your training:
@@ -203,6 +204,18 @@ backlink: "../"
   <p>
     * STEM stands for science, technology, engineering and mathematics and refers to any subjects that come under these four areas.
   </p>
+  
+  <h4><a id="teaching-children-with-special-educational-needs">Training to teach children with special educational needs and/or disabilities (SEND)</a></h4>
+
+  <p>
+    All teaching courses with QTS include training on working with pupils who have special educational needs and/or disabilities (SEND).
+  </p>
+
+  <p>
+    You could also specialise in supporting children with SEND.
+  </p>
+
+  <a href="./choose-a-course-with-a-send-specialism">Find out how to specialise in SEND</a>
 
   <div class="steps-header">
     <h1>
@@ -224,18 +237,6 @@ backlink: "../"
     <li><a href="https://qa.apply-for-teacher-training.education.gov.uk/candidate">apply for teacher training</a></li>
   </ul>
 
-  <h4>Training to teach children with special educational needs and/or disabilities (SEND)</h4>
-
-  <p>
-    All teaching courses with QTS include training on working with pupils who have special educational needs and/or disabilities (SEND).
-  </p>
-
-  <p>
-    You could also specialise in supporting children with SEND.
-  </p>
-
-  <a href="./choose-a-course-with-a-send-specialism">Find out how to specialise in SEND</a>
-  
 </div>
 
 <div class="content__right">
