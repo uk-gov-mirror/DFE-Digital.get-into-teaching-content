@@ -4,6 +4,8 @@ image: "/assets/images/steps-to-teacher-header.jpg"
 backlink: "../"
 ---
 
+
+
 <div class="content__left">
   
   <div class="content__left__header">
@@ -11,6 +13,7 @@ backlink: "../"
     <div class="content__left__header__text">
       <h4>To become a primary or secondary school teacher in England you will need to have a degree.</h4>
       <p>For equivalent qualifications, you’ll need to confirm your qualification is equivalent to a degree.</p>
+      <p>If you're unsure, you can chat online with us or call us on Freephone 0800 389 2500.</p>
     </div>
   </div>
 
@@ -113,7 +116,7 @@ backlink: "../"
     Both types of training will give you lots of classroom experience and the knowledge to teach successfully. The type of course you choose will depend on whether you want to study at a university or be based in a school.
   </p>
 
-  <h4><a id="train-at-university">Train at university</a></h4>
+  <h4 id="train-at-university">Train at university</h4>
 
   <p>
     You’ll do a postgraduate certificate in education (PGCE) or a postgraduate diploma in education (PGDE) to give you QTS. Most courses are full time for one year. You may be able to study part time if the university you choose has this option.
@@ -141,7 +144,7 @@ backlink: "../"
     <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses">Find a teacher training course</a>
   </p>
   
-  <h4><a id="train-in-a-school">Train in a school</a></h4>
+  <h4 id="train-in-a-school">Train in a school</h4>
 
   <p>
     This will usually take 1 year. You’ll spend your time learning from experienced teachers by working in the school team whilst studying the theory of teaching at college or university.  These courses lead to QTS and most include a PGCE qualification too, but it’s worth checking with your training provider first to make sure. 
@@ -176,7 +179,7 @@ backlink: "../"
     </ul>
   </p>
   
-  <h4><a id="get-school-experience">Get school experience</a></h4>
+  <h4 id="get-school-experience">Get school experience</h4>
   
   <p>
     You’ll find it useful to get some classroom experience, although it’s not compulsory. You’ll see teaching in action and get a taste of school life. Spending time in a school will also help you understand some of the skills and qualities teachers have. Teachers need the ability to:
@@ -239,5 +242,4 @@ backlink: "../"
 
 </div>
 
-<div class="content__right">
-</div>
+
