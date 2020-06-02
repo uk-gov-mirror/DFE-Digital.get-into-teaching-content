@@ -21,7 +21,7 @@ backlink: "../"
   <h2>Career progression</h2>
   <p>Training to be a teacher will give you the opportunities to add to your professional skills and help you achieve your ambitions.</p>
 
-  <p>The Department for Education (DfE) has made it easier to find a teaching role in England, by using the <a href="https://teaching-vacancies.service.gov.uk/">Teaching Vacancies service</a>.</p>
+  <p>The Department for Education (DfE) has made it easier to find a teaching role in England, by using the <a href="https://teaching-vacancies.service.gov.uk/" target="_blank">Teaching Vacancies service</a>.</p>
 
   <h2>Leadership</h2>
   <p>Leadership roles in a school can offer a number of different opportunities, from taking charge of a year group or a particular key stage; to becoming a deputy or headteacher.</p>
@@ -37,7 +37,7 @@ backlink: "../"
   <p>If you’re interested in the welfare of students throughout their education, a pastoral role might be for you. You could also take on the role of a mentor for young people with special educational needs.</p>
 
   <h2>Early Career Framework</h2>
-  <p>The Department for Education has developed a 2 year package to support new teachers at the start of their career, based on the <a href="https://www.gov.uk/government/publications/supporting-early-career-teachers">Early Career Framework</a>.</p>
+  <p>The Department for Education has developed a 2 year package to support new teachers at the start of their career, based on the <a href="https://www.gov.uk/government/publications/supporting-early-career-teachers" target="_blank">Early Career Framework</a>.</p>
 
   <p>The Early Career Framework was designed with an expert advisory group to support early career teacher development.</p>
 
