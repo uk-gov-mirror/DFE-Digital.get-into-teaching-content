@@ -35,7 +35,7 @@ backlink: "../"
 
   <p><a href="student-finance">Find out more about student finance</a></p> 
 
-  <p>Use the <a href="https://www.gov.uk/student-finance-calculator">student finance calculator on GOV.UK</a> to find out how much you can get.</p>
+  <p>Use the <a href="https://www.gov.uk/student-finance-calculator" target="_blank">student finance calculator on GOV.UK</a> to find out how much you can get.</p>
 
 
 
