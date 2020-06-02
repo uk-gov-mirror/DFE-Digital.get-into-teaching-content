@@ -166,7 +166,7 @@ backlink: "../"
   </p>
 
   <p>
-    There are some other <a href="./if-you-need-to-get-the-right-qualifications#specialist-ways-to-get-into-teaching">specialist training options</a> to get into teaching. These include:
+    There are some other <a href="./if-you-need-to-get-the-right-qualifications#specialist-ways-to-get-into-teaching">specialist training options</a> to get into teaching. These include:</p>
     <ul>
       <li>School Direct salaried places</li>
       <li>Postgraduate teaching apprenticeship</li>
@@ -175,7 +175,7 @@ backlink: "../"
       <li>Assessment only (AO)</li>
       <li>Postgraduate Early Years Initial Teacher Training (EYITT)</li>
     </ul>
-  </p>
+ 
   
   <h4 id="get-school-experience">Get school experience</h4>
   
@@ -209,7 +209,7 @@ backlink: "../"
   <h4 id="teaching-children-with-special-educational-needs">Training to teach children with special educational needs and/or disabilities (SEND)</h4>
 
   <p>
-    All teaching courses with QTS include training on working with pupils who have special educational needs and/or disabilities (SEND).
+    All teaching courses with QTS include training on working with pupils with SEND.
   </p>
 
   <p>
