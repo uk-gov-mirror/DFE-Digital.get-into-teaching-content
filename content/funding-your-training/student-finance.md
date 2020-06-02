@@ -22,7 +22,7 @@ backlink: "../../"
 
 <p>You can apply for a maintenance loan of up to £11,672 to help with your living costs. You’ll repay the loan when you’re working and earning money.</p>
 
-<p>Use the student finance calculator to find out how much you can get.</p>
+<p>Use the <a href="https://www.gov.uk/student-finance-calculator" target="_blank">student finance calculator on GOV.UK</a> to find out how much you can get.</p>
 
 </div>
 
