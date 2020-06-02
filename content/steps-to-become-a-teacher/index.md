@@ -139,7 +139,7 @@ backlink: "../"
   </ul>
 
   <p>
-    <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses">Find a teacher training course</a>
+    <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses" target="_blank">Find a teacher training course</a>
   </p>
   
   <h4 id="train-in-a-school">Train in a school</h4>
@@ -162,7 +162,7 @@ backlink: "../"
   </ul>
 
   <p>
-    <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses">Find a teacher training course</a>
+    <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses" target="_blank">Find a teacher training course</a>
   </p>
 
   <p>
@@ -228,14 +228,14 @@ backlink: "../"
 
   <p>
     Once you have decided that you want to train to become a teacher and have the necessary qualifications you’ll need to 
-    <a href="https://qa.apply-for-teacher-training.education.gov.uk/candidate">prepare your application</a> using the following steps:
+    <a href="https://qa.apply-for-teacher-training.education.gov.uk/candidate" target="_blank">prepare your application</a> using the following steps:
   </p>
 
   <ul>
     <li><a href="https://www.gov.uk/find-postgraduate-teacher-training-courses">choose your course</a></li>
     <li>write a personal statement</li>
     <li>get two references</li>
-    <li><a href="https://qa.apply-for-teacher-training.education.gov.uk/candidate">apply for teacher training</a></li>
+    <li><a href="https://qa.apply-for-teacher-training.education.gov.uk/candidate" target="_blank">apply for teacher training</a></li>
   </ul>
 
 </div>
