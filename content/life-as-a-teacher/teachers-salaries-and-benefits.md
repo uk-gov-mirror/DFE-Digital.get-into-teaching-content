@@ -54,7 +54,7 @@ backlink: "../../"
   <li>computer science</li>
   </ul>
 
-<p><a href="https://www.gov.uk/guidance/teachers-student-loan-reimbursement-guidance-for-teachers-and-schools">Find out more about eligibility criteria, payment rates, participating local authorities and how to apply at GOV.UK</a></p>
+<p><a href="https://www.gov.uk/guidance/teachers-student-loan-reimbursement-guidance-for-teachers-and-schools" target="_blank">Find out more about eligibility criteria, payment rates, participating local authorities and how to apply at GOV.UK</a></p>
 
 <h3>Teachers’ Pension Scheme</h3>
 
@@ -65,7 +65,7 @@ backlink: "../../"
   <li>registered with HM Revenue and Customs - so you don’t pay tax on contributions</li>
   <li>flexible and allows you to take some of it as a tax-free lump sum</li>
 
-<p><a href="https://www.teacherspensions.co.uk/members/new-starter.aspx">Find out more from Teachers’ Pensions</a></p>
+<p><a href="https://www.teacherspensions.co.uk/members/new-starter.aspx" target="_blank">Find out more from Teachers’ Pensions</a></p>
 </div>
 
 <div class="content__right">
