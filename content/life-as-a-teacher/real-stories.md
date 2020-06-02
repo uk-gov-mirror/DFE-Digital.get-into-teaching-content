@@ -6,11 +6,20 @@ backlink: "../../"
 
 
 <div class="content__right">
+  <ul class="content-nav">
+    <li><a href="#helens-story">From senior associate lawyer to assistant headteacher</a></li>
+    <li><a href="#owens-story">Owen's rapid career ascent</a></li>
+    <li><a href="#pauls-story">Climbing the career ladder</a></li>
+    <li><a href="#jons-story">Leaping to head of department</a></li>
+    <li><a href="#sarahs-story">From NQT to Head of Biology in two years</a></li>
+    <li><a href="#ollys-story">The rapid career climber</a></li>
+    <li><a href="#karens-story">Karen Falcon, Head of Geography</a></li>
+    </ul>
 </div>
 
 <div class="content__left">
 
-<h2>From senior associate lawyer to assistant headteacher</h2>  
+<h2 id="helens-story">From senior associate lawyer to assistant headteacher</h2>  
 
 <img src="/assets/images/case-study-helen.png" alt="Helen's story">
 
@@ -38,7 +47,7 @@ backlink: "../../"
 
 
 
-<h2>Owen’s rapid career ascent</h2>
+<h2 id="owens-story">Owen’s rapid career ascent</h2>
 
 <img src="/assets/images/case-study-owen.png" alt="Owen's story">
 
@@ -46,9 +55,9 @@ backlink: "../../"
 
 <p class="lead">Just one year after completing his postgraduate teacher training, Owen progressed to head of department – and since then, he has continued to climb the career ladder.</p>
 
-<a href="#owens-story" class="case-study-link">Read Owen's story <span class="twiddle"></span></a>
 
-<div id="owens-story" class="case-study-body" markdown="1">
+
+<!--<div id="owens-story" class="case-study-body" markdown="1">-->
 <p>Just one year after completing his postgraduate teacher training, Owen progressed to head of department – and since then, he has continued to climb the career ladder. Four years later, he is now undertaking consultancy work at various schools, as well as training as a specialist leader of education and leader of teaching standards.</p>
 
 <p>Many aspects of the job attracted him to teaching – particularly the clear-cut career ladder. He explains: “There’s an open field of play, due to the fact that wherever you are, there’s always a school nearby offering opportunities.”</p>
@@ -64,7 +73,7 @@ backlink: "../../"
 
 
 
-<h2>Climbing the career ladder</h2>
+<h2 id="pauls-story">Climbing the career ladder</h2>
 
 <img src="/assets/images/case-study-video.png" alt="Paul's story"> 
 
@@ -91,7 +100,7 @@ Now as an assistant headteacher Paul is clear on the next role he would want to 
 
 
 
-<h2> Leaping to head of department</h2>
+<h2 id="jons-story"> Leaping to head of department</h2>
 
 <h3> Jon Simons, head of department</h3>
 
@@ -119,7 +128,7 @@ Now as an assistant headteacher Paul is clear on the next role he would want to 
 
 
 
-<h2> From NQT to head of biology in two years</h2>
+<h2 id="sarahs-story"> From NQT to head of biology in two years</h2>
 
 <img src="/assets/images/case-study-sarah.png" alt="Sarah's story">
 
@@ -145,7 +154,7 @@ Now as an assistant headteacher Paul is clear on the next role he would want to 
 
 
 
-<h2> The rapid career climber</h2>
+<h2 id="ollys-story"> The rapid career climber</h2>
 
 <h3> Olly Carr, assistant headteacher</h3>
 
@@ -176,7 +185,7 @@ He was offered a job at one of his placement schools, and his rapid climb up the
 
 
 
-<h2> Become a role model in your school</h2>
+<h2 id="karens-story"> Become a role model in your school</h2>
 
 <img src="/assets/images/case-study-karen.png" alt="Karen's story">
 
