@@ -15,7 +15,7 @@ backlink: "../"
 
 <div class="content__left">
   
-  <p>Teacher training tuition fees cost up to £9,250 depending on how you decide to train. You may be able to get a bursary or scholarship to help with the cost of your training. You’ll also be able to apply for student finance.</p>
+  <p class="content-alert">Teacher training tuition fees cost up to £9,250 depending on how you decide to train. You may be able to get a bursary or scholarship to help with the cost of your training. You’ll also be able to apply for student finance.</p>
   
   <h2 id="bursaries-and-scholarships">Bursaries and scholarships</h2>
   <p>Bursaries and scholarships are tax-free amounts of money to help you while you train. You don’t need to pay them back.</p>

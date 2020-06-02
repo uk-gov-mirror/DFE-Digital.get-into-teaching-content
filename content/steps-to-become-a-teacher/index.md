@@ -9,14 +9,11 @@ backlink: "../"
 
 <div class="content__left">
   
-  <div class="content__left__header">
-    <div class="content__left__header__icon icon-train-to-teach"></div>
-    <div class="content__left__header__text">
-      <h4>To become a primary or secondary school teacher in England you will need to have a degree.</h4>
-      <p>For equivalent qualifications, you’ll need to confirm your qualification is equivalent to a degree.</p>
-      <p>If you're unsure, you can chat online with us or call us on Freephone 0800 389 2500.</p>
-    </div>
-  </div>
+  <p class="content-alert">To become a primary or secondary school teacher in England you will need to have a degree.</p>
+
+  <p>For equivalent qualifications, you’ll need to confirm your qualification is equivalent to a degree.</p>
+
+  <p>If you're unsure, you can chat online with us or call us on Freephone 0800 389 2500.</p> 
 
   <p>
     You will then need to take a teaching qualification called initial teacher training (ITT). ITT gives you qualified teacher status (QTS). You will need QTS to work as a teacher in state schools in England.
