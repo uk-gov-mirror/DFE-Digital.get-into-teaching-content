@@ -17,7 +17,7 @@ backlink: "../../"
 <div class="content__left">
 
 
-<p>To train as a teacher in England you need to have a degree.</p>
+<p class="content-alert">To train as a teacher in England you need to have a degree.</p>
 
 <p>Here is what you need to do if you:</p>
 
@@ -127,8 +127,5 @@ backlink: "../../"
 
 
 <p><a href="https://www.gov.uk/find-postgraduate-teacher-training-courses" target="_blank">Find a school-led teacher training course</a></p>
-
-
-</div>
 
 
