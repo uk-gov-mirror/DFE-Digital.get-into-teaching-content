@@ -26,7 +26,7 @@ backlink: "../../"
   <li>have an overseas degree</li>
   </ul>
 
-<p>You may also want to find out about other <a href="#specialist-ways-to-get-into-teaching">specialist ways to get into teaching</a> and how to <a href="#training-to-teach-children-with-special-educational-needs-and-or-disabilities-send">teach children with special educational needs and/or disabilities</a>.</p>
+<p>You may also want to find out about other <a href="#specialist-ways-to-get-into-teaching">specialist ways to get into teaching</a> and how to <a href="./choose-a-course-with-a-send-specialism">teach children with special educational needs and/or disabilities</a>.</p>
 
 
 <h2 id="if-you-dont-have-a-degree">If you don’t have a degree</h2>
