@@ -195,18 +195,18 @@ backlink: "../"
   </p>
 
   <p>
-    Use the <a href="https://schoolexperience.education.gov.uk">Get school experience</a> service.
+    Use the <a href="https://schoolexperience.education.gov.uk" target="_blank">Get school experience</a> service.
   </p>
 
   <p>
-    Do a <a href="https://www.gov.uk/guidance/paid-internships-for-teaching">teaching internship</a> if you’re a STEM-related degree student.
+    Do a <a href="https://www.gov.uk/guidance/paid-internships-for-teaching" target="_blank">teaching internship</a> if you’re a STEM-related degree student.
   </p>
 
   <p>
     * STEM stands for science, technology, engineering and mathematics and refers to any subjects that come under these four areas.
   </p>
   
-  <h4><a id="teaching-children-with-special-educational-needs">Training to teach children with special educational needs and/or disabilities (SEND)</a></h4>
+  <h4 id="teaching-children-with-special-educational-needs">Training to teach children with special educational needs and/or disabilities (SEND)</h4>
 
   <p>
     All teaching courses with QTS include training on working with pupils who have special educational needs and/or disabilities (SEND).
