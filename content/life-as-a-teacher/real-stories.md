@@ -27,8 +27,6 @@ backlink: "../../"
 
 <p class="lead">Helen went on a journey to transition from lawyer to teacher - and hasn't looked back since. She is now on the same salary as she was as a senior associate lawyer. In addition, Helen’s progression to a leadership group teacher was also quick.</p>
 
-<a href="#helens-story" class="case-study-link">Read Helen's story <span class="twiddle"></span></a>
-
 <!--<div id="helens-story" class="case-study-body" markdown="1">-->
 <p>Helen Winter began her career as a lawyer; however, after re-evaluating her career, she embarked on a journey to transition from lawyer to teacher. With support from her sister, who is a teacher, Helen tested the water by gaining some school experience before making her final decision.</p>
 
@@ -43,7 +41,7 @@ backlink: "../../"
 <p> “My next step is to apply for deputy headteacher - after that, who knows. It is good to see women in senior positions and I hope to be one of those. However, you must remember that pupils are at the heart of everything we do and that positive thinking and determination can get you anything you desire.”</p>
 
 <p>If you want a career that provides you with job satisfaction and swift progression, register with us to gain personalised support to help with your journey into teaching.</p>
-<!--</div>-->
+
 
 
 
@@ -55,9 +53,6 @@ backlink: "../../"
 
 <p class="lead">Just one year after completing his postgraduate teacher training, Owen progressed to head of department – and since then, he has continued to climb the career ladder.</p>
 
-
-
-<!--<div id="owens-story" class="case-study-body" markdown="1">-->
 <p>Just one year after completing his postgraduate teacher training, Owen progressed to head of department – and since then, he has continued to climb the career ladder. Four years later, he is now undertaking consultancy work at various schools, as well as training as a specialist leader of education and leader of teaching standards.</p>
 
 <p>Many aspects of the job attracted him to teaching – particularly the clear-cut career ladder. He explains: “There’s an open field of play, due to the fact that wherever you are, there’s always a school nearby offering opportunities.”</p>
@@ -69,7 +64,7 @@ backlink: "../../"
 <p>Owen recommends pursuing a career in teaching, particularly because of the amount of flexibility and progression opportunities on offer: “If you can do it, it’s the best job in the world. It’s better paid than most people realise, and most of all, it’s incredibly rewarding. All day, you get to spend time focusing on the subject you’re passionate about and you get to impact the next generation with your skills and enthusiasm.”</p>
 
 <p>Why not emulate Owen’s ascent to leadership and apply for teacher training? It’s easier than you may think - with a tax-free bursary to train as a teacher. Register with us to access our dedicated advisers, who will support you with your career switch.</p>
-<!--</div>-->
+
 
 
 
@@ -81,9 +76,6 @@ backlink: "../../"
 
 <p class="lead">As a newly qualified teacher, Paul was keen to move up the teaching career ladder – now he’s reached assistant headteacher he shares his story on why he got into teaching and his tips on career progression.</p>
 
-<a href="#pauls-story" class="case-study-link">Read Paul's story <span class="twiddle"></span></a>
-
-<!--<div id="pauls-story" class="case-study-body" markdown="1">-->
 <p>As a newly qualified teacher, Paul kept climbing the teaching career ladder – now he’s reached assistant headteacher he shares his story on why he got into teaching and his tips on career progression.</p>
 
 <p> “I always wanted to work in an environment that was never going to be the same every day – teaching provides this. Working with students and preparing them for their next steps was always a huge draw to the profession. In addition to working with a range of students with different backgrounds and helping them to succeed.”</p>
@@ -96,7 +88,7 @@ backlink: "../../"
 Now as an assistant headteacher Paul is clear on the next role he would want to undertake: “My long-term plan is to go into headship, but do not want to rush this. I want to be able to experience a range of different areas in schools to ensure that I am fully prepared for the challenges that a headship role will bring.”</p>
 
 <p>As you progress as a teacher, so will your salary - in fact, the average salary of leadership group teachers is £58,881. However, it’s not the salary that motivates Paul but to ensure that pupils succeed in life:  “I feel fortunate to be on the leadership salary, but I don’t do the job for the money – for me it’s about supporting students as a teacher and leader and making sure they achieve their full potential.”</p>
-<!--</div>-->
+
 
 
 
@@ -106,9 +98,7 @@ Now as an assistant headteacher Paul is clear on the next role he would want to 
 
 <p class="lead">Jon hasn't looked back since starting his teaching career - he was head of year 18 months after qualifying as a teacher, and a year later he was promoted to head of department. Find out how the support and guidance you get as a teacher can help you progress.</p>
 
-<a href="#jons-story" class="case-study-link">Read Jon's story <span class="twiddle"></span></a>
 
-<!--<div id="jons-story" class="case-study-body" markdown="1">-->
 <p>After six years of working in the world of recruitment consultancy, Jon felt it was time for a new career. Determined to embark on a path where he could channel his passion into helping others, Jon started to investigate a career in teaching.</p>
 
 <p> “I had two degrees: Master’s merit in management and a degree in geography, so I was thinking of teaching either business or geography. However, after some hard thinking, my real passion lay in teaching geography. In addition, it was clear to me that geography is becoming a subject that will rise in importance and be in far more demand over the next decade,” says the head of department.</p>
@@ -136,9 +126,7 @@ Now as an assistant headteacher Paul is clear on the next role he would want to 
 
 <p class="lead">Sarah never saw herself working in a nine-to-five office job, and has embraced the challenges and career progression teaching has to offer. She made the jump from NQT to head of biology in just two years.</p>
 
-<a href="#sarahs-story" class="case-study-link">Read Sarah's story <span class="twiddle"></span></a>
 
-<!--<div id="sarahs-story" class="case-study-body" markdown="1">-->
 <p>Two years after qualifying as a teacher, Sarah progressed to head of biology, climbing the career ladder and strengthening her department in the process. But Sarah always had an inkling that teaching was the right direction. “From an early age, I knew a teaching career was for me. I could not imagine working a typical nine-to-five desk job. Every day in teaching brings a new challenge and new situations, which is what makes the job so exciting,” Sarah says.</p>
 
 <p>With new challenges come rewards and Sarah maintains that her favourite aspect of teaching comes from seeing the difference she makes to her pupils. “The best part of teaching is being in front of my 32 students and seeing how my passion for the subject I teach rubs off on them. When they have those ‘light bulb’ moments, hearing the sudden ‘So that’s how it works!’ and seeing your pupils take your subject into A level and beyond makes the job so worthwhile.”</p>
@@ -150,7 +138,7 @@ Now as an assistant headteacher Paul is clear on the next role he would want to 
 <p>Making the most of opportunities available to her, Sarah has also taken on extra responsibilities that allow her to make a real impact in the teaching community. “I also act as a teaching and learning mentor, which allows me to work with staff from all departments to enhance and develop their teaching and learning. I love being able to work with teachers of all backgrounds, experienced to newly qualified, sharing good practice and developing whole-school strategies. I am currently facilitating an NQT leadership programme for teachers across the borough, which I am thoroughly enjoying.”</p>
 
 <p>For anyone looking to emulate Sarah’s success, she gives the following advice: “I would recommend hard work, maintaining your love for the job, and a want to bring about positive change to young peoples' lives… Undeniably, teaching is hard work – but the knowledge that you have helped to motivate young people and helped shape their future brings more satisfaction than any other job I can think of.”</p>
-<!--</div>-->
+
 
 
 
@@ -162,7 +150,7 @@ Now as an assistant headteacher Paul is clear on the next role he would want to 
 
 <a href="#ollys-story" class="case-study-link">Read Olly's story <span class="twiddle"></span></a>
 
-<!--<div id="ollys-story" class="case-study-body" markdown="1">-->
+
 <p>Olly graduated from Oxford in 2008 with a 2:1 in philosophy, politics and economics. During his studies, he completed an internship in corporate finance – and it took him less than week to realise that wasn’t the career for him. Wanting to make a difference for other people, he decided to change tack.</p>
 
 <p> “I applied to take the Bromley Collegiate Physics school-centred initial teacher training course straight after finishing my degree in September 2008, and I haven’t looked back since,” says the now assistant headteacher.</p>
@@ -193,9 +181,7 @@ He was offered a job at one of his placement schools, and his rapid climb up the
 
 <p class="lead">From newly qualified teacher (NQT) to head of faculty in just five years, geography teacher Karen says she “couldn’t have made a better decision” than joining the profession. While her classroom time has been reduced, she still thrives on making a positive difference for students.</p>
 
-<a href="#karens-story" class="case-study-link">Read Karen's story <span class="twiddle"></span></a>
 
-<!--<div id="karens-story" class="case-study-body" markdown="1">-->
 <p>From newly qualified teacher to head of faculty in just five years of teaching, Karen Falcon has enjoyed rapid career progression. Making the most of the opportunities and prospects that teaching offers, she was head of department for geography at The Toynbee School in Chandler’s Ford within two years of her NQT year.</p>
 
 <p> “I couldn’t have made a better decision. I love the challenge of raising my standards as well as the school’s, and being a role model for other teachers in my department.” But Karen’s career didn’t stop there – during her fifth year of teaching, she received a promotion to head of humanities faculty, which is also the school’s specialism.</p>
@@ -207,6 +193,6 @@ He was offered a job at one of his placement schools, and his rapid climb up the
 <p> “As I have progressed, I do less teaching and more leadership and management. I believe it is necessary to still be involved in the classroom as I am still responsible for student attainment. Above all, you can’t develop a vision that staff can buy into and deliver if you are not fully involved in the school.”</p>
 
 <p>Even with many of her career goals met through her quick ascension, Karen still finds plenty to be enthusiastic about and look forward to in teaching. “The best thing about teaching is the independence you have in your classroom to create an inspiring environment, and having a positive impact on students’ lives whilst engaging and motivating pupils in the subject I love to teach.”</p>
-<!--</div>-->
+
 
 </div>
