@@ -109,11 +109,11 @@ backlink: "../../"
 
 <p>Postgraduate teaching apprenticeships are similar to school direct salaried places. You’ll be employed by a school to learn on the job over 4 terms. You’ll then take an assessment. This is a salaried training place so you will not pay tuition fees.</p>
 
-<h2>Teach First</h2>
+<h3>Teach First</h3>
 
 <p>You’ll need to have a 2:1 degree or higher to apply for a place. You’ll train over 2 years by learning on the job. You’ll be paid as an unqualified teacher and you will not pay tuition fees.</p>
 
-<h2>Researchers in schools</h2>
+<h3>Researchers in schools</h3>
 
 <p>You’ll need (or be about to finish) a doctorate in the subject you want to teach. You’ll then train over 3 years with a bursary. If you have a lot of relevant work experience you could train and earn a salary.</p>
 
