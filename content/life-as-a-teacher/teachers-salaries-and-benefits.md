@@ -3,6 +3,8 @@ title: "Salaries and benefits"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"
 ---
+<div class="content__right">
+</div>
 
 <div class="content__left">
 
@@ -28,7 +30,7 @@ backlink: "../../"
 
 <h2>Teacher benefits</h2>
 
-<h3> Early-career payments</h3>
+<h3>Early-career payments</h3>
 
 <p>You could get payments of up to £9k after tax when you start teaching. You’ll be eligible for the payments even if you have already had a bursary or scholarship during your training.</p>
 
@@ -66,7 +68,6 @@ backlink: "../../"
   <li>flexible and allows you to take some of it as a tax-free lump sum</li>
 
 <p><a href="https://www.teacherspensions.co.uk/members/new-starter.aspx" target="_blank">Find out more from Teachers’ Pensions</a></p>
-</div>
 
-<div class="content__right">
-</div>
+
+
