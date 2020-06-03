@@ -25,4 +25,3 @@ Image layered on top of the application one.
 
 The combined image is then deployed through to GovUK PAAS via Github Actions.
 
-
