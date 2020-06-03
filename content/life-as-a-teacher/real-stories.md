@@ -21,7 +21,9 @@ backlink: "../../"
 
 <h2 id="helens-story">From senior associate lawyer to assistant headteacher</h2>  
 
-<img src="/assets/images/case-study-helen.png" alt="Helen's story">
+<div class="content-video">
+  <img src="/assets/images/case-study-helen.png" alt="Helen's story">
+</div>
 
 <h3>Helen Winter, director of teaching school and assistant headteacher</h3>
 
@@ -47,7 +49,9 @@ backlink: "../../"
 
 <h2 id="owens-story">Owen’s rapid career ascent</h2>
 
-<img src="/assets/images/case-study-owen.png" alt="Owen's story">
+<div class="content-video">
+  <img src="/assets/images/case-study-owen.png" alt="Owen's story">
+</div>
 
 <h3>Dr Owen Mather, leader of teaching standards</h3>
 
@@ -70,7 +74,9 @@ backlink: "../../"
 
 <h2 id="pauls-story">Climbing the career ladder</h2>
 
-<img src="/assets/images/case-study-video.png" alt="Paul's story"> 
+<div class="content-video">
+  <img src="/assets/images/case-study-video.png" alt="Paul's story"> 
+</div>
 
 <h3>Paul Evason, assistant headteacher</h3>
 
@@ -120,7 +126,9 @@ Now as an assistant headteacher Paul is clear on the next role he would want to 
 
 <h2 id="sarahs-story"> From NQT to head of biology in two years</h2>
 
-<img src="/assets/images/case-study-sarah.png" alt="Sarah's story">
+<div class="content-video">
+  <img src="/assets/images/case-study-sarah.png" alt="Sarah's story">
+</div>
 
 <h3>Sarah Fisher, head of biology</h3>
 
@@ -175,7 +183,9 @@ He was offered a job at one of his placement schools, and his rapid climb up the
 
 <h2 id="karens-story"> Become a role model in your school</h2>
 
-<img src="/assets/images/case-study-karen.png" alt="Karen's story">
+<div class="content-video">
+  <img src="/assets/images/case-study-karen.png" alt="Karen's story">
+</div>
 
 <h3>Karen Falcon, head of geography</h3>
 
