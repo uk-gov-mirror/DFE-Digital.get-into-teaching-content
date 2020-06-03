@@ -87,7 +87,7 @@ backlink: "../"
     </ul>
 
     <p>
-      <a href="../funding-your-training">Find out more</a> about the funding you could get. 
+      <a href="../funding-your-training/index">Find out more about funding</a> you could get. 
     </p>
   </div>
 
