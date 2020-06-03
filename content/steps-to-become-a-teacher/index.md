@@ -65,7 +65,7 @@ backlink: "../"
     </h1>
   </div>
 
-  <div id="collapsable-content-2">
+  <div id="collapsable-content-2" class="collapsable">
     <p>
       There are a number of different ways you can get funding to train as a teacher in England.  
     </p>
@@ -91,7 +91,7 @@ backlink: "../"
     </h1>
   </div>
   
-  <div id="collapsable-content-3">
+  <div id="collapsable-content-3" class="collapsable">
     <p><a href="#train-at-university">Train at university</a></p>
     <p><a href="#train-in-a-school">Train in a school</a></p>
     <p><a href="#get-school-experience">Get school experience</a></p>
@@ -195,7 +195,7 @@ backlink: "../"
     </h1>
   </div>
 
-  <div id="collapsable-content-4">
+  <div id="collapsable-content-4" class="collapsable">
     <p>
       Once you have decided that you want to train to become a teacher and have the necessary qualifications you’ll need to 
       <a href="https://qa.apply-for-teacher-training.education.gov.uk/candidate" target="_blank">prepare your application</a> using the following steps:
