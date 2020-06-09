@@ -83,7 +83,7 @@ backlink: "../"
   <tr>
 <td>Sacred Heart High School	West London Teaching School Alliance</td>
   <td>Waldegrave	Richmond Teaching School Alliance</td>
-
+</tr>
 
 </table>
 
