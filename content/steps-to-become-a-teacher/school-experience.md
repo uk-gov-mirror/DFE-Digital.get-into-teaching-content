@@ -1,7 +1,20 @@
-<h4 id="get-school-experience">Get school experience</h4>
-    <p>
-      You’ll find it useful to get some classroom experience, although it’s not compulsory. You’ll see teaching in action and get a taste of school life. Spending time in a school will also help you understand some of the skills and qualities teachers have. Teachers need the ability to:
-    </p>
+---
+title: "Get school experience"
+image: "/assets/images/steps-to-teacher-header.jpg"
+backlink: "../"
+---
+
+<div class="content__right">
+</div>
+
+<div class="content__left">
+  
+  <p class="content-alert">
+      You’ll find it useful to get some classroom experience, although it’s not compulsory. You’ll see teaching in action and it can help you make a decision whether or not teaching is right for you. <!--get a taste of school life-->.</p>
+      
+   <p>Spending time in a school will also help you understand some of the skills and qualities teachers have.</p>
+      
+  <p>Teachers need the ability to:</p>
     <ul>
       <li>relate to pupils and their parents</li>
       <li>be creative to inspire and motivate pupils</li>
@@ -20,3 +33,6 @@
     <p>
       * STEM stands for science, technology, engineering and mathematics and refers to any subjects that come under these four areas.
     </p>
+    
+   </div>
+    
