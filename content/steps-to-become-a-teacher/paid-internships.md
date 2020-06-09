@@ -313,7 +313,7 @@ backlink: "../"
   <tr>
   <td>Trinity Academy Halifax</td>
   <td>Trinity Academy Multi Academy Trust</td>
-  </td>
+  </tr>
   
   <tr>
   <td>Harrogate Grammar School on behalf of Red Kite Teacher Training</td>
