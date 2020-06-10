@@ -62,7 +62,7 @@
         <li>Teach First</li>
         <li>Researchers in schools</li>
         <li>Assessment only (AO)</li>
-        <li>Postgraduate Early Years Initial Teacher Training (EYITT)</li>
+        <li>Postgraduate Early Years Initial Teacher Training (EYITT).</li>
       </ul>
     </p>
         </ul>
