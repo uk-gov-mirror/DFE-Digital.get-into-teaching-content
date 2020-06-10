@@ -1,6 +1,6 @@
- ---
+---
 title: "Ways to train"
-image: "/assets/images/steps-to-teacher-header.jpg"
+image: "/assets/images/funding-header.jpg"
 backlink: "../"
 ---
  
