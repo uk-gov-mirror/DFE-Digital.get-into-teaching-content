@@ -5,7 +5,13 @@ backlink: "../"
 ---
  
  <div class="content__right">
- </div>
+  <ul class="content-nav">
+    <li><a href="school-experience">School experience</a></li>
+    <li><a href="ways-to-train">Ways to train</a></li>
+    <li><a href="choose-a-course-with-a-send-specialism">Teaching children with special education needs and/or disabilities (SEND)</a></li>
+   
+  </ul>
+</div>
  
  
  <div class="content__left">
