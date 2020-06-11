@@ -7,7 +7,7 @@ backlink: "../"
  <div class="content__right">
   <ul class="content-nav">
     <li><a href="school-experience">School experience</a></li>
-    <li><a href="ways-to-train">Ways to train</a></li>
+    <li><a href="ways-to-train">Your training options</a></li>
     <li><a href="choose-a-course-with-a-send-specialism">Teaching children with special education needs and/or disabilities (SEND)</a></li>
    
   </ul>
@@ -16,7 +16,7 @@ backlink: "../"
  
  <div class="content__left">
  
- <h2>Ways to train</h2>
+ <h2>Your training options</h2>
  
  <p>
       For primary and secondary school teaching you’ll need to do postgraduate Initial Teacher Training (ITT) to give you Qualified Teacher Status. You could do your training:
