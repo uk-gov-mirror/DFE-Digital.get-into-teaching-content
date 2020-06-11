@@ -70,7 +70,5 @@ backlink: "../"
         <li>Assessment only (AO)</li>
         <li>Postgraduate Early Years Initial Teacher Training (EYITT).</li>
       </ul>
-    </p>
-        </ul>
-       </p>
+    
 </div>
