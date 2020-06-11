@@ -96,7 +96,7 @@ backlink: "../"
      <h4>Get school experience</h4>
 <p>Before you commit to a teacher training course, see teaching in action. Find out for yourself what teaching is really like and decide if it’s right for you. School experience isn’t compulsory, but most teacher training providers will want you to have it. </p>
 
-<a href="get-school-experience">Find out more about school experience</a>
+<a href="school-experience">Find out more about school experience</a>
 
 <h4>Find your way to train</h4>
 
