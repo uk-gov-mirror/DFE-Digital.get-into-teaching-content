@@ -93,8 +93,9 @@ backlink: "../"
   
   <div id="collapsable-content-3" class="collapsable">
     
-     <h4>Get school experience</h4>
-<p>Before you commit to a teacher training course, see teaching in action. Find out for yourself what teaching is really like and decide if it’s right for you. School experience isn’t compulsory, but most teacher training providers will want you to have it. </p>
+  <h4>Get school experience</h4>
+<p>Before you commit to a teacher training course, you might like to get some valuable experience in a school and find out what it’s really like to become a teacher.</p>  
+<p>This isn’t compulsory, but most teacher training providers will want you to have it and it will look good on your application.</p>
 
 <a href="school-experience">Find out more about school experience</a>
 
