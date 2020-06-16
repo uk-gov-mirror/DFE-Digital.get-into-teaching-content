@@ -36,6 +36,8 @@ jobs:
           push: true
   deploy:
     name: Deliver to Development
+    needs:
+          build_and_push
     runs-on: ubuntu-latest
     steps:
        - name: Checkout
@@ -44,6 +46,8 @@ jobs:
          id: parent_sha
          run: |
               echo "Event '${{ github.event.action }}' received from '${{ github.event.client_payload.parent_sha }}'"
+              res=if [ '${{ github.event.client_payload.parent_sha }}' '=='  '']; then echo '' ; else echo '-${{ github.event.client_payload.parent_sha }}'; fi
+              echo ::set-output name=parent::"${{res}}"
        - name: Get Short SHA
          id: sha
          run: echo ::set-output name=short::$(git rev-parse --short $GITHUB_SHA)
@@ -62,7 +66,7 @@ jobs:
              cd terraform/paas && pwd
              terraform plan -var-file=dev.env.tfvars -out plan
          env:
-             TF_VAR_paas_app_docker_image: ${{env.DOCKERHUB_REPOSITORY}}:sha-${{ steps.sha.outputs.short}} 
+             TF_VAR_paas_app_docker_image: ${{env.DOCKERHUB_REPOSITORY}}:sha-${{ steps.sha.outputs.short}}${{ steps.sha.outputs.parent} 
        - name: Terraform Apply
          run: |
              cd terraform/paas && pwd
