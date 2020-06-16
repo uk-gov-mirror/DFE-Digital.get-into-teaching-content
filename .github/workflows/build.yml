@@ -31,6 +31,7 @@ jobs:
           repository: ${{ env.DOCKERHUB_REPOSITORY }}
           always_pull: true
           add_git_labels: true
+          tag: sha-${{ steps.sha.outputs.short}}-${{ github.event.client_payload.parent_sha }}
           tag_with_ref: true
           tag_with_sha: true
           push: true
