@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - force-deliver
 env:
   DOCKERHUB_REPOSITORY: dfedigital/get-into-teaching-frontend
   CONTAINER: get-into-teaching-app
