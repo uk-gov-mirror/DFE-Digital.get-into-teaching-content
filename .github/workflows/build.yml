@@ -46,7 +46,7 @@ jobs:
          id: parent_sha
          run: |
               echo "Event '${{ github.event.action }}' received from '${{ github.event.client_payload.parent_sha }}'"
-              res=if [ '${{ github.event.client_payload.parent_sha }}' '=='  '']; then echo '' ; else echo '-${{ github.event.client_payload.parent_sha }}'; fi
+              res=$(if [ '${{ github.event.client_payload.parent_sha }}' '=='  '']; then echo '' ; else echo '-${{ github.event.client_payload.parent_sha }}'; fi)
               echo ::set-output name=parent::"${{res}}"
        - name: Get Short SHA
          id: sha
