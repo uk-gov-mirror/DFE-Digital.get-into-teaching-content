@@ -66,6 +66,7 @@ backlink: "../../"
   <li>based on your salary and service rather than investments so there will be no surprises about what you’ll get</li>
   <li>registered with HM Revenue and Customs - so you don’t pay tax on contributions</li>
   <li>flexible and allows you to take some of it as a tax-free lump sum</li>
+  </ul>
 
 <p><a href="https://www.teacherspensions.co.uk/members/new-starter.aspx" target="_blank">Find out more from Teachers’ Pensions</a></p>
 
