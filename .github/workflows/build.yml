@@ -22,6 +22,9 @@ jobs:
     steps:
       - name: Check out the repo
         uses: actions/checkout@v2
+      - name: Get Short SHA
+        id: sha
+        run: echo ::set-output name=short::$(git rev-parse --short $GITHUB_SHA)
       - name: Build and push to DockerHub
         uses: docker/build-push-action@v1
         with:
@@ -30,11 +33,14 @@ jobs:
           repository: ${{ env.DOCKERHUB_REPOSITORY }}
           always_pull: true
           add_git_labels: true
+          tags: sha-${{ steps.sha.outputs.short}}-${{ github.event.client_payload.parent_sha }}
           tag_with_ref: true
           tag_with_sha: true
           push: true
   deploy:
     name: Deliver to Development
+    needs:
+          build_and_push
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/master'
     needs:
@@ -60,7 +66,7 @@ jobs:
              cd terraform/paas && pwd
              terraform plan -var-file=dev.env.tfvars -out plan
          env:
-             TF_VAR_paas_app_docker_image: ${{env.DOCKERHUB_REPOSITORY}}:sha-${{ steps.sha.outputs.short}} 
+             TF_VAR_paas_app_docker_image: ${{env.DOCKERHUB_REPOSITORY}}:sha-${{ steps.sha.outputs.short}}-${{ github.event.client_payload.parent_sha }}
        - name: Terraform Apply
          run: |
              cd terraform/paas && pwd
