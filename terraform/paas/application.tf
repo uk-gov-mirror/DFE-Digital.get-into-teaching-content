@@ -19,7 +19,6 @@ resource "cloudfoundry_app" "app_application" {
           HTTPAUTH_USERNAME = var.HTTPAUTH_USERNAME
           RAILS_ENV = var.RAILS_ENV
           RAILS_MASTER_KEY = var.RAILS_MASTER_KEY
-          SECRET_KEY_BASE = var.SECRET_KEY_BASE
     }    
 }
 
