@@ -43,8 +43,6 @@ jobs:
           build_and_push
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/master'
-    needs:
-      - build_and_push
     steps:
        - name: Checkout
          uses: actions/checkout@v2
