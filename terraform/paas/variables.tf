@@ -66,3 +66,5 @@ variable "RAILS_ENV" {
 variable "RAILS_MASTER_KEY" {    
     default=""
 }
+
+variable "DUMMY" {}
