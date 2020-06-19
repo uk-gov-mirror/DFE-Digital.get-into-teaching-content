@@ -54,7 +54,15 @@ variable "strategy" {
    default = "standard"
 }
 
-variable "HTTPAUTH_PASSWORD" {}
-variable "HTTPAUTH_USERNAME" {}
-variable "RAILS_ENV" {}
-variable "RAILS_MASTER_KEY" {}
+variable "HTTPAUTH_PASSWORD" {
+    default=""
+}
+variable "HTTPAUTH_USERNAME" {    
+    default=""
+}
+variable "RAILS_ENV" {    
+    default=""
+}
+variable "RAILS_MASTER_KEY" {    
+    default=""
+}
