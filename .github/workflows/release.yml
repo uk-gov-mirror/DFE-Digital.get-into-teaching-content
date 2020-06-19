@@ -2,7 +2,7 @@
 name: Release to test
 on: 
    release:
-     types:  [edited, created]
+     types:  [released,edited,created]
 env:
   DOCKERHUB_REPOSITORY: dfedigital/get-into-teaching-frontend
   TF_VAR_user:              "${{ secrets.GOVUKPAAS_USERNAME  }}"
