@@ -20,11 +20,11 @@ resource "cloudfoundry_app" "app_application" {
       }
     }
     environment = {
+          DOES_NOTHING = var.DUMMY
           HTTPAUTH_PASSWORD = var.HTTPAUTH_PASSWORD
           HTTPAUTH_USERNAME = var.HTTPAUTH_USERNAME
           RAILS_ENV = var.RAILS_ENV
           RAILS_MASTER_KEY = var.RAILS_MASTER_KEY
-          DOES_NOTHING = var.DUMMY
     }    
 }
 
