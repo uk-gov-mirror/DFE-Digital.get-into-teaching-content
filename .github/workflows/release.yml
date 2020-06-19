@@ -16,7 +16,7 @@ env:
 
 jobs:
   deploy_qa:
-    name: 'Deploy to Quality Assurance'
+    name: 'Deploy to Devops test environment'
     runs-on: ubuntu-latest
     defaults:
       run:
