@@ -5,7 +5,7 @@ resource "cloudfoundry_app" "app_application" {
     stopped      = var.application_stopped
     strategy     = var.strategy
     memory       = 1024
-    timeout      = 1000
+    timeout      = 900
     dynamic "service_binding" {
       for_each = data.cloudfoundry_user_provided_service.logging
       content {
