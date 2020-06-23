@@ -16,8 +16,8 @@ env:
   ARM_ACCESS_KEY:           "${{ secrets.DEV_ARM_ACCESS_KEY  }}"
   CF_PROVIDER_DIR: $HOME/.terraform.d/plugins/linux_amd64/terraform-provider-cloudfoundry
 jobs:
-  build_and_push:
-    name: Build and push to DockerHub
+  deploy:
+    name: Build and deploy
     runs-on: ubuntu-latest
     steps:
       - name: Check out the repo
@@ -53,35 +53,22 @@ jobs:
           tag_with_sha: true
           push: true
           build_args: APP_SHA=${{ env.parent_sha }},CONTENT_SHA=${{ steps.sha.outputs.short }}
-  deploy:
-    name: Deliver to Development
-    needs:
-          build_and_push
-    runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/master'
-    steps:
-       - name: Checkout
-         uses: actions/checkout@v2
-       - name: Get Short SHA
-         id: sha
-         run: echo ::set-output name=short::$(git rev-parse --short $GITHUB_SHA)
-       - name: Install Terraform CloudFoundry Provider
-         run: |
-             mkdir -p $HOME/.terraform.d/plugins/linux_amd64
-             wget -O ${{ env.CF_PROVIDER_DIR }} https://github.com/cloudfoundry-community/terraform-provider-cf/releases/latest/download/terraform-provider-cloudfoundry_linux_amd64
-             chmod +x ${{ env.CF_PROVIDER_DIR }}
-
-       - name: Terraform Init
-         run: |
-             cd terraform/paas && pwd
-             terraform init -backend-config=dev.bk.vars
-       - name: Terraform Plan
-         run: |
-             cd terraform/paas && pwd
-             terraform plan -var-file=dev.env.tfvars -out plan
-         env:
-             TF_VAR_paas_app_docker_image: ${{env.DOCKERHUB_REPOSITORY}}:${{ env.docker_image_tag }}
-       - name: Terraform Apply
-         run: |
-             cd terraform/paas && pwd
-             terraform apply -auto-approve plan
+      - name: Install Terraform CloudFoundry Provider
+        run: |
+            mkdir -p $HOME/.terraform.d/plugins/linux_amd64
+            wget -O ${{ env.CF_PROVIDER_DIR }} https://github.com/cloudfoundry-community/terraform-provider-cf/releases/latest/download/terraform-provider-cloudfoundry_linux_amd64
+            chmod +x ${{ env.CF_PROVIDER_DIR }}
+      - name: Terraform Init
+        run: |
+            cd terraform/paas && pwd
+            terraform init -backend-config=dev.bk.vars
+      - name: Terraform Plan
+        run: |
+            cd terraform/paas && pwd
+            terraform plan -var-file=dev.env.tfvars -out plan
+        env:
+            TF_VAR_paas_app_docker_image: ${{env.DOCKERHUB_REPOSITORY}}:${{ env.docker_image_tag }}
+      - name: Terraform Apply
+        run: |
+            cd terraform/paas && pwd
+            terraform apply -auto-approve plan
