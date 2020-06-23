@@ -37,7 +37,6 @@ jobs:
           tag_with_ref: true
           tag_with_sha: true
           push: true
-          build_args: BASE_IMAGE_SHA=${{ github.event.client_payload.parent_sha }}
   deploy:
     name: Deliver to Development
     needs:
@@ -55,7 +54,7 @@ jobs:
              mkdir -p $HOME/.terraform.d/plugins/linux_amd64
              wget -O ${{ env.CF_PROVIDER_DIR }} https://github.com/cloudfoundry-community/terraform-provider-cf/releases/latest/download/terraform-provider-cloudfoundry_linux_amd64
              chmod +x ${{ env.CF_PROVIDER_DIR }}
-
+   
        - name: Terraform Init
          run: |
              cd terraform/paas && pwd
