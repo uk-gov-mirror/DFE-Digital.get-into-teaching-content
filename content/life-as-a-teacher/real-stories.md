@@ -7,13 +7,13 @@ backlink: "../../"
 
 <div class="content__right">
   <ul class="content-nav">
-    <li><a href="#helens-story">From senior associate lawyer to assistant headteacher</a></li>
-    <li><a href="#owens-story">Owen's rapid career ascent</a></li>
-    <li><a href="#pauls-story">Climbing the career ladder</a></li>
-    <li><a href="#jons-story">Leaping to head of department</a></li>
-    <li><a href="#sarahs-story">From NQT to Head of Biology in two years</a></li>
-    <li><a href="#ollys-story">The rapid career climber</a></li>
-    <li><a href="#karens-story">Karen Falcon, Head of Geography</a></li>
+    <li><span><a href="#helens-story">From senior associate lawyer to assistant headteacher</a></span></li>
+    <li><span><a href="#owens-story">Owen's rapid career ascent</a></span></li>
+    <li><span><a href="#pauls-story">Climbing the career ladder</a></span></li>
+    <li><span><a href="#jons-story">Leaping to head of department</a></span></li>
+    <li><span><a href="#sarahs-story">From NQT to Head of Biology in two years</a></span></li>
+    <li><span><a href="#ollys-story">The rapid career climber</a></span></li>
+    <li><span><a href="#karens-story">Karen Falcon, Head of Geography</a></span></li>
     </ul>
 </div>
 
@@ -169,11 +169,11 @@ Now as an assistant headteacher Paul is clear on the next role he would want to 
 He was offered a job at one of his placement schools, and his rapid climb up the career ladder shows how quickly you can progress as a teacher. Here’s a rough lowdown on his ascent from new graduate to assistant head in just six years:</p>
 
   <ul>
-  <li>Year 1: induction year as a newly qualified teacher (NQT)</li>
-  <li>Year 2: promoted to assistant head of sixth form</li>
-  <li>Year 3: becomes the achievement coordinator for Year 13; starts teaching economics alongside physics</li>
-  <li>Year 5: becomes head of sixth form on maternity cover</li>
-  <li>Year 6: moves on to a new school as assistant headteacher</li>
+  <li><span>Year 1: induction year as a newly qualified teacher (NQT)</span></li>
+  <li><span>Year 2: promoted to assistant head of sixth form</span></li>
+  <li><span>Year 3: becomes the achievement coordinator for Year 13; starts teaching economics alongside physics</span></li>
+  <li><span>Year 5: becomes head of sixth form on maternity cover</span></li>
+  <li><span>Year 6: moves on to a new school as assistant headteacher</span></li>
   </ul>
 
 <p> “I feel that I have learned a huge amount over the past six years, and have developed as a teacher and leader by working alongside talented, hard-working members of staff,” says Olly. “Every day really is different, and I always leave work challenged and satisfied.”</p>

@@ -6,9 +6,9 @@ backlink: "../"
  
  <div class="content__right">
   <ul class="content-nav">
-    <li><a href="school-experience">School experience</a></li>
-    <li><a href="ways-to-train">Your training options</a></li>
-    <li><a href="choose-a-course-with-a-send-specialism">Teaching children with special education needs and/or disabilities (SEND)</a></li>
+    <li><span><a href="school-experience">School experience</a></span></li>
+    <li><span><a href="ways-to-train">Your training options</a></span></li>
+    <li><span><a href="choose-a-course-with-a-send-specialism">Teaching children with special education needs and/or disabilities (SEND)</a></span></li>
    
   </ul>
 </div>
@@ -22,8 +22,8 @@ backlink: "../"
       For primary and secondary school teaching you’ll need to do postgraduate Initial Teacher Training (ITT) to give you Qualified Teacher Status. You could do your training:
     </p>
     <ul>
-      <li>at university</li>
-      <li>in a school</li>
+      <li><span>at university</span></li>
+      <li><span>in a school</span></li>
     </ul>
     <p>
       Both types of training will give you lots of classroom experience and the knowledge to teach successfully. The type of course you choose will depend on whether you want to study at a university or be based in a school.
@@ -36,15 +36,15 @@ backlink: "../"
       During your course you will:
     </p>
     <ul>
-      <li>study on campus at your chosen university</li>
-      <li>spend 24 weeks on school placements at 2 schools</li>
+      <li><span>study on campus at your chosen university</span></li>
+      <li><span>spend 24 weeks on school placements at 2 schools</span></li>
     </ul>
     <p>
       Training at university may be the right choice for you if it’s important to you that you will:
     </p>
     <ul>
-      <li>spend time with other trainee teachers</li>
-      <li>be able to move from a school placement if it doesn’t suit you</li>
+      <li><span>spend time with other trainee teachers</span></li>
+      <li><span>be able to move from a school placement if it doesn’t suit you</span></li>
     </ul>
     <p>
       <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses" target="_blank">Find a teacher training course</a>
@@ -60,8 +60,8 @@ backlink: "../"
       School-led training may be the right choice for you if you want to:
     </p>
     <ul>
-      <li>learn how to become a teacher while you work at a school</li>
-      <li>get a job in the network of schools where you’ve trained</li>
+      <li><span>learn how to become a teacher while you work at a school</span></li>
+      <li><span>get a job in the network of schools where you’ve trained</span></li>
     </ul>
     <p>
       <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses" target="_blank">Find a teacher training course</a>
@@ -69,12 +69,12 @@ backlink: "../"
     <p>
       There are some other <a href="./if-you-need-to-get-the-right-qualifications#specialist-ways-to-get-into-teaching">specialist training options</a> to get into teaching. These include:</p>
       <ul>
-        <li>School Direct salaried places</li>
-        <li>Postgraduate teaching apprenticeship</li>
-        <li>Teach First</li>
-        <li>Researchers in schools</li>
-        <li>Assessment only (AO)</li>
-        <li>Postgraduate Early Years Initial Teacher Training (EYITT).</li>
+        <li><span>School Direct salaried places</span></li>
+        <li><span>Postgraduate teaching apprenticeship</span></li>
+        <li><span>Teach First</span></li>
+        <li><span>Researchers in schools</span></li>
+        <li><span>Assessment only (AO)</span></li>
+        <li><span>Postgraduate Early Years Initial Teacher Training (EYITT).</span></li>
       </ul>
     
 </div>

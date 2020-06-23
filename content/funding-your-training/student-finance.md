@@ -14,8 +14,8 @@ backlink: "../../"
 <p>You can apply for a tuition fee loan of up to £9,250 to cover the full cost of your course fees. This means you will not need to:</p>
 
 <ul>
-  <li>pay course fees upfront</li>
-  <li>repay the loan until you’re working and earning money</li>
+  <li><span>pay course fees upfront</span></li>
+  <li><span>repay the loan until you’re working and earning money</span></li>
 </ul>
 
 <h2>Apply for a maintenance loan</h2>

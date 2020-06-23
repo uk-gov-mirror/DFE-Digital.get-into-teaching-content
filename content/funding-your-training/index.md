@@ -6,10 +6,10 @@ backlink: "../"
 
 <div class="content__right">
   <ul class="content-nav">
-    <li><a href="#bursaries-and-scholarships">Bursaries and scholarships</a></li>
-    <li><a href="#get-student-finance">Get student finance</a></li>
-    <li><a href="#get-financial-help-if-youre-a-parent-a-carer-or-you-have-a-disability">Get financial help if you’re a parent, a carer or you have a disability</a></li>
-    <li><a href="#applying-for-funding-if-you-live-outside-england">Applying for funding if you live outside England</a></li>
+    <li><span><a href="#bursaries-and-scholarships">Bursaries and scholarships</a></span></li>
+    <li><span><a href="#get-student-finance">Get student finance</a></span></li>
+    <li><span><a href="#get-financial-help-if-youre-a-parent-a-carer-or-you-have-a-disability">Get financial help if you’re a parent, a carer or you have a disability</a></span></li>
+    <li><span><a href="#applying-for-funding-if-you-live-outside-england">Applying for funding if you live outside England</a></span></li>
   </ul>
 </div>
 
@@ -46,10 +46,10 @@ backlink: "../"
 
   <p>You could apply for:</p>
   <ul>
-    <li>Disabled Students’ Allowance (DSA)</li>
-    <li>Childcare Grant</li>
-    <li>Parents Learning Allowance</li>
-    <li>Adult Dependants’ Grant</li>
+    <li><span>Disabled Students’ Allowance (DSA)</span></li>
+    <li><span>Childcare Grant</span></li>
+    <li><span>Parents Learning Allowance</span></li>
+    <li><span>Adult Dependants’ Grant</span></li>
   </ul>
   
   <p><a href="financial-help">Find out more about financial help for parents, carers and people with disabilities</a></p>

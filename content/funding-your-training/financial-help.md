@@ -17,8 +17,8 @@ backlink: "../../"
 <p>You can apply for a Childcare Grant to pay for 85% of your childcare costs. The maximum you’ll get is:</p>
 
 <ul>
-  <li>£169.31 a week for 1 child</li>
-  <li>£290.27 a week for 2 or more children</li>
+  <li><span>£169.31 a week for 1 child</span></li>
+  <li><span>£290.27 a week for 2 or more children</span></li>
 </ul>
 
 <h2>Parents’ Learning Allowance</h2>

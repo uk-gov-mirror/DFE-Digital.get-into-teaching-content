@@ -21,10 +21,10 @@ backlink: "../"
 <p>You’ll get the chance to:</p>
 
 <ul>
-  <li>speak to experts about ways into teacher training and available funding</li>
-  <li>talk one-to-one with experienced and newly qualified teachers to find out what teaching is really like</li>
-  <li>get advice on your teacher training application</li>
-  <li>meet schools and universities in your area to help you decide where to train and how to apply</li>
+  <li><span>speak to experts about ways into teacher training and available funding</span></li>
+  <li><span>talk one-to-one with experienced and newly qualified teachers to find out what teaching is really like</span></li>
+  <li><span>get advice on your teacher training application</span></li>
+  <li><span>meet schools and universities in your area to help you decide where to train and how to apply</span></li>
   </ul>
 
 <p>You can drop in at any time. Allow at least two hours to make the most of your visit.</p>
@@ -42,10 +42,10 @@ backlink: "../"
 <p>Schools and universities that run teacher training courses often hold their own events. Typically they cover areas such as:</p>
 
 <ul>
-  <li>course information</li>
-  <li>application advice</li>
-  <li>school experience</li>
-  <li>opportunities to talk to current trainees or staff</li>
+  <li><span>course information</span></li>
+  <li><span>application advice</span></li>
+  <li><span>school experience</span></li>
+  <li><span>opportunities to talk to current trainees or staff</span></li>
 </ul>
 
 

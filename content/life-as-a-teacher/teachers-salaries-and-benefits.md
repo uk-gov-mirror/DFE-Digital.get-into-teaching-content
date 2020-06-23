@@ -37,9 +37,9 @@ backlink: "../../"
 <p>You'll get early-career payments if you have:</p>
 
   <ul>
-  <li>completed a non-salaried teacher training course</li>
-  <li>received a bursary or scholarship in the academic year 2020/21</li>
-  <li>taught in a state-funded school in England since finishing your teacher training course</li>
+  <li><span>completed a non-salaried teacher training course</span></li>
+  <li><span>received a bursary or scholarship in the academic year 2020/21</span></li>
+  <li><span>taught in a state-funded school in England since finishing your teacher training course</span></li>
   </ul>
 
 <p>You’ll get 3 additional early-career payments of £2k each in your second, third and fourth year of teaching. You may get £3k each year if you teach in certain areas. Find out more.</p>
@@ -49,11 +49,11 @@ backlink: "../../"
 <p>When you start teaching, you can claim back the student loan payments you made the year before. You’ll need to teach:</p>
 
   <ul>
-  <li>languages</li>
-  <li>biology</li>
-  <li>chemistry</li>
-  <li>physics</li>
-  <li>computer science</li>
+  <li><span>languages</span></li>
+  <li><span>biology</span></li>
+  <li><span>chemistry</span></li>
+  <li><span>physics</span></li>
+  <li><span>computer science</span></li>
   </ul>
 
 <p><a href="https://www.gov.uk/guidance/teachers-student-loan-reimbursement-guidance-for-teachers-and-schools" target="_blank">Find out more about eligibility criteria, payment rates, participating local authorities and how to apply at GOV.UK</a></p>
@@ -63,9 +63,9 @@ backlink: "../../"
 <p>The Teachers’ Pension Scheme gives you a regular source of income when you retire. It is:</p>
 
   <ul>
-  <li>based on your salary and service rather than investments so there will be no surprises about what you’ll get</li>
-  <li>registered with HM Revenue and Customs - so you don’t pay tax on contributions</li>
-  <li>flexible and allows you to take some of it as a tax-free lump sum</li>
+  <li><span>based on your salary and service rather than investments so there will be no surprises about what you’ll get</span></li>
+  <li><span>registered with HM Revenue and Customs - so you don’t pay tax on contributions</span></li>
+  <li><span>flexible and allows you to take some of it as a tax-free lump sum</span></li>
   </ul>
 
 <p><a href="https://www.teacherspensions.co.uk/members/new-starter.aspx" target="_blank">Find out more from Teachers’ Pensions</a></p>

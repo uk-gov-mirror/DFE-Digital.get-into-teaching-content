@@ -44,17 +44,17 @@ backlink: "../"
   <p>The support package includes:</p>
 
   <ul>
-    <li>funded 5% time off timetable in the second year of teaching, in addition to the existing 10% in the first year</li>
-    <li>a range of high-quality, freely available curricula and training materials underpinned by the Early Career Framework</li>
-    <li>funded training for mentors of early career teachers</li>
-    <li>funded time for mentors to support early career teachers</li>
+    <li><span>funded 5% time off timetable in the second year of teaching, in addition to the existing 10% in the first year</span></li>
+    <li><span>a range of high-quality, freely available curricula and training materials underpinned by the Early Career Framework</span></li>
+    <li><span>funded training for mentors of early career teachers</span></li>
+    <li><span>funded time for mentors to support early career teachers</span></li>
   </ul>
 
   <p>The support package will be launched:</p>
 
   <ul>
-    <li>to early rollout areas in September 2020</li>
-    <li>nationally from September 2021</li>
+    <li><span>to early rollout areas in September 2020</span></li>
+    <li><span>nationally from September 2021</span></li>
   </ul>
 
   <p>This is part of government’s commitment to transform support for early career teachers.</p>

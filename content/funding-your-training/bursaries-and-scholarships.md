@@ -124,35 +124,35 @@ backlink: "../../"
 <h2>Scholarship awarding bodies by subject</h2>
 
 <ul>
-<li>
+<li><span>
   <h3>Computer science</h3> 
   <p>BCS The Chartered Institute for IT</p>
-</li>
+</span></li>
 
-<li>
+<li><span>
     <h3>Chemistry</h3> 
     <p>RSC The Royal Society of Chemistry</p>
-</li>
+</span></li>
 
-<li>
+<li><span>
     <h3>Geography</h3> 
     <p>The Royal Geographical Society (with IBG)</p>
-</li>
+</span></li>
 
-<li>
+<li><span>
      <h3>Languages</h3>
      <p>The British Council</p>
-</li>
+</span></li>
 
-<li>
+<li><span>
      <h3>Maths</h3> 
      <p>Mathematics Teacher Training Scholarships</p>
-</li>
+</span></li>
 
-<li>
+<li><span>
      <h3>Physics</h3> 
      <p>Insitute of Physics</p>
-</li>
+</span></li>
 </ul>
 
 </div>

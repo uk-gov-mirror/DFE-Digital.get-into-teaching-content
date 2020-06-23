@@ -12,9 +12,9 @@ backlink: "../../"
 <p>If you live in Wales, Scotland or Northern Ireland you’ll need to contact your country’s student finance body. These finance bodies are:</p>
 
   <ul>
-  <li>Student Finance Wales</li>
-  <li>Student Awards Agency Scotland</li>
-  <li>Student Finance NI</li>
+  <li><span>Student Finance Wales</span></li>
+  <li><span>Student Awards Agency Scotland</span></li>
+  <li><span>Student Finance NI</span></li>
   </ul>
 
 <h2>EU students</h2>

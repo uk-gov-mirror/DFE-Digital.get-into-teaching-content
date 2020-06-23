@@ -6,9 +6,9 @@ backlink: "../"
 
  <div class="content__right">
   <ul class="content-nav">
-    <li><a href="school-experience">School experience</a></li>
-    <li><a href="ways-to-train">Your training options</a></li>
-    <li><a href="choose-a-course-with-a-send-specialism">Teaching children with special education needs and/or disabilities (SEND)</a></li>
+    <li><span><a href="school-experience">School experience</a></span></li>
+    <li><span><a href="ways-to-train">Your training options</a></span></li>
+    <li><span><a href="choose-a-course-with-a-send-specialism">Teaching children with special education needs and/or disabilities (SEND)</a></span></li>
    
   </ul>
 </div>
@@ -22,10 +22,10 @@ backlink: "../"
       
   <p>Teachers need the ability to:</p>
     <ul>
-      <li>relate to pupils and their parents</li>
-      <li>be creative to inspire and motivate pupils</li>
-      <li>deal with conflict and remain calm in stressful situations</li>
-      <li>constantly learn and improve</li>
+      <li><span>relate to pupils and their parents</span></li>
+      <li><span>be creative to inspire and motivate pupils</span></li>
+      <li><span>deal with conflict and remain calm in stressful situations</span></li>
+      <li><span>constantly learn and improve</span></li>
     </ul>
     <p>
       Your experience can help you decide whether teaching is right for you.

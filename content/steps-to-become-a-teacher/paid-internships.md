@@ -14,10 +14,10 @@ backlink: "../"
   
   <p>The programme takes place in schools across England. You will get the opportunity to experience a range of activities to help you get a feel for school life including:</p> 
 <ul>
-<li>classroom experience - which could include assisting with lessons and providing subject support to pupils</li>
-<li>shadowing experienced teachers and observing lessons, followed by a chance to jointly plan and deliver lessons</li>
-<li>one-to-one guidance from outstanding classroom teachers</li>
-<li>opportunities to network with qualified subject specialists</li>
+<li><span>classroom experience - which could include assisting with lessons and providing subject support to pupils</span></li>
+<li><span>shadowing experienced teachers and observing lessons, followed by a chance to jointly plan and deliver lessons</span></li>
+<li><span>one-to-one guidance from outstanding classroom teachers</span></li>
+<li><span>opportunities to network with qualified subject specialists</span></li>
 </ul>
 
 <h2>How to join</h2> 
@@ -29,15 +29,15 @@ backlink: "../"
 
 <h3>Region</h3>
 <ul>
-<li><a href="#london">London</a></li>
-<li><a href="#south-east">South East</a></li>
-<li><a href="#south-west">South West</a></li>
-<li><a href="#east-midlands">East Midlands</a></li>
-<li><a href="#west-midlands">West Midlands</a></li>
-<li><a href="#yorkshire-and-humber">Yorkshire and the Humber</a></li>
-<li><a href="#north-east">North East</a></li>
-<li><a href="#north-west">North West</a></li>
-<li><a href="east-of-england">East of England</a></li>
+<li><span><a href="#london">London</a></span></li>
+<li><span><a href="#south-east">South East</a></span></li>
+<li><span><a href="#south-west">South West</a></span></li>
+<li><span><a href="#east-midlands">East Midlands</a></span></li>
+<li><span><a href="#west-midlands">West Midlands</a></span></li>
+<li><span><a href="#yorkshire-and-humber">Yorkshire and the Humber</a></span></li>
+<li><span><a href="#north-east">North East</a></span></li>
+<li><span><a href="#north-west">North West</a></span></li>
+<li><span><a href="east-of-england">East of England</a></span></li>
 </ul>
 
 <table id="london">

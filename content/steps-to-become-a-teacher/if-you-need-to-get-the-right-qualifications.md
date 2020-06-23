@@ -6,10 +6,10 @@ backlink: "../../"
 
 <div class="content__right">
   <ul class="content-nav">
-  <li><a href="#if-you-dont-have-a-degree">If you don’t have a degree</a></li>
-  <li><a href="#if-you-have-an-overseas-degree">If you have an overseas degree</a></li>
-  <li><a href="#if-your-degree-is-not-in-the-subject-you-want-to-teach">If your degree is not in the subject you want to teach</a></li>
-  <li><a href="#specialist-ways-to-get-into-teaching">Specialist ways to get into teaching</a></li>
+  <li><span><a href="#if-you-dont-have-a-degree">If you don’t have a degree</a></span></li>
+  <li><span><a href="#if-you-have-an-overseas-degree">If you have an overseas degree</a></span></li>
+  <li><span><a href="#if-your-degree-is-not-in-the-subject-you-want-to-teach">If your degree is not in the subject you want to teach</a></span></li>
+  <li><span><a href="#specialist-ways-to-get-into-teaching">Specialist ways to get into teaching</a></span></li>
   </ul>
 </div>
 
@@ -22,8 +22,8 @@ backlink: "../../"
 <p>Here is what you need to do if you:</p>
 
   <ul>
-  <li>don’t have a degree</li>
-  <li>have an overseas degree</li>
+  <li><span>don’t have a degree</span></li>
+  <li><span>have an overseas degree</span></li>
   </ul>
 
 <p>You may also want to find out about other <a href="#specialist-ways-to-get-into-teaching">specialist ways to get into teaching</a> and how to <a href="./choose-a-course-with-a-send-specialism">teach children with special educational needs and/or disabilities</a>.</p>
@@ -34,8 +34,8 @@ backlink: "../../"
 <p>You’ll need to apply for an initial teacher training (ITT) course that will give you qualified teacher status (QTS). Courses usually take 3 to 4 years and include:</p>
 
   <ul>
-  <li>Bachelor of Education degree (BEd)</li>
-  <li>Bachelor of Arts (BA) and Bachelor of Science (BSc) with QTS</li>
+  <li><span>Bachelor of Education degree (BEd)</span></li>
+  <li><span>Bachelor of Arts (BA) and Bachelor of Science (BSc) with QTS</span></li>
   </ul>
 
 <p>Search <a href="https://digital.ucas.com/search" target="_blank">UCAS</a> to find a degree with QTS.</p>
@@ -65,34 +65,34 @@ backlink: "../../"
 <p>If you need to top up your knowledge of the subject you want to teach, you could take a subject knowledge enhancement course (SKE). An SKE may be right for you if:</p>
 
   <ul>
-  <li>your degree is not in the subject you want to teach, but is related</li>
-  <li>you studied the subject at A level, but not at degree level</li>
-  <li>you have an unrelated degree, but relevant professional experience in the subject</li>
-  <li>it’s been some time since you used your degree knowledge</li>
+  <li><span>your degree is not in the subject you want to teach, but is related</span></li>
+  <li><span>you studied the subject at A level, but not at degree level</span></li>
+  <li><span>you have an unrelated degree, but relevant professional experience in the subject</span></li>
+  <li><span>it’s been some time since you used your degree knowledge</span></li>
   </ul>
 
 <p>You can do an SKE course in:</p>
 
   <ul>
-  <li>maths</li>
-  <li>physics</li>
-  <li>languages</li>
-  <li>chemistry</li>
-  <li>computer studies</li>
-  <li>biology</li>
-  <li>English</li>
-  <li>geography</li>
-  <li>design and technology</li>
-  <li>religious education</li>
-  <li>primary maths</li>
+  <li><span>maths</span></li>
+  <li><span>physics</span></li>
+  <li><span>languages</span></li>
+  <li><span>chemistry</span></li>
+  <li><span>computer studies</span></li>
+  <li><span>biology</span></li>
+  <li><span>English</span></li>
+  <li><span>geography</span></li>
+  <li><span>design and technology</span></li>
+  <li><span>religious education</span></li>
+  <li><span>primary maths</span></li>
   </ul>
 
 <p>Courses last between 8 and 28 weeks. SKE courses are funded, so you will not have to pay any tuition fees. You may also be eligible for a bursary of £5,600 for a 28-week course or £2,400 for a shorter course of 12 weeks.</p>
 
 <p>They can be:</p>
 <ul>
-  <li>completed before or alongside ITT courses</li>
-  <li>offered online, through distance learning, face-to-face or a mixture of these approaches</li>
+  <li><span>completed before or alongside ITT courses</span></li>
+  <li><span>offered online, through distance learning, face-to-face or a mixture of these approaches</span></li>
 </ul>
 
 <p>Usually, a training provider will make sitting a SKE a ‘condition’ of taking up your offer of a teacher training place.</p>
