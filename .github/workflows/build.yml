@@ -25,6 +25,21 @@ jobs:
       - name: Get Short SHA
         id: sha
         run: echo ::set-output name=short::$(git rev-parse --short $GITHUB_SHA)
+      - name: Get parent SHA if triggered from app pipeline
+        if: env.GITHUB_EVENT_NAME == 'repository_dispatch'
+        run: |
+          echo ::set-env name=parent_sha::${{ github.event.client_payload.parent_sha }}
+      - name: Get parent SHA if not triggered from app pipeline
+        if: env.GITHUB_EVENT_NAME != 'repository_dispatch'
+        run: |
+          echo ::set-env name=parent_sha::$(docker run dfedigital/get-into-teaching-web:latest cat /etc/get-into-teaching-app-sha)
+      - name: Set new docker image version
+        run: |
+          docker_image_tag="sha-${{ steps.sha.outputs.short }}-${parent_sha}"
+          echo ::set-env name=docker_image_tag::${docker_image_tag}
+          echo "Content SHA: ${{ steps.sha.outputs.short }}"
+          echo "Parent SHA: ${parent_sha}"
+          echo "New version tag: ${docker_image_tag}"
       - name: Build and push to DockerHub
         uses: docker/build-push-action@v1
         with:
@@ -33,10 +48,11 @@ jobs:
           repository: ${{ env.DOCKERHUB_REPOSITORY }}
           always_pull: true
           add_git_labels: true
-          tags: sha-${{ steps.sha.outputs.short}}-${{ github.event.client_payload.parent_sha }}
+          tags: ${{ env.docker_image_tag }}
           tag_with_ref: true
           tag_with_sha: true
           push: true
+          build_args: APP_SHA=${{ env.parent_sha }},CONTENT_SHA=${{ steps.sha.outputs.short }}
   deploy:
     name: Deliver to Development
     needs:
@@ -54,7 +70,7 @@ jobs:
              mkdir -p $HOME/.terraform.d/plugins/linux_amd64
              wget -O ${{ env.CF_PROVIDER_DIR }} https://github.com/cloudfoundry-community/terraform-provider-cf/releases/latest/download/terraform-provider-cloudfoundry_linux_amd64
              chmod +x ${{ env.CF_PROVIDER_DIR }}
-   
+
        - name: Terraform Init
          run: |
              cd terraform/paas && pwd
