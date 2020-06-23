@@ -24,9 +24,23 @@ jobs:
     steps:
        - name: Checkout
          uses: actions/checkout@v2
+
        - name: Get Short SHA
          id: sha
          run: echo ::set-output name=short::$(git rev-parse --short $GITHUB_SHA)
+
+       - name: Get parent SHA 
+         run: |
+           echo ::set-env name=parent_sha::$(docker run dfedigital/get-into-teaching-web:latest cat /etc/get-into-teaching-app-sha)
+
+       - name: Set new docker image version
+         run: |
+           docker_image_tag="sha-${{ steps.sha.outputs.short }}-${parent_sha}"
+           echo ::set-env name=docker_image_tag::${docker_image_tag}
+           echo "Content SHA: ${{ steps.sha.outputs.short }}"
+           echo "Parent SHA: ${parent_sha}"
+           echo "New version tag: ${docker_image_tag}"
+
        - name: Install Terraform CloudFoundry Provider
          run: |
              mkdir -p $HOME/.terraform.d/plugins/linux_amd64
@@ -37,12 +51,14 @@ jobs:
          run: |
              cd terraform/paas && pwd
              terraform init -backend-config=test.bk.vars
+
        - name: Terraform Plan
          run: |
              cd terraform/paas && pwd
              terraform plan -var-file=test.env.tfvars -out plan
          env:
-             TF_VAR_paas_app_docker_image: ${{env.DOCKERHUB_REPOSITORY}}:sha-${{ steps.sha.outputs.short}}
+             TF_VAR_paas_app_docker_image: ${{env.DOCKERHUB_REPOSITORY}}:${{ env.docker_image_tag }}
+
        - name: Terraform Apply
          run: |
              cd terraform/paas && pwd
