@@ -12,7 +12,7 @@ backlink: "../"
     <h1>Impact of COVID-19 on teacher training</h1>
     <h3>This page was updated on 5 June 2020, and will continue to be updated as new guidance is issued.</h3>
     <p>
-        For more information about the government response to coronavirus (COVID-19), please visit GOV.UK.
+        For more information about the government response to coronavirus (COVID-19), please visit <a href="https://www.gov.uk/coronavirus">GOV.UK</a>.
     </p>
     <p>
         If you have another question, not covered here, please get in touch.
@@ -27,12 +27,10 @@ backlink: "../"
    <h2>Advice for current trainees</h2>
         <p>If you are a current trainee teacher and would like information on how COVID-19 might affect your course, please contact your provider. This also applies if you are on an assessment only route.</p>
         
-   <h2>Impact of coronavirus on applicants</h2>
+   <h2>Impact of COVID-19 on applicants</h2>
         <p>If you are applying for a course starting from September 2020, find out what you need to know about the impact of COVID-19 on preparing and submitting your application.</p>
 
-  <h3>Impact of COVID-19 on applicants</h3>
-        <p>This page was updated on 5 June 2020, and will continue to be updated as new guidance is issued.</p>
-        <p><strong>Q. What if I cannot attend school experience prior to interview?</strong></p>
+<p><strong>Q. What if I cannot attend school experience prior to interview?</strong></p>
         <p>A.  Prior experience in a school is not required prior to interview, but if you have been able to gain experience in schools, providers might find reports from those schools helpful.</p>  
         <p>Applicants should wait to be contacted by the providers for specific guidance.</p>
         <p><strong>Q. Does the 40-day rule for making decisions about ITT applications still apply?</strong></p>
@@ -43,7 +41,7 @@ backlink: "../"
         <p><strong>Q. Can I start my postgraduate ITT course before I have been awarded my degree?</strong></p>
         <p>A. Providers are currently making arrangements to enable academic assessments to take place, to minimise the delay of degree awards. Given that programme design may differ between institutions, applicants are encouraged to contact their respective degree awarding body for details.</p>
        <p><strong> Q: I’m expecting to get a bursary/scholarship/student finance for my course starting in September. Will this still be available?</strong></p>
-        <p>A. Yes. The information in the Funding My Training section of the website remains valid.</p>
+        <p>A. Yes. The information in the <a href="../funding-your-training/index">Funding your training</a> section of the website remains valid.</p>
         <p><strong>Q. What if I have been unable to complete my Subject Knowledge Enhancement (SKE) course?</strong></p>
         <p>A. SKE training courses can be completed before or alongside ITT. If you have been unable to complete a SKE course, the SKE provider will make an assessment and communicate this to your ITT provider. If necessary, you can defer your SKE course and complete this alongside your ITT course at a later date.</p>
        <p><strong> Q. Are the planned Train to Teach events going ahead?</strong></p>
