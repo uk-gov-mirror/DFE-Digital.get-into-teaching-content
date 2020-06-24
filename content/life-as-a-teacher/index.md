@@ -18,6 +18,15 @@ backlink: "../"
 
   <p><a href="teachers-salaries-and-benefits">Salaries and other financial benefits</a></p>
 
+  <a href="/mailinglist/register/1">
+    <div class="media-cta">
+      <img src="/assets/images/cta-1.jpg">
+      <div>
+        Find out more about your financial options <i class="fas fa-chevron-right"></i>
+      </div>
+    </div>
+  </a>
+
   <h2>Career progression</h2>
   <p>Training to be a teacher will give you the opportunities to add to your professional skills and help you achieve your ambitions.</p>
 

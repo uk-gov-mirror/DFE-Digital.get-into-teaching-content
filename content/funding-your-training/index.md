@@ -37,7 +37,14 @@ backlink: "../"
 
   <p>Use the <a href="https://www.gov.uk/student-finance-calculator" target="_blank">student finance calculator on GOV.UK</a> to find out how much you can get.</p>
 
-
+  <a href="/mailinglist/register/1">
+    <div class="media-cta">
+      <img src="/assets/images/cta-2.jpg">
+      <div>
+        Find out more about your financial options <i class="fas fa-chevron-right"></i>
+      </div>
+    </div>
+  </a>
 
   <h2 id="get-financial-help-if-youre-a-parent-a-carer-or-you-have-a-disability">Get financial help if you’re a parent, a carer or you have a disability</h2>
 
