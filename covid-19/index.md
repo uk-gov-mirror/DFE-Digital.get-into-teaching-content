@@ -50,7 +50,7 @@ backlink: "../"
         <p>A. As a consequence of the outbreak of coronavirus (COVID-19) and following the announcement to introduce social distancing and limit all non-essential contact, we have made the decision to cancel all upcoming face to face Train to Teach events. We apologise for any inconvenience.</p>
         <p>All upcoming Train to Teach events have been set-up as online question and answer sessions. For more information and to register for these events visit our events page.</p>
        <p><strong> Q. What if I’m an overseas applicant?</strong></p>
-        <p>Although global travel, including to the UK, is affected by coronavirus, we still encourage you to take the steps to becoming a teacher in England.</p> 
+        <p>A. Although global travel, including to the UK, is affected by coronavirus, we still encourage you to take the steps to becoming a teacher in England.</p> 
         <p>Check your country’s advice to keep up to date with travel restrictions. The UK government has also published guidance about what to do if you need a visa to travel to the UK and has an immigration helpline. If you’ve already started applying for a course, contact the training providers - they’ll be able to advise you on how coronavirus is affecting recruitment to their courses.</p>
         
    <h3>GCSE and equivalency tests</h3>
