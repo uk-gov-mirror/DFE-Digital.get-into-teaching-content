@@ -22,7 +22,7 @@ backlink: "../"
     <div class="media-cta">
       <img src="/assets/images/cta-1.jpg">
       <div>
-        Find out more about your financial options <i class="fas fa-chevron-right"></i>
+        Find out more about a day in the life of a teacher <i class="fas fa-chevron-right"></i>
       </div>
     </div>
   </a>
