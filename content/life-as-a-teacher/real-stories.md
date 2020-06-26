@@ -21,9 +21,11 @@ backlink: "../../"
 
 <h2 id="helens-story">From senior associate lawyer to assistant headteacher</h2>  
 
-<div class="content-video">
-  <img src="/assets/images/case-study-helen.png" alt="Helen's story">
-</div>
+<a href="https://www.youtube.com/watch?v=MLdrZJpK5rU" target="_blank" onClick="openVideoPlayer()">
+  <div class="content-video">
+    <img src="/assets/images/case-study-helen.png" alt="Helen's story">
+  </div>
+</a>
 
 <h3>Helen Winter, director of teaching school and assistant headteacher</h3>
 
@@ -44,14 +46,13 @@ backlink: "../../"
 
 <p>If you want a career that provides you with job satisfaction and swift progression, register with us to gain personalised support to help with your journey into teaching.</p>
 
-
-
-
 <h2 id="owens-story">Owen’s rapid career ascent</h2>
 
-<div class="content-video">
-  <img src="/assets/images/case-study-owen.png" alt="Owen's story">
-</div>
+<a href="https://www.youtube.com/watch?v=DkoCXdhyikY" target="_blank" onClick="openVideoPlayer()">
+  <div class="content-video">
+    <img src="/assets/images/case-study-owen.png" alt="Owen's story">
+  </div>
+</a>
 
 <h3>Dr Owen Mather, leader of teaching standards</h3>
 
@@ -69,14 +70,13 @@ backlink: "../../"
 
 <p>Why not emulate Owen’s ascent to leadership and apply for teacher training? It’s easier than you may think - with a tax-free bursary to train as a teacher. Register with us to access our dedicated advisers, who will support you with your career switch.</p>
 
-
-
-
 <h2 id="pauls-story">Climbing the career ladder</h2>
 
-<div class="content-video">
-  <img src="/assets/images/case-study-video.png" alt="Paul's story"> 
-</div>
+<a href="https://www.youtube.com/watch?v=wKgWb7U9jOM" target="_blank" onClick="openVideoPlayer()">
+  <div class="content-video">
+    <img src="/assets/images/case-study-video.png" alt="Paul's story"> 
+  </div>
+</a>
 
 <h3>Paul Evason, assistant headteacher</h3>
 
@@ -94,9 +94,6 @@ backlink: "../../"
 Now as an assistant headteacher Paul is clear on the next role he would want to undertake: “My long-term plan is to go into headship, but do not want to rush this. I want to be able to experience a range of different areas in schools to ensure that I am fully prepared for the challenges that a headship role will bring.”</p>
 
 <p>As you progress as a teacher, so will your salary - in fact, the average salary of leadership group teachers is £58,881. However, it’s not the salary that motivates Paul but to ensure that pupils succeed in life:  “I feel fortunate to be on the leadership salary, but I don’t do the job for the money – for me it’s about supporting students as a teacher and leader and making sure they achieve their full potential.”</p>
-
-
-
 
 <h2 id="jons-story"> Leaping to head of department</h2>
 
@@ -122,13 +119,13 @@ Now as an assistant headteacher Paul is clear on the next role he would want to 
 
 <p>Thousands of people successfully retrain as teachers every year, and applying for teacher training may be easier than you think. Tax-free bursaries are available and dedicated advisers are on hand to support your move into teaching. Register with us for tailored advice and assistance in beginning your new career.</p>
 
-
-
 <h2 id="sarahs-story"> From NQT to head of biology in two years</h2>
 
-<div class="content-video">
-  <img src="/assets/images/case-study-sarah.png" alt="Sarah's story">
-</div>
+<a href="https://www.youtube.com/watch?v=o6_XP3NExJc" target="_blank" onClick="openVideoPlayer()">
+  <div class="content-video">
+    <img src="/assets/images/case-study-sarah.png" alt="Sarah's story">
+  </div>
+</a>
 
 <h3>Sarah Fisher, head of biology</h3>
 
@@ -146,8 +143,6 @@ Now as an assistant headteacher Paul is clear on the next role he would want to 
 <p>Making the most of opportunities available to her, Sarah has also taken on extra responsibilities that allow her to make a real impact in the teaching community. “I also act as a teaching and learning mentor, which allows me to work with staff from all departments to enhance and develop their teaching and learning. I love being able to work with teachers of all backgrounds, experienced to newly qualified, sharing good practice and developing whole-school strategies. I am currently facilitating an NQT leadership programme for teachers across the borough, which I am thoroughly enjoying.”</p>
 
 <p>For anyone looking to emulate Sarah’s success, she gives the following advice: “I would recommend hard work, maintaining your love for the job, and a want to bring about positive change to young peoples' lives… Undeniably, teaching is hard work – but the knowledge that you have helped to motivate young people and helped shape their future brings more satisfaction than any other job I can think of.”</p>
-
-
 
 
 <h2 id="ollys-story"> The rapid career climber</h2>
@@ -178,14 +173,13 @@ He was offered a job at one of his placement schools, and his rapid climb up the
 
 <p> “I feel that I have learned a huge amount over the past six years, and have developed as a teacher and leader by working alongside talented, hard-working members of staff,” says Olly. “Every day really is different, and I always leave work challenged and satisfied.”</p>
 
-
-
-
 <h2 id="karens-story"> Become a role model in your school</h2>
 
-<div class="content-video">
-  <img src="/assets/images/case-study-karen.png" alt="Karen's story">
-</div>
+<a href="https://www.youtube.com/watch?v=gLoifSGgaBM" target="_blank" onClick="openVideoPlayer()">
+  <div class="content-video">
+    <img src="/assets/images/case-study-karen.png" alt="Karen's story">
+  </div>
+</a>
 
 <h3>Karen Falcon, head of geography</h3>
 
