@@ -21,7 +21,7 @@ backlink: "../../"
 
 <h2 id="helens-story">From senior associate lawyer to assistant headteacher</h2>  
 
-<a href="https://www.youtube.com/watch?v=MLdrZJpK5rU" target="_blank" onClick="openVideoPlayer()">
+<a href="https://www.youtube.com/watch?v=MLdrZJpK5rU" target="_blank" data-action="click->video#play" data-target="video.link">
   <div class="content-video">
     <img src="/assets/images/case-study-helen.png" alt="Helen's story">
     <div class="content-video__play">
@@ -51,7 +51,7 @@ backlink: "../../"
 
 <h2 id="owens-story">Owen’s rapid career ascent</h2>
 
-<a href="https://www.youtube.com/watch?v=DkoCXdhyikY" target="_blank" onClick="openVideoPlayer()">
+<a href="https://www.youtube.com/watch?v=DkoCXdhyikY" target="_blank" data-action="click->video#play" data-target="video.link">
   <div class="content-video">
     <img src="/assets/images/case-study-owen.png" alt="Owen's story">
     <div class="content-video__play">
@@ -78,12 +78,12 @@ backlink: "../../"
 
 <h2 id="pauls-story">Climbing the career ladder</h2>
 
-<a href="https://www.youtube.com/watch?v=wKgWb7U9jOM" target="_blank" onClick="openVideoPlayer()">
+<a href="https://www.youtube.com/watch?v=wKgWb7U9jOM" target="_blank" data-action="click->video#play" data-target="video.link">
   <div class="content-video">
-    <img src="/assets/images/case-study-video.png" alt="Paul's story"> 
+    <img src="/assets/images/case-study-video.png" alt="Paul's story">
     <div class="content-video__play">
         <div class="icon-play"></div>
-    </div>
+    </div> 
   </div>
 </a>
 
@@ -130,7 +130,7 @@ Now as an assistant headteacher Paul is clear on the next role he would want to 
 
 <h2 id="sarahs-story"> From NQT to head of biology in two years</h2>
 
-<a href="https://www.youtube.com/watch?v=o6_XP3NExJc" target="_blank" onClick="openVideoPlayer()">
+<a href="https://www.youtube.com/watch?v=o6_XP3NExJc" target="_blank" data-action="click->video#play" data-target="video.link">
   <div class="content-video">
     <img src="/assets/images/case-study-sarah.png" alt="Sarah's story">
     <div class="content-video__play">
@@ -187,7 +187,7 @@ He was offered a job at one of his placement schools, and his rapid climb up the
 
 <h2 id="karens-story"> Become a role model in your school</h2>
 
-<a href="https://www.youtube.com/watch?v=gLoifSGgaBM" target="_blank" onClick="openVideoPlayer()">
+<a href="https://www.youtube.com/watch?v=gLoifSGgaBM" target="_blank" data-action="click->video#play" data-target="video.link">
   <div class="content-video">
     <img src="/assets/images/case-study-karen.png" alt="Karen's story">
     <div class="content-video__play">
