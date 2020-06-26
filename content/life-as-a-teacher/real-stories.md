@@ -24,6 +24,9 @@ backlink: "../../"
 <a href="https://www.youtube.com/watch?v=MLdrZJpK5rU" target="_blank" onClick="openVideoPlayer()">
   <div class="content-video">
     <img src="/assets/images/case-study-helen.png" alt="Helen's story">
+    <div class="content-video__play">
+        <div class="icon-play"></div>
+    </div>
   </div>
 </a>
 
@@ -51,6 +54,9 @@ backlink: "../../"
 <a href="https://www.youtube.com/watch?v=DkoCXdhyikY" target="_blank" onClick="openVideoPlayer()">
   <div class="content-video">
     <img src="/assets/images/case-study-owen.png" alt="Owen's story">
+    <div class="content-video__play">
+        <div class="icon-play"></div>
+    </div>
   </div>
 </a>
 
@@ -75,6 +81,9 @@ backlink: "../../"
 <a href="https://www.youtube.com/watch?v=wKgWb7U9jOM" target="_blank" onClick="openVideoPlayer()">
   <div class="content-video">
     <img src="/assets/images/case-study-video.png" alt="Paul's story"> 
+    <div class="content-video__play">
+        <div class="icon-play"></div>
+    </div>
   </div>
 </a>
 
@@ -124,6 +133,9 @@ Now as an assistant headteacher Paul is clear on the next role he would want to 
 <a href="https://www.youtube.com/watch?v=o6_XP3NExJc" target="_blank" onClick="openVideoPlayer()">
   <div class="content-video">
     <img src="/assets/images/case-study-sarah.png" alt="Sarah's story">
+    <div class="content-video__play">
+        <div class="icon-play"></div>
+    </div>
   </div>
 </a>
 
@@ -178,6 +190,9 @@ He was offered a job at one of his placement schools, and his rapid climb up the
 <a href="https://www.youtube.com/watch?v=gLoifSGgaBM" target="_blank" onClick="openVideoPlayer()">
   <div class="content-video">
     <img src="/assets/images/case-study-karen.png" alt="Karen's story">
+    <div class="content-video__play">
+        <div class="icon-play"></div>
+    </div>
   </div>
 </a>
 
