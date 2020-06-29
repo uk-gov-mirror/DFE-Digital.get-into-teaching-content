@@ -1,3 +1,9 @@
+---
+title: "Privacy policy"
+image: false
+backlink: "../"
+---
+
 <div class="content__right">
 
 </div>
