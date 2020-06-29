@@ -127,10 +127,10 @@ jobs:
         env:
             SENTRY_DSN: ${{secrets.DEV_OPS_SENTRY_DSN}}
   owasp:
-    name: OWASP Test 
+    name: OWASP Test
     runs-on: ubuntu-latest
     if: always()
-    needs: build
+    needs: deploy
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -141,6 +141,6 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           docker_name: 'owasp/zap2docker-stable'
-          target: 'https://${{ secrets.HTTPAUTH_USERNAME }}:${{ secrets.HTTPAUTH_PASSWORD }}@${{CONTAINER}}-dev.education.gov.uk/'
+          target: 'https://${{ secrets.HTTPAUTH_USERNAME }}:${{ secrets.HTTPAUTH_PASSWORD }}@${{env.CONTAINER}}-dev.education.gov.uk/'
           rules_file_name: '.zap/rules.tsv'
           cmd_options: '-a'
