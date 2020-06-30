@@ -31,7 +31,7 @@ backlink: "../"
     If you want to teach in a fee-paying or private school, the rules may be different. You’ll need to check with the type of school you want to teach at.
   </p>
 
-  <div class="steps-header" onclick="toggleCollapsable(1)">
+  <div class="steps-header" id="step-1" onclick="toggleCollapsable(1)">
     <h1>
       <div class="steps-header__number"><span>1</span></div>
       Check your qualifications
@@ -57,7 +57,7 @@ backlink: "../"
     <a href="./if-you-need-to-get-the-right-qualifications#if-your-degree-is-not-in-the-subject-you-want-to-teach">If your degree is not in the subject you want to teach</a>
   </div>
 
-  <div class="steps-header" onclick="toggleCollapsable(2)">
+  <div class="steps-header" id="step-2" onclick="toggleCollapsable(2)">
     <h1>
       <div class="steps-header__number"><span>2</span></div>
       Find out about funding
@@ -83,7 +83,7 @@ backlink: "../"
     </p>
   </div>
 
-  <div class="steps-header"  onclick="toggleCollapsable(3)">
+  <div class="steps-header" id="step-3" onclick="toggleCollapsable(3)">
     <h1>
       <div class="steps-header__number"><span>3</span></div>
       Ways to train
@@ -131,7 +131,7 @@ backlink: "../"
    
   </div>
 
-  <div class="steps-header"  onclick="toggleCollapsable(4)">
+  <div class="steps-header" id="step-4" onclick="toggleCollapsable(4)">
     <h1>
       <div class="steps-header__number"><span>4</span></div>
       Application process
