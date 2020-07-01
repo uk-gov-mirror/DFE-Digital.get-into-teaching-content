@@ -6,15 +6,18 @@ backlink: "../../"
 
 
 <div class="content__right">
-  <ul class="content-nav">
-    <li><span><a href="#helens-story">From senior associate lawyer to assistant headteacher</a></span></li>
-    <li><span><a href="#owens-story">Owen's rapid career ascent</a></span></li>
-    <li><span><a href="#pauls-story">Climbing the career ladder</a></span></li>
-    <li><span><a href="#jons-story">Leaping to head of department</a></span></li>
-    <li><span><a href="#sarahs-story">From NQT to Head of Biology in two years</a></span></li>
-    <li><span><a href="#ollys-story">The rapid career climber</a></span></li>
-    <li><span><a href="#karens-story">Karen Falcon, Head of Geography</a></span></li>
+  <div class="link-block link-block--jump">
+    <h2 class="link-block__header">On this page:</h2>
+    <ul class="link-block__list">
+      <li><span><a href="#helens-story">From senior associate lawyer to assistant headteacher</a></span></li>
+      <li><span><a href="#owens-story">Owen's rapid career ascent</a></span></li>
+      <li><span><a href="#pauls-story">Climbing the career ladder</a></span></li>
+      <li><span><a href="#jons-story">Leaping to head of department</a></span></li>
+      <li><span><a href="#sarahs-story">From NQT to Head of Biology in two years</a></span></li>
+      <li><span><a href="#ollys-story">The rapid career climber</a></span></li>
+      <li><span><a href="#karens-story">Karen Falcon, Head of Geography</a></span></li>
     </ul>
+  </div>
 </div>
 
 <div class="content__left">

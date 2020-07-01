@@ -5,12 +5,15 @@ backlink: "../"
 ---
 
 <div class="content__right">
-  <ul class="content-nav">
-    <li><span><a href="#bursaries-and-scholarships">Bursaries and scholarships</a></span></li>
-    <li><span><a href="#get-student-finance">Get student finance</a></span></li>
-    <li><span><a href="#get-financial-help-if-youre-a-parent-a-carer-or-you-have-a-disability">Get financial help if you’re a parent, a carer or you have a disability</a></span></li>
-    <li><span><a href="#applying-for-funding-if-you-live-outside-england">Applying for funding if you live outside England</a></span></li>
-  </ul>
+  <div class="link-block link-block--jump">
+    <h2 class="link-block__header">On this page:</h2>
+    <ul class="link-block__list">
+      <li><a href="#bursaries-and-scholarships">Bursaries and scholarships</a></li>
+      <li><a href="#get-student-finance">Get student finance</a></li>
+      <li><a href="#get-financial-help-if-youre-a-parent-a-carer-or-you-have-a-disability">Get financial help if you’re a parent, a carer or you have a disability</a></li>
+      <li><a href="#applying-for-funding-if-you-live-outside-england">Applying for funding if you live outside England</a></li>
+    </ul>
+  </div>
 </div>
 
 <div class="content__left">

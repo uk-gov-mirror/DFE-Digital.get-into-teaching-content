@@ -5,12 +5,14 @@ backlink: "../"
 ---
  
  <div class="content__right">
-  <ul class="content-nav">
-    <li><span><a href="school-experience">School experience</a></span></li>
-    <li><span><a href="ways-to-train">Your training options</a></span></li>
-    <li><span><a href="choose-a-course-with-a-send-specialism">Teaching children with special education needs and/or disabilities (SEND)</a></span></li>
-   
-  </ul>
+  <div class="link-block link-block--related">
+    <h2 class="link-block__header">Related Content:</h2>
+    <ul class="link-block__list">
+      <li><span><a href="school-experience">School experience</a></span></li>
+      <li><span><a href="ways-to-train">Your training options</a></span></li>
+      <li><span><a href="choose-a-course-with-a-send-specialism">Teaching children with special education needs and/or disabilities (SEND)</a></span></li>
+    </ul>
+  </div>
 </div>
  
  
