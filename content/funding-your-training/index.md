@@ -42,7 +42,7 @@ backlink: "../"
 
   <a href="/mailinglist/register/1">
     <div class="media-cta">
-      <img src="/assets/images/cta-2.jpg">
+      <img src="/assets/images/cta-2.jpg" alt="">
       <div>
         Find out more about your financial options <i class="fas fa-chevron-right"></i>
       </div>
