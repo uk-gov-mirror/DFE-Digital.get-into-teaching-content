@@ -20,7 +20,7 @@ backlink: "../"
 
   <a href="/mailinglist/register/1">
     <div class="media-cta">
-      <img src="/assets/images/cta-1.jpg">
+      <img src="/assets/images/cta-1.jpg" alt="">
       <div>
         Find out more about a day in the life of a teacher <i class="fas fa-chevron-right"></i>
       </div>

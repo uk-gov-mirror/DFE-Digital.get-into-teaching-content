@@ -10,8 +10,9 @@ backlink: "../"
 
 <div class="content__left">
     <h1>Impact of COVID-19 on teacher training</h1>
-    <h3>This page was updated on 5 June 2020, and will continue to be updated as new guidance is issued.</h3>
+    <h1>This page was updated on 5 June 2020, and will continue to be updated as new guidance is issued.</h1>
     <p>
+        <br/>
         For more information about the government response to coronavirus (COVID-19), please visit <a href="https://www.gov.uk/coronavirus">GOV.UK</a>.
     </p>
     <p>
@@ -24,10 +25,10 @@ backlink: "../"
     
     
     
-   <h2>Advice for current trainees</h2>
+   <h1>Advice for current trainees</h1>
         <p>If you are a current trainee teacher and would like information on how COVID-19 might affect your course, please contact your provider. This also applies if you are on an assessment only route.</p>
         
-   <h2>Impact of COVID-19 on applicants</h2>
+   <h1>Impact of COVID-19 on applicants</h1>
         <p>If you are applying for a course starting from September 2020, find out what you need to know about the impact of COVID-19 on preparing and submitting your application.</p>
 
 <p><strong>Q. What if I cannot attend school experience prior to interview?</strong></p>
@@ -51,7 +52,7 @@ backlink: "../"
         <p>A. Although global travel, including to the UK, is affected by coronavirus, we still encourage you to take the steps to becoming a teacher in England.</p> 
         <p>Check your country’s advice to keep up to date with travel restrictions. The UK government has also published guidance about what to do if you need a visa to travel to the UK and has an immigration helpline. If you’ve already started applying for a course, contact the training providers - they’ll be able to advise you on how coronavirus is affecting recruitment to their courses.</p>
         
-   <h3>GCSE and equivalency tests</h3>
+   <h1>GCSE and equivalency tests</h1>
         <p><strong>Q. Because of coronavirus, I have been unable to sit my GCSE or equivalency test as scheduled. Will this mean I cannot meet the entry criteria to start a course in September 2020?</strong></p>
        <p> A. Providers are permitted to take account of other evidence of attainment. In the first instance, if you think you can provide evidence that you can demonstrate a standard equivalent to GCSE grade 4 in one or more of the required subjects (English, mathematics, and additionally a science subject for primary), you should check your eligibility with your chosen provider. Providers may offer opportunities for you to demonstrate the standard through, for example, equivalency tests.</p>
         <p>If you cannot provide the required evidence as a consequence of the coronavirus outbreak, providers have temporary flexibility to allow you to start a course. You will need to submit this evidence by 30 November 2020 in order to continue on and complete the course. Candidates should check with their respective providers.</p>
