@@ -40,7 +40,7 @@ backlink: "../"
       </h1>
     </div>
     <div id="collapsable-content-1" class="collapsable" data-target="accordion.content">
-      <h4>If you have a degree</h4>
+      <h1>If you have a degree</h1>
       <p>
         If you want to teach in a primary or secondary school you can apply for postgraduate initial teacher training (ITT) to give you qualified teacher status (QTS).  This usually takes a year, unless you study part-time.  All ITT courses include a minimum of 24 weeks in school - usually two schools or more.
       </p>
@@ -88,13 +88,13 @@ backlink: "../"
       </h1>
     </div>
     <div id="collapsable-content-3" class="collapsable" data-target="accordion.content">
-    <h4>Get school experience</h4>
+    <h1>Get school experience</h1>
   <p>Before you commit to a teacher training course, you might like to get some valuable experience in a school and find out what it’s really like to become a teacher.</p>  
   <p>This isn’t compulsory, but most teacher training providers will want you to have it and it will look good on your application.</p>
 
   <a href="school-experience">Find out more about school experience</a>
 
-  <h4>Find your way to train</h4>
+  <h1>Find your way to train</h1>
 
   <p>To work as a teacher in state schools in England, you’ll need ‘Qualified Teacher Status’ (QTS).</p>
 
@@ -110,7 +110,7 @@ backlink: "../"
   <a href="ways-to-train">Find out more about different ways to train</a>
 
 
-  <h4>Teaching children with special educational needs and/or disabilities (SEND)</h4>
+  <h1>Teaching children with special educational needs and/or disabilities (SEND)</h1>
       <p>
         All teaching courses with QTS include training on working with pupils with SEND.
       </p>
