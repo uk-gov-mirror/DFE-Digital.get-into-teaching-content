@@ -14,9 +14,11 @@ backlink: "../"
 
   <p>In addition to the day job you can get involved in after-school activities, clubs, trips or sport.</p>
 
-  <p><a href="real-stories">My story into teaching</a></p>
-
-  <p><a href="teachers-salaries-and-benefits">Salaries and other financial benefits</a></p>
+  <p>
+    <a class="content-link-secondary" href='real-stories'>My story into teaching <i class="fas fa-chevron-right"></i></a>
+    <br/><br/>
+    <a class="content-link-secondary" href='teachers-salaries-and-benefits'>Salaries and other financial benefits <i class="fas fa-chevron-right"></i></a>
+  </p>
 
   <a href="/mailinglist/register/1">
     <div class="media-cta">
