@@ -49,13 +49,14 @@ backlink: "../../"
 
 <h2>If you’re a UK national returning to teaching in England from overseas</h2> 
 
-We’re improving life for teachers in England by working with schools to:
+<p>We’re improving life for teachers in England by working with schools to:</p>
 
-reduce workload
-improve behaviour
-introduce flexible working 
+<ul>
+  <li>reduce workload</li>
+  <li>improve behaviour</li>
+  <li>introduce flexible working</li> 
 
-We can give you one-to-one support if you’re returning to teach modern foreign languages, maths or physics. You can <a href="">sign up to talk to a teacher training adviser</a>.
+<p>We can give you one-to-one support if you’re returning to teach modern foreign languages, maths or physics. You can <a href="">sign up to talk to a teacher training adviser</a>.</p>
 
 <h3>Read about Katie's return to teaching in England after working at an international school in China</h2>
 
