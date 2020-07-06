@@ -54,11 +54,12 @@ backlink: "../../"
 <ul>
   <li>reduce workload</li>
   <li>improve behaviour</li>
-  <li>introduce flexible working</li> 
+  <li>introduce flexible working</li>
+  </ul>
 
 <p>We can give you one-to-one support if you’re returning to teach modern foreign languages, maths or physics. You can <a href="">sign up to talk to a teacher training adviser</a>.</p>
 
-<h3>Read about Katie's return to teaching in England after working at an international school in China</h2>
+<h3>Read about Katie's return to teaching in England after working at an international school in China</h3>
 
 <p><strong>Why did you decide to come back to teach in England?</strong></p> 
 <p>I wanted to move back to England to be closer to my partner.  The main thing I missed about teaching in England was the curriculum and approach to teaching and learning.  We’re so fortunate to have so many research-based educators here who share their ideas at exciting events like ResearchEd. I missed being at the cutting edge of educational research, like I felt I had been when working in London.</p>
