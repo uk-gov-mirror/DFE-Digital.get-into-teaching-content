@@ -18,6 +18,7 @@ backlink: "../../"
   <li>reduce workload</li>
   <li>improve behaviour</li>
   <li>introduce flexible working</li>
+</ul>
   
 <p>Read the <a href="">UK government guidance on returning to teaching in England</a> for more information.</p>
 
