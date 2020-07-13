@@ -165,7 +165,7 @@ jobs:
 
       - name: Accessibility Scan
         run: |-
-             docker run -t --rm -v $(PWD)/.accessibility.file:/app/.accessibility.file dfedigital/accessibility_crawler:v1 --file '/app/.accessibility.file'
+             docker run -t --rm -v ${PWD}/.accessibility.file:/app/.accessibility.file dfedigital/accessibility_crawler:v1 --file '/app/.accessibility.file'
 
       - name:  Send Message to Sentry.io
         if: always()
