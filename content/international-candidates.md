@@ -4,6 +4,14 @@ image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"
 ---
 <div class="content__right">
+  <div class="link-block link-block--jump">
+    <h2 class="link-block__header">On this page:</h2>
+    <ul class="link-block__list">
+      <li><a href="#international-teacher-training-applicants">International teacher training applicants</a></li>
+      <li><a href="#international-qualified-teachers">International qualified teachers</a></li>
+      <li><a href="#UK-nationals-returning-to-teaching-in-England-from-overseas">UK nationals returning to teaching in England from overseas</a></li>
+    </ul>
+  </div>
 </div>
 
 <div class="content__left">
@@ -32,9 +40,9 @@ backlink: "../../"
 </ul>
 
 
-<p>Read the <a href="">UK government guidance on teaching in England as an international candidate</a> for more information.</p>
+<p>Read the <a href="" target="_blank">UK government guidance on teaching in England as an international candidate</a> for more information.</p>
 
-<h2>International teacher training applicants</h2>
+<h2 id="international-teacher-training-applicants">International teacher training applicants</h2>
 
 <h3>If you have an overseas degree</h3>
 
@@ -45,7 +53,7 @@ backlink: "../../"
 
 <p>Contact the school or university you want to train with to find out more.</p>
 
-<h2>International qualified teachers</h2>
+<h2 id="international-qualified-teachers">International qualified teachers</h2>
 
 <p>If you're an international qualified teacher looking to teach in England, you may need to gain <a href="https://www.gov.uk/government/collections/qualified-teacher-status-qts">Qualified Teacher Status(QTS)</a> depending on the type of school you want to teach in.</p>
 
@@ -57,7 +65,7 @@ backlink: "../../"
  
 <p>To find out if you need to apply for a visa, read the <a href="https://www.gov.uk/browse/visas-immigration/work-visas" target="_blank">UK government’s guidance on work visas</a>.</p>
  
-<h2>UK nationals returning to teaching in England from overseas</h2> 
+<h2 id="UK-nationals-returning-to-teaching-in-England-from-overseas">UK nationals returning to teaching in England from overseas</h2> 
 
 <p>The Department for Education are improving life for teachers in England by working with schools to:</p>
 
