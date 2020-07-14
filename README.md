@@ -27,6 +27,9 @@ The combined image is then deployed through to GovUK PAAS via Github Actions.
 
 ## DevOps
 
+### Accessibility Scanning
+On Deployment to the Development environment (master branch) the [Accessibility Scanner](https://github.com/DFE-Digital/accessibility-scanner) will be run, carrying out a11y accessibility checks on a list of URLS. The list can be amended using the file .accessibility.file
+
 ### OWASP Scanning
 On deployment to the development environment the web url is scanned using [ZAP Scanner](https://github.com/marketplace/actions/owasp-zap-full-scan). The scanner is controlled by a rules file stored in .zap/rules.tsv.   Ideally there should be no rules supressed but intially it has been agreed to resolve them at a slower pace. The scanner will produce an artifact in the output of the running action (zap_scan.zip), by downloading this file and reading the contents it is possible to see what vulnerabilities have beeen detected.
 The following rules have been added:
