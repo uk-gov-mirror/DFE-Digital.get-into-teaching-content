@@ -71,7 +71,7 @@ backlink: "../../"
 
 <ul>
   <li>the Department for Education are improving life for teachers in England</li>
-  <li>you can receive one-to-one support if you’re returning to teach modern foreign languages, maths or physics</p>
+  <li>you can receive one-to-one support if you’re returning to teach modern foreign languages, maths or physics</li>
   <li>you can get inspiration from stories about people who have already returned to teaching</li>
   </ul>
 
