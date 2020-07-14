@@ -67,17 +67,14 @@ backlink: "../../"
  
 <h2 id="UK-nationals-returning-to-teaching-in-England-from-overseas">UK nationals returning to teaching in England from overseas</h2> 
 
-<p>The Department for Education are improving life for teachers in England by working with schools to:</p>
+<p>Read more about <a href="returning-to-teaching">returning to teaching in England</a> and see how:</p>
 
 <ul>
-  <li>reduce workload</li>
-  <li>improve behaviour</li>
-  <li>introduce flexible working</li>
-</ul>
+  <li>the Department for Education are improving life for teachers in England</li>
+  <li>you can receive one-to-one support if you’re returning to teach modern foreign languages, maths or physics</p>
+  <li>you can get inspiration from stories about people who have already returned to teaching</li>
+  </ul>
 
-<p>We can give you one-to-one support if you’re returning to teach modern foreign languages, maths or physics.</p> 
-
-<p><a href="" target="_blank">Sign up to talk to an adviser</a> to see how we can help you return to teaching.</p>
   
 
 
