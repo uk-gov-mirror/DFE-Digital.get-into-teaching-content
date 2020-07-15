@@ -40,7 +40,7 @@ backlink: "../"
   </p>
 
  
-      <h1>If you have a degree</h1>
+  <h1>If you have a degree</h1>
       <p>
         If you want to teach in a primary or secondary school you can apply for postgraduate initial teacher training (ITT) to give you qualified teacher status (QTS).  This usually takes a year, unless you study part-time.  All ITT courses include a minimum of 24 weeks in school - usually two schools or more.
       </p>
