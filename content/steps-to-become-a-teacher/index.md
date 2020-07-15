@@ -24,13 +24,13 @@ backlink: "../"
   <p>If you're unsure whether your qualification is equivalent to a degree, you can <a href="#talk-to-us">talk to us, or chat online</a>.</p> 
 
  <p>
-    <a href="./if-you-need-to-get-the-right-qualifications#if-you-dont-have-a-degree">If you do not have a degree</a>
+    Here's what you need to do if you:
   </p>
 
   <ul>
-  
-  <li><a href="/international-candidates">If you have an overseas degree</a></li>
-  <li><a href="/returning-to-teaching">If you are returning to teach in England</a></li>
+  <li><a href="./if-you-need-to-get-the-right-qualifications#if-you-dont-have-a-degree">do not have a degree</a>
+  <li><a href="/international-candidates">have an overseas degree</a></li>
+  <li><a href="/returning-to-teaching">are returning to teach in England</a></li>
   </ul>
   
  <p>If you want to teach in a fee-paying or private school, the rules may be different. You’ll need to check with the school you want to teach at.</p>
