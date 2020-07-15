@@ -31,10 +31,9 @@ backlink: "../"
   
   <li><a href="/international-candidates">If you have an overseas degree</a></li>
   <li><a href="/returning-to-teaching">If you are returning to teach in England</a></li>
-  <li>If you want to teach in a fee-paying or private school, the rules may be different. You’ll need to check with the school you want to teach at.</li>
   </ul>
   
-
+ <p>If you want to teach in a fee-paying or private school, the rules may be different. You’ll need to check with the school you want to teach at.</p>
  
   <h1>If you have a degree</h1>
       <p>
