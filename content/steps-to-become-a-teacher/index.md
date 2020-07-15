@@ -28,7 +28,7 @@ backlink: "../"
   </p>
 
   <ul>
-  <li><a href="./if-you-need-to-get-the-right-qualifications#if-you-dont-have-a-degree">do not have a degree</a>
+  <li><a href="./if-you-need-to-get-the-right-qualifications#if-you-dont-have-a-degree">do not have a degree</a></li>
   <li><a href="/international-candidates">have an overseas degree</a></li>
   <li><a href="/returning-to-teaching">are returning to teach in England</a></li>
   </ul>
