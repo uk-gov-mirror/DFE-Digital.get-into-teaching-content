@@ -9,7 +9,6 @@ backlink: "../../"
     <h2 class="link-block__header">On this page:</h2>
     <ul class="link-block__list">
       <li><span><a href="#if-you-dont-have-a-degree">If you don’t have a degree</a></span></li>
-      <li><span><a href="#if-you-have-an-overseas-degree">If you have an overseas degree</a></span></li>
       <li><span><a href="#if-your-degree-is-not-in-the-subject-you-want-to-teach">If your degree is not in the subject you want to teach</a></span></li>
       <li><span><a href="#specialist-ways-to-get-into-teaching">Specialist ways to get into teaching</a></span></li>
     </ul>
@@ -20,13 +19,13 @@ backlink: "../../"
 <div class="content__left">
 
 
-<p class="content-alert">To train as a teacher in England you need to have a degree.</p>
+<p class="content-alert">To train as a teacher in England you need to have a degree or equivalent qualification.</p>
 
 <p>Here is what you need to do if you:</p>
 
   <ul>
   <li><span>don’t have a degree</span></li>
-  <li><span>have an overseas degree</span></li>
+  <li><span><a href="/international-candidates">have an overseas degree</a></span></li>
   </ul>
 
 <p>You may also want to find out about other <a href="#specialist-ways-to-get-into-teaching">specialist ways to get into teaching</a> and how to <a href="./choose-a-course-with-a-send-specialism">teach children with special educational needs and/or disabilities</a>.</p>
@@ -48,19 +47,6 @@ backlink: "../../"
 <p>Sign up to get support from a teacher training adviser, who can help you with your personal statement, which funding you can get and how to complete your application.</p>
 
 <p><a href="https://register.getintoteaching.education.gov.uk/register" target="_blank">Sign up for a teacher training adviser</a>
-
-
-
-<h2 id="if-you-have-an-overseas-degree">If you have an overseas degree</h2>
-
-<p>If you studied overseas, you’ll need to find out if your qualifications are recognised in the UK. Contact us on 0800 389 2500 for advice.</p>
-
-<p>We can also give you a free UK National Recognition Information Centre (UK NARIC) statement to show what your qualifications are equivalent to in the UK.</p>
-
-<p>If you’re a graduate from outside the European Economic Area (EEA), you may need to apply for a visa before starting your teacher training course.</p>
-
-<p>Contact the school or university you want to train with to find out.</p>
-
 
 
 <h2 id="if-your-degree-is-not-in-the-subject-you-want-to-teach">If your degree is not in the subject you want to teach</h2>
