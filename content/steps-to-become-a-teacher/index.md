@@ -9,11 +9,11 @@ backlink: "../"
 
 <div class="content__left">
 
-<p class="content-alert">To become a primary or secondary school teacher in England you will need to have a degree, or equivalent.</p>
+<p id="step-1" class="content-alert">To become a primary or secondary school teacher in England you will need to have a degree, or equivalent.</p>
 
   
  <div data-controller="accordion">
-  <div class="steps-header" id="step-1" data-action="click->accordion#toggle" data-target="accordion.header">
+  <div class="steps-header" data-action="click->accordion#toggle" data-target="accordion.header">
       <h1>
         <div class="steps-header__number"><span>1</span></div>
         Check your qualifications
