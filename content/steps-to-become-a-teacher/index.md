@@ -27,17 +27,13 @@ backlink: "../"
     <a href="./if-you-need-to-get-the-right-qualifications#if-you-dont-have-a-degree">If you do not have a degree</a>
   </p>
 
-  <p>
-    <a href="/international-candidates">If you have an overseas degree</a>
-  </p>
+  <ul>
   
-  <p>
-    <a href="/returning-to-teaching">If you are returning to teach in England</a>
-  </p>
-
-  <p>
-    If you want to teach in a fee-paying or private school, the rules may be different. You’ll need to check with the school you want to teach at.
-  </p>
+  <li><a href="/international-candidates">If you have an overseas degree</a></li>
+  <li><a href="/returning-to-teaching">If you are returning to teach in England</a></li>
+  <li>If you want to teach in a fee-paying or private school, the rules may be different. You’ll need to check with the school you want to teach at.</li>
+  </ul>
+  
 
  
   <h1>If you have a degree</h1>
