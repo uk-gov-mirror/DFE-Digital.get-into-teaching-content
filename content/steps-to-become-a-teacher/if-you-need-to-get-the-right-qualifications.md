@@ -26,7 +26,7 @@ backlink: "../../"
   <li><span>want to find out the other ways to train as a teacher</span></li>
   </ul>
 
-<p>You may also want to find out about other <a href="#specialist-ways-to-get-into-teaching">other ways to get into teaching</a> and how to <a href="./choose-a-course-with-a-send-specialism">teach children with special educational needs and/or disabilities</a>.</p>
+<p>You may also want to find out how to <a href="">teach children with special educational needs and/or disabilities</a>.</p>
 
 
 <h2 id="if-you-dont-have-a-degree">If you don’t have a degree</h2>
