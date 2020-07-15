@@ -8,18 +8,19 @@ backlink: "../"
 </div>
 
 <div class="content__left">
+
+<p class="content-alert">To become a primary or secondary school teacher in England you will need to have a degree, or equivalent.</p>
+
   
-   <div data-controller="accordion">
-    <div class="steps-header" id="step-1" data-action="click->accordion#toggle" data-target="accordion.header">
+ <div data-controller="accordion">
+  <div class="steps-header" id="step-1" data-action="click->accordion#toggle" data-target="accordion.header">
       <h1>
         <div class="steps-header__number"><span>1</span></div>
         Check your qualifications
         <i id="collapsable-icon-1" class="fas fa-chevron-up"></i>
       </h1>
-    </div>
-    <div id="collapsable-content-1" class="collapsable" data-target="accordion.content">
-  
-  <p class="content-alert">To become a primary or secondary school teacher in England you will need to have a degree, or equivalent.</p>
+  </div>
+  <div id="collapsable-content-1" class="collapsable" data-target="accordion.content">
 
   <p>If you're unsure whether your qualification is equivalent to a degree, you can <a href="#talk-to-us">talk to us, or chat online</a>.</p> 
 
