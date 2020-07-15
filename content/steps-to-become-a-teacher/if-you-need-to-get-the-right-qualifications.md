@@ -60,33 +60,7 @@ backlink: "../../"
   <li><span>it’s been some time since you used your degree knowledge</span></li>
   </ul>
 
-<p>You can do an SKE course in:</p>
-
-  <ul>
-  <li><span>maths</span></li>
-  <li><span>physics</span></li>
-  <li><span>languages</span></li>
-  <li><span>chemistry</span></li>
-  <li><span>computer studies</span></li>
-  <li><span>biology</span></li>
-  <li><span>English</span></li>
-  <li><span>geography</span></li>
-  <li><span>design and technology</span></li>
-  <li><span>religious education</span></li>
-  <li><span>primary maths</span></li>
-  </ul>
-
-<p>Courses last between 8 and 28 weeks. SKE courses are funded, so you will not have to pay any tuition fees. You may also be eligible for a bursary of £5,600 for a 28-week course or £2,400 for a shorter course of 12 weeks.</p>
-
-<p>They can be:</p>
-<ul>
-  <li><span>completed before or alongside ITT courses</span></li>
-  <li><span>offered online, through distance learning, face-to-face or a mixture of these approaches</span></li>
-</ul>
-
-<p>Usually, a training provider will make sitting a SKE a ‘condition’ of taking up your offer of a teacher training place.</p>
-
-<p>If you think an SKE course will help you, contact the schools or universities you want to apply to for more information.</p>
+<p>If you want more information, read the <a href="">UK government guidance on SKE courses</a>.</p>
 
 <h2 id="specialist-ways-to-get-into-teaching">Specialist ways to get into teaching</h2>
 
