@@ -9,29 +9,7 @@ backlink: "../"
 
 <div class="content__left">
   
-  <p class="content-alert">To become a primary or secondary school teacher in England you will need to have a degree.</p>
-
-  <p>For equivalent qualifications, you’ll need to confirm your qualification is equivalent to a degree.</p>
-
-  <p>If you're unsure, you can chat online with us or call us on Freephone 0800 389 2500.</p> 
-
-  <p>
-    You will then need to take a teaching qualification called initial teacher training (ITT). ITT gives you qualified teacher status (QTS). You will need QTS to work as a teacher in state schools in England.
-  </p>
-  
-  <p>
-    <a href="./if-you-need-to-get-the-right-qualifications#if-you-dont-have-a-degree">If you do not have a degree</a>
-  </p>
-
-  <p>
-    <a href="./if-you-need-to-get-the-right-qualifications#if-you-have-an-overseas-degree">If you have an overseas degree</a>
-  </p>
-
-  <p>
-    If you want to teach in a fee-paying or private school, the rules may be different. You’ll need to check with the type of school you want to teach at.
-  </p>
-
-  <div data-controller="accordion">
+   <div data-controller="accordion">
     <div class="steps-header" id="step-1" data-action="click->accordion#toggle" data-target="accordion.header">
       <h1>
         <div class="steps-header__number"><span>1</span></div>
@@ -40,18 +18,43 @@ backlink: "../"
       </h1>
     </div>
     <div id="collapsable-content-1" class="collapsable" data-target="accordion.content">
+  
+  <p class="content-alert">To become a primary or secondary school teacher in England you will need to have a degree, or equivalent.</p>
+
+  <p>If you're unsure whether your qualification is equivalent to a degree, you can <a href="#talk-to-us">talk to us, or chat online</a>.</p> 
+
+ <p>
+    <a href="./if-you-need-to-get-the-right-qualifications#if-you-dont-have-a-degree">If you do not have a degree</a>
+  </p>
+
+  <p>
+    <a href="/international-candidates">If you have an overseas degree</a>
+  </p>
+  
+  <p>
+    <a href="/returning-to-teaching">If you are returning to teach in England</a>
+  </p>
+
+  <p>
+    If you want to teach in a fee-paying or private school, the rules may be different. You’ll need to check with the school you want to teach at.
+  </p>
+
+ 
       <h1>If you have a degree</h1>
       <p>
         If you want to teach in a primary or secondary school you can apply for postgraduate initial teacher training (ITT) to give you qualified teacher status (QTS).  This usually takes a year, unless you study part-time.  All ITT courses include a minimum of 24 weeks in school - usually two schools or more.
       </p>
       <p>
-        To study for ITT, you’ll need:
+        To study for ITT, you’ll need these qualifications or their equivalents:
       </p>
-      <ul>
-        <li><span>grade 4 (C) or above in English and maths GCSE</span></li>
-        <li><span>science GCSE grade 4 (C) or above, if you want to teach at primary school</span></li>
-      </ul>
-      <p>
+      
+   <ul>
+      <li>English GCSE grade 4 (C) or above</li>
+      <li>Maths GCSE grade 4 (C) or above</li>
+      <li>Science GCSE grade 4 (C) or above if you want to teach in primary education</li>
+  </ul>
+  
+   <p>
         If you do not have the required GCSEs, you’ll need to show that you have an equivalent level of education.
       </p>
       <a href="./if-you-need-to-get-the-right-qualifications#if-your-degree-is-not-in-the-subject-you-want-to-teach">If your degree is not in the subject you want to teach</a>
