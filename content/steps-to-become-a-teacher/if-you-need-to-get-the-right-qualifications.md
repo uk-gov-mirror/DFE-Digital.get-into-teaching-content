@@ -1,5 +1,5 @@
 ---
-title: "If you need to get the right qualifications"
+title: "Get what you need to teach"
 image: "/assets/images/steps-to-teacher-header.jpg"
 backlink: "../../"
 ---
@@ -10,7 +10,7 @@ backlink: "../../"
     <ul class="link-block__list">
       <li><span><a href="#if-you-dont-have-a-degree">If you don’t have a degree</a></span></li>
       <li><span><a href="#if-your-degree-is-not-in-the-subject-you-want-to-teach">If your degree is not in the subject you want to teach</a></span></li>
-      <li><span><a href="#specialist-ways-to-get-into-teaching">Specialist ways to get into teaching</a></span></li>
+      <li><span><a href="#specialist-ways-to-get-into-teaching">Other ways to get into teaching</a></span></li>
     </ul>
   </div>
 </div>
@@ -18,17 +18,15 @@ backlink: "../../"
 
 <div class="content__left">
 
-
-<p class="content-alert">To train as a teacher in England you need to have a degree or equivalent qualification.</p>
-
-<p>Here is what you need to do if you:</p>
+<p>Use this page if you:</p>
 
   <ul>
   <li><span>don’t have a degree</span></li>
-  <li><span><a href="/international-candidates">have an overseas degree</a></span></li>
+    <li><span>want to teach a subject that you didn't study at university</span></li>
+  <li><span>want to find out the other ways to train as a teacher</span></li>
   </ul>
 
-<p>You may also want to find out about other <a href="#specialist-ways-to-get-into-teaching">specialist ways to get into teaching</a> and how to <a href="./choose-a-course-with-a-send-specialism">teach children with special educational needs and/or disabilities</a>.</p>
+<p>You may also want to find out about other <a href="#specialist-ways-to-get-into-teaching">other ways to get into teaching</a> and how to <a href="./choose-a-course-with-a-send-specialism">teach children with special educational needs and/or disabilities</a>.</p>
 
 
 <h2 id="if-you-dont-have-a-degree">If you don’t have a degree</h2>
@@ -62,7 +60,7 @@ backlink: "../../"
 
 <p>If you want more information, read the <a href="">UK government guidance on SKE courses</a>.</p>
 
-<h2 id="specialist-ways-to-get-into-teaching">Specialist ways to get into teaching</h2>
+<h2 id="specialist-ways-to-get-into-teaching">Other ways to get into teaching</h2>
 
 <h3>School Direct salaried places</h3>
 
