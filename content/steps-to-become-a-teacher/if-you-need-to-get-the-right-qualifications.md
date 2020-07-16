@@ -6,13 +6,14 @@ backlink: "../../"
 
 <div class="content__right">
 <h2 class="link-block__header">On this page:</h2>
+  
 <ul class="link-block__list">
   <li><span><a href="#if-you-dont-have-a-degree">If you don’t have a degree</a></span></li>
   <li><span><a href="#if-your-degree-is-not-in-the-subject-you-want-to-teach">If your degree is not in the subject you want to teach</a></span></li>
   <li><span><a href="#specialist-ways-to-get-into-teaching">Specialist ways to get into teaching</a></span></li>
     </ul>
   </div>
-</div>
+
 
 <div class="content__left">
 </div>
@@ -37,7 +38,9 @@ backlink: "../../"
 
 <h2 id="if-your-degree-is-not-in-the-subject-you-want-to-teach">If your degree is not in the subject you want to teach</h2>
 
-<p>If you need to top up your knowledge of the subject you want to teach, you could take a subject knowledge enhancement course (SKE). An SKE may be right for you if:</p>
+<p>If you need to top up your knowledge of the subject you want to teach, you could take a subject knowledge enhancement course (SKE).</p> 
+  
+ <p>An SKE may be right for you if:</p>
 
   <ul>
   <li><span>your degree is not in the subject you want to teach, but is related</span></li>
