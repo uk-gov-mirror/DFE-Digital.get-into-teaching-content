@@ -16,7 +16,7 @@ backlink: "../../"
 
 
 <div class="content__left">
-</div>
+
 
 <h2 id="if-you-dont-have-a-degree">If you don’t have a degree</h2>
 
@@ -79,5 +79,5 @@ backlink: "../../"
 
 
 <p><a href="https://www.gov.uk/find-postgraduate-teacher-training-courses" target="_blank">Find a school-led teacher training course</a></p>
-
+</div>
 
