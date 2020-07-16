@@ -5,10 +5,10 @@ backlink: "../../"
 ---
 
 <div class="content__right">
-<div class="link-block link-block--jump">
 </div>
 
 <div class="content__left">
+  
     
  <h2 class="link-block__header">On this page:</h2>
 
