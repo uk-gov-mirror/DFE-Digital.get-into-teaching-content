@@ -5,17 +5,16 @@ backlink: "../../"
 ---
 
 <div class="content__right">
-<div class="content__left">
-  
-    
- <h2 class="link-block__header">On this page:</h2>
-
+<h2 class="link-block__header">On this page:</h2>
 <ul class="link-block__list">
   <li><span><a href="#if-you-dont-have-a-degree">If you don’t have a degree</a></span></li>
   <li><span><a href="#if-your-degree-is-not-in-the-subject-you-want-to-teach">If your degree is not in the subject you want to teach</a></span></li>
   <li><span><a href="#specialist-ways-to-get-into-teaching">Specialist ways to get into teaching</a></span></li>
     </ul>
   </div>
+</div>
+
+<div class="content__left">
 </div>
 
 <h2 id="if-you-dont-have-a-degree">If you don’t have a degree</h2>
