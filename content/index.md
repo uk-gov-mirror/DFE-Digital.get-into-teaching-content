@@ -27,7 +27,7 @@ As a newly qualified teacher, Paul was keen to move up the teaching career ladde
 <div class="panel-bottom"></div>
 
 <div class="panel panel-sign-up-for-advisor" markdown="1">
-[![Get advice from a teacher training advisor](/assets/images/advice-from-tta.png)](https://register.getintoteaching.education.gov.uk/register)
+[![Get advice from a teacher training advisor](/assets/images/advice-from-tta.png)](https://beta-adviser-getintoteaching.education.gov.uk/)
 
 Sign up and get advice on how to take your next steps into teaching
 
