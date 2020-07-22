@@ -20,14 +20,14 @@ backlink: "../"
     <a class="content-link-secondary" href='teachers-salaries-and-benefits'>Salaries and other financial benefits <i class="fas fa-chevron-right"></i></a>
   </p>
 
-  <a href="/mailinglist/register/1">
+  <!--<a href="/mailinglist/register/1">
     <div class="media-cta">
       <img src="/assets/images/cta-1.jpg" alt="">
       <div>
         Find out more about a day in the life of a teacher <i class="fas fa-chevron-right"></i>
       </div>
     </div>
-  </a>
+  </a>-->
 
   <h2>Career progression</h2>
   <p>Training to be a teacher will give you the opportunities to add to your professional skills and help you achieve your ambitions.</p>
