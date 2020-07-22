@@ -62,7 +62,7 @@ backlink: "../"
         ***
        <p> For more information about the government response to coronavirus (COVID-19), please visit <a href="https://www.gov.uk/coronavirus" target="_blank">GOV.UK</a>.</p>
         <p>If you have another question, not covered here, please <a href="https://getintoteaching.education.gov.uk#talk-to-us" target="_blank">get in touch</a>.</p>
-        <p>We have been working closely across government to <a href="https://www.gov.uk/government/publications/coronavirus-covid-19-initial-teacher-training-itt" target="_blank">develop guidance on COVID-19</a> and its impact on Initial Teacher Training, and the <a href="https://www.gov.uk/government/publications/initial-teacher-training-criteria"> target="_blank" amended ITT criteria</a>.</p> 
+        <p>We have been working closely across government to <a href="https://www.gov.uk/government/publications/coronavirus-covid-19-initial-teacher-training-itt" target="_blank">develop guidance on COVID-19</a> and its impact on Initial Teacher Training, and the <a href="https://www.gov.uk/government/publications/initial-teacher-training-criteria" target="_blank"> amended ITT criteria</a>.</p> 
     
 
 </div>
