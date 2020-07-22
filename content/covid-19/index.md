@@ -33,7 +33,7 @@ backlink: "../"
         <p>Applicants should wait to be contacted by the providers for specific guidance.</p>
         <p><strong>Q. Do I need to have school experience?</strong></p>
         <p>A. Getting some classroom experience can help you decide whether teaching is right for you. It is not an entry requirement for Initial Teacher Training.</p>
-<p>You can search and sign up through our Get School Experience service.</p>
+<p>You can search and sign up through our <a href="https://schoolexperience.education.gov.uk/" target="_blank">Get school experience service</a>.</p>
 <p><strong>Can I get school experience from September?</strong></p>
 <p>Some schools are offering the opportunity for ITT candidates to undertake school experience both in school and virtually.</p>
         <p><strong>Q. Does the 40-day rule for making decisions about ITT applications still apply?</strong></p>
