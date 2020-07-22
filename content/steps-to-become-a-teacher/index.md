@@ -106,7 +106,7 @@ backlink: "../"
   <li><span>how long you want to train for</span></li>
   </ul>
 
-  <a href="ways-to-train">Find out more about different ways to train</a>
+  <a href="https://beta-getintoteaching.education.gov.uk/guidance#5" target="_blank">Find out more about different ways to train</a>
 
 
   <h1>Teaching children with special educational needs and/or disabilities (SEND)</h1>
@@ -116,7 +116,7 @@ backlink: "../"
       <p>
         You could also specialise in supporting children with SEND.
       </p>
-      <a href="./choose-a-course-with-a-send-specialism">Find out how to specialise in SEND</a>
+      <a href="https://beta-getintoteaching.education.gov.uk/guidance#5" target="_blank">Find out how to specialise in SEND</a>
     </div>
     <div class="steps-header" id="step-4" data-action="click->accordion#toggle" data-target="accordion.header">
       <h1>
