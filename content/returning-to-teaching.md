@@ -20,7 +20,7 @@ backlink: "../../"
   <li>introduce flexible working</li>
 </ul>
   
-<p>For more detailed information read the <a href="">UK government guidance on returning to teaching in England</a>.</p>
+<p>For more detailed information read the <a href="https://beta-getintoteaching.education.gov.uk/guidance#9">UK government guidance on returning to teaching in England</a>.</p>
 
 <p>If you're a returning maths, physics or modern languages teacher, we can offer you one-to-one support from a teacher training adviser.</p>
 
