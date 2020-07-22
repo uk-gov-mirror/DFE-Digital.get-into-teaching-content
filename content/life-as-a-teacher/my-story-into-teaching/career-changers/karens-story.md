@@ -49,19 +49,31 @@ backlink: "../../"
     <h1 class="more-stories_header strapline">More stories</h1>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
-            <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
-            <p>Embracing a new challenge</p>
-            <a href="#">Read Peter's story</a>
+            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            </a>
+            <div class="more-stories__thumbs__thumb__content">
+                <p>Embracing a new challenge</p>
+                <a class="git-link" href="#">Read Peter's story  <i class="fas fa-chevron-right"></i></a>
+            </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
-            <p>Embracing a new challenge</p>
-            <a href="#">Read Peter's story</a>
+            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            </a>
+            <div class="more-stories__thumbs__thumb__content">
+                <p>Embracing a new challenge</p>
+                <a class="git-link" href="#">Read Peter's story  <i class="fas fa-chevron-right"></i></a>
+            </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
-            <p>Embracing a new challenge</p>
-            <a href="#">Read Peter's story</a>
+            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            </a>
+            <div class="more-stories__thumbs__thumb__content">
+                <p>Embracing a new challenge</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">Read Peter's story <i class="fas fa-chevron-right"></i></a>
+            </div>
         </div>
     </div>
 </div>
