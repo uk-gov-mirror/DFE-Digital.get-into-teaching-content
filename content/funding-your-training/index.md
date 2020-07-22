@@ -27,7 +27,7 @@ backlink: "../"
 
   <p>You could get a bursary of up to £26,000 or apply for a scholarship of up to £28,000.</p>
 
-  <p><a href="bursaries-and-scholarships">Find out more about bursaries and scholarships</a></p>
+  <p><a href="https://beta-getintoteaching.education.gov.uk/guidance#4">Find out more about bursaries and scholarships</a></p>
 
 
 
@@ -36,18 +36,18 @@ backlink: "../"
 
   <p>You can apply for a tuition fee loan of up to £9,250 to cover the full cost of your course fees and a maintenance loan of up to £11,672 to help with your living costs.</p>
 
-  <p><a href="student-finance">Find out more about student finance</a></p> 
+  <p><a href="https://beta-getintoteaching.education.gov.uk/guidance#4">Find out more about student finance</a></p> 
 
   <p>Use the <a href="https://www.gov.uk/student-finance-calculator" target="_blank">student finance calculator on GOV.UK</a> to find out how much you can get.</p>
 
-  <a href="/mailinglist/register/1">
+ <!-- <a href="/mailinglist/register/1">
     <div class="media-cta">
       <img src="/assets/images/cta-2.jpg" alt="">
       <div>
         Find out more about your financial options <i class="fas fa-chevron-right"></i>
       </div>
     </div>
-  </a>
+  </a>-->
 
   <h2 id="get-financial-help-if-youre-a-parent-a-carer-or-you-have-a-disability">Get financial help if you’re a parent, a carer or you have a disability</h2>
 
@@ -62,7 +62,7 @@ backlink: "../"
     <li><span>Adult Dependants’ Grant</span></li>
   </ul>
   
-  <p><a href="financial-help">Find out more about financial help for parents, carers and people with disabilities</a></p>
+  <p><a href="https://beta-getintoteaching.education.gov.uk/guidance#4">Find out more about financial help for parents, carers and people with disabilities</a></p>
   
 
 
@@ -77,7 +77,7 @@ backlink: "../"
 
   <p>If you live outside the UK or EU/EEA, you can get advice about training to be a teacher by using the Teacher Training Adviser Service.</p>
 
-  <p><a href="funding-outside-england">Find out how to apply for funding if you live outside England</a></p>
+  <p><a href="https://beta-getintoteaching.education.gov.uk/guidance#4">Find out how to apply for funding if you live outside England</a></p>
   
 </div>
 
