@@ -40,7 +40,7 @@ backlink: "../../"
 </ul>
 
 
-<p>Read the <a href="" target="_blank">UK government guidance on teaching in England as an international candidate</a> for more information.</p>
+<p>Read the <a href="https://beta-getintoteaching.education.gov.uk/guidance#10" target="_blank">UK government guidance on teaching in England as an international candidate</a> for more information.</p>
 
 <h2 id="international-teacher-training-applicants">International teacher training applicants</h2>
 
@@ -55,7 +55,7 @@ backlink: "../../"
 
 <h2 id="international-qualified-teachers">International qualified teachers</h2>
 
-<p>If you're an international qualified teacher looking to teach in England, you may need to gain <a href="https://www.gov.uk/government/collections/qualified-teacher-status-qts">Qualified Teacher Status(QTS)</a> depending on the type of school you want to teach in.</p>
+<p>If you're an international qualified teacher looking to teach in England, you may need to gain <a href="https://www.gov.uk/government/collections/qualified-teacher-status-qts" target="_blank">Qualified Teacher Status(QTS)</a> depending on the type of school you want to teach in.</p>
 
 <p>You may be eligible to join the UK government-run International Teacher Recruitment Programme (ITRP).</p>
   
