@@ -1,5 +1,5 @@
 ---
-title: "Getting our 'geek' on:kids coding"
+title: "No two days are the same"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"
 ---
@@ -9,40 +9,45 @@ backlink: "../../"
     </div>
     <div class="content__left">
         <div class="stories">
-            <h1>Getting our 'geek' on:kids coding</h1>
+            <h1>No two days are the same</h1>
             <div class="story-header">
                 <div class="story-header__thumb" style="background-image:url('/assets/images/stories-karen.png')"></div>
                 <div class="story-header__label">
-                    <h2>Tarik Reghif,<br/> career changer</h2>
+                    <h2>Gavin McIntyre,<br/> assistant headteacher</h2>
                 </div>
             </div>
             
    <p class="prominent">
-               I am a ‘geek’ and have always been passionate about computing. It’s a professional outlet that helped me develop a fabulously varied and exciting career, which included travelling the world.
+              I am an assistant headteacher and ICT learning co-ordinator and have an MSc in computing and information systems. I had always been open to the idea of teaching as a potential career path – so I took the plunge when I moved from Northern Ireland to England. 
             </p>
+            
+   <h3>Steep learning curve</h3>
+<p>Teacher training proved to be a steep learning curve for me.
+
             
   <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>During this time I felt that something was missing, and the pull towards teaching became harder to resist.<span class="icon-quote quote-close"></span></h1>
-                    <h2>Tarik</h2>
+                    <h1>One thing I’ve realised is that when you’re training to be a teacher, it’s okay to make mistakes.<span class="icon-quote quote-close"></span></h1>
+                    <h2>Gavin</h2>
                 </div>
-                
-   <h3>Bye CEO, hi kids</h3>
-<p>In teaching, instead of working for a CEO, you’re working for the kids. This is what drives you to put in the hours and the effort. The reward you’re getting at the end of it is the kids actually learning and creating things independently.</p>
+                <p>Making mistakes allows you to develop strategies, techniques, and skills which you can apply to your teaching.</p>
+
 
                 
   </div>
                  
                  
-  <p>The great thing about the training is the amount of time I’ve been able to spend with the class and the amount of control I’ve had. I’ve been able to make my own decisions and see where that takes me. Being in charge of a class allows you to be really hands-on.</p>
+  <p>Now I am fully qualified, I find working with young students and seeing them realise their own potential is powerful. They test you with their desire to learn and their ability to challenge your own thinking by posing questions that you haven’t even thought of.</p>
+<h3>Positive learning environment: an on-going challenge</h3>
+<p>The classroom changes by the hour and working with different age ranges and abilities means you have to keep a fresh outlook on your subject in order to create an engaging and positive learning environment. In the course of a normal day, most teachers would deliver lessons to over 100 students with different interests and learning needs.</p>
+<p>Working with different students of all ages is what makes teaching so rewarding and exciting, though maintaining a positive learning environment is an ongoing challenge.</p>
+<h3>Part of a team</h3>
+<p>Teaching and learning does not stop with the bell at the end of the school day. Getting involved with extracurricular activities can be extremely rewarding – this is balanced with marking and planning for the next set of lessons.</p>
+<p> Learning and reflecting on your own practice becomes paramount to your development as a teacher. Seeking out new strategies and advice from colleagues is an ongoing process that ensures your own learning evolves.</p>
+<p>Students are amazing to work with, they’re funny and inquisitive – they challenge you to spark their interest in your subject. Being part of a learning community is a wholly worthwhile experience that cannot be measured in monetary terms or student achievement alone.</p>
 
-<h3>Introducing scratch</h3>
-<p>When I started teaching I was introduced to new tools that I’d never encountered before in my computing career. Scratch is a fantastic example of a program which explores the fundamentals of programming and provides a visual means to learn programming. Seeing some of the things it inspires the class to create is mind-blowing.</p>
-<h3>Quiet in class</h3>
-<p>The best thing about teaching, and computing in particular, is being able to have the satisfaction of a totally quiet class, when everyone is content to work away.</p>
-<p>All of a sudden you hear a student go ‘Yes!’ as their program starts working. There’s the excitement and the joy of when they finally figure something out and they have a program which they can be proud of.</p>
-<p>You go into a class and suddenly you’ve got 30 faces looking at you, all hoping to learn something exciting. It really changes your view from ‘Let’s see what we can do to satisfy the customer’ to ‘Let’s see what we can do to inspire’.</p>
+
 
 
 
@@ -87,6 +92,8 @@ backlink: "../../"
         </div>
     </div>
 </div>
+
+
 
 
 
