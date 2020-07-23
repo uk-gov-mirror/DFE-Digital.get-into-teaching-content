@@ -83,6 +83,11 @@ jobs:
             wget -O ${{ env.CF_PROVIDER_DIR }} https://github.com/cloudfoundry-community/terraform-provider-cf/releases/latest/download/terraform-provider-cloudfoundry_linux_amd64
             chmod +x ${{ env.CF_PROVIDER_DIR }}
 
+      - name: Wait for any previous runs to complete
+        uses: softprops/turnstyle@v1
+        env:
+           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Terraform Init
         if: github.ref == 'refs/heads/master'
         run: |
