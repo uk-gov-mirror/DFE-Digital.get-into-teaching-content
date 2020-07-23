@@ -26,7 +26,6 @@ backlink: "../../"
                 <div class="quote-block">
                     <span class="icon-quote"></span>
                     <h1>The best parts of teaching for me are seeing that lightbulb moment when a child suddenly understands something they didn't before.<span class="icon-quote quote-close"></span></h1>
-                    <h2>Karen</h2>
                 </div>
                 <p>
                     Making the decision to leave an established career wasn’t easy, and I had to be sure Iwas making the right decision. I went to a ‘train to teach roadshow’, taking the opportunity to speak to experienced teachers, schools and universities that offer teacher training and fellow professionals seeking to establish a new career in teaching.
