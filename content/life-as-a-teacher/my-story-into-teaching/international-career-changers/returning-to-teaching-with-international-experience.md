@@ -1,5 +1,5 @@
 ---
-title: "Karen's story"
+title: "Returning to teaching with international experience"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"
 ---
@@ -18,16 +18,14 @@ backlink: "../../"
             </div>
             
    <p class="prominent">
-                After four years of teaching modern foreign languages in London, I decided to try something different. I moved to China to teach in an international school. 
+                After four years of teaching modern foreign languages in London, I decided to try something different. I moved to China to teach in an international school, but after a while, I wanted to move back to England to be closer to my partner. 
             </p>
-            <p>
-                I wanted to move back to England to be closer to my partner. The main thing I missed about teaching in England was the curriculum and approach to teaching and learning.
-            </p>
-            <div>
+            
+  <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>The best parts of teaching for me are seeing that lightbulb moment when a child suddenly understands something they didn't before.<span class="icon-quote quote-close"></span></h1>
-                    <h2>Karen</h2>
+                    <h1>The main thing I missed about teaching in England was the curriculum and approach to teaching and learning.<span class="icon-quote quote-close"></span></h1>
+                    <h2>Katie</h2>
                 </div>
                 <p>
                     We’re fortunate to have so many research-based educators here who share their ideas at exciting events like ResearchEd. I missed being at the cutting edge of educational research, like I felt I had been while working in London.
