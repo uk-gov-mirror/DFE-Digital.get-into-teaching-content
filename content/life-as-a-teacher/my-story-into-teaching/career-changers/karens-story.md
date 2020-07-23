@@ -16,6 +16,14 @@ backlink: "../../"
                     <h2>Karen Roberts, <br/>languages teacher</h2>
                 </div>
             </div>
+            <a href="https://www.youtube.com/watch?v=MLdrZJpK5rU" target="_blank" data-action="click->video#play" data-target="video.link">
+                <div class="content-video">
+                    <img src="/assets/images/stories-karen-video.png" alt="Helen's story">
+                    <div class="content-video__play">
+                        <div class="icon-play"></div>
+                    </div>
+                </div>
+            </a>
             <p class="prominent">
                 Karen is a French and Spanish teacher at Norbury Manor Business Enterprise College for Girls. Despite having enjoyed a successful career as the director of two large market research agencies, she'd always harboured a long-term ambition to teach. This desire to make a difference ultimately inspired her to train on a School Direct course.
             </p>
@@ -46,7 +54,7 @@ backlink: "../../"
 </div>
 
 <div class="more-stories">
-    <h1 class="more-stories_header strapline">More stories </h1>
+    <h1 class="more-stories_header strapline">More stories</h1>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
