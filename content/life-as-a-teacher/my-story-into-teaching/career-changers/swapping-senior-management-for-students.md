@@ -1,5 +1,5 @@
 ---
-title: "Karen's story"
+title: "Swapping senior management for students"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"
 ---
@@ -17,10 +17,10 @@ backlink: "../../"
                 </div>
             </div>
             <p class="prominent">
-                Karen is a French and Spanish teacher at Norbury Manor Business Enterprise College for Girls. Despite having enjoyed a successful career as the director of two large market research agencies, she'd always harboured a long-term ambition to teach. This desire to make a difference ultimately inspired her to train on a School Direct course.
+                I am a French and Spanish teacher at Norbury Manor Business Enterprise College for Girls. I was a director of a large market research agency, but I had always always harboured a long-term ambition to teach.
             </p>
             <p>
-                "I'd always had teaching in mind," says Karen, "because I'd really enjoyed the work I'd done with young people and children in my previous job. I felt a spark and the creativity that comes with that. I wanted to become a teacher for that reason but also because of the passion and enthusiasm I have for languages, which I wanted to pass on."
+         I’d always had teaching in mind, because I’d really enjoyed the work I’d done with young people and children in my previous job. I felt a spark and the creativity that comes with that. I wanted to become a teacher for that reason but also because of the passion and enthusiasm I have for languages, which I wanted to pass on.
             </p>
             <div>
                 <div class="quote-block">
@@ -29,17 +29,14 @@ backlink: "../../"
                     <h2>Karen</h2>
                 </div>
                 <p>
-                    Making the decision to leave an established career wasn't easy, so Karen wanted to do some research to ensure she was making the right decision. She initially attended a Train to Teach Roadshow, taking the opportunity to speak to experienced teachers, schools and universities that offer teacher training and fellow professionals seeking to establish a new career in teaching.
+                    Making the decision to leave an established career wasn’t easy, and I had to be sure Iwas making the right decision. I went to a ‘train to teach roadshow’, taking the opportunity to speak to experienced teachers, schools and universities that offer teacher training and fellow professionals seeking to establish a new career in teaching.
                 </p>
             </div>
             <p>
-                "I'd assumed that my age would be a barrier, but it absolutely wasn't," she recalls, "everybody was very welcoming and said, ‘You're absolutely not too old to become a teacher, we're looking for people like you'." 
+               I’d assumed that my age would be a barrier, but it absolutely wasn’t. Everybody was very welcoming and said, ‘You’re absolutely not too old to become a teacher, we’re looking for people like you’.
             </p>
             <p>
-                Karen then set about researching her options on the Get Into Teaching website, finding out about how to arrange school experience so she could get a feel for teaching. Getting this taste for what the profession has to offer galvanised her determination to teach, so she set about investigating her options. 
-            </p>
-            <p> 
-                When reflecting on her decision to change careers, Karen has nothing but words of encouragement for those thinking of doing the same: "It's really rewarding. You will find it very varied, very challenging and you'll find it intellectually stimulating because it will make you think about your subject in a different way. Definitely do it. I don't regret it for a moment."
+                I arranged school experience so I could get a feel for teaching. It’s really rewarding. You will find it very varied, very challenging and you’ll find it intellectually stimulating because it will make you think about your subject in a different way. Definitely do it. I don’t regret it for a moment.
             </p>
         </div>
     </div>
