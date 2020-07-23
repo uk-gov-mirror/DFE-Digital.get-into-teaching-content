@@ -77,7 +77,7 @@ backlink: "../../"
             </a>
             <div class="more-stories__thumbs__thumb__content">
                 <p>Returning to teaching with support from an adviser</p>
-                <a class="git-link" href="returning-to-teaching-with-help-from-an-adviser">Read Shaun's story  <i class="fas fa-chevron-right"></i></a>
+                <a class="git-link" href="returning-to-teaching-with-support-from-an-adviser">Read Shaun's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
