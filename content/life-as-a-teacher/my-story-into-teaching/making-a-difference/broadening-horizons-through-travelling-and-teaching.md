@@ -29,7 +29,7 @@ backlink: "../../"
                 <div class="quote-block">
                     <span class="icon-quote"></span>
                     <h1>I preferred the environment and the type of learning that went on in primary schools. I think you get to know the child a bit more because you’re teaching a range of different subjects.<span class="icon-quote quote-close"></span></h1>
-                    <h2>Craig</h2>
+                    
                 </div>
                 
    
