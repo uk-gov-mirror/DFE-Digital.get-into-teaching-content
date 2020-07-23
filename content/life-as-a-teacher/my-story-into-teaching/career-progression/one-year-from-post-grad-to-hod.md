@@ -11,7 +11,7 @@ backlink: "../../"
         <div class="stories">
             <h1>One year from Post Grad to Head of Department</h1>
             <div class="story-header">
-                <div class="story-header__thumb" style="background-image:url('/assets/images/stories-karen.png')"></div>
+                <div class="story-header__thumb" style="background-image:url('/assets/images/stories/stories-own.jpg')"></div>
                 <div class="story-header__label">
                     <h2>Dr Owen Mather, <br/>Leader of teaching standards</h2>
                 </div>

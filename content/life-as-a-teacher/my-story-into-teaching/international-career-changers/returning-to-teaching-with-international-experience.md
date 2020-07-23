@@ -11,7 +11,7 @@ backlink: "../../"
         <div class="stories">
             <h1>Returning to teaching with international experience</h1>
             <div class="story-header">
-                <div class="story-header__thumb" style="background-image:url('/assets/images/stories-karen.png')"></div>
+                <div class="story-header__thumb" style="background-image:url('/assets/images/stories/stories-katie.png')"></div>
                 <div class="story-header__label">
                     <h2>Katie Lockett,<br> Head of Faculty</h2>
                 </div>

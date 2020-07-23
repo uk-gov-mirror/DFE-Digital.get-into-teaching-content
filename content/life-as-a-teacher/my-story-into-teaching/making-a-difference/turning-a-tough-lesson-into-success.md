@@ -11,7 +11,7 @@ backlink: "../../"
         <div class="stories">
             <h1>Turning a tough lesson into a success</h1>
             <div class="story-header">
-                <div class="story-header__thumb" style="background-image:url('/assets/images/stories-karen.png')"></div>
+                <div class="story-header__thumb" style="background-image:url('/assets/images/stories/stories-danny.jpg')"></div>
                 <div class="story-header__label">
                     <h2>Danny Holliday,<br/> physical education (PE) teacher</h2>
                 </div>
