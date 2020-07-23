@@ -28,10 +28,11 @@ backlink: "../../"
                     <h2>Katie</h2>
                 </div>
                 <p>
-                    We’re fortunate to have so many research-based educators here who share their ideas at exciting events like ResearchEd. I missed being at the cutting edge of educational research, like I felt I had been while working in London.
+                    We’re fortunate to have so many research-based educators here who share their ideas at exciting events like ResearchEd.</p>
+    <p>I missed being at the cutting edge of educational research, like I felt I had been while working in London.<br/>
                 </p>
             </div>
-            <p>I started looking for jobs in January. I looked in the normal places like ETeach and TES.</p>
+            <p>I started looking for jobs in January. I looked in the normal places like ETeach and TES.</p><br/>
 
 <h3>Interviews from a distance</h3>
             <p>Before I applied, I always emailed the head teacher of the school to ask if they would consider international applicants and if they would interview me on Skype.</p>
@@ -76,7 +77,7 @@ backlink: "../../"
             </a>
             <div class="more-stories__thumbs__thumb__content">
                 <p>Returning to teaching with support from an adviser</p>
-                <a class="git-link" href="#">Read Shaun's story  <i class="fas fa-chevron-right"></i></a>
+                <a class="git-link" href="returning-to-teaching-with-help-from-an-adviser">Read Shaun's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
