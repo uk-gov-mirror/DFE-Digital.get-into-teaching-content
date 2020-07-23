@@ -13,7 +13,7 @@ backlink: "../../"
             <div class="story-header">
                 <div class="story-header__thumb" style="background-image:url('/assets/images/stories-karen.png')"></div>
                 <div class="story-header__label">
-                    <h2>Clarie Johnson, <br/>physics teacher</h2>
+                    <h2>Claire Johnson, <br/>physics teacher</h2>
                 </div>
             </div>
             <p class="prominent">
