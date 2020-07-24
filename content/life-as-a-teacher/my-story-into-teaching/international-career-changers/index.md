@@ -20,94 +20,21 @@ backlink: "../../"
 <div class="more-stories">
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
-            <a href="https://www.youtube.com/watch?v=MLdrZJpK5rU" target="_blank" data-action="click->video#play" data-target="video.link">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/returning-to-teaching-with-international-experience">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-katie.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="#">Read Peter's story  <i class="fas fa-chevron-right"></i></a>
-            </div>
-            <div class="more-stories__thumbs__thumb__play">
-                <div class="icon-play"></div>
+                <p>Returning to teaching with international experience</p>
+                <a class="git-link" href="#">Read Katie's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/returning-to-teaching-with-support-from-an-adviser">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-shaun.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="#">Read Peter's story  <i class="fas fa-chevron-right"></i></a>
-            </div>
-        </div>
-        <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
-            </a>
-            <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">Read Peter's story <i class="fas fa-chevron-right"></i></a>
-            </div>
-        </div>
-    </div>
-    <div class="more-stories__thumbs">
-        <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
-            </a>
-            <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="#">Read Peter's story  <i class="fas fa-chevron-right"></i></a>
-            </div>
-        </div>
-        <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
-            </a>
-            <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="#">Read Peter's story  <i class="fas fa-chevron-right"></i></a>
-            </div>
-        </div>
-        <div class="more-stories__thumbs__thumb">
-            <a href="https://www.youtube.com/watch?v=MLdrZJpK5rU" target="_blank" data-action="click->video#play" data-target="video.link">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
-            </a>
-            <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">Read Peter's story <i class="fas fa-chevron-right"></i></a>
-            </div>
-            <div class="more-stories__thumbs__thumb__play">
-                <div class="icon-play"></div>
-            </div>
-        </div>
-    </div>
-    <div class="more-stories__thumbs">
-        <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
-            </a>
-            <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="#">Read Peter's story  <i class="fas fa-chevron-right"></i></a>
-            </div>
-        </div>
-        <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
-            </a>
-            <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="#">Read Peter's story  <i class="fas fa-chevron-right"></i></a>
-            </div>
-        </div>
-        <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
-            </a>
-            <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">Read Peter's story <i class="fas fa-chevron-right"></i></a>
+                <p>Returning to teaching with support from an adviser</p>
+                <a class="git-link" href="#">Read Shaun's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
     </div>
