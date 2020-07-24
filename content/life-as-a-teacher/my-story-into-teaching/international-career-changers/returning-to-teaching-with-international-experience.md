@@ -32,6 +32,7 @@ backlink: "../../"
     <p>I missed being at the cutting edge of educational research, like I felt I had been while working in London.<br/>
                 </p>
             </div>
+            <br/>
             <p>I started looking for jobs in January. I looked in the normal places like ETeach and TES.</p><br/>
 
 <h3>Interviews from a distance</h3>
@@ -73,7 +74,7 @@ backlink: "../../"
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-support-from-an-adviser">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-shaun.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
                 <p>Returning to teaching with support from an adviser</p>
