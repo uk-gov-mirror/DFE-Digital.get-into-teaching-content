@@ -1,4 +1,4 @@
----Becoming a mum sparked my interest in teaching"
+---"Becoming a mum sparked my interest in teaching"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"
 ---
