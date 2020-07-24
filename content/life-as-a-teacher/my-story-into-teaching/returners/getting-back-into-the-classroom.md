@@ -55,29 +55,29 @@ backlink: "../../"
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-support-from-an-adviser">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-shaun.jpg')"></div>
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-shaun.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
                 <p>Returning to teaching with support from an adviser</p>
-                <a class="git-link" href="returning-to-teaching-with-support-from-an-adviser">Read Shaun's story  <i class="fas fa-chevron-right"></i></a>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-support-from-an-adviser">Read Shaun's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/swapping-senior-management-for-students">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.jpg')"></div>
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-karen.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
                 <p>Swapping senior management for students</p>
-                <a class="git-link" href="#">Read Karen's story  <i class="fas fa-chevron-right"></i></a>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/swapping-senior-management-for-students">Read Karen's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/broadening-horizons-through-travelling-and-teaching">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-craig.jpg')"></div>
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-craig.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
                 <p>Broadening horizons through travelling and teaching</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">Read Craig's story <i class="fas fa-chevron-right"></i></a>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/broadening-horizons-through-travelling-and-teaching">Read Craig's story <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
     </div>
