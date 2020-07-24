@@ -13,7 +13,7 @@ backlink: "../../"
             <div class="story-header">
                 <div class="story-header__thumb" style="background-image:url('/assets/images/stories/stories-zainab.jpg')"></div>
                 <div class="story-header__label">
-                    <h2>Zainab Kasmani,</br>Trainee primary school teacher</h2>
+                    <h2>Zainab Kasmani,<br>Trainee primary school teacher</h2>
                 </div>
             </div>
             <p class="prominent">
