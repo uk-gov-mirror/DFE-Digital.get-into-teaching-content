@@ -46,11 +46,11 @@ backlink: "../../"
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-zainab.jpg')"></div>
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-craig.jpgg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>School experience helped me decide to switch</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">Read Zainab's story  <i class="fas fa-chevron-right"></i></a>
+                <p>Broadening horizons through travelling and teaching</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/broadening-horizons-through-travelling-and-teaching">Read Craig's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
