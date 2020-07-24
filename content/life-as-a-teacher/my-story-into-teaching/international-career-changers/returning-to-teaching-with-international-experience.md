@@ -25,7 +25,7 @@ backlink: "../../"
                 <div class="quote-block">
                     <span class="icon-quote"></span>
                     <h1>The main thing I missed about teaching in England was the curriculum and approach to teaching and learning.<span class="icon-quote quote-close"></span></h1>
-                    <h2>Katie</h2>
+                    
                 </div>
                 <p>
                     We’re fortunate to have so many research-based educators here who share their ideas at exciting events like ResearchEd.</p>
