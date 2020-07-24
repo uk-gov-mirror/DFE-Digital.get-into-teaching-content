@@ -26,7 +26,7 @@ backlink: "../../"
                     <span class="icon-quote"></span>
                     <h1>The main thing I missed about teaching in England was the curriculum and approach to teaching and learning.<span class="icon-quote quote-close"></span></h1>
                     
-                </div>
+  </div>
                 <p>
                     We’re fortunate to have so many research-based educators here who share their ideas at exciting events like ResearchEd.</p>
     <p>I missed being at the cutting edge of educational research, like I felt I had been while working in London.<br/>
@@ -74,29 +74,29 @@ backlink: "../../"
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-support-from-an-adviser">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-shaun.jpg')"></div>
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-shaun.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
                 <p>Returning to teaching with support from an adviser</p>
-                <a class="git-link" href="returning-to-teaching-with-support-from-an-adviser">Read Shaun's story  <i class="fas fa-chevron-right"></i></a>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-support-from-an-adviser">Read Shaun's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/police-officer-to-pe-teacher">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-victoria.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="#">Read Peter's story  <i class="fas fa-chevron-right"></i></a>
+                <p>Police officer to PE teacher</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/police-officer-to-pe-teacher">Read Victoria's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/getting-our-geek-on-kids-coding">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-tarik.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">Read Peter's story <i class="fas fa-chevron-right"></i></a>
+                <p>Getting our 'geek' on:kids coding</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/getting-our-geek-on-kids-coding">Read Tarik's story <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
     </div>
