@@ -11,7 +11,7 @@ backlink: "../../"
         <div class="stories">
             <h1>Swapping senior management for students</h1>
             <div class="story-header">
-                <div class="story-header__thumb" style="background-image:url('/assets/images/stories-karen.png')"></div>
+                <div class="story-header__thumb" style="background-image:url('/assets/images/stories/stories-jon.jpg')"></div>
                 <div class="story-header__label">
                     <h2>Jon Simmons,<br>Head of department</h2>
                 </div>
