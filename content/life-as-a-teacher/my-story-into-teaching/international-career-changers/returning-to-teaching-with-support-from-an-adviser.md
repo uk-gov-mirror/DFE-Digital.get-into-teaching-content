@@ -30,7 +30,7 @@ backlink: "../../"
                 <div class="quote-block">
                     <span class="icon-quote"></span>
                     <h1>I believe the advice for approaching the observed lesson was exceptional – I received lots of great ideas (especially for science practicals).<span class="icon-quote quote-close"></span></h1>
-                    <h2>Shaun</h2>
+                    
                 </div>
                 <p>
                     I think it’s very easy to try and do too much in an observed lesson and my adviser was great at identifying this and suggesting other approaches. I was also signposted to continuous professional development (CPD) opportunities that would help get me back into the classroom.
@@ -58,7 +58,7 @@ backlink: "../../"
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-katie.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
                 <p>Returning to teaching with international experience</p>
