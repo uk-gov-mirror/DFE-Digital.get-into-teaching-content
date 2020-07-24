@@ -25,7 +25,6 @@ backlink: "../../"
                 <div class="quote-block">
                     <span class="icon-quote"></span>
                     <h1>Being a mum, I realised that education in this country was more important to me than ever.<span class="icon-quote quote-close"></span></h1>
-                    <h2>Claire</h2>
                 </div>
                <p>
                   Whilst on maternity leave, I saw the advert for teacher training and saw that with my degree, I’d even get a bursary.
