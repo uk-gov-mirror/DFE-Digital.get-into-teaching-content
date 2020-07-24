@@ -77,7 +77,7 @@ backlink: "../../"
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers">
+            <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience">
                 <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-katie.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
