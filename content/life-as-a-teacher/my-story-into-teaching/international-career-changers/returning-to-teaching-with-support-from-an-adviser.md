@@ -58,29 +58,29 @@ backlink: "../../"
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-katie.jpg')"></div>
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-katie.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
                 <p>Returning to teaching with international experience</p>
-                <a class="git-link" href="#">Read Katie's story  <i class="fas fa-chevron-right"></i></a>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience">Read Katie's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/becoming-a-mum-sparked-my-interest">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-claire.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="#">Read Peter's story  <i class="fas fa-chevron-right"></i></a>
+                <p>Becoming a mum sparked my interest</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/becoming-a-mum-sparked-my-interest">Read Claire's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/career-progression/nqt-to-head-of-biology">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-sarah.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">Read Peter's story <i class="fas fa-chevron-right"></i></a>
+                <p>NQT to Head of Biology</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-progression/nqt-to-head-of-biology">Read Sarah's story <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
     </div>
