@@ -1,6 +1,6 @@
 ---
 title: "Swapping senior management for students"
-image: "/assets/images/karen.jpg"
+image: "/assets/images/stories/stories-karen.jpg"
 backlink: "../../"
 ---
 
