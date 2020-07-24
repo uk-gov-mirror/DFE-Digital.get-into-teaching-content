@@ -45,30 +45,30 @@ backlink: "../../"
     <h1 class="more-stories_header strapline">More stories</h1>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-craig.jpgg')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-support-from-an-adviser">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-shaun.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Broadening horizons through travelling and teaching</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/broadening-horizons-through-travelling-and-teaching">Read Craig's story  <i class="fas fa-chevron-right"></i></a>
+                <p>Returning to teaching with support from an adviser</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-support-from-an-adviser">Read Shaun's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-katie.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/police-officer-to-pe-teacher">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-victoria.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Returning to teach with international experience</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience">Read Katie's story  <i class="fas fa-chevron-right"></i></a>
+                <p>Police officer to PE teacher</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/police-officer-to-pe-teacher">Read Victoria's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-progression/lawyer-to-assistant-teacher">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-helen.jpg')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/getting-our-geek-on-kids-coding">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-tarik.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Lawyer to assistant headteacher</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-progression/lawyer-to-assistant-teacher">Read Helen's story <i class="fas fa-chevron-right"></i></a>
+                <p>Getting our 'geek' on:kids coding</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/getting-our-geek-on-kids-coding">Read Tarik's story <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
     </div>
