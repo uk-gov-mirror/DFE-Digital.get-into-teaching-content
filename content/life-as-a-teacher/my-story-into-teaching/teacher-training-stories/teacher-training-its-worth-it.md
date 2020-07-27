@@ -11,7 +11,7 @@ backlink: "../../"
         <div class="stories">
             <h1>Swapping senior management for students</h1>
             <div class="story-header">
-                <div class="story-header__thumb" style="background-image:url('/assets/images/stories/stories-hasina.jpg')"></div>
+                <div class="story-header__thumb" style="background-image:url('/assets/images/stories/stories-generic.jpg')"></div>
                 <div class="story-header__label">
                     <h2>Hasina Nizamee,<br>Teacher in training</h2>
                 </div>
@@ -25,7 +25,7 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>I also received a generous training bursary that has supported me throughout the duration of the course.<span class="icon-quote quote-close"></span></h1>
+                    <h1>I also received a generous training bursary that has supported me throughout the duration of the course<span class="icon-quote quote-close"></span></h1>
                 </div>
                 <p>
                     I had to demonstrate my potential as a teacher. I had to teach some year 7 students, and that was the best part of the interview! I would advise others to prepare well in advance and to plan your lesson in as much detail as you can – but most importantly, 'be yourself.'

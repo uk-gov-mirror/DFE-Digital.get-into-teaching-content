@@ -1,5 +1,5 @@
 ---
-title: "Making a Difference"
+title: "Making a difference"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"
 ---
@@ -9,10 +9,10 @@ backlink: "../../"
     </div>
     <div class="content__left">
         <p>
-            <a href="life-as-a-teacher/my-story-into-teaching/index">< All events</a>
+            <a href="/life-as-a-teacher/my-story-into-teaching/index">< All events</a>
         </p>
         <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          As a teacher, you can make a real difference to young people’s lives, as well as your own. Find out how these teachers are helping pupils realise their ambitions, and enjoying every moment.
         </p>
     </div>
 </div>
@@ -36,46 +36,46 @@ backlink: "../../"
                 <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="#">Read Peter's story  <i class="fas fa-chevron-right"></i></a>
+                <p>Broadening horizons through travelling and teaching</p>
+                <a class="git-link" href="#">Read Craig's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/broadening-horizons-through-travelling-and-teaching">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-craig.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">Read Peter's story <i class="fas fa-chevron-right"></i></a>
+                <p>Getting our 'geek' on: kids coding</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/getting-our-geek-on-kids-coding">Read Tarik's story <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
     </div>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/getting-our-geek-on-kids-coding">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-Tarik.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="#">Read Peter's story  <i class="fas fa-chevron-right"></i></a>
+                <p>Going back and giving back</p>
+                <a class="git-link" href="#">Read Sandra's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/going-back-and-giving-back">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-sandra.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="#">Read Peter's story  <i class="fas fa-chevron-right"></i></a>
+                <p>Inspiring our young entrepreneurs</p>
+                <a class="git-link" href="#">Read Laura's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <a href="https://www.youtube.com/watch?v=MLdrZJpK5rU" target="_blank" data-action="click->video#play" data-target="video.link">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/making-a-difference/inspiring-our-young-entrepreneur">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-laura.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">Read Peter's story <i class="fas fa-chevron-right"></i></a>
+                <p>No two days are the same</p>
+                <a class="git-link" href="/life-as-a-teacher/making-a-difference/no-two-days-are-the-same">Read Peter's story <i class="fas fa-chevron-right"></i></a>
             </div>
             <div class="more-stories__thumbs__thumb__play">
                 <div class="icon-play"></div>
