@@ -58,10 +58,10 @@ backlink: "../../"
 
 <h3>Advice for teachers planning to return to England</h3>
 <ul>
-<li>I’d always contact head teachers in advance of applying for jobs in the UK</li>
-<li>Engage with social media, blogs and education books to stay up-to-date while away</li>
-<li>Visit schools and attend conferences on your visits back to the UK</li>
-<li>Don’t worry about behaviour management - honestly, teenagers are teenagers everywhere!</li>
+<li><span>I’d always contact head teachers in advance of applying for jobs in the UK</span></li>
+<li><span>Engage with social media, blogs and education books to stay up-to-date while away</span></li>
+<li><span>Visit schools and attend conferences on your visits back to the UK</span></li>
+<li><span>Don’t worry about behaviour management - honestly, teenagers are teenagers everywhere!</span></li>
 </ul>
 
 
