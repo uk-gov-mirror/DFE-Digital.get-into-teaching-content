@@ -24,7 +24,7 @@ backlink: "../../"
         <p>
             <br/>
             If you are thinking of changing your career, you’re in good company. Every year, many people decide to move from 
-            other careers into teaching. You can see people who’ve chosen to switch career and make a difference to your people’s lives.
+            other careers into teaching. You can see people who’ve chosen to switch career and make a difference to young people’s lives.
         </p>
     </div>
 </div>
@@ -75,41 +75,40 @@ backlink: "../../"
     <div class="content__right">
     </div>
     <div class="content__left">
-        <h2>Stories from International career changers</h2>
+        <h2>Stories from International teachers</h2>
         <p>
             <br/>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-        </p>
+            See how candidates with international qualifications became teaachers in England and how already qualified teachers' returned to England from abroad, to get back into the profession.
     </div>
 </div>
 
 <div class="more-stories">
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/returning-to-teaching-with-international-experience">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-katie.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="#">Read Peter's story  <i class="fas fa-chevron-right"></i></a>
+                <p>Returning to teaching with international experience</p>
+                <a class="git-link" href="#">Read Katie's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <!a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/index">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-shaun.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="#">Read Peter's story  <i class="fas fa-chevron-right"></i></a>
+                <p>Returning to teaching with support from an adviser</p>
+                <a class="git-link" href="#">Read Shaun's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-support-from-an-adviser">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-shaun.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">Read Peter's story <i class="fas fa-chevron-right"></i></a>
+                <p>Returning to teaching wiht support from an adviser</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-support-from-an-adviser">Read Shaun's story <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
     </div>
@@ -120,7 +119,7 @@ backlink: "../../"
     </div>
     <div class="content__left">
         <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/index" class="call-to-action-button stories-call-to-action">
-            Read all stories from international career <span> changers</span>
+            Read all stories from international career<span> changers</span>
         </a>
     </div>
 </div>
@@ -132,7 +131,8 @@ backlink: "../../"
         <h2>Teacher training stories</h2>
         <p>
             <br/>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            It’s a great time to train to teach, with a wide array of training options and support available. Find out what you can expect
+            from current trainees and teachers. 
         </p>
     </div>
 </div>
@@ -187,7 +187,8 @@ backlink: "../../"
         <h2>Stories about making a difference</h2>
         <p>
             <br/>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            Teachers talk about making a real difference to pupils’ learning and lives - and the job satisfaction that comes with a career
+            in teaching. Find out how these teachers are helping pupils realise their ambitions, and enjoying every moment.
         </p>
     </div>
 </div>
