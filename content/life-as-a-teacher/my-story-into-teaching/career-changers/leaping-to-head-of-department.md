@@ -20,7 +20,7 @@ backlink: "../../"
                 After 6 years of working in the world of recruitment consultancy, I felt it was time for a new career and started to investigate a move into teaching.
             </p>
             <p>
-         I will admit I had some initial reservations about starting a new career, particularly the financial implications. It was a huge consideration – but was offset by having access to a bursary.
+                I will admit I had some initial reservations about starting a new career, particularly the financial implications. It was a huge consideration – but was offset by having access to a bursary.
             </p>
             <div>
                 <div class="quote-block">
@@ -37,24 +37,23 @@ backlink: "../../"
             <p>
                 The opportunity to highlight your skills and the positive impact you’ve had on your school will aid your progression.
             </p>
-        </div>
-    </div>
-     <div>
+            <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
                     <h1>Without the bursary, I would still be in my old career. I simply wouldn’t have been able to maintain my rent and loans, and pay university fees.<span class="icon-quote quote-close"></span></h1>
                 </div>
                 <p>
-                   One year, I double jumped up the pay range and with extra responsibilities - you can achieve additional increases to your salary.
+                    One year, I double jumped up the pay range and with extra responsibilities - you can achieve additional increases to your salary.
                 </p>
             </div>
             <p>
-               I am still currently progressing further in my teaching career. My advice is to be active in what you do outside of the classroom and try to get involved in school initiatives as soon as possible.
+                I am still currently progressing further in my teaching career. My advice is to be active in what you do outside of the classroom and try to get involved in school initiatives as soon as possible.
             </p>
             <p>
-               It’s a privilege to play a big part in a young person’s life. A good teacher is crucial to a young person’s development. Let’s face it; we all have at least one story of our favourite teacher going above and beyond to help us when we were at school.
+                It’s a privilege to play a big part in a young person’s life. A good teacher is crucial to a young person’s development. Let’s face it; we all have at least one story of our favourite teacher going above and beyond to help us when we were at school.
             </p>
         </div>
+    </div>
 </div>
 
 <div class="more-stories">
