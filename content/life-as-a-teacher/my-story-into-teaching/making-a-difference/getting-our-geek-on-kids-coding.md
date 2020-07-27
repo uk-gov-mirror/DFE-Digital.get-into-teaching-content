@@ -1,5 +1,5 @@
 ---
-title: "Getting our 'geek' on:kids coding"
+title: "Getting our 'geek' on: kids coding"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"
 ---
