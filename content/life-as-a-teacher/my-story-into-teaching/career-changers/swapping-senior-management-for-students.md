@@ -16,6 +16,9 @@ backlink: "../../"
                     <h2>Karen Roberts, <br/>languages teacher</h2>
                 </div>
             </div>
+            <div class="stories__video">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/riY-1DUkLVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
             <p class="prominent">
                 I am a French and Spanish teacher at Norbury Manor Business Enterprise College for Girls. I was a director of a large market research agency, but I had always always harboured a long-term ambition to teach.
             </p>

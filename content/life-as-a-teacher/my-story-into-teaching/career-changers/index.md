@@ -119,7 +119,7 @@ backlink: "../../"
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <a href="https://www.youtube.com/watch?v=MLdrZJpK5rU" target="_blank" data-action="click->video#play" data-target="video.link">
+            <a href="https://www.youtube.com/watch?v=riY-1DUkLVk" target="_blank" data-action="click->video#play" data-target="video.link">
                 <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')">
                     <div class="more-stories__thumbs__thumb__play">
                         <div class="icon-play"></div>
