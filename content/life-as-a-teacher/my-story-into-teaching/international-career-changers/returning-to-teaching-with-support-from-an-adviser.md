@@ -36,7 +36,7 @@ backlink: "../../"
                     I think it’s very easy to try and do too much in an observed lesson and my adviser was great at identifying this and suggesting other approaches. I was also signposted to continuous professional development (CPD) opportunities that would help me get back into the classroom.
                 </p>
             </div>
-    <br/>        
+    <br/><br/><br/>
    <h3>Overcoming concerns</h3>
 
 <p>I was initially concerned my teaching experience abroad may have been an issue in terms of successfully getting a post. To overcome this, I drew comparisons between the curriculum I was teaching internationally and the curriculum in the UK, and how any differences could benefit the wider curriculum of the school.</p>
