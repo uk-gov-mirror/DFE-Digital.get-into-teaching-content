@@ -94,7 +94,7 @@ backlink: "../../"
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <!a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/index">
+            <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/index">
                 <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-shaun.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
