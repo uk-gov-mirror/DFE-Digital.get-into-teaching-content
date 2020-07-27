@@ -36,17 +36,17 @@ backlink: "../../"
                 <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="#">Read Peter's story  <i class="fas fa-chevron-right"></i></a>
+                <p>Broadening horizons through travelling and teaching</p>
+                <a class="git-link" href="#">Read Craig's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/broadening-horizons-through-travelling-and-teaching">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-craig.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">Read Peter's story <i class="fas fa-chevron-right"></i></a>
+                <p>Getting our 'geek' on:kids coding</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/getting-our-geek-on-kids-coding">Read Tarik's story <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
     </div>
