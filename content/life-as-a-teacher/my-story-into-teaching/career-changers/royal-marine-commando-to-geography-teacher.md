@@ -11,7 +11,7 @@ backlink: "../../"
         <div class="stories">
             <h1>Royal Marine Commando to geography teacher</h1>
             <div class="story-header">
-                <div class="story-header__thumb" style="background-image:url('/assets/images/stories/stories-claire.jpg')"></div>
+                <div class="story-header__thumb" style="background-image:url('/assets/images/stories/stories-thomas.jpg')"></div>
                 <div class="story-header__label">
                     <h2>Thomas, <br>Trainee geography teacher and former Royal Marine Commando</h2>
                 </div>

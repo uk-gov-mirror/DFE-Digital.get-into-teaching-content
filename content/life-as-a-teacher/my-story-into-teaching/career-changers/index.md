@@ -12,7 +12,8 @@ backlink: "../../"
             <a class="backlink" href="life-as-a-teacher/my-story-into-teaching/index">Back to stories</a>
         </p>
         <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          If you are thinking of changing your career, you’re in good company. Every year, many people decide to move from other 
+            career into teaching. Read about people who’ve chosen to switch career and make a difference to young people’s lives.
         </p>
     </div>
 </div>

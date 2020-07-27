@@ -12,7 +12,7 @@ backlink: "../../"
             <a href="/life-as-a-teacher/my-story-into-teaching/index">< All events</a>
         </p>
         <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          These insights from current and former trainees should help give you an idea of what you can expect during your teacher training.
         </p>
     </div>
 </div>
@@ -49,12 +49,12 @@ backlink: "../../"
     </div>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/teacher-training-stories/teacher-training-its-worth-it">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/teacher-training-stories/why-dont-you-teach-miss">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-emma.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/teacher-training-stories/teacher-training-its-worth-it">Read Emma's story  <i class="fas fa-chevron-right"></i></a>
+                <p>Why don’t you teach, Miss?</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/teacher-training-stories/why-dont-you-teach-miss">Read Emma's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
     </div>
