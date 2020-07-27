@@ -79,8 +79,6 @@ backlink: "../../"
             <a href="/life-as-a-teacher/my-story-into-teaching/career-progression/one-year-from-post-grad-to-hod">
                 <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-own.jpg')"></div>
         
-  </div>
-        </div>
-    </div>
+
 
 
