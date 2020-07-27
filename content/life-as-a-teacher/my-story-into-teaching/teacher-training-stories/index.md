@@ -1,5 +1,5 @@
 ---
-title: "Teacher Training Stories"
+title: "Teacher training stories"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"
 ---
