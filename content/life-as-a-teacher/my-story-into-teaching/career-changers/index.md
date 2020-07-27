@@ -1,5 +1,5 @@
 ---
-title: "Career changers' Stories"
+title: "Career changers' stories"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"
 ---
