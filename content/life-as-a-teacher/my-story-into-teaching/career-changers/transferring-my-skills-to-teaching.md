@@ -11,7 +11,7 @@ backlink: "../../"
         <div class="stories">
             <h1>Transferring my skills to teaching</h1>
             <div class="story-header">
-                <div class="story-header__thumb" style="background-image:url('/assets/images/stories/stories-claire.jpg')"></div>
+                <div class="story-header__thumb" style="background-image:url('/assets/images/stories/stories-will.jpg')"></div>
                 <div class="story-header__label">
                     <h2>Will Fordham, <br>Trainee English teacher</h2>
                 </div>
