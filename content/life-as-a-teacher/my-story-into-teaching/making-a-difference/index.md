@@ -19,6 +19,10 @@ backlink: "../../"
 
 <div class="more-stories">
     <div class="more-stories__thumbs">
+                <div class="more-stories__thumbs__thumb">
+            <a href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/broadening-horizons-through-travelling-and-teaching">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-craig.png')"></div>
+            </a>
         <div class="more-stories__thumbs__thumb__content">
                <p>Broadening horizons through travelling and teaching</p>
                 <a class="git-link" href="#">Read Craig's story  <i class="fas fa-chevron-right"></i></a>
