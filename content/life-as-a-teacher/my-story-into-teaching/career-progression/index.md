@@ -50,7 +50,7 @@ backlink: "../../"
         </div>
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-progression/newly-qualified-to-head-of-faculty">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-karen.jpg')"></div>
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-karen-f.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
                 <p>From newly qualified teacher to head of faculty in 5 years</p>
