@@ -25,7 +25,7 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1> Throughout my training year I was regularly supported by a mentor, who I met weekly. '<span class="icon-quote quote-close"></span></h1>
+                    <h1> Throughout my training year I was regularly supported by a mentor, who I met weekly<span class="icon-quote quote-close"></span></h1>
                 </div>
                <p>
                   This really helped me to improve; we developed targets for future lessons and discussed which areas were going well and which required improvement.
