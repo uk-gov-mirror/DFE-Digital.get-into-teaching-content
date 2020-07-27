@@ -20,15 +20,12 @@ backlink: "../../"
 <div class="more-stories">
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/teacher-training-stories/banker-turned-teacher" target="_blank" data-action="click->video#play" data-target="video.link">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/teacher-training-stories/banker-turned-teacher">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-katherine.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
                 <p>Embracing a new challenge</p>
                 <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/teacher-training-stories/banker-turned-teacher">Read Katherine's story  <i class="fas fa-chevron-right"></i></a>
-            </div>
-            <div class="more-stories__thumbs__thumb__play">
-                <div class="icon-play"></div>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
