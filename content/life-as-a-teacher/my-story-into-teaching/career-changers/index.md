@@ -120,14 +120,15 @@ backlink: "../../"
         </div>
         <div class="more-stories__thumbs__thumb">
             <a href="https://www.youtube.com/watch?v=MLdrZJpK5rU" target="_blank" data-action="click->video#play" data-target="video.link">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')">
+                    <div class="more-stories__thumbs__thumb__play">
+                        <div class="icon-play"></div>
+                    </div>
+                </div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
                 <p>Swapping senior management for students</p>
                 <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/swapping-senior-management-for-students">Read Karen's story  <i class="fas fa-chevron-right"></i></a>
-            </div>
-            <div class="more-stories__thumbs__thumb__play">
-                <div class="icon-play"></div>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
