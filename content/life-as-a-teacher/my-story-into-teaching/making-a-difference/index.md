@@ -12,7 +12,7 @@ backlink: "../../"
             <a href="/life-as-a-teacher/my-story-into-teaching/index">< All events</a>
         </p>
         <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          As a teacher, you can make a real difference to young people’s lives, as well as your own. Find out how these teachers are helping pupils realise their ambitions, and enjoying every moment.
         </p>
     </div>
 </div>
