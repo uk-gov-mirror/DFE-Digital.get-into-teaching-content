@@ -39,10 +39,10 @@ backlink: "../../"
         </div>
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/teacher-training-stories/teacher-training-its-worth-it">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-generic.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
+                <p>Swapping senior management for students</p>
                 <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/teacher-training-stories/teacher-training-its-worth-it">Read Hasina's story <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
