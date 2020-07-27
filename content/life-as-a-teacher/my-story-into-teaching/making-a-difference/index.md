@@ -21,7 +21,7 @@ backlink: "../../"
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="https://www.youtube.com/watch?v=MLdrZJpK5rU" target="_blank" data-action="click->video#play" data-target="video.link">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-karen.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
                <p>Broadening horizons through travelling and teaching</p>
@@ -30,7 +30,7 @@ backlink: "../../"
         </div>
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/broadening-horizons-through-travelling-and-teaching">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-craig.png')"></div>
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-craig.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
                 <p>Getting our 'geek' on: kids coding</p>
@@ -41,7 +41,7 @@ backlink: "../../"
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/getting-our-geek-on-kids-coding">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-Tarik.png')"></div>
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-Tarik.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
                 <p>Going back and giving back</p>
@@ -50,7 +50,7 @@ backlink: "../../"
         </div>
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/going-back-and-giving-back">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-sandra.png')"></div>
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-sandra.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
                 <p>Inspiring our young entrepreneurs</p>
@@ -59,7 +59,7 @@ backlink: "../../"
         </div>
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/making-a-difference/inspiring-our-young-entrepreneur">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-laura.png')"></div>
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-laura.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
                 <p>No two days are the same</p>
@@ -70,7 +70,7 @@ backlink: "../../"
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/no-two-days-are-the-same">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-gavin.png')"></div>
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-gavin.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
                 <p>Turning a tough lesson into a success</p>
@@ -79,7 +79,7 @@ backlink: "../../"
         </div>
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/cmaking-a-difference/turning-a-tough-lesson-into-success">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-gavin.png')"></div>
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-danny.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
                 <p>Turning a tough lesson into a success</p>
