@@ -41,7 +41,7 @@ backlink: "../../"
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/getting-our-geek-on-kids-coding">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-Tarik.png')"></div>
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-tarik.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
                 <p>Going back and giving back</p>
