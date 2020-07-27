@@ -11,7 +11,7 @@ backlink: "../../"
         <div class="stories">
             <h1>From developing software to developing students</h1>
             <div class="story-header">
-                <div class="story-header__thumb" style="background-image:url('/assets/images/stories/stories-claire.jpg')"></div>
+                <div class="story-header__thumb" style="background-image:url('/assets/images/stories/stories-steven.jpg')"></div>
                 <div class="story-header__label">
                     <h2>Steven Li, <br>Deputy director of learning for ICT and maths</h2>
                 </div>
