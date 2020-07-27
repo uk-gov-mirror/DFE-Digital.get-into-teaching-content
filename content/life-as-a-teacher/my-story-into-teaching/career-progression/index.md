@@ -75,9 +75,8 @@ backlink: "../../"
                 <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/make-a-difference-to-young-people">Read Owen's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
-        <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-progression/one-year-from-post-grad-to-hod">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-own.jpg')"></div>
+    </div>
+</div>
         
 
 
