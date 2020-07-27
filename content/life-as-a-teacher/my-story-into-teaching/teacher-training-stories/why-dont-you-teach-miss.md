@@ -11,7 +11,7 @@ backlink: "../../"
         <div class="stories">
             <h1>Why don’t you teach, Miss?</h1>
             <div class="story-header">
-                <div class="story-header__thumb" style="background-image:url('/assets/images/stories/')"></div>
+                <div class="story-header__thumb" style="background-image:url('/assets/images/stories/stories-emma.png')"></div>
                 <div class="story-header__label">
                     <h2>Emma Maskell, <br>Technician turned science teacher</h2>
                 </div>
@@ -25,7 +25,7 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>Ultimately it’s about the kids. This is their education and the onus is on you to provide them with the best opportunity for success. You tend to question yourself and think, ‘Can I deliver what I need to deliver in order that these kids get to where they want or need to be?’'<span class="icon-quote quote-close"></span></h1>
+                    <h1>Ultimately it's about the kids. This is their education and the onus is on you to provide them with the best opportunity for success. You tend to question yourself and think, Can I deliver what I need to deliver in order that these kids get to where they want or need to be?<span class="icon-quote quote-close"></span></h1>
                 </div>
                <p>
                   We all have mentors assigned to us. They are there to support you with anything that you need, check on your progress and just help out. And also my fellow trainees and I are a close group; everyone’s friendly and really supportive of everyone else.
