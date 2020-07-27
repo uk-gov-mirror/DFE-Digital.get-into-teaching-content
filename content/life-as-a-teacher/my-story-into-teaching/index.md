@@ -10,7 +10,7 @@ backlink: "../../"
         <h1>Bring your professional skills to the classroom</h1>
         <h2>Victoria Barton, teacher and former police officer</h2>
         <p>
-            In addition to two Master’s degrees, Victoria’s career had included time working as a police officer and property inspector. Find out why she decided to bring that diverse experience to teaching as a primary PE specialist.
+            In addition to 2 Master’s degrees, Victoria’s career had included time working as a police officer and property inspector. Find out why she decided to bring that diverse experience to teaching as a primary PE specialist.
         </p>
         <a class="git-link">Read Victoria’s story <i class="fas fa-chevron-right"></i></a>
     </div>
@@ -23,7 +23,8 @@ backlink: "../../"
         <h2>Career changers' stories</h2>
         <p>
             <br/>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            If you are thinking of changing your career, you’re in good company. Every year, many people decide to move from 
+            other careers into teaching. You can see people who’ve chosen to switch career and make a difference to your people’s lives.
         </p>
     </div>
 </div>
@@ -31,30 +32,30 @@ backlink: "../../"
 <div class="more-stories">
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/transferring-my-skills-to-teaching">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-will.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="#">Read Peter's story  <i class="fas fa-chevron-right"></i></a>
+                <p>Transferring my skills to teaching</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/transferring-my-skills-to-teaching">Read Will's story<i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/index">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-peter.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="#">Read Peter's story  <i class="fas fa-chevron-right"></i></a>
+                <p>Financier's future in maths</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/financiers-future-in-maths">Read Peter's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/index">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-zainab.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">Read Peter's story <i class="fas fa-chevron-right"></i></a>
+                <p>School experience helped me decide to switch</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">Read Zainab's story <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
     </div>
