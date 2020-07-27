@@ -28,12 +28,19 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
+                    <h1>The best thing about teaching is the independence you have in your classroom to create an inspiring environment<span class="icon-quote quote-close"></span></h1>
+                </div>
+               <p>
+                  What got me noticed as a teacher were the improvements I made to the directional and strategic change of my school. I was recognised not only as a great teacher, but as a future leader.
+                </p>
+            </div>
+            <!-- <div>
+                <div class="quote-block">
+                    <span class="icon-quote"></span>
                     <h1>The best thing about teaching is the independence you have in your classroom to create an inspiring environment.<span class="icon-quote quote-close"></span></h1>
-</div>
+</div> -->
 	<p>
-	What got me noticed as a teacher were the improvements I made to the directional and strategic change of my school. I was recognised not only as a great teacher, but as a future leader.
-	</p>
-	<p>
+    <br/>
 	As I have progressed, I do less teaching and more leadership and management. I believe it is necessary to still be involved in the classroom as I am still responsible for student attainment. 
 	</p>
 	<p>
