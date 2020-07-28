@@ -226,3 +226,60 @@ backlink: "../../"
         </a>
     </div>
 </div>
+
+
+<div class="content-wrapper">
+    <div class="content__right">
+    </div>
+    <div class="content__left">
+        <h2>Stories about career progression</h2>
+        <p>
+            <br/>
+            Teachers talk about making a real difference to pupils’ learning and lives - and the job satisfaction that comes with a career
+            in teaching. Find out how these teachers are helping pupils realise their ambitions, and enjoying every moment.
+        </p>
+    </div>
+</div>
+
+<div class="more-stories">
+    <div class="more-stories__thumbs">
+        <div class="more-stories__thumbs__thumb">
+            <a href="/life-as-a-teacher/my-story-into-teaching/career-progression/grasp-every-opportunity">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-paul.jpg')"></div>
+            </a>
+            <div class="more-stories__thumbs__thumb__content">
+                <p>Grasp every opportunity</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-progression/grasp-every-opportunity">Read Paul's story  <i class="fas fa-chevron-right"></i></a>
+            </div>
+        </div>
+        <div class="more-stories__thumbs__thumb">
+            <a href="/life-as-a-teacher/my-story-into-teaching/career-progression/nqt-to-head-of-biology">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-sarah-f.jpg')"></div>
+            </a>
+            <div class="more-stories__thumbs__thumb__content">
+                <p>NQT to head of biology in 2 years</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-progression/nqt-to-head-of-biology">Read Sarah's story  <i class="fas fa-chevron-right"></i></a>
+            </div>
+        </div>
+        <div class="more-stories__thumbs__thumb">
+            <a href="/life-as-a-teacher/my-story-into-teaching/career-progression/leaping-to-head-of-department">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-jon.jpg')"></div>
+            </a>
+            <div class="more-stories__thumbs__thumb__content">
+                <p>Leaping to head of department</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-progression/leaping-to-head-of-department">Read Jon's story <i class="fas fa-chevron-right"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="content-wrapper">
+    <div class="content__right">    
+    </div>
+    <div class="content__left">
+        <a href="/life-as-a-teacher/my-story-into-teaching/career-progression/index" class="call-to-action-button stories-call-to-action">
+            Read all stories about making career <span> progression</span>
+        </a>
+    </div>
+</div>
