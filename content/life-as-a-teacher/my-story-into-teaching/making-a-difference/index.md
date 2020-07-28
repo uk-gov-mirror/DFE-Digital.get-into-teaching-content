@@ -9,7 +9,7 @@ backlink: "../../"
     </div>
     <div class="content__left">
         <p>
-            <a href="/life-as-a-teacher/my-story-into-teaching/index">< Back to stories</a>
+            <a class="backlink" href="/life-as-a-teacher/my-story-into-teaching/index">Back to stories</a>
         </p>
         <p>
           As a teacher, you can make a real difference to young people’s lives, as well as your own. Find out how these teachers are helping pupils realise their ambitions, and enjoying every moment.
@@ -19,12 +19,12 @@ backlink: "../../"
 
 <div class="more-stories">
     <div class="more-stories__thumbs">
-                <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/broadening-horizons-through-travelling-and-teaching">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-craig.png')"></div>
+        <div class="more-stories__thumbs__thumb">
+                    <a href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/broadening-horizons-through-travelling-and-teaching">
+                        <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-craig.png')"></div>
             </a>
-        <div class="more-stories__thumbs__thumb__content">
-               <p>Broadening horizons through travelling and teaching</p>
+            <div class="more-stories__thumbs__thumb__content">
+                <p>Broadening horizons through travelling and teaching</p>
                 <a class="git-link" href="#">Read Craig's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
