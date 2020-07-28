@@ -79,6 +79,7 @@ backlink: "../../"
         <p>
             <br/>
             See how candidates with international qualifications became teaachers in England and how already qualified teachers' returned to England from abroad, to get back into the profession.
+        </p>
     </div>
 </div>
 
@@ -234,6 +235,3 @@ backlink: "../../"
         </a>
     </div>
 </div>
-
-
- 
