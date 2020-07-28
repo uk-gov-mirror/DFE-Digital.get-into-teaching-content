@@ -227,7 +227,6 @@ backlink: "../../"
     </div>
 </div>
 
-
 <div class="content-wrapper">
     <div class="content__right">
     </div>
@@ -273,13 +272,63 @@ backlink: "../../"
     </div>
 </div>
 
-
 <div class="content-wrapper">
     <div class="content__right">    
     </div>
     <div class="content__left">
         <a href="/life-as-a-teacher/my-story-into-teaching/career-progression/index" class="call-to-action-button stories-call-to-action">
             Read all stories about making career <span> progression</span>
+        </a>
+    </div>
+</div>
+
+
+
+
+
+
+<div class="content-wrapper">
+    <div class="content__right">
+    </div>
+    <div class="content__left">
+        <h2>Stories about returning to teaching</h2>
+        <p>
+            <br/>
+            Teachers talk about making a real difference to pupils' learning and lives - and the job satisfaction that comes with a career
+            in teaching. Find out how these teachers are helping pupils realise their ambitions, and enjoying every moment.
+        </p>
+    </div>
+</div>
+
+<div class="more-stories">
+    <div class="more-stories__thumbs">
+        <div class="more-stories__thumbs__thumb">
+            <a href="/life-as-a-teacher/my-story-into-teaching/returners/getting-back-into-the-classroom">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-jill.png')"></div>
+            </a>
+            <div class="more-stories__thumbs__thumb__content">
+                <p>Getting back into the classroom</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/returners/getting-back-into-the-classroom">Read Jill's story  <i class="fas fa-chevron-right"></i></a>
+            </div>
+        </div>
+        <div class="more-stories__thumbs__thumb">
+            <a href="/life-as-a-teacher/my-story-into-teaching/returners/top-tips-for-returning-teachers">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-helen.jpg')"></div>
+            </a>
+            <div class="more-stories__thumbs__thumb__content">
+                <p>Top tips for returning teachers</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/returners/top-tips-for-returning-teachers">Read Helen's story  <i class="fas fa-chevron-right"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="content-wrapper">
+    <div class="content__right">    
+    </div>
+    <div class="content__left">
+        <a href="/life-as-a-teacher/my-story-into-teaching/career-progression/index" class="call-to-action-button stories-call-to-action">
+            Read all returning to teaching<span> stories</span>
         </a>
     </div>
 </div>
