@@ -48,18 +48,6 @@ backlink: "../../"
 <p>Students are amazing to work with, they’re funny and inquisitive – they challenge you to spark their interest in your subject. Being part of a learning community is a wholly worthwhile experience that cannot be measured in monetary terms or student achievement alone.</p>
 
 
-
-
-
-
-
-
-
-
-   </div>
-    </div>
-</div>
-
 <div class="more-stories">
     <h1 class="more-stories_header strapline">More stories</h1>
     <div class="more-stories__thumbs">
