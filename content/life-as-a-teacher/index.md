@@ -2,6 +2,7 @@
 title: "Teaching as a career"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../"
+navigation: 30
 ---
 
 <div class="content__left">

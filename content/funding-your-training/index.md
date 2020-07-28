@@ -2,6 +2,7 @@
 title: "Funding your training"
 image: "/assets/images/funding-header.jpg"
 backlink: "../"
+navigation: 10
 ---
 
 <div class="content__right">
