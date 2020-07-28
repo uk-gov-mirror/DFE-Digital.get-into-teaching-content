@@ -141,30 +141,30 @@ backlink: "../../"
 <div class="more-stories">
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/teacher-training-stories/why-dont-you-teach-miss">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-emma.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="#">Read Peter's story  <i class="fas fa-chevron-right"></i></a>
+                <p>Why don’t you teach, Miss?</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/teacher-training-stories/why-dont-you-teach-miss">Read Emma's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/teacher-training-stories/teacher-training-its-worth-it">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-generic.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="#">Read Peter's story  <i class="fas fa-chevron-right"></i></a>
+                <p>Swapping senior management for students</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/teacher-training-stories/teacher-training-its-worth-it">Read Hasina's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/teacher-training-stories/salaried-teacher-training-classroom-learning">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-nathan.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">Read Peter's story <i class="fas fa-chevron-right"></i></a>
+                <p>Salaried teacher training: classroom learning</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/teacher-training-stories/salaried-teacher-training-classroom-learning">Read Nathan's story <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
     </div>
