@@ -33,7 +33,7 @@ backlink: "../../"
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/transferring-my-skills-to-teaching">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-will.png')"></div>
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-will.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
                 <p>Transferring my skills to teaching</p>
@@ -41,8 +41,8 @@ backlink: "../../"
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/index">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-peter.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/financiers-future-in-maths">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-peter.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
                 <p>Financier's future in maths</p>
@@ -51,7 +51,7 @@ backlink: "../../"
         </div>
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/index">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-zainab.png')"></div>
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-zainab.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
                 <p>School experience helped me decide to switch</p>
