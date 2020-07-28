@@ -9,7 +9,7 @@ backlink: "../../"
     </div>
     <div class="content__left">
         <p>
-            <a href="/life-as-a-teacher/my-story-into-teaching/index">< All events</a>
+            <a href="/life-as-a-teacher/my-story-into-teaching/index">< Back to stories</a>
         </p>
         <p>
           These insights from current and former trainees should help give you an idea of what you can expect during your teacher training.
