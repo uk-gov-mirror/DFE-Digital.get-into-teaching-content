@@ -78,7 +78,7 @@ backlink: "../../"
         <h2>Stories from international teachers</h2>
         <p>
             <br/>
-            See how candidates with international qualifications became teachers in England and how already qualified teachers' returned to England from abroad, to get back into the profession.
+            See how candidates with international qualifications became teaachers in England and how already qualified teachers' returned to England from abroad, to get back into the profession.
         </p>
     </div>
 </div>
