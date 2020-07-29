@@ -2,6 +2,7 @@
 title: "Steps to become a teacher"
 image: "/assets/images/steps-to-teacher-header.jpg"
 backlink: "../"
+navigation: 20
 ---
 
 <div class="content__right">

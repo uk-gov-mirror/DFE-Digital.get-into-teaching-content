@@ -2,6 +2,7 @@
 title: "Salaries and benefits"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"
+navigation: 40
 ---
 <div class="content__right">
 </div>
