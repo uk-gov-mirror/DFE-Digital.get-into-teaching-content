@@ -32,7 +32,7 @@ backlink: "../../"
   <li>preparing for interviews</li>
  </ul>
 
-<p><a href="https://beta-adviser-getintoteaching.education.gov.uk/ target="_blank">Sign up to speak to a teacher training adviser</a>.</p>
+<p><a href="https://beta-adviser-getintoteaching.education.gov.uk/" target="_blank">Sign up to speak to a teacher training adviser</a>.</p>
 
 
 
