@@ -9,7 +9,7 @@ backlink: "../../"
     </div>
     <div class="content__left">
         <div class="stories">
-            <h1>One year from Post Grad to Head of Department</h1>
+            <h1>One year from Post Grad to head of department</h1>
             <div class="story-header">
                 <div class="story-header__thumb" style="background-image:url('/assets/images/stories/stories-own.jpg')"></div>
                 <div class="story-header__label">
