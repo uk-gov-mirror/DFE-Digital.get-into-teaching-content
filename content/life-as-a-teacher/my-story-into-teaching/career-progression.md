@@ -9,7 +9,7 @@ backlink: "../../"
     </div>
     <div class="content__left">
         <p>
-            <a class="backlink" href="/life-as-a-teacher/my-story-into-teaching">Back to stories</a>
+            <a class="backlink" href="/life-as-a-teacher/my-story-into-teaching/index">Back to stories</a>
         </p>
         <p>
          The opportunities for career progression as a teacher are plentiful. This includes the possibility of rapid progression into a 
@@ -72,7 +72,7 @@ backlink: "../../"
             </a>
             <div class="more-stories__thumbs__thumb__content">
                 <p>One year from post grad to head of department</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/make-a-difference-to-young-people">Read Owen's story  <i class="fas fa-chevron-right"></i></a>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-progression/one-year-from-post-grad-to-hod">Read Owen's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
     </div>
