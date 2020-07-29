@@ -12,7 +12,7 @@ backlink: "../../"
         <p>
             In addition to 2 Master’s degrees, Victoria’s career had included time working as a police officer and property inspector. Find out why she decided to bring that diverse experience to teaching as a primary PE specialist.
         </p>
-        <a class="git-link">Read Victoria’s story <i class="fas fa-chevron-right"></i></a>
+        <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/police-officer-to-pe-teacher">Read Victoria’s story <i class="fas fa-chevron-right"></i></a>
     </div>
 </div>
 
