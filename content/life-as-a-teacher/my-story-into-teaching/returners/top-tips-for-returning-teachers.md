@@ -28,10 +28,10 @@ backlink: "../../"
 <p><strong>Be prepared</strong></p>
 <p>The interview process will likely include a number of different tasks so it is important to prepare as thoroughly as you can. In one of my interviews, I was asked to prepare a 30 minute lesson on ‘An introduction to an A level topic’ for a year 10 class. I ensured I prepared for this scenario prior to the interview and ran my plan past my return to teaching adviser, who offered advice on how to be as effective as possible. In addition to the lesson plan, it is important to be ready for any interview questions that you may face. There are a whole host of questions that the interview panel may ask, including:</p>
 <ul>
-<li>Describe a good lesson and say why it is good</li>
-<li>What has been your worst lesson and why?</li>
-<li>How can you ensure that all pupils are challenged?</li>
-<li>How would you ensure good behaviour in a class?</li>
+<li><span>Describe a good lesson and say why it is good</span></li>
+<li><span>What has been your worst lesson and why?</span></li>
+<li><span>How can you ensure that all pupils are challenged?</span></li>
+<li><span>How would you ensure good behaviour in a class?</span></li>
 </ul>
 
 <p>Those are just a selection of the questions you may face in your interview, so it is important you are ready to discuss a wide range of topics.</p>
