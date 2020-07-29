@@ -73,8 +73,8 @@ backlink: "../../"
         <div class="stories-inline__block__thumb" style="background-image:url('/assets/images/stories/stories-katie.png')"></div>
       </a>
       <div class="stories-inline__block__content">
-        <p>Jill's story of getting back into the classroom</p>
-        <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience">Read Read Katie's story</a>
+        <p>Katie's story of getting back into the classroom</p>
+        <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience">Read Katie's story</a>
       </div>
     </div>
     <div class="stories-inline__block">
