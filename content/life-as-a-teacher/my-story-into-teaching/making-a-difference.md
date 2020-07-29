@@ -9,7 +9,7 @@ backlink: "../../"
     </div>
     <div class="content__left">
         <p>
-            <a class="backlink" href="/life-as-a-teacher/my-story-into-teaching/index">Back to stories</a>
+            <a class="backlink" href="/life-as-a-teacher/my-story-into-teaching">Back to stories</a>
         </p>
         <p>
           As a teacher, you can make a real difference to young people’s lives, as well as your own. Find out how these teachers are helping pupils realise their ambitions, and enjoying every moment.

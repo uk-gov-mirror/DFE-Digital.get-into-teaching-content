@@ -77,7 +77,7 @@ navigation: 20
         <li><span>if you qualify for a bursary</span></li>
       </ul>
       <p>
-        <a href="../funding-your-training/index">Find out more about funding</a> you could get. 
+        <a href="../funding-your-training">Find out more about funding</a> you could get. 
       </p>
     </div>
     <div class="steps-header" id="step-3" data-action="click->accordion#toggle" data-target="accordion.header">

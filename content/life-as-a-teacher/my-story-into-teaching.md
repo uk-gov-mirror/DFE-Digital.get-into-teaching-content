@@ -65,7 +65,7 @@ backlink: "../../"
     <div class="content__right">    
     </div>
     <div class="content__left">
-        <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/index" class="call-to-action-button stories-call-to-action">
+        <a href="/life-as-a-teacher/my-story-into-teaching/career-changers" class="call-to-action-button stories-call-to-action">
             Read all career changers' <span> stories</span>
         </a>
     </div>
@@ -110,7 +110,7 @@ backlink: "../../"
     <div class="content__right">    
     </div>
     <div class="content__left">
-        <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/index" class="call-to-action-button stories-call-to-action">
+        <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers" class="call-to-action-button stories-call-to-action">
             Read all stories from international career<span> changers</span>
         </a>
     </div>
@@ -165,7 +165,7 @@ backlink: "../../"
     <div class="content__right">    
     </div>
     <div class="content__left">
-        <a href="/life-as-a-teacher/my-story-into-teaching/teacher-training-stories/index" class="call-to-action-button stories-call-to-action">
+        <a href="/life-as-a-teacher/my-story-into-teaching/teacher-training-stories" class="call-to-action-button stories-call-to-action">
             Read all teacher training <span> stories</span>
         </a>
     </div>
@@ -221,7 +221,7 @@ backlink: "../../"
     <div class="content__right">    
     </div>
     <div class="content__left">
-        <a href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/index" class="call-to-action-button stories-call-to-action">
+        <a href="/life-as-a-teacher/my-story-into-teaching/making-a-difference" class="call-to-action-button stories-call-to-action">
             Read all stories about making a <span> difference</span>
         </a>
     </div>
@@ -276,7 +276,7 @@ backlink: "../../"
     <div class="content__right">    
     </div>
     <div class="content__left">
-        <a href="/life-as-a-teacher/my-story-into-teaching/career-progression/index" class="call-to-action-button stories-call-to-action">
+        <a href="/life-as-a-teacher/my-story-into-teaching/career-progression" class="call-to-action-button stories-call-to-action">
             Read all stories about making career <span> progression</span>
         </a>
     </div>
@@ -327,7 +327,7 @@ backlink: "../../"
     <div class="content__right">    
     </div>
     <div class="content__left">
-        <a href="/life-as-a-teacher/my-story-into-teaching/career-progression/index" class="call-to-action-button stories-call-to-action">
+        <a href="/life-as-a-teacher/my-story-into-teaching/career-progression" class="call-to-action-button stories-call-to-action">
             Read all returning to teaching<span> stories</span>
         </a>
     </div>
