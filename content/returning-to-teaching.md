@@ -34,28 +34,28 @@ backlink: "../../"
 
   <p><a href="https://beta-adviser-getintoteaching.education.gov.uk/" target="_blank">Sign up to speak to a teacher training adviser</a>.</p>
 
-  <h2>Stories from international teachers</h2> 
+  <h2>Stories about returning to teaching in England</h2> 
   <br/>
 
   <div class="stories-inline">
     <div class="stories-inline__block">
-      <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience">
-        <div class="stories-inline__block__thumb" style="background-image:url('/assets/images/stories/stories-katie.png')"></div>
+      <a href="/life-as-a-teacher/my-story-into-teaching/returners/getting-back-into-the-classroom">
+        <div class="stories-inline__block__thumb" style="background-image:url('/assets/images/stories/stories-jill.png')"></div>
       </a>
       <div class="stories-inline__block__content">
         <p>Jill's story of getting back into the classroom</p>
-        <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience">Read Read Katie's story</a>
+        <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/returners/getting-back-into-the-classroom">Read Jill's story</a>
       </div>
     </div>
     <div class="stories-inline__block">
-      <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-support-from-an-adviser">
-        <div class="stories-inline__block__thumb" style="background-image:url('/assets/images/stories/stories-shaun.jpg')"></div>
+      <a href="/life-as-a-teacher/my-story-into-teaching/returners/top-tips-for-returning-teachers">
+        <div class="stories-inline__block__thumb" style="background-image:url('/assets/images/stories/stories-helen.jpg')"></div>
       </a>
       <div class="stories-inline__block__content">
         <p>Top tips for returning teachers</p>
-        <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-support-from-an-adviser">
+        <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/returners/top-tips-for-returning-teachers">
         <br/>
-        Read Shaun's story</a>
+        Read Helen's story</a>
       </div>
     </div>
   </div>
