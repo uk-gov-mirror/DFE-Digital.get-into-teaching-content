@@ -9,7 +9,7 @@ backlink: "../../"
     </div>
     <div class="content__left">
         <p>
-            <a class="backlink" href="/life-as-a-teacher/my-story-into-teaching/index">Back to stories</a>
+            <a class="backlink" href="/life-as-a-teacher/my-story-into-teaching">Back to stories</a>
         </p>
         <p>
           If you are thinking of changing your career, you’re in good company. Every year, many people decide to move from other 

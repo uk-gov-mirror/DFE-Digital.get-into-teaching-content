@@ -44,7 +44,7 @@ backlink: "../"
         <p><strong>Q. Can I start my postgraduate ITT course in September 2020 before I have been awarded my degree?</strong></p>
         <p>A. Providers are currently making arrangements to enable academic assessments to take place, to minimise the delay of degree awards. Given that programme design may differ between institutions, applicants are encouraged to contact their respective degree awarding body for details.</p>
        <p><strong> Q: I’m expecting to get a bursary/scholarship/student finance for my course starting in September 2020. Will this still be available?</strong></p>
-        <p>A. Yes. The information in the <a href="../funding-your-training/index">Funding your training</a> section of the website remains valid.</p>
+        <p>A. Yes. The information in the <a href="../funding-your-training">Funding your training</a> section of the website remains valid.</p>
         <p><strong>Q. What if I have been unable to complete my Subject Knowledge Enhancement (SKE) course?</strong></p>
         <p>A. SKE training courses can be completed before or alongside ITT. If you have been unable to complete a SKE course, the SKE provider will make an assessment and communicate this to your ITT provider. If necessary, you can defer your SKE course and complete this alongside your ITT course at a later date.</p>
        <p><strong> Q. Are the planned Train to Teach events going ahead?</strong></p>
