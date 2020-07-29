@@ -9,6 +9,9 @@ backlink: "../../"
     </div>
     <div class="content__left">
         <div class="stories">
+            <p>
+                <a class="backlink backlink--top" href="/life-as-a-teacher/my-story-into-teaching/making-a-difference">Stories about making a difference</a>
+            </p>
             <h1>Turning a tough lesson into a success</h1>
             <div class="story-header">
                 <div class="story-header__thumb" style="background-image:url('/assets/images/stories/stories-danny.jpg')"></div>
