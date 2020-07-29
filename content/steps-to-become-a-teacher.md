@@ -30,9 +30,9 @@ navigation: 20
   </p>
 
   <ul>
-  <li><a href="/steps-to-become-a-teacher/if-you-need-to-get-the-right-qualifications#if-you-dont-have-a-degree">do not have a degree</a></li>
-  <li><a href="/international-candidates">have an overseas degree</a></li>
-  <li><a href="/returning-to-teaching">are returning to teach in England</a></li>
+  <li><span><a href="./if-you-need-to-get-the-right-qualifications#if-you-dont-have-a-degree">do not have a degree</a></span></li>
+  <li><span><a href="/international-candidates">have an overseas degree</a></span></li>
+  <li><span><a href="/returning-to-teaching">are returning to teach in England</a></span></li>
   </ul>
   
  <p>If you want to teach in a fee-paying or private school, the rules may be different. You’ll need to check with the school you want to teach at.</p>
@@ -46,15 +46,15 @@ navigation: 20
       </p>
       
    <ul>
-      <li>English GCSE grade 4 (C) or above</li>
-      <li>Maths GCSE grade 4 (C) or above</li>
-      <li>Science GCSE grade 4 (C) or above if you want to teach in primary education</li>
+      <li><span>English GCSE grade 4 (C) or above</span></li>
+      <li><span>Maths GCSE grade 4 (C) or above</span></li>
+      <li><span>Science GCSE grade 4 (C) or above if you want to teach in primary education</span></li>
   </ul>
   
    <p>
         If you do not have the required GCSEs, you’ll need to show that you have an equivalent level of education.
       </p>
-      <a href="/steps-to-become-a-teacher/if-you-need-to-get-the-right-qualifications#if-your-degree-is-not-in-the-subject-you-want-to-teach">If your degree is not in the subject you want to teach</a>
+      <a href="./if-you-need-to-get-the-right-qualifications#if-your-degree-is-not-in-the-subject-you-want-to-teach">If your degree is not in the subject you want to teach</a>
     </div>
     <div class="steps-header" id="step-2" data-action="click->accordion#toggle" data-target="accordion.header">
       <h1>
@@ -71,10 +71,10 @@ navigation: 20
         These may vary, depending on: 
       </p>
       <ul>
-        <li><span>which subject you’re going to teach</span></li>
-        <li><span>if you’re going to teach in secondary or primary school</span></li>
-        <li><span>whether you can get a scholarship</span></li>
-        <li><span>if you qualify for a bursary</span></li>
+        <li><span><span>which subject you’re going to teach</span></span></li>
+        <li><span><span>if you’re going to teach in secondary or primary school</span></span></li>
+        <li><span><span>whether you can get a scholarship</span></span></li>
+        <li><span><span>if you qualify for a bursary</span></span></li>
       </ul>
       <p>
         <a href="../funding-your-training">Find out more about funding</a> you could get. 
@@ -101,10 +101,10 @@ navigation: 20
   <p>You’ll need to make some key decisions about teaching before you decide how to train:</p>
 
   <ul>
-  <li><span>which age group and subject you want to teach</span></li>
-  <li><span>whether you will train in a school or university</span></li>
-  <li><span>which teaching qualification you want to achieve</span></li>
-  <li><span>how long you want to train for</span></li>
+  <li><span><span>which age group and subject you want to teach</span></span></li>
+  <li><span><span>whether you will train in a school or university</span></span></li>
+  <li><span><span>which teaching qualification you want to achieve</span></span></li>
+  <li><span><span>how long you want to train for</span></span></li>
   </ul>
 
   <a href="https://beta-getintoteaching.education.gov.uk/guidance#5" target="_blank">Find out more about different ways to train</a>
@@ -132,10 +132,10 @@ navigation: 20
         <a href="https://qa.apply-for-teacher-training.education.gov.uk/candidate" target="_blank">prepare your application</a> using the following steps:
       </p>
       <ul>
-        <li><span><a href="https://www.gov.uk/find-postgraduate-teacher-training-courses">choose your course</a></span></li>
-        <li><span>write a personal statement</span></li>
-        <li><span>get two references</span></li>
-        <li><span><a href="https://qa.apply-for-teacher-training.education.gov.uk/candidate" target="_blank">apply for teacher training</a></span></li>
+        <li><span><span><a href="https://www.gov.uk/find-postgraduate-teacher-training-courses">choose your course</a></span></span></li>
+        <li><span><span>write a personal statement</span></span></li>
+        <li><span><span>get two references</span></span></li>
+        <li><span><span><a href="https://qa.apply-for-teacher-training.education.gov.uk/candidate" target="_blank">apply for teacher training</a></span></span></li>
       </ul>
     </div>
   </div>
