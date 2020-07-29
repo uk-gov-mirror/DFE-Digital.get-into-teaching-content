@@ -30,7 +30,7 @@ navigation: 20
   </p>
 
   <ul>
-  <li><a href="./if-you-need-to-get-the-right-qualifications#if-you-dont-have-a-degree">do not have a degree</a></li>
+  <li><a href="/steps-to-become-a-teacher/if-you-need-to-get-the-right-qualifications#if-you-dont-have-a-degree">do not have a degree</a></li>
   <li><a href="/international-candidates">have an overseas degree</a></li>
   <li><a href="/returning-to-teaching">are returning to teach in England</a></li>
   </ul>
@@ -54,7 +54,7 @@ navigation: 20
    <p>
         If you do not have the required GCSEs, you’ll need to show that you have an equivalent level of education.
       </p>
-      <a href="./if-you-need-to-get-the-right-qualifications#if-your-degree-is-not-in-the-subject-you-want-to-teach">If your degree is not in the subject you want to teach</a>
+      <a href="/steps-to-become-a-teacher/if-you-need-to-get-the-right-qualifications#if-your-degree-is-not-in-the-subject-you-want-to-teach">If your degree is not in the subject you want to teach</a>
     </div>
     <div class="steps-header" id="step-2" data-action="click->accordion#toggle" data-target="accordion.header">
       <h1>

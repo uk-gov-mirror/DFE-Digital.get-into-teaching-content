@@ -69,7 +69,7 @@ backlink: "../"
       <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses" target="_blank">Find a teacher training course</a>
     </p>
     <p>
-      There are some other <a href="./if-you-need-to-get-the-right-qualifications#specialist-ways-to-get-into-teaching">specialist training options</a> to get into teaching. These include:</p>
+      There are some other <a href="/steps-to-become-a-teacher/if-you-need-to-get-the-right-qualifications#specialist-ways-to-get-into-teaching">specialist training options</a> to get into teaching. These include:</p>
       <ul>
         <li><span>School Direct salaried places</span></li>
         <li><span>Postgraduate teaching apprenticeship</span></li>
