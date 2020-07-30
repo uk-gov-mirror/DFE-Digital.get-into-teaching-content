@@ -42,9 +42,9 @@ else
         json=$(curl ${AUTHORITY}  -s -X GET ${FULL_URL})
 
         sha=$( echo ${json} | jq -r .app_sha)
-        if [ "${sha}" != "sha-${APP_SHA}"  ] 
+        if [ "${sha}" != "${APP_SHA}"  ] 
         then
-        	echo "APPLICATION SHA is not ${APP_SHA}"
+		echo "APPLICATION SHA (${sha}) is not ${APP_SHA} "
         	rval=1
         else
                 echo "APPLICATION SHA is correct"
@@ -53,7 +53,7 @@ else
         sha=$( echo ${json} | jq -r .content_sha)
         if [ "${sha}" != "${APP_SHA}"  ] 
         then
-        	echo "CONTENT SHA is not ${CONTENT_SHA}"
+		echo "CONTENT SHA (${sha}) is not ${CONTENT_SHA} "
         	rval=1
         else
                 echo "CONTENT SHA is correct"
