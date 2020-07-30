@@ -126,6 +126,7 @@ jobs:
               TF_VAR_password:          "${{ secrets.GOVUKPAAS_PASSWORD  }}"
 
       - name: Smoke tests
+        if: github.ref == 'refs/heads/master'
         run: |
              tests/confidence/healthcheck.sh  "get-into-teaching-app-dev" "${parent_sha}" "${{ steps.sha.outputs.short }}"
         env:
