@@ -9,7 +9,7 @@ backlink: "../../"
     </div>
     <div class="content__left">
         <p>
-            <a class="backlink" href="/life-as-a-teacher/my-story-into-teaching">Back to stories</a>
+            <a class="backlink" href="/life-as-a-teacher/my-story-into-teaching">All stories</a>
         </p>
         <p>
             Read stories from former teachers who have returned to the profession.   
