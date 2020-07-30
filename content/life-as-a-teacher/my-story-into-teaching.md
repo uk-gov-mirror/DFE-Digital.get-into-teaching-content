@@ -2,7 +2,7 @@
 title: "My story into teaching"
 image: "/assets/images/miss-hayre.png"
 backlink: "../../"
-navigation: 50
+navigation: 35
 ---
 
 <div class="stories-feature">
