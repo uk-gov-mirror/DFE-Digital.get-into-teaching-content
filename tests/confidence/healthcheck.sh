@@ -51,9 +51,9 @@ else
         fi
 
         sha=$( echo ${json} | jq -r .content_sha)
-        if [ "${sha}" != "${APP_SHA}"  ] 
+        if [ "${sha}" != "${CONTENT_SHA}"  ] 
         then
-		echo "CONTENT SHA (${sha}) is not ${CONTENT_SHA} "
+		echo "CONTENT SHA (${sha}) is not ${CONTENT_SHA}"
         	rval=1
         else
                 echo "CONTENT SHA is correct"
