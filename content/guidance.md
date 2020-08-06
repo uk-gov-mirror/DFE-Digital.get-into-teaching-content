@@ -319,22 +319,22 @@
           <a class="gem-c-contents-list__link govuk-link " href="#5">Ways to train</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " href="#6">Find a teacher training course</p></a>
+          <a class="gem-c-contents-list__link govuk-link " href="#6">Find a teacher training course</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " href="#7">Apply for teaching training</p></a>
+          <a class="gem-c-contents-list__link govuk-link " href="#7">Apply for teaching training</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " href="#8">Get a job in teaching</p></a>
+          <a class="gem-c-contents-list__link govuk-link " href="#8">Get a job in teaching</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " href="#9">Return to teaching</p></a>
+          <a class="gem-c-contents-list__link govuk-link " href="#9">Return to teaching</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " href="#10">Teaching in England as an international candidate</p></a>
+          <a class="gem-c-contents-list__link govuk-link " href="#10">Teaching in England as an international candidate</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " href="#11">Help and support</p></a>
+          <a class="gem-c-contents-list__link govuk-link " href="#11">Help and support</a>
         </li>
     </ol>
 </nav>
