@@ -961,7 +961,7 @@
 	You won't have to pay for your SKE course and you may be eligible for a bursary.
 </p>
 <p>
-	Your training provider will decide the course duration (between 8 and 28 weeks. This will depend on the required knowledge you need. 
+	Your training provider will decide the course duration (between 8 and 28 weeks). This will depend on the knowledge you need. 
 </p>
 <p>
 	SKE courses can be completed before or alongside your teacher training and are available to study full-time or part-time, classroom-based or online.
