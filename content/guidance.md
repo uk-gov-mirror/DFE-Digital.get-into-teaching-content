@@ -922,7 +922,7 @@
 	</li>
 </ul>
 
-<h3>
+<h3 id="choose-a-subject">
 	Choose a subject
 </h3>
 <p>
@@ -944,7 +944,7 @@
 	<li>your A level subjects</li>
 	<li>expertise you’ve gained at work</li>
 </ul>
-<h4>Subject knowledge enhancement courses</h4>
+<h4 id="#subject-knowledge-enhancement">Subject knowledge enhancement courses</h4>
 <p>
 	If you’re applying to teach a subject different from that of your degree, your
 	training provider may ask you to complete a subject knowledge enhancement (SKE)
@@ -1099,7 +1099,7 @@
 </ul>
 <p>
 	Details of course structure and location will vary between training providers –
-	you can research specific courses on Find postgraduate teacher training.
+	you can research specific courses on <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses" target="_blank">Find postgraduate teacher training</a>.
 </p>
 <p>
 	When you’re researching training providers, bear in mind:
@@ -1139,7 +1139,7 @@
 	Salaried teacher training courses
 </h3>
 <p>
-	You can apply for a ‘salaried’ teacher training course.There are 3 options available:
+	You can apply for a ‘salaried’ teacher training course. There are 3 options available:
 </p>
 <ul>
 	<li>School Direct Salaried (SDS)</li>
@@ -1160,7 +1160,7 @@
 </p>
 <h3>Career Changers</h3>
 <p>The Career Changers programme aims to attract high calibre graduates who have had a successful professional career with significant experience in their field into  teaching roles and schools where they are needed most.</p>
-</p>It provides help and guidance with the transition from a previous career into teaching.  Career changers can add the following:</p>
+</p>It provides help and guidance with the transition from a previous career into teaching.  Career changers can add value to teaching with:</p>
 <ul>
 	<li>previous employment experience</li>
 	<li>industry knowledge</li>
@@ -1218,9 +1218,9 @@
 <h2 id="6">
 	Find a teacher training course
 </h2>
-<p>
+<h3>
 	Choose your teacher training provider
-</p>
+</h3>
 <p>
 	Use the <a
 		href="https://www.gov.uk/find-postgraduate-teacher-training-courses">Find
@@ -1243,7 +1243,7 @@
 	Apply for teacher training
 </h2>
 <p>
-	Apply for a training place via <a href="https://www.ucas.com/postgraduate/teacher-training/ucas-teacher-training-apply-and-track">UCAS Teacher Training</a>, or by using a new GOV.UK service called <a href="https://www.apply-for-teacher-training.education.gov.uk/candidate">Apply for teacher training</a>
+	You can apply for a training place via <a href="https://www.ucas.com/postgraduate/teacher-training/ucas-teacher-training-apply-and-track">UCAS Teacher Training</a>, or by using a new GOV.UK service called <a href="https://www.apply-for-teacher-training.education.gov.uk/candidate">Apply for teacher training</a>.
 </p>
 <p>Apply for teacher training will eventually replace <a href="https://www.ucas.com/postgraduate/teacher-training/ucas-teacher-training-apply-and-track">UCAS</a>, but for now, the new service is limited to certain providers. 
 </p>
@@ -1306,6 +1306,7 @@
 </p>
 
 <h4>Think about why you want to be a teacher</h4>
+
 <p>As part of the application process, you’ll be asked to tell training
 	providers why you want to be a teacher.
 </p>
@@ -1343,9 +1344,10 @@
 	interest you bring to the subject(s) you’d like to teach.
 </p>
 <p>
-	See 'Choose a subject’ for more about subject knowledge.
+	See '<a href="#choose-a-subject"></a>’ for more about subject knowledge.
 </p>
 <h4>Arrange your references</h4>
+
 <p>
 	You'll need to supply contact details for 2 referees with your application form. This is a compulsory part of the application process and you will not be able to submit your application without them.
 </p>
@@ -1383,7 +1385,7 @@
 <ul>
 	<li>contact one of your chosen training providers for advice</li>
 	<li><a
-		href="https://beta-adviser-getintoteaching.education.gov.uk/">Sign up to talk to a teacher training adviser </a>
+		href="https://beta-adviser-getintoteaching.education.gov.uk/">sign up to talk to a teacher training adviser </a>
 	</li>
 </ul>
 <h3>
@@ -1420,7 +1422,7 @@
 </p>
 <ul>
 	<li>sitting a GCSE equivalence test</li>
-	<li>taking a subject knowledge enhancement course</li>
+	<li><a href="#subject-knowledge-enhancement">taking a enhancement course</a></li>
 </ul>
 <p>
 	Your training provider will help you meet your conditions.
@@ -1522,7 +1524,7 @@
 	<li>help with your application and interview tips</li>
 </ul>
 <p>
-	For advice on returning to teaching, use the Sign up to talk to a teacher training adviser service.
+	For advice on returning to teaching, use the <a href="https://beta-adviser-getintoteaching.education.gov.uk/" target="_blank">Sign up to talk to a teacher training adviser service</a>.
 </p>
 
 <h3>Specialist help for returning physics teachers</h3>
@@ -1542,7 +1544,7 @@
 	The <a href="https://www.ncetm.org.uk/ncetm/benefits-of-registering">National Centre for the Excellence in the Teaching of Mathematics</a> (NCETM) offers teaching resources and a <a href="https://www.ncetm.org.uk/self-evaluation/">self-evaluation tool</a> to check your understanding of the maths you will be teaching.
 </p>
 
-<h3>For UK nationals returning to teaching in England from overseas </h3>
+<h3>For teachers who trained in England returning from overseas </h3>
 <p>
 	This section is for both UK and non-UK nationals who have trained to teach in England and are interested in returning to teach here.
 </p>
@@ -1608,7 +1610,7 @@
 </ul>
 <h4>Career progression</h4>
 <p>
-	If you want to progress in your career back in England, you may wish to apply for a  <a href="https://getintoteaching.education.gov.uk/life-as-a-teacher/real-life-experiences/career-progression-stories">National Professional Qualification (NPQ)</a>.
+	If you want to progress in your career in England, you may wish to apply for a  <a href="https://getintoteaching.education.gov.uk/life-as-a-teacher/real-life-experiences/career-progression-stories">National Professional Qualification (NPQ)</a>.
 </p>
 <p>
 	NPQs can help you get into leadership positions such as head of department, deputy headteacher or headteacher</a>.
