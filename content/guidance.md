@@ -964,7 +964,7 @@
 	Your training provider will decide the course duration (between 8 and 28 weeks). This will depend on the knowledge you need. 
 </p>
 <p>
-	SKE courses can be completed before or alongside your teacher training and are available to study full-time or part-time, classroom-based or online.
+	SKE courses can be completed before your teacher training, although some providers will allow you to complete an SKE alongside it. You should check with your provider to see if this is possible. They are available to study full-time or part-time, classroom-based or online. 
 </p>
 <p>
 	SKE courses are available in:
@@ -1017,7 +1017,7 @@
 </p>
 <h4>Your rights</h4>
 <p>
-	It is against the law for teacher training providers to discriminate against teacher training candidates with disabilities.Under the Equality Act 2010, providers must make adjustments to help you do a course or go to an interview, providing your requests are reasonable.Examples of support could be:
+	It is against the law for teacher training providers to discriminate against teacher training candidates with disabilities. Under the Equality Act 2010, providers must make adjustments to help you do a course or go to an interview, providing your requests are reasonable. Examples of support could be:
 </p>
 <ul>
 	<li>organising equipment like a hearing loop or an adapted keyboard
