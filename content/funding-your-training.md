@@ -28,7 +28,7 @@ navigation: 10
 
   <p>You could get a bursary of up to £26,000 or apply for a scholarship of up to £28,000.</p>
 
-  <p><a href="https://beta-getintoteaching.education.gov.uk/guidance#4" target="_blank">Find out more about bursaries and scholarships</a></p>
+  <p><a href="https://beta-getintoteaching.education.gov.uk/guidance#bursaries-and-scholarships" target="_blank">Find out more about bursaries and scholarships</a></p>
 
 
 
@@ -37,7 +37,7 @@ navigation: 10
 
   <p>You can apply for a tuition fee loan of up to £9,250 to cover the full cost of your course fees and a maintenance loan of up to £11,672 to help with your living costs.</p>
 
-  <p><a href="https://beta-getintoteaching.education.gov.uk/guidance#4" target="_blank">Find out more about student finance</a></p> 
+  <p><a href="https://beta-getintoteaching.education.gov.uk/guidance#student-finance" target="_blank">Find out more about student finance</a></p> 
 
   <p>Use the <a href="https://www.gov.uk/student-finance-calculator" target="_blank">student finance calculator on GOV.UK</a> to find out how much you can get.</p>
 
@@ -63,7 +63,7 @@ navigation: 10
     <li><span>Adult Dependants’ Grant</span></li>
   </ul>
   
-  <p><a href="https://beta-getintoteaching.education.gov.uk/guidance#4" target="_blank">Find out more about financial help for parents, carers and people with disabilities</a></p>
+  <p><a href="https://beta-getintoteaching.education.gov.uk/guidance#other-types-of-financial-help-if-youre-a-parent-carer-or-you-have-a-disability" target="_blank">Find out more about financial help for parents, carers and people with disabilities</a></p>
   
 
 
@@ -78,7 +78,7 @@ navigation: 10
 
   <p>If you live outside the UK or EU/EEA, you can get advice about training to be a teacher by using the Teacher Training Adviser Service.</p>
 
-  <p><a href="https://beta-getintoteaching.education.gov.uk/guidance#4" target="_blank">Find out how to apply for funding if you live outside England</a></p>
+  <p><a href="https://beta-getintoteaching.education.gov.uk/guidance#funding-if-you-live-in-wales-scotland-or-northern-ireland" target="_blank">Find out how to apply for funding if you live outside England</a></p>
   
 </div>
 
