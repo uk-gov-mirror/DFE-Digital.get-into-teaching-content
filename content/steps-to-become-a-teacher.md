@@ -117,7 +117,7 @@ navigation: 20
       <p>
         You could also specialise in supporting children with SEND.
       </p>
-      <a href="https://beta-getintoteaching.education.gov.uk/guidance#5" target="_blank">Find out how to specialise in SEND</a>
+      <a href="https://beta-getintoteaching.education.gov.uk/guidance#teaching-children-with-special-educational-needs-and-or-disabilities-SEND" target="_blank">Find out how to specialise in SEND</a>
     </div>
     <div class="steps-header" id="step-4" data-action="click->accordion#toggle" data-target="accordion.header">
       <h1>
