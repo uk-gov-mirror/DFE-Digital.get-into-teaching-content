@@ -67,6 +67,10 @@ backlink: "../../"
 <li><span>Don’t worry about behaviour management - honestly, teenagers are teenagers everywhere!</span></li>
 </ul>
 
+<a href="/international-candidates" class="git-link">
+    International Candidates information <i class="fas fa-chevron-right"></i>
+</a>
+
 
    </div>
     </div>

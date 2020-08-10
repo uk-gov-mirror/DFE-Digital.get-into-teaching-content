@@ -11,7 +11,6 @@ backlink: "../../"
         <div class="stories">
             <p>
                 <a class="backlink backlink--top" href="/life-as-a-teacher/my-story-into-teaching/returners">Stories about returning to teaching</a>
-                <a class="backlink backlink--top" href="/returning-to-teaching">Read further guidance if you’re returning to teaching</a>
             </p>
             <h1>Top tips for returning teachers</h1>
             <div class="story-header">
@@ -54,16 +53,9 @@ backlink: "../../"
 
 
 <p>The support I’ve received from my return to teaching adviser has been brilliant. The monthly updates have been very helpful as they have advised me of things I need to consider or actions I need to take. When a part time maternity cover job was advertised, my adviser checked my application forms and covering letter. When I got the interview, they happily checked over my lesson plan and resources prior to interview, which was fantastic. I am extremely relieved to discover that my adviser’s support will continue for the first two months of my new post.</p>
-
-
-
-
-
-
-
-
-
-
+    <a href="/returning-to-teaching" class="git-link">
+        Read further guidance if you’re returning to teaching <i class="fas fa-chevron-right"></i>
+    </a>
    </div>
     </div>
 </div>

@@ -11,7 +11,6 @@ backlink: "../../"
         <div class="stories">
             <p>
                 <a class="backlink backlink--top" href="/life-as-a-teacher/my-story-into-teaching/returners">Stories about returning to teaching</a>
-                <a class="backlink backlink--top" href="/returning-to-teaching">Read further guidance if you’re returning to teaching</a>
             </p>
             <h1>Getting back into the classroom</h1>
             <div class="story-header">
@@ -39,17 +38,9 @@ backlink: "../../"
 <p>Throughout the academic year, there was always Laura, my return to teaching adviser, at the end of the phone offering advice and support. Laura would review my applications and lesson plans and discuss interview feedback with me. It can be discouraging to attend interview after interview with what feels like no success - but Laura would always be positive and identify key learning points.</p>
 
 <p>I’m now in my second year of teaching maths GCSE at an 11 to 16 alternative provision school and I am really enjoying it. I am very pleased to have been able to resume my career and very grateful to all concerned with the Return to Teaching Adviser service.</p>
-  
-  
-
-
-
-
-
-
-
-
-
+    <a href="/returning-to-teaching" class="git-link">
+        Read further guidance if you’re returning to teaching <i class="fas fa-chevron-right"></i>
+    </a>
    </div>
     </div>
 </div>
