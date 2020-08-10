@@ -398,14 +398,12 @@
 	to </a>Qualified Teacher Status.
 </p>
 
-<div role="note" aria-label="Information" class="application-notice info-notice">
-  <p>Some private schools accept staff without a degree or QTS.  It’s best to check with the school. </p>
-</div>
+
 
 <h3>If you do not have GCSEs</h3>
 <p>You can still apply for teacher training if you do not have English, maths or science (for primary) GCSE qualifications at the right grade.</p>
 <p>However, to start your training, you'll need to have demonstrated a standard equivalent to grade 4 (C) at GCSE in these subjects.</p>
-<p>We recommend that, when you’ve chosen a training provider, you contact them for advice about getting the right qualification in time for your course.</p>
+<p>We recommend that, when you’ve chosen a training provider, you contact them for advice about getting the right qualification or demonstrating a standard equivalent in time for your course.</p>
 <p>You should ask if your provider offers or accepts ‘equivalency tests’ (which show that you've reached the same educational level and breadth of knowledge as an English, maths or science GCSE grade 4 (C) or above. Ask if they recommend you do the test or if they will accept other evidence of attainment. </p>
 <p>
 	You can also visit the <a
@@ -563,7 +561,7 @@
 
 <h4>How to get a bursary</h4>
 <p>
-	If you're eligible for a bursary, and train in a subject where a bursary is available-  you’ll receive it in installments for the duration of your training. You do not need to apply for a bursary.
+	If you're eligible for a bursary, and train in a subject where a bursary is available-  you’ll receive it in instalments for the duration of your training. You do not need to apply for a bursary.
 </p>
 <p>
 	For advice about bursaries, you can chat online or talk to an adviser using the <a
@@ -657,7 +655,7 @@
 <h3 id="student-finance">Student finance</h3>
 <p>
 	You can take out a loan with <a
-		href="https://www.gov.uk/teacher-training-funding">student finance</a> to help cover your tuition fees and help with your living (maintenance) costs. You will only start to repay this when you are earning over £26,575.
+		href="https://www.gov.uk/teacher-training-funding">student finance</a> to cover your tuition fees and help with your living (maintenance) costs. You will only start to repay this when you are earning over £26,575.
 </p>
 <p>
 	You can apply for a tuition fee and/or a maintenance loan even if:
@@ -716,21 +714,21 @@
 	Grant</a> to pay for 85% of your childcare costs. The maximum you’ll get is:
 </p>
 <ul>
-	<li>£169.31 a week for one child
-	<li>£290.27 a week for 2 or more children</li>
+	<li>£174.22 a week for one child
+	<li>£298.69 a week for 2 or more children</li>
 </ul>
 <h3>Adult Dependants’ Grant</h3>
 <p>
 	If an adult depends on you financially, you can apply for an <a
 		href="https://www.gov.uk/adult-dependants-grant">Adult Dependants’
-	Grant</a><span style="text-decoration:underline;"> </span>of up to £3,007.
+	Grant</a><span style="text-decoration:underline;"> </span>of up to £3,094.
 </p>
 <h3>Disabled Students’ Allowances (DSAs)</h3>
 <p>
 	If you have additional needs due to a mental health condition, long-term illness
 	or disability you can <a
 		href="https://www.gov.uk/disabled-students-allowances-dsas/how-to-claim">apply
-	for Disabled Students’ Allowances (DSAs)</a>. The maximum amount is £20,000.
+	for Disabled Students’ Allowances (DSAs)</a>. The maximum amount is £20,580.
 </p>
 <h3 id="funding-if-you-live-in-wales-scotland-or-northern-ireland">Funding if you live in Wales, Scotland or Northern Ireland</h3>
 <p>
@@ -1034,8 +1032,7 @@
 <h4>Telling your training provider about your disability when you apply</h4>
   
   <p>It’s up to you if you want to tell your training
-	provider about your disability. The main advantage of doing this is to let them
-  put support in place.</p>
+	provider about your disability. </p>
   <p>information you give about your
 	disability is protected under the <a
 		href="https://www.gov.uk/data-protection/the-data-protection-act">Data
@@ -1135,9 +1132,9 @@
 	<li>earn a salary
 	<li>pay no student fees for training towards QTS</li>
 </ul>
-<h3 id="salaried">
+<h4 id="salaried">
 	Salaried teacher training courses
-</h3>
+</h4>
 <p>
 	You can apply for a ‘salaried’ teacher training course. There are 3 options available:
 </p>
@@ -1758,7 +1755,7 @@
 </ul>
 
 <p>
-	If your teaching role starts after 1 January 2021 and you’re from outside the UK, including if you’re from the EEA, you may need to apply for a visa under the UK’s new immigration system.</p>
+	If your teaching role starts after 1 January 2021 and you’re from outside the UK, including the EEA, you may need to apply for a visa under the UK’s new immigration system.</p>
 <p>To find out if you will need to apply for a visa:</p>
 <ul>
 	<li>contact the school that will be employing you</li>
@@ -1769,7 +1766,7 @@
 <p>To find out if you need to apply for a visa:</p>
 <ul>
 	<li>contact the school or university you want to train with</li>
-	<li>read the UK government’s guidance on the <a href="https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know">new immigration system</a> and the <a href="https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#eu-citizens-living-in-the-uk-by-31-december-2020">EU settlement scheme</a></li>
+	<li>read the UK government guidance on <a href="https://www.gov.uk/browse/visas-immigration/student-visas" target="_blank">student visas</a>; or if you want to train on a course where you get paid, read the UK government guidance on <a href="https://www.gov.uk/browse/visas-immigration/work-visas" target="_blank">work visas</a></li>
 </ul>
 
 
@@ -2046,7 +2043,7 @@
   </div>
 
 
-    <footer class="group js-footer" id="footer" role="contentinfo">
+   <footer class="group js-footer" id="footer" role="contentinfo">
       <div class="govuk-width-container">
         <div class="footer-container govuk-main-wrapper">
               <div class="govuk-grid-row footer-categories" data-module="track-click">
@@ -2075,7 +2072,7 @@
       <div class="govuk-grid-column-two-thirds">
         <h2>Services and information</h2>
 
-        <div class="govuk-grid-row">
+   <div class="govuk-grid-row">
           <div class="govuk-grid-column-one-half">
             <ul>
               <li>
@@ -2167,10 +2164,10 @@
         </div>
       </div>
 
-      <div class="govuk-grid-column-one-third">
+   <div class="govuk-grid-column-one-third">
         <h2>Departments and policy</h2>
 
-        <ul>
+   <ul>
           <li>
             <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="How government works" href="https://www.gov.uk/government/how-government-works">
               How government works
@@ -2222,7 +2219,7 @@
     </div>
 
 
-          <div class="footer-meta">
+   <div class="footer-meta">
             <div class="footer-meta-inner">
                 <h2 class="visuallyhidden">Support links</h2>
 <ul>
@@ -2243,7 +2240,7 @@
 
 
 
-              <div class="open-government-licence">
+   <div class="open-government-licence">
                 <p class="logo">
                   <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license" class="govuk-link open-government-licence__logo-link">
                     Open Government Licence
@@ -2253,7 +2250,7 @@
               </div>
             </div>
 
-            <div class="copyright">
+   <div class="copyright">
               <a class="govuk-link" href="https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/">
                  © Crown copyright
               </a>
@@ -2263,9 +2260,9 @@
       </div>
     </footer>
 
-    <div id="global-app-error" class="app-error hidden"></div>
+  <div id="global-app-error" class="app-error hidden"></div>
 
-        <script src="https://www.gov.uk/assets/static/global-bar-init-5e41d72f4cf5ad0996adf2cb4359ad06ff5ba05d465422dedcb0f83b44ba737c.js"></script>
+   <script src="https://www.gov.uk/assets/static/global-bar-init-5e41d72f4cf5ad0996adf2cb4359ad06ff5ba05d465422dedcb0f83b44ba737c.js"></script>
     <script>
       if (GOVUK.globalBarInit) {
         window.GOVUK.globalBarInit.init()
