@@ -18,10 +18,8 @@ fullwidth: true
     </div>
 </div>
 
-<div class="content-1000">
+<div class="container-1000">
     <div class="content-wrapper">
-        <div class="content__right">
-        </div>
         <div class="content__left">
             <h2>Career changers' stories</h2>
             <p>
@@ -63,8 +61,6 @@ fullwidth: true
         </div>
     </div>
     <div class="content-wrapper">
-        <div class="content__right">    
-        </div>
         <div class="content__left">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers" class="call-to-action-button stories-call-to-action">
                 Read all career changers' <span> stories</span>
@@ -72,8 +68,6 @@ fullwidth: true
         </div>
     </div>
     <div class="content-wrapper">
-        <div class="content__right">
-        </div>
         <div class="content__left">
             <h2>Stories from international teachers</h2>
             <p>
@@ -105,8 +99,6 @@ fullwidth: true
         </div>
     </div>
     <div class="content-wrapper">
-        <div class="content__right">    
-        </div>
         <div class="content__left">
             <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers" class="call-to-action-button stories-call-to-action">
                 Read all stories from international career<span> changers</span>
@@ -114,8 +106,6 @@ fullwidth: true
         </div>
     </div>
     <div class="content-wrapper">
-        <div class="content__right">
-        </div>
         <div class="content__left">
             <h2>Teacher training stories</h2>
             <p>
@@ -157,8 +147,6 @@ fullwidth: true
         </div>
     </div>
     <div class="content-wrapper">
-        <div class="content__right">    
-        </div>
         <div class="content__left">
             <a href="/life-as-a-teacher/my-story-into-teaching/teacher-training-stories" class="call-to-action-button stories-call-to-action">
                 Read all teacher training <span> stories</span>
@@ -166,8 +154,6 @@ fullwidth: true
         </div>
     </div>
     <div class="content-wrapper">
-        <div class="content__right">
-        </div>
         <div class="content__left">
             <h2>Stories about making a difference</h2>
             <p>
@@ -209,8 +195,6 @@ fullwidth: true
         </div>
     </div>
     <div class="content-wrapper">
-        <div class="content__right">    
-        </div>
         <div class="content__left">
             <a href="/life-as-a-teacher/my-story-into-teaching/making-a-difference" class="call-to-action-button stories-call-to-action">
                 Read all stories about making a <span> difference</span>
@@ -218,8 +202,6 @@ fullwidth: true
         </div>
     </div>
     <div class="content-wrapper">
-        <div class="content__right">
-        </div>
         <div class="content__left">
             <h2>Stories about career progression</h2>
             <p>
@@ -261,8 +243,6 @@ fullwidth: true
         </div>
     </div>
     <div class="content-wrapper">
-        <div class="content__right">    
-        </div>
         <div class="content__left">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-progression" class="call-to-action-button stories-call-to-action">
                 Read all stories about making career <span> progression</span>
@@ -270,8 +250,6 @@ fullwidth: true
         </div>
     </div>
     <div class="content-wrapper">
-        <div class="content__right">
-        </div>
         <div class="content__left">
             <h2>Stories about returning to teaching</h2>
             <p>
@@ -304,8 +282,6 @@ fullwidth: true
         </div>
     </div>
     <div class="content-wrapper">
-        <div class="content__right">    
-        </div>
         <div class="content__left">
             <a href="/life-as-a-teacher/my-story-into-teaching/returners" class="call-to-action-button stories-call-to-action">
                 Read all returning to teaching<span> stories</span>
