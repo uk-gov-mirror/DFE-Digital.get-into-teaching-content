@@ -68,7 +68,7 @@ backlink: "../../"
 </ul>
 
 <a href="/international-candidates" class="git-link">
-    International Candidates information <i class="fas fa-chevron-right"></i>
+    International candidates information <i class="fas fa-chevron-right"></i>
 </a>
 
 
