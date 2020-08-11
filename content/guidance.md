@@ -1698,8 +1698,8 @@
 <p>If you are a qualified teacher from the EU, Iceland, Lichtenstein, Norway or Switzerland, or you have a teaching qualification from the USA, Canada, Australia or New Zealand you can <a href="https://www.gov.uk/guidance/qualified-teacher-status-qts">apply for QTS without further training</a>.</p>
 <p>If you are an experienced teacher from any other country, you may be able to get QTS through the assessment only route without further training. </p>
 
-<h5>Government-run programmes for qualified teachers</h5> 
-<h6>International Teacher Recruitment Programme (ITRP)</h6>
+
+<h5>DfE-funded International Teacher Recruitment Programme (ITRP)</h5>
 
 <p>This programme can help with:</p>
 <ul>
@@ -1742,7 +1742,7 @@
 </ul>
 
 <h5>How coronavirus (Covid-19) is affecting the ITRP 
-<p>he programme is  still recruiting teachers for the 2020 to 2021 academic year, but will focus on getting teachers into positions by January 2021 rather than September 2020.</p>
+<p>The programme is  still recruiting teachers for the 2020 to 2021 academic year, but will focus on getting teachers into positions by January 2021 rather than September 2020.</p>
 
 <p>If you’ve already applied and want to start teaching in September 2020, or have concerns about travel, contact your recruitment agency to discuss your options.</p>
 
