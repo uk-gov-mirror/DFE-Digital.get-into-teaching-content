@@ -21,37 +21,39 @@
 <meta name="csrf-token" content="7nEyrE02wOQwmk/XuMW8Pt/EXRHvKUviRNfu/w94kT83HpAxE4Vvw9Gd+A6aNoguHx10WmcFKBmN5HAwwo+Lng==">
 <meta name="csrf-param" content="authenticity_token">
     
-    <title lang="en">
+<title lang="en">
         Become a teacher in England
     </title>
 
-    <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://www.gov.uk/assets/static/govuk-template-ec01c15a0e8793975bcaf519e4eb3ec0d68a99610c6b262fa7a1b3c7f76f6176.css">
+<!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://www.gov.uk/assets/static/govuk-template-ec01c15a0e8793975bcaf519e4eb3ec0d68a99610c6b262fa7a1b3c7f76f6176.css">
 <!--<![endif]-->
-    <!--[if IE 8]><link rel="stylesheet" media="screen" href="https://www.gov.uk/assets/static/govuk-template-ie8-d542fa9c0b1884e3f91f37f9ae1574f44a5a83d506d645292555c2b5572498e9.css" /><![endif]-->
+
+<!--[if IE 8]><link rel="stylesheet" media="screen" href="https://www.gov.uk/assets/static/govuk-template-ie8-d542fa9c0b1884e3f91f37f9ae1574f44a5a83d506d645292555c2b5572498e9.css" /><![endif]-->
     <link rel="stylesheet" media="print" href="https://www.gov.uk/assets/static/govuk-template-print-1076519521c2fffbbf75ab3b0d3b32ee2d96ac7e9778f1cdfac1771eefd1a1c0.css">
 
-    <link rel="stylesheet" media="all" href="https://www.gov.uk/assets/static/fonts-c57ab80a95f2b1764162611b3c98a4c098b356f8e30baf1e50cd63edea464c01.css">
-    <!--[if lt IE 9]><script src="https://www.gov.uk/assets/static/ie-a4524544a53d57a7e259b4bb966b9c32557c98c920b77e52d09304642b68401a.js"></script><![endif]-->
+ <link rel="stylesheet" media="all" href="https://www.gov.uk/assets/static/fonts-c57ab80a95f2b1764162611b3c98a4c098b356f8e30baf1e50cd63edea464c01.css">
+ 
+ <!--[if lt IE 9]><script src="https://www.gov.uk/assets/static/ie-a4524544a53d57a7e259b4bb966b9c32557c98c920b77e52d09304642b68401a.js"></script><![endif]-->
 
-    <link rel="shortcut icon" href="https://www.gov.uk/assets/static/favicon-8d811b8c3badbc0b0e2f6e25d3660a96cc0cca7993e6f32e98785f205fc40907.ico" type="image/x-icon">
+ <link rel="shortcut icon" href="https://www.gov.uk/assets/static/favicon-8d811b8c3badbc0b0e2f6e25d3660a96cc0cca7993e6f32e98785f205fc40907.ico" type="image/x-icon">
     <link rel="mask-icon" href="https://www.gov.uk/assets/static/gov.uk_logotype_crown-de738c3fcce8ce2a91b67e89787090dc24a5cda0275ab6b75f6226c5b9619d3d.svg" color="#0b0c0c">
     <link rel="apple-touch-icon" sizes="180x180" href="https://www.gov.uk/assets/static/apple-touch-icon-180x180-ea1cbb1cbbeddfff275dfa6e8e46b84cd530892df79dc4882a8f99b802b49a90.png">
     <link rel="apple-touch-icon" sizes="167x167" href="https://www.gov.uk/assets/static/apple-touch-icon-167x167-181e404a50c572923285fb83f0fbd78da6b4e38e3ce52f8e6b8e29da8586450a.png">
     <link rel="apple-touch-icon" sizes="152x152" href="https://www.gov.uk/assets/static/apple-touch-icon-152x152-02457fcdcee8d309276305af2233d41bfb8fd055e855727d355e61bce7ffa9bb.png">
     <link rel="apple-touch-icon" href="https://www.gov.uk/assets/static/apple-touch-icon-a318f305290c523aed80082456175b46c95350c0eeac93f42e78a71c7a55544e.png">
 
-    <meta name="theme-color" content="#0b0c0c">
+  <meta name="theme-color" content="#0b0c0c">
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-      <link rel="stylesheet" media="screen" href="https://www.gov.uk/assets/static/core-layout-9cb3fbb510e7fdfc3852b0e6b017557267dad3c1c27b714d75104324dc28ebbe.css">
+  <link rel="stylesheet" media="screen" href="https://www.gov.uk/assets/static/core-layout-9cb3fbb510e7fdfc3852b0e6b017557267dad3c1c27b714d75104324dc28ebbe.css">
 <!--[if lte IE 8]><link rel="stylesheet" media="screen" href="https://www.gov.uk/assets/static/core-layout-ie8-773f4cacc5b2d19e924e37800dca2a1e66acd94c661e1cd95a8a165021bdc667.css" /><script>var ieVersion = 8;</script><![endif]-->
 
 <link rel="stylesheet" media="print" href="https://www.gov.uk/assets/static/core-layout-print-8e40ee8bf8b49850b34ea341226ca4421597a64ffda587b0f72111677fd368bd.css">
 
 
 
-    <meta property="og:image" content="https://www.gov.uk/assets/static/opengraph-image-a1f7d89ffd0782738b1aeb0da37842d8bd0addbd724b8e58c3edbc7287cc11de.png">
+  <meta property="og:image" content="https://www.gov.uk/assets/static/opengraph-image-a1f7d89ffd0782738b1aeb0da37842d8bd0addbd724b8e58c3edbc7287cc11de.png">
   <link rel="stylesheet" media="screen" href="https://www.gov.uk/assets/government-frontend/application-a9e9ca7583296f69d7826edbb0a55c79d5aab10ac83d94ff748db38655b9cbe8.css">
 <link rel="stylesheet" media="print" href="https://www.gov.uk/assets/government-frontend/print-0d530d98c978539f18ef97c5644385ea4d38780dbc8679da5a8a1603a218044c.css">
 <link rel="canonical" href="https://www.gov.uk/guidance/employing-an-apprentice-technical-guide-for-employers">
@@ -62,8 +64,7 @@
     <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
 
     
-
-    <div id="skiplink-container">
+<div id="skiplink-container">
       <div>
         <a href="#content" class="skiplink govuk-link">Skip to main content</a>
       </div>
@@ -86,7 +87,7 @@
   <button class="gem-c-button govuk-button gem-c-button--inline" type="submit" data-module="track-click" data-accept-cookies="true" data-track-category="cookieBanner" data-track-action="Cookie banner accepted">Accept all cookies</button>
 
 
-            </div>
+  </div>
             <div class="gem-c-cookie-banner__button gem-c-cookie-banner__button-settings govuk-grid-column-full govuk-grid-column-one-half-from-desktop">
               
 
@@ -94,7 +95,7 @@
   <a class="gem-c-button govuk-button gem-c-button--inline" role="button" data-module="track-click" data-track-category="cookieBanner" data-track-action="Cookie banner settings clicked" href="https://www.gov.uk/help/cookies">Set cookie preferences</a>
 
 
-            </div>
+  </div>
           </div>
       </div>
     </div>
@@ -107,7 +108,7 @@
 </div>
 
 
-    <header role="banner" id="global-header" class=" with-proposition">
+  <header role="banner" id="global-header" class=" with-proposition">
       <div class="header-wrapper">
         <div class="header-global">
           <div class="header-logo">
@@ -134,9 +135,9 @@
     </div>
   </form>
 
-        </div>
+   </div>
         
-      <div class="header-proposition">
+   <div class="header-proposition">
   <div class="content">
     <a href="#proposition-links" class="js-header-toggle menu">Menu</a>
   <nav id="proposition-menu" class="no-proposition-name gem-c-government-navigation">
@@ -183,10 +184,10 @@
 </div>
     </header>
 
-      <div id="user-satisfaction-survey-container"></div>
+  <div id="user-satisfaction-survey-container"></div>
 
 
-    <div id="global-header-bar"></div>
+  <div id="global-header-bar"></div>
 
       
   <!--[if gt IE 7]><!-->
@@ -194,24 +195,24 @@
     <div class="global-bar-message govuk-width-container">
 
 
-        <div class="global-bar-covid-wrapper">
+   <div class="global-bar-covid-wrapper">
             <div class="gem-c-action-link gem-c-action-link--light-text gem-c-action-link--with-subtext govuk-!-margin-bottom-0">
 
-      <span class="gem-c-action-link__contents-wrapper">      <span class="gem-c-action-link__link-wrapper">
+  <span class="gem-c-action-link__contents-wrapper">      <span class="gem-c-action-link__link-wrapper">
 
-          <a class="govuk-link gem-c-action-link__link js-call-to-action" href="https://www.gov.uk/coronavirus">
+  <a class="govuk-link gem-c-action-link__link js-call-to-action" href="https://www.gov.uk/coronavirus">
                       Coronavirus (COVID-19)
           
 
 </a>      </span>
 
-        <span class="gem-c-action-link__subtext-wrapper">
+   <span class="gem-c-action-link__subtext-wrapper">
             <span class="gem-c-action-link__subtext">Guidance and support</span>
         </span>
 </span>
   </div>
 
-        </div>
+   </div>
     </div>
 
   </div>
@@ -241,7 +242,7 @@
 </div>
 
 
-    <main role="main" id="content" class="detailed-guide" lang="en">
+  <main role="main" id="content" class="detailed-guide" lang="en">
       
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
@@ -263,7 +264,7 @@
     Published 23 June 2020
 </div>
 
-      <div class="app-c-publisher-metadata__other">
+  <div class="app-c-publisher-metadata__other">
         <dl data-module="track-click">
             <dt class="app-c-publisher-metadata__term">
               From:
@@ -277,7 +278,7 @@
       </div>
   </div>
 
-    </div>
+  </div>
     <div class="govuk-grid-column-one-third">
     </div>
   </div>
@@ -297,12 +298,12 @@
   </div>
 
 
-      <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
+  <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
           <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
-    <ol class="gem-c-contents-list__list">
+ <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
           <a class="gem-c-contents-list__link govuk-link" href="#1">Introduction</a>
         </li>
@@ -1834,14 +1835,14 @@
 </div>
 
 
-      <div class="responsive-bottom-margin">
+  <div class="responsive-bottom-margin">
         <div class="app-c-published-dates " lang="en">
     Published 23 June 2020
 </div>
 
-      </div>
+   </div>
 
-      <div data-sticky-element="" class="app-c-contents-list-with-body__link-wrapper govuk-sticky-element--enabled govuk-sticky-element--stuck-to-window govuk-sticky-element--hidden">
+  <div data-sticky-element="" class="app-c-contents-list-with-body__link-wrapper govuk-sticky-element--enabled govuk-sticky-element--stuck-to-window govuk-sticky-element--hidden">
         <div class="app-c-contents-list-with-body__link-container">
           <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewBox="0 0 13 17">
@@ -1850,16 +1851,16 @@
     Contents
 </a>
 
-        </div>
+   </div>
       </div>
   </div>
   </div>
   
   <div class="govuk-grid-column-one-third">
     
-    <div class="gem-c-contextual-sidebar">
+  <div class="gem-c-contextual-sidebar">
 
-      <div class="gem-c-related-navigation">
+   <div class="gem-c-related-navigation">
           <h2 id="related-nav-related_items-8be55305" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
             Related content
           </h2>
@@ -1877,7 +1878,7 @@
                     <a href="https://qa.apply-for-teacher-training.service.gov.uk/candidate">Apply for teacher training in England</a>
                 </li>
 
-                <li class="gem-c-related-navigation__link">
+   <li class="gem-c-related-navigation__link">
                     <a href="https://www.gov.uk/teacher-training-funding">Teacher training funding</a>
                 </li>
                 <li class="gem-c-related-navigation__link">
@@ -1903,14 +1904,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-c4b327cd" data-module="gem-toggle">
+   <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-c4b327cd" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-c4b327cd" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+  <h2 id="related-nav-topics-c4b327cd" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" href="https://beta-getintoteaching.education.gov.uk">Get into Teaching GET LINK URL</a></li>
+   <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" href="https://beta-getintoteaching.education.gov.uk">Get into Teaching GET LINK URL</a></li>
 
   </ul>
 </nav>
@@ -1920,11 +1921,11 @@
   </div>
 
 
-    </div>
+  </div>
   </div>
 
 
-    </main>
+   </main>
     
 <div class="gem-c-feedback" data-module="feedback">
   
@@ -1961,9 +1962,9 @@
     <div class="govuk-grid-column-two-thirds">
       <div class="gem-c-feedback__error-summary gem-c-feedback__js-show js-hidden js-errors" tabindex="-1"></div>
 
-      <input type="hidden" name="url" value="https://www.gov.uk/guidance/employing-an-apprentice-technical-guide-for-employers">
+  <input type="hidden" name="url" value="https://www.gov.uk/guidance/employing-an-apprentice-technical-guide-for-employers">
 
-      <h3 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h3>
+  <h3 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h3>
       <p id="feedback_explanation" class="gem-c-feedback__form-paragraph">Don’t include personal or financial information like your National Insurance number or credit card details.</p>
 
       
@@ -1976,7 +1977,7 @@
 
 
 
-    <input name="what_doing" class="gem-c-input govuk-input" id="input-f8a6fd2a" type="text" aria-describedby="feedback_explanation">
+  <input name="what_doing" class="gem-c-input govuk-input" id="input-f8a6fd2a" type="text" aria-describedby="feedback_explanation">
 </div>
 
       
@@ -1989,7 +1990,7 @@
 
 
 
-    <input name="what_wrong" class="gem-c-input govuk-input" id="input-bb2ef2df" type="text">
+   <input name="what_wrong" class="gem-c-input govuk-input" id="input-bb2ef2df" type="text">
 </div>
 
       
@@ -2009,10 +2010,10 @@
     <div class="govuk-grid-column-two-thirds" id="survey-wrapper">
       <div class="gem-c-feedback__error-summary js-hidden js-errors" tabindex="-1"></div>
 
-      <input name="email_survey_signup[survey_id]" type="hidden" value="footer_satisfaction_survey">
+   <input name="email_survey_signup[survey_id]" type="hidden" value="footer_satisfaction_survey">
       <input name="email_survey_signup[survey_source]" type="hidden" value="/guidance/employing-an-apprentice-technical-guide-for-employers">
 
-      <h3 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h3>
+   <h3 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h3>
       <p id="survey_explanation" class="gem-c-feedback__form-paragraph">To help us improve GOV.UK, we’d like to know more about your visit today. We’ll send you a link to a feedback form. It will take only 2 minutes to fill in. Don’t worry we won’t send you spam or share your email address with anyone.</p>
 
       
@@ -2025,7 +2026,7 @@
 
 
 
-    <input name="email_survey_signup[email_address]" class="gem-c-input govuk-input" id="input-9c3543c1" type="email" autocomplete="email" aria-describedby="survey_explanation">
+  <input name="email_survey_signup[email_address]" class="gem-c-input govuk-input" id="input-9c3543c1" type="email" autocomplete="email" aria-describedby="survey_explanation">
 </div>
 
       
