@@ -440,11 +440,11 @@
 <p>
 	There are several types of funding that may be available to you, depending on your eligibility:
 </p>
-<ul>
-	<li>a bursary
-	<li>a scholarship
+        <ul>
+	<li>a bursary</li>
+	<li>a scholarship</li>
 	<li>student finance</li>
-</ul>
+        </ul>
 <p>
 	It’s possible to train while you work as a paid teacher. Find out more about <a href="#salaried">paid routes into teaching</a>. 
 </p>
@@ -482,6 +482,7 @@
 <p>
 	Bursaries and scholarships are only available for the subjects listed below. Primary teacher training bursaries are only available if you specialise in maths.
 </p>
+
 <table class="govuk-table">
   <caption class="govuk-table__caption">Subjects and amounts</caption>
   <thead class="govuk-table__head">
@@ -565,8 +566,7 @@
 	If you're eligible for a bursary, and train in a subject where a bursary is available-  you’ll receive it in instalments for the duration of your training. You do not need to apply for a bursary.
 </p>
 <p>
-	For advice about bursaries, you can chat online or talk to an adviser using the <a
-		href="https://beta-adviser-getintoteaching.education.gov.uk/">Sign up to talk to a teacher training adviser</a> service.
+	For advice about bursaries, you can chat online or talk to an adviser using the <a href="https://beta-adviser-getintoteaching.education.gov.uk/">Sign up to talk to a teacher training adviser</a> service.
 </p>
 <h4>
 	Troops to Teachers
