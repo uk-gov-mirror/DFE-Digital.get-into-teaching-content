@@ -655,14 +655,13 @@
 </table>
 <h3 id="student-finance">Student finance</h3>
 <p>
-	You can take out a loan with <a
-		href="https://www.gov.uk/teacher-training-funding">student finance</a> to cover your tuition fees and help with your living (maintenance) costs. You will only start to repay this when you are earning over £26,575.
+	You can take out a loan with <a href="https://www.gov.uk/teacher-training-funding">student finance</a> to cover your tuition fees and help with your living (maintenance) costs. You will only start to repay this when you are earning over £26,575.
 </p>
 <p>
 	You can apply for a tuition fee and/or a maintenance loan even if:
 </p>
 <ul>
-	<li>you already have an undergraduate student loan
+	<li>you already have an undergraduate student loan</li>
 	<li>you’ve been awarded a bursary or scholarship</li>
 </ul>
 
@@ -715,7 +714,7 @@
 	Grant</a> to pay for 85% of your childcare costs. The maximum you’ll get is:
 </p>
 <ul>
-	<li>£174.22 a week for one child
+	<li>£174.22 a week for one child</li>
 	<li>£298.69 a week for 2 or more children</li>
 </ul>
 <h3>Adult Dependants’ Grant</h3>
@@ -727,8 +726,7 @@
 <h3>Disabled Students’ Allowances (DSAs)</h3>
 <p>
 	If you have additional needs due to a mental health condition, long-term illness
-	or disability you can <a
-		href="https://www.gov.uk/disabled-students-allowances-dsas/how-to-claim">apply
+	or disability you can <a href="https://www.gov.uk/disabled-students-allowances-dsas/how-to-claim">apply
 	for Disabled Students’ Allowances (DSAs)</a>. The maximum amount is £20,580.
 </p>
 <h3 id="funding-if-you-live-in-wales-scotland-or-northern-ireland">Funding if you live in Wales, Scotland or Northern Ireland</h3>
@@ -848,11 +846,11 @@
 	You can train to teach:
 </p>
 <ul>
-	<li>under-fives (also known as ‘early years’)
-	<li>primary school children
+	<li>under-fives (also known as ‘early years’)</li>
+	<li>primary school children</li>
 	<li>primary school with a specialism (for example, English, modern languages or
-		science)
-	<li>secondary school age children (you’ll need to specialise in a subject)
+		science)</li>
+	<li>secondary school age children (you’ll need to specialise in a subject)</li>
 	<li>further education (14 to adult)</li>
 </ul>
 <p>
@@ -904,11 +902,10 @@
 	Graduate employment-based courses:
 </p>
 <ul>
-	<li>are one year part-time courses for graduates working in early years settings</li>
+	<li>are one year part-time courses for graduates working in early years settings
 		who need further training to demonstrate the Teachers’ Standards (Early Years)</li>
-	<li> offer funding of £14,000 to cover up to £7,000 fees and £7,000 contribution</li>
-		to employer costs
-	</li>
+	<li> offer funding of £14,000 to cover up to £7,000 fees and £7,000 contribution
+		to employer costs</li>
 </ul>
 <p>
 	Assessment Only is:
@@ -938,7 +935,7 @@
 </p>
 <ul>
 	<li>the subject of your undergraduate degree</li>
-	<li>modules you studied as part of your degree</li></li>
+	<li>modules you studied as part of your degree</li>
 	<li>postgraduate degrees (for example, a Masters or PhD)</li>
 	<li>your A level subjects</li>
 	<li>expertise you’ve gained at work</li>
@@ -1019,9 +1016,9 @@
 	It is against the law for teacher training providers to discriminate against teacher training candidates with disabilities. Under the Equality Act 2010, providers must make adjustments to help you do a course or go to an interview, providing your requests are reasonable. Examples of support could be:
 </p>
 <ul>
-	<li>organising equipment like a hearing loop or an adapted keyboard
+	<li>organising equipment like a hearing loop or an adapted keyboard</li>
 	<li>putting you in touch with support staff if you have a mental health
-		condition
+		condition</li>
 	<li>making sure classrooms are wheelchair accessible</li>
 </ul>
 <p>
