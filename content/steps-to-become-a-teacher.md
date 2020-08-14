@@ -54,7 +54,7 @@ navigation: 20
    <p>
         If you do not have the required GCSEs, you’ll need to show that you have an equivalent level of education.
       </p>
-      <a href="./if-you-need-to-get-the-right-qualifications#if-your-degree-is-not-in-the-subject-you-want-to-teach">If your degree is not in the subject you want to teach</a>
+      <a href="steps-to-become-a-teacher/if-you-need-to-get-the-right-qualifications#if-your-degree-is-not-in-the-subject-you-want-to-teach">If your degree is not in the subject you want to teach</a>
     </div>
     <div class="steps-header" id="step-2" data-action="click->accordion#toggle" data-target="accordion.header">
       <h1>
@@ -132,7 +132,7 @@ navigation: 20
         <a href="https://qa.apply-for-teacher-training.education.gov.uk/candidate" target="_blank">prepare your application</a> using the following steps:
       </p>
       <ul>
-        <li><span><span><a href="https://www.gov.uk/find-postgraduate-teacher-training-courses">choose your course</a></span></span></li>
+        <li><span><span><a href="https://www.gov.uk/find-postgraduate-teacher-training-courses" target="_blank">choose your course</a></span></span></li>
         <li><span><span>write a personal statement</span></span></li>
         <li><span><span>get two references</span></span></li>
         <li><span><span><a href="https://qa.apply-for-teacher-training.education.gov.uk/candidate" target="_blank">apply for teacher training</a></span></span></li>
