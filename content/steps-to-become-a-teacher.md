@@ -30,7 +30,7 @@ navigation: 20
   </p>
 
   <ul>
-  <li><span><a href="./if-you-need-to-get-the-right-qualifications#if-you-dont-have-a-degree">do not have a degree</a></span></li>
+  <li><span><a href="steps-to-become-a-teacher/if-you-need-to-get-the-right-qualifications#if-you-dont-have-a-degree">do not have a degree</a></span></li>
   <li><span><a href="/international-candidates">have an overseas degree</a></span></li>
   <li><span><a href="/returning-to-teaching">are returning to teach in England</a></span></li>
   </ul>
