@@ -167,29 +167,3 @@ jobs:
              ENVIRON: "Development"
         env:
             SENTRY_DSN: ${{secrets.DEV_OPS_SENTRY_DSN}}
-
-  accessibility:
-    name: Accessibility Test
-    runs-on: ubuntu-latest
-    if: always()
-#   if: github.ref == 'refs/heads/master'
-    needs: deploy
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-
-      - name: Accessibility Scan
-        run: |-
-             docker run -t --rm -v ${PWD}/.accessibility.file:/app/.accessibility.file \
-                    dfedigital/accessibility_crawler:v1 -U ${{ secrets.HTTPAUTH_USERNAME }} -P ${{ secrets.HTTPAUTH_PASSWORD }} --file '/app/.accessibility.file'
-
-      - name:  Send Message to Sentry.io
-        if: always()
-        uses: sfawcett123/sentry-event@v1
-        with:
-             MESSAGE: "Accessibility Application - get-into-teaching-app"
-             STATE:  ${{job.status}}
-             ENVIRON: "Development"
-        env:
-            SENTRY_DSN: ${{secrets.DEV_OPS_SENTRY_DSN}}
-
