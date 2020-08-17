@@ -1,6 +1,6 @@
 ---
 title: "Returning to teaching"
-image: "/assets/images/life-as-a-teacher-header.jpg"
+image: "/assets/images/return-to-teaching-dt.jpg"
 backlink: "../../"
 ---
 <div class="content__right">

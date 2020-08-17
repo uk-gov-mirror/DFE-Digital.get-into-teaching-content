@@ -1,6 +1,6 @@
 ---
 title: "International candidates"
-image: "/assets/images/life-as-a-teacher-header.jpg"
+image: "/assets/images/international-dt.jpg"
 backlink: "../../"
 ---
 <div class="content__right">

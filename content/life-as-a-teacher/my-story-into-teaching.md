@@ -1,6 +1,6 @@
 ---
 title: "My story into teaching"
-image: "/assets/images/miss-hayre.png"
+image: "/assets/images/my-story-hero-dt.jpg"
 backlink: "../../"
 navigation: 35
 fullwidth: true

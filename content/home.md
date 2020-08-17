@@ -4,7 +4,7 @@ deepheader: true,
 mailinglist: true,
 fullwidth: true,
 subtitle: "Get information and support to help you become a teacher"
-image: "media/images/hero-home.png"
+image: "media/images/hero-home-dt.jpg"
 backlink: "/"
 ---
 
@@ -27,7 +27,7 @@ backlink: "/"
     </div>
     <div class="featured-content__item">
         <span class="featured-content__title">International candidates</span>
-        <div class="featured-content__image" style="background-image: url('assets/images/featured-3.png')"></div>
+        <div class="featured-content__image" style="background-image: url('assets/images/featured-3.jpg')"></div>
         <div class="featured-content__content">
             <span>Teaching in England offers a wealth of opportunities and rewards that helps you to build a stimulating and successful career.</span>
             <a class="featured-content__link" href="/international-candidates">Find out more</a>

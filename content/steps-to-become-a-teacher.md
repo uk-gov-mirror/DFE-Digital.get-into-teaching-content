@@ -1,6 +1,6 @@
 ---
 title: "Steps to become a teacher"
-image: "/assets/images/steps-to-teacher-header.jpg"
+image: "/assets/images/steps-hero-dt.jpg"
 backlink: "../"
 navigation: 20
 ---

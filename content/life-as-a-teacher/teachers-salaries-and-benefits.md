@@ -1,6 +1,6 @@
 ---
 title: "Salaries and benefits"
-image: "/assets/images/life-as-a-teacher-header.jpg"
+image: "/assets/images/salaries-hero-dt.jpg"
 backlink: "../../"
 navigation: 40
 ---

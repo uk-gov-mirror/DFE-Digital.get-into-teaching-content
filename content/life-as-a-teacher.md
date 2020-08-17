@@ -1,6 +1,6 @@
 ---
 title: "Teaching as a career"
-image: "/assets/images/life-as-a-teacher-header.jpg"
+image: "/assets/images/teaching-as-a-career-hero-dt.jpg"
 backlink: "../"
 navigation: 30
 ---
