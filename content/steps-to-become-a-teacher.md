@@ -18,7 +18,7 @@ navigation: 20
       <h1>
         <div class="steps-header__number"><span>1</span></div>
         Check your qualifications
-        <i id="collapsable-icon-1" class="fas fa-chevron-up"></i>
+        <button><i id="collapsable-icon-1" class="fas fa-chevron-up"></i></button>
       </h1>
   </div>
   <div id="collapsable-content-1" class="collapsable" data-target="accordion.content">
@@ -60,7 +60,7 @@ navigation: 20
       <h1>
         <div class="steps-header__number"><span>2</span></div>
         Find out about funding
-        <i id="collapsable-icon-2" class="fas fa-chevron-up"></i>
+        <button><i id="collapsable-icon-2" class="fas fa-chevron-up"></i></button>
       </h1>
     </div>
     <div id="collapsable-content-2" class="collapsable" data-target="accordion.content">
@@ -84,7 +84,7 @@ navigation: 20
       <h1>
         <div class="steps-header__number"><span>3</span></div>
         Ways to train
-        <i id="collapsable-icon-3" class="fas fa-chevron-up"></i>
+        <button><i id="collapsable-icon-3" class="fas fa-chevron-up"></i></button>
       </h1>
     </div>
     <div id="collapsable-content-3" class="collapsable" data-target="accordion.content">
@@ -123,7 +123,7 @@ navigation: 20
       <h1>
         <div class="steps-header__number"><span>4</span></div>
         Application process
-        <i id="collapsable-icon-4" class="fas fa-chevron-up"></i>
+        <button><i id="collapsable-icon-4" class="fas fa-chevron-up"></i></button>
       </h1>
     </div>
     <div id="collapsable-content-4" class="collapsable" data-target="accordion.content">
