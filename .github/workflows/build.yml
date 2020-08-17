@@ -133,15 +133,15 @@ jobs:
              HTTPAUTH_PASSWORD: "${{ secrets.HTTPAUTH_PASSWORD }}"
              HTTPAUTH_USERNAME: "${{ secrets.HTTPAUTH_USERNAME }}"
 
-      - name:  Send Message to Sentry.io
-        if: always()
-        uses: sfawcett123/sentry-event@v1
-        with:
-             MESSAGE: "Build Application - get-into-teaching-app"
-             STATE:  ${{job.status}}
-             ENVIRON: "Development"
+      - name: Create Sentry release
+        uses: getsentry/action-release@v1.0.0
         env:
-            SENTRY_DSN: ${{secrets.DEV_OPS_SENTRY_DSN}}
+          SENTRY_AUTH_TOKEN: ${{ secrets.SENTRY_AUTH_TOKEN }}
+          SENTRY_ORG: ${{ secrets.SENTRY_ORG }}
+          SENTRY_PROJECT: ${{ secrets.SENTRY_PROJECT }}
+        with:
+          environment: qa
+
   owasp:
     name: OWASP Test
     runs-on: ubuntu-latest
@@ -158,15 +158,6 @@ jobs:
           target: 'https://${{ secrets.HTTPAUTH_USERNAME }}:${{ secrets.HTTPAUTH_PASSWORD }}@${{env.CONTAINER}}-dev.${{env.DOMAIN}}/'
           rules_file_name: '.zap/rules.tsv'
           cmd_options: '-a'
-      - name:  Send Message to Sentry.io
-        if: always()
-        uses: sfawcett123/sentry-event@v1
-        with:
-             MESSAGE: "OWASP Application - get-into-teaching-app"
-             STATE:  ${{job.status}}
-             ENVIRON: "Development"
-        env:
-            SENTRY_DSN: ${{secrets.DEV_OPS_SENTRY_DSN}}
 
   accessibility:
     name: Accessibility Test
@@ -182,14 +173,4 @@ jobs:
         run: |-
              docker run -t --rm -v ${PWD}/.accessibility.file:/app/.accessibility.file \
                     dfedigital/accessibility_crawler:v1 -U ${{ secrets.HTTPAUTH_USERNAME }} -P ${{ secrets.HTTPAUTH_PASSWORD }} --file '/app/.accessibility.file'
-
-      - name:  Send Message to Sentry.io
-        if: always()
-        uses: sfawcett123/sentry-event@v1
-        with:
-             MESSAGE: "Accessibility Application - get-into-teaching-app"
-             STATE:  ${{job.status}}
-             ENVIRON: "Development"
-        env:
-            SENTRY_DSN: ${{secrets.DEV_OPS_SENTRY_DSN}}
 
