@@ -159,18 +159,3 @@ jobs:
           rules_file_name: '.zap/rules.tsv'
           cmd_options: '-a'
 
-  accessibility:
-    name: Accessibility Test
-    runs-on: ubuntu-latest
-    if: always()
-#   if: github.ref == 'refs/heads/master'
-    needs: deploy
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-
-      - name: Accessibility Scan
-        run: |-
-             docker run -t --rm -v ${PWD}/.accessibility.file:/app/.accessibility.file \
-                    dfedigital/accessibility_crawler:v1 -U ${{ secrets.HTTPAUTH_USERNAME }} -P ${{ secrets.HTTPAUTH_PASSWORD }} --file '/app/.accessibility.file'
-
