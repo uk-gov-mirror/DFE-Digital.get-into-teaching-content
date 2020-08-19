@@ -1,5 +1,5 @@
 ---  
-name: Release to test
+name: Release to User Research (UR)
 on: 
     workflow_dispatch:
 
