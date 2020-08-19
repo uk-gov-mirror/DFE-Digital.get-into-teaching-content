@@ -35,20 +35,17 @@ backlink: "/"
     </div>
 </div>
 
-<div class="pic-links">
-    <div class="pic-links__pic" style="background-image: url('assets/images/piclink1.png')">
-        <a href="/life-as-a-teacher" class="call-to-action-button">
-            Teaching as a <span>career</span>
-        </a>
-    </div>
-    <div class="pic-links__pic" style="background-image: url('assets/images/piclink2.png')">
-        <div class="pic-links__pic__mask"></div>
-        <div class="pic-links__pic__salaries">
-            <a href="/life-as-a-teacher/teachers-salaries-and-benefits/" class="call-to-action-button">
-                Salaries and <span>benefits</span>
-            </a>
+<div class="cta-links container-1000">
+    <a class="cta-link" href="/life-as-a-teacher">
+        <div class="cta-link__img" style="background-image: url(assets/images/piclink1.png)">
+            <span class="cta-link__label">Teaching as a career</span>
         </div>
-    </div>
+    </a>
+    <a class="cta-link" href="/life-as-a-teacher">
+        <div class="cta-link__img" style="background-image: url(assets/images/piclink2.png)">
+            <span class="cta-link__label">Salaries and benefits</span>
+        </div>
+    </a>
 </div>
 
 <div class="steps container-1000">
