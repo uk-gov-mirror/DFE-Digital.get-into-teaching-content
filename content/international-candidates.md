@@ -121,7 +121,6 @@ To find out if you will need to apply for a visa:
 <p>Check your country’s advice to keep up to date with travel restrictions during coronavirus.</p>
 <p>The UK government has also published guidance for those affected by <a href="https://www.gov.uk/government/collections/coronavirus-covid-19-immigration-and-borders" target="_blank">changes to UK immigration and borders</a> due to coronavirus, including what to do if you need a visa to travel to the UK and an immigration helpline.</p>
 <h2 id=“funding”>Funding</h2>
-<p>
 <h3>EU students</h3>
 <p>
 If you’re an EU national starting a teacher training course in the academic year 2020/21, you may be eligible for a bursary or scholarship, and a tuition fee loan. You need to have lived in the European Economic Area (EEA) or Switzerland for three years before the start of the course.</p>
@@ -159,7 +158,6 @@ There may be financial support available, but this will depend on your status as
       </div>
     </div>
   </div>
-
 </div>
   
 
