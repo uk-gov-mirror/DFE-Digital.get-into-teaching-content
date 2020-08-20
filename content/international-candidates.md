@@ -5,7 +5,7 @@ backlink: "../../"
 ---
 <div class="content__right">
   <div class="link-block link-block--jump">
-    <h2 class="link-block__header">On this page:</h2>
+    <h2 id="top" class="link-block__header">On this page:</h2>
     <ul class="link-block__list">
       <li><a href="#your-eligibility-to-teach">Your eligibility to teach</a></li>
       <li><a href="#international-teacher-training-applicants">International teacher training applicants</a></li>
@@ -28,9 +28,15 @@ backlink: "../../"
     <li><span>are a qualified teacher in a country outside of England</span></li>
   </ul>
   <p>If you don’t have these you will need to study for a degree, or equivalent, that will enable you to apply for teacher training.</p>
+  
+  <p><a href="#top">Back to top</a></p>
+  
 <h2 id="international-teacher-training-applicants">International teacher training applicants</h2>
   <p>As well as teacher training, you can also consider the <a href="https://researchersinschools.org/about/maths-and-physics-chairs-programme/" target="_blank">Maths and Physics Chairs Programme</a> or Teach First.</p>
   <p>Call Get into Teaching on Freephone 0800 389 2500 for advice. They can also give you a free UK National Recognition Information Centre (UK NARIC) statement to show what your qualifications are equivalent to in the UK.</p>
+  
+  <p><a href="#top">Back to top</a></p>
+  
 <h2 id="international-qualified-teachers">International qualified teachers</h2>
 <p>If you’re an international qualified teacher and want to teach in England, you may need to gain <a href="https://www.gov.uk/guidance/qualified-teacher-status-qts" target="_blank">Qualified Teacher Status (QTS)</a>, depending on the type of school you want to work in.</p>
 <p>You can work for up to 4 years in maintained schools and non-maintained special schools without QTS. Academies and free schools can also employ teachers without QTS for any period of time.</p>
@@ -39,6 +45,9 @@ backlink: "../../"
 <p>If you’re a qualified teacher from the EU, Iceland, Lichtenstein, Norway or Switzerland, or you have a teaching qualification from the USA, Canada, Australia or New Zealand you can <a href="https://www.gov.uk/guidance/qualified-teacher-status-qts" target="_blank">apply for QTS without further training</a>.</p>
 <p>
 If you’re an experienced teacher from any other country, you may be able to get QTS through the assessment only route without further training.</p>
+
+<p><a href="#top">Back to top</a></p>
+
 <h2 id="dfe-funded-international-teacher-recruitment-programme">DfE-funded International Teacher Recuitment Programme (ITRP)</h2>
 <p>This programme can help with:
 </p>
@@ -77,11 +86,17 @@ If you’re an experienced teacher from any other country, you may be able to ge
 <li><span><a href="https://www.quantum-scholars.co.uk/" target="_blank">Quantum Scholars</a></span></li>
 <li><span><a href="https://www.randstad.co.uk/job-seeker/areas-of-expertise/education/stem-registration/?utm_source=DfE%20website&utm_medium=STEM%20candidate%20page&utm_campaign=DfE%20website" target="_blank">Randstad Education</a></span></li>
 </ul>
+
+<p><a href="#top">Back to top</a></p>
+
 <h2 id="how-coronavirus-is-affecting-the-ITRP">How coronavirus (Covid-19) is affecting the ITRP</h2>
 <p>The programme is still recruiting teachers for the 2020 to 2021 academic year, but will focus on getting teachers into positions by January 2021 rather than September 2020.
 </p>
 <p>
 If you’ve already applied and want to start teaching in September 2020, or have concerns about travel, contact your recruitment agency to discuss your options.</p>
+
+<p><a href="#top">Back to top</a></p>
+
 <h2 id="visas">Visas</h2>
 <p>
 If you’re a teacher from outside the European Economic Area (EEA), you may need to apply for a visa before starting work as a teacher in England.
@@ -117,9 +132,16 @@ To find out if you will need to apply for a visa:
 <li><span>contact the school or univeristy you want to train with</span></li>
 <li><span>read the UK government's guidance on the <a href="https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know" target="_blank">new immigration system</a> and the <a href="https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#eu-citizens-living-in-the-uk-by-31-december-2020" target="_blank">EU settlement scheme</a></span></li>
 </ul>
+
+<p><a href="#top">Back to top</a></p>
+
 <h2 id="travelling-to-the-uk">Travelling to the UK</h2>
 <p>Check your country’s advice to keep up to date with travel restrictions during coronavirus.</p>
 <p>The UK government has also published guidance for those affected by <a href="https://www.gov.uk/government/collections/coronavirus-covid-19-immigration-and-borders" target="_blank">changes to UK immigration and borders</a> due to coronavirus, including what to do if you need a visa to travel to the UK and an immigration helpline.</p>
+
+
+<p><a href="#top">Back to top</a></p>
+
 <h2 id="funding">Funding</h2>
 <h3>EU students</h3>
 <p>
@@ -160,7 +182,7 @@ There may be financial support available, but this will depend on your status as
   </div>
 </div>
   
-
+<p><a href="#top">Back to top</a></p>
 
 
 
