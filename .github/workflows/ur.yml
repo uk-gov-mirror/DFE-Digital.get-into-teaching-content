@@ -71,8 +71,8 @@ jobs:
              ARM_ACCESS_KEY:           "${{ secrets.TEST_ARM_ACCESS_KEY  }}"
              TF_VAR_HTTPAUTH_PASSWORD: "${{ secrets.HTTPAUTH_PASSWORD }}"
              TF_VAR_HTTPAUTH_USERNAME: "${{ secrets.HTTPAUTH_USERNAME }}"
-             TF_VAR_RAILS_MASTER_KEY:  "${{ secrets.RAILS_MASTER_KEY_PREPROD }}"
-             TF_VAR_RAILS_ENV:         "preprod"
+             TF_VAR_RAILS_MASTER_KEY:  "${{ secrets.RAILS_MASTER_KEY_USERRESEARCH }}"
+             TF_VAR_RAILS_ENV:         "userresearch"
 
        - name: Terraform Apply
          run: |
