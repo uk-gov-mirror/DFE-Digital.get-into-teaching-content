@@ -27,7 +27,7 @@ navigation: 40
 
 <p>Headteachers lead, motivate and manage staff. In this role you will earn between £46,357 to £114,060. This could be up to £121,749 if you work in inner London.</p>
 
-<p>Find the full list of teacher salary scales in England from <a href="https://www.nasuwt.org.uk/">NASUWT The Teachers Union</a>.</p>
+<!--<p>Find the full list of teacher salary scales in England from <a href="https://www.nasuwt.org.uk/">NASUWT The Teachers Union</a>.</p>-->
 
 <h2>Teacher benefits</h2>
 
