@@ -79,7 +79,7 @@ navigation: 10
   
 <p>If you’re an EU national starting a teacher training course in the academic year 2020/21, you could get a bursary or scholarship, and a tuition fee loan.</p>
 
-<p><a href="https://beta-getintoteaching.education.gov.uk/guidance#funding-international">Read the UK government guidance for funding for international students</a>.</p>
+<p><a href="https://beta-getintoteaching.education.gov.uk/international-candidates#funding">Read about funding for international students</a>.</p>
 
 <p>If you live outside the UK or EU/EEA, you can get advice about training to be a teacher by using the <a href="https://beta-adviser-getintoteaching.education.gov.uk/" target="_blank">Teacher Training Adviser Service</a>.</p>
 
