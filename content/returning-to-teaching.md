@@ -5,7 +5,7 @@ backlink: "../../"
 ---
 <div class="content__right">
   <div class="link-block link-block--jump">
-    <h2 class="link-block__header">On this page:</h2>
+    <h2 id="top" class="link-block__header">On this page:</h2>
     <ul class="link-block__list">
       <li><a href="#how-were-improving-things-for-teachers">How we're improving things for teachers</a></li>
       <li><a href="#get-up-to-date-with-best-practice">Get up to date with best practice</a></li>
@@ -41,6 +41,8 @@ backlink: "../../"
   </li>
   </ol>
   
+  <p><a href="#top">Back to top</a></p>
+  
   <h2 id="get-up-to-date-with-best-practice">Get up to date with best practice</h2>
 
 <p>If you’ve been out of teaching for a while, you may want to:</p>
@@ -65,6 +67,8 @@ backlink: "../../"
 <h4>Career coaching for women returning to teaching</h4>
 <p>The <a href="https://tscouncil.org.uk/wle-coaching-pledge/" target="_blank">Women Leading in Education Coaching Pledge</a> is an initiative run by the Teaching Schools Council. It aims to support women who are returning to teaching to progress into leadership roles through access to free coaching.</p>
 
+<p><a href="#top">Back to top</a></p>
+
   <h2 id="modern-languages-maths-physics">Modern languages, maths or physics</h2>
  
 
@@ -79,6 +83,8 @@ backlink: "../../"
   </ul> 
   
 <p>For advice on returning to teaching, <a href="https://beta-adviser-getintoteaching.education.gov.uk/" target="_blank">sign up to speak to a teacher training adviser</a>.</p>
+
+
 
 <h3>Specialist help for returning physics teachers</h3>
 
@@ -95,6 +101,8 @@ backlink: "../../"
 <li>returning science, languages and computing teachers in 25 local authorities may also be eligible to <a href="https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/teachers-claim-back-your-student-loan-repayments-eligibility-and-payment-details" target="_blank">claim back student loan repayments</a></li>
 <li>if you’re returning to teach secondary maths, core maths, physics or languages and want to refresh your knowledge, you may be eligible for a <a href="https://www.gov.uk/guidance/teacher-subject-specialism-training-courses" target="_blank">free subject specialist training course</a></li>
 </ul>
+
+<p><a href="#top">Back to top</a></p>
 
 <h2 id="for-teachers-trained-in-england">For teachers who trained in England returning from overseas</h2>
 
@@ -129,6 +137,7 @@ backlink: "../../"
 <p>If you have fewer than 2 years of teaching experience, you can get qualified on a <a href="https://www.find-postgraduate-teacher-training.service.gov.uk/" target="_blank">teacher training course</a>.</p>
 <p>You can teach as an unqualified teacher in academies and free schools.</p>
 
+<p><a href="#top">Back to top</a></p>
 
 <h2 id="stories-about-returning-to-teaching">Stories about returning to teaching in England</h2> 
   <br/>
@@ -155,5 +164,6 @@ backlink: "../../"
       </div>
     </div>
   </div>
+  <p><a href="#top">Back to top</a></p>
 
 <!--</div>-->
