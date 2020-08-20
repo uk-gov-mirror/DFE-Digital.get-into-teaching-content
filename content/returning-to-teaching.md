@@ -18,7 +18,7 @@ backlink: "../../"
 
 <div class="content__left">
   
-  <h2>Returning to teaching in England</h2>
+ 
 
   <p>You’re considering a return to teaching. You may have been inspired by home schooling children during lockdown, or you might want to pass on your professional skills and experience to the next generation.</p>
   <p>Whatever your reasons, you can get access to support and advice if you’re interested in coming back to teaching.</p>  
