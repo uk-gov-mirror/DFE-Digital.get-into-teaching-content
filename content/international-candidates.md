@@ -157,6 +157,9 @@ Get advice about training to be a teacher if you live outside the UK, EU/EAA by 
 <p>
 There may be financial support available, but this will depend on your status as a home, EU/EEA or overseas student. Find out more from the <a href="https://www.ukcisa.org.uk/" target="_blank">UK Council for International Student Affairs</a>.
 </p>
+
+<p><a href="#top">Back to top</a></p>
+
 <h2>Stories from international teachers</h2> 
 <div class="stories-inline">
     <div class="stories-inline__block">
@@ -180,9 +183,10 @@ There may be financial support available, but this will depend on your status as
       </div>
     </div>
   </div>
+  <p><a href="#top">Back to top</a></p>
 </div>
   
-<p><a href="#top">Back to top</a></p>
+
 
 
 
