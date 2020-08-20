@@ -117,7 +117,7 @@ To find out if you will need to apply for a visa:
 <li><span>contact the school or univeristy you want to train with</span></li>
 <li><span>read the UK government's guidance on the <a href="https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know" target="_blank">new immigration system</a> and the <a href="https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#eu-citizens-living-in-the-uk-by-31-december-2020" target="_blank">EU settlement scheme</a></span></li>
 </ul>
-<h2 id="travelling-to-the-uk"><Travelling to the UK</h2>
+<h2 id="travelling-to-the-uk">Travelling to the UK</h2>
 <p>Check your country’s advice to keep up to date with travel restrictions during coronavirus.</p>
 <p>The UK government has also published guidance for those affected by <a href="https://www.gov.uk/government/collections/coronavirus-covid-19-immigration-and-borders" target="_blank">changes to UK immigration and borders</a> due to coronavirus, including what to do if you need a visa to travel to the UK and an immigration helpline.</p>
 <h2 id="funding">Funding</h2>
