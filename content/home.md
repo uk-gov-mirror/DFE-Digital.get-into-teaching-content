@@ -10,27 +10,27 @@ backlink: "/"
 
 <div class="featured-content__items container-1000">
     <div class="featured-content__item">
-        <span class="featured-content__title">Returning to teaching</span>
-        <div class="featured-content__image" style="background-image: url('assets/images/featured-1.jpg')"></div>
+        <span class="featured-content__title">Royal Marine Commando to geography teacher</span>
+        <div class="featured-content__image" style="background-image: url('assets/images/thomas-home.jpg')"></div>
         <div class="featured-content__content">
-            <span>Thousands of former teachers return to the profession each year, so the transition may be easier than you expect.</span>
-            <a class="featured-content__link" href="/returning-to-teaching">Find out more</a>
+            <span>Thomas came into teaching after 4 years in the Royal Marine Commandos. Find out how his life experiences equipped him for teaching.</span>
+            <a class="featured-content__link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/royal-marine-commando-to-geography-teacher">Read Thomas’ story</a>
         </div>
     </div>
     <div class="featured-content__item">
-        <span class="featured-content__title">Real-life experiences</span>
-        <div class="featured-content__image" style="background-image: url('assets/images/featured-2.jpg')"></div>
+        <span class="featured-content__title">No two days are the same</span>
+        <div class="featured-content__image" style="background-image: url('assets/images/gavin-home.jpg')"></div>
         <div class="featured-content__content">
-            <span>Read current teachers' and trainees' experiences of school life, training, supporting students, and more.</span>
-            <a class="featured-content__link" href="/life-as-a-teacher/my-story-into-teaching/">See real stories</a>
+            <span>Gavin always had the idea that teaching would be the career path for him.  Find out what happened to him when he decided to take the plunge.</span>
+            <a class="featured-content__link" href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/no-two-days-are-the-same">Read Gavin’s story</a>
         </div>
     </div>
     <div class="featured-content__item">
-        <span class="featured-content__title">International candidates</span>
-        <div class="featured-content__image" style="background-image: url('assets/images/featured-3.jpg')"></div>
+        <span class="featured-content__title">From newly qualified teacher to head of faculty in 5 years</span>
+        <div class="featured-content__image" style="background-image: url('assets/images/karen-f-home.jpg')"></div>
         <div class="featured-content__content">
-            <span>Teaching in England offers a wealth of opportunities and rewards that helps you to build a stimulating and successful career.</span>
-            <a class="featured-content__link" href="/international-candidates">Find out more</a>
+            <span>Karen progressed quickly from qualifying in teaching to becoming head of faculty.  Find out how you could follow in her steps. </span>
+            <a class="featured-content__link" href="/life-as-a-teacher/my-story-into-teaching/career-progression/newly-qualified-to-head-of-faculty">Read Karen’s story </a>
         </div>
     </div>
 </div>
