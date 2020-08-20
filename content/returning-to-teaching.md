@@ -20,7 +20,8 @@ backlink: "../../"
   
   <h2>Returning to teaching in England</h2>
 
-  <p>You’re considering a return to teaching. You may have been inspired by home schooling children during lockdown, or you might want to pass on your professional skills and experience to the next generation. Whatever your reasons, you can get access to support and advice if you’re interested in coming back to teaching.</p>  
+  <p>You’re considering a return to teaching. You may have been inspired by home schooling children during lockdown, or you might want to pass on your professional skills and experience to the next generation.</p>
+  <p>Whatever your reasons, you can get access to support and advice if you’re interested in coming back to teaching.</p>  
 
   <h3 id="how-were-improving-things-for-teachers">How we’re improving things for teachers</h3>
   
@@ -28,19 +29,17 @@ backlink: "../../"
 
   <ol>
     <li><span>reduce workload</span>
-      <p>Teachers, middle leaders and senior leaders reported working <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/838433/Teacher_workload_survey_2019_brief.pdf"> target="_blank">5 hours less per week than they did in 2016</a>.</p>
+      <p>Teachers, middle leaders and senior leaders reported working <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/838433/Teacher_workload_survey_2019_brief.pdf" target="_blank">5 hours less per week than they did in 2016</a>.</p>
       <p>See how teachers are <a href="https://www.gov.uk/government/collections/reducing-school-workload#department-for-education-policy" target="_blank">reducing the workload</a>, and using the <a href="https://www.gov.uk/guidance/school-workload-reduction-toolkit" target="_blank">workload reduction toolkit</a>.</p>
     </li>
     <li><span>improve behaviour</span>
-  <p>The Department for Education has <a href="https://www.gov.uk/guidance/behaviour-hubs" target="_blank" invested £10m through Behaviour Hubs</a> so that schools with exemplary behaviour can work closely with schools that want to improve behaviour.</p>
+  <p>The Department for Education has <a href="https://www.gov.uk/guidance/behaviour-hubs" target="_blank"> invested £10m through Behaviour Hubs</a> so that schools with exemplary behaviour can work closely with schools that want to improve behaviour.</p>
   </li>
     <li><span>introduce flexible working</span>
       <p>Schools are helping teachers <a href="https://www.gov.uk/government/collections/flexible-working-resources-for-teachers-and-schools" target="_blank">work flexibly</a>.
     You can search for jobs with flexible working patterns by using <a href="https://teaching-vacancies.service.gov.uk/" target="_blank">Teaching Vacancies</a>.</p>
-
-  
   </li>
-  </ul>
+  </ol>
   
   <h3 id="get-up-to-date-with-best-practice">Get up to date with best practice</h3>
 
@@ -77,13 +76,13 @@ backlink: "../../"
   <li>access to a subject specialist training course to refresh your knowledge</li>
   <li>information on vacancies in your local area</li>
   <li>help with your application and interview tips</li>
+  </ul> 
   
-</ul>  
 <p>For advice on returning to teaching, <a href="https://beta-adviser-getintoteaching.education.gov.uk/" target="_blank">sign up to speak to a teacher training adviser</a>.</p>
 
 <h4>Specialist help for returning physics teachers</h4>
 
-<p>The<a href="https://www.iop.org/education" target="_blank">Institute of Physics</a> offers teaching resources.</p>
+<p>The <a href="https://www.iop.org/education" target="_blank">Institute of Physics</a> offers teaching resources.</p>
 <p>Visit the <a href="https://spark.iop.org/practical-physics" target="_blank">Nuffield Foundation</a> for demonstrations of experiments for pupils up to the age of 19.</p>
 <p>If you’d like more information on what it’s like to teach physics today, you can also talk to other physics teachers at <a href="https://www.talkphysics.org/" target="_blank">TalkPhysics</a>, or follow them on Twitter via <a href="https://twitter.com/takeonphysics" target="_blank">@TakeOnPhysics</a>.</p>
 
@@ -157,4 +156,4 @@ backlink: "../../"
     </div>
   </div>
 
-</div>
+<!--</div>-->
