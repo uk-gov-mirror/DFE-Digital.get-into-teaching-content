@@ -55,7 +55,7 @@ backlink: "/"
     <div class="steps__wrapper">
         <div class="steps__step">
                 <div class="steps__number"><span>1</span></div>
-                <a href="/steps-to-become-a-teacher#step-1" class="steps__link">
+                <a href="/steps-to-become-a-teacher" class="steps__link">
                     <span>Check your</span>
                     <span>qualifications</span>
                 </a>
