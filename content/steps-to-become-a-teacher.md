@@ -12,13 +12,13 @@ navigation: 20
   
  <div class="accordions" data-controller="accordion">
   <button class="steps-header" id="step-1" data-action="click->accordion#toggle" data-target="accordion.header" aria-controls="collapsable-content-1" aria-expanded="true">
-    <p><strong>To become a primary or secondary school teacher in England you will need to have a degree, or equivalent qualification.</strong></p>
       <h2>
         1. Check your qualifications
       </h2>
   </button>
   <div id="collapsable-content-1" class="steps-content collapsable" data-target="accordion.content" aria-labelledby="step-1">
 
+  <p><strong>To become a primary or secondary school teacher in England you will need to have a degree, or equivalent qualification.</strong></p>
   <p>If you're unsure whether your qualification is equivalent to a degree, you can <a href="#talk-to-us">talk to us, or chat online</a>.</p> 
 
  <p>
