@@ -28,14 +28,14 @@ backlink: "../../"
   <p>A lot has changed for teachers in England over the last few years. The Department for Education is working with schools to:</p>
 
   <ol>
-    <li><span>reduce workload</span>
+    <li><span>Reduce workload</span>
       <p>Teachers, middle leaders and senior leaders reported working <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/838433/Teacher_workload_survey_2019_brief.pdf" target="_blank">5 hours less per week than they did in 2016</a>.</p>
       <p>See how teachers are <a href="https://www.gov.uk/government/collections/reducing-school-workload#department-for-education-policy" target="_blank">reducing the workload</a>, and using the <a href="https://www.gov.uk/guidance/school-workload-reduction-toolkit" target="_blank">workload reduction toolkit</a>.</p>
     </li>
-    <li><span>improve behaviour</span>
+    <li><span>Improve behaviour</span>
   <p>The Department for Education has <a href="https://www.gov.uk/guidance/behaviour-hubs" target="_blank"> invested £10m through Behaviour Hubs</a> so that schools with exemplary behaviour can work closely with schools that want to improve behaviour.</p>
   </li>
-    <li><span>introduce flexible working</span>
+    <li><span>Introduce flexible working</span>
       <p>Schools are helping teachers <a href="https://www.gov.uk/government/collections/flexible-working-resources-for-teachers-and-schools" target="_blank">work flexibly</a>.
     You can search for jobs with flexible working patterns by using <a href="https://teaching-vacancies.service.gov.uk/" target="_blank">Teaching Vacancies</a>.</p>
   </li>
@@ -59,7 +59,7 @@ backlink: "../../"
 <ul>
   <li><a href="http://itte.org.uk/wp/" target="_blank">Association for Information Technology in Initial Teacher Training</a></li>
   <li><a href="https://www.learndirect.com/" target="_blank">learndirect</a> offers courses in basic ICT skills</li>
-  <li>Some city learning centres offer ICT courses for teachers – <a href="https://www.gov.uk/find-local-council" target="_blank">check your local council</a> for more details.</li>
+  <li>some city learning centres offer ICT courses for teachers – <a href="https://www.gov.uk/find-local-council" target="_blank">check your local council</a> for more details.</li>
 </ul>
 
 <h4>Career coaching for women returning to teaching</h4>
