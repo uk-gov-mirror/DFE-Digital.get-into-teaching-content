@@ -50,7 +50,7 @@ backlink: "/"
 
 <div class="steps container-1000">
     <div>
-        <h1 class="strapline">Discover the steps to become a teacher</h1>
+        <h2 class="strapline">Discover the steps to become a teacher</h2>
     </div>
     <div class="steps__wrapper">
         <div class="steps__step">
@@ -104,7 +104,7 @@ backlink: "/"
     </div>
     <div class="find-an-event__right">
         <div class="find-an-event__right__header">
-            <h1 class="strapline-image">Find an event near you</h1>
+            <h2 class="strapline-image">Find an event near you</h2>
         </div>
         <p>Come to a free teaching event and find out how you can train to become a teacher</p>
         <p>
