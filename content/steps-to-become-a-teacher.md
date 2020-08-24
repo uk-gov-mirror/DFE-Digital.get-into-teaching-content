@@ -80,7 +80,7 @@ navigation: 20
       </h2>
     </button>
     <div id="collapsable-content-3" class="steps-content collapsable" data-target="accordion.content">
-    <h1>Get school experience</h1>
+    <h3>Get school experience</h3>
   <p>Before you commit to a teacher training course, you might like to get some valuable experience in a school and find out what it’s really like to become a teacher.</p>  
   <p>This isn’t compulsory, but most teacher training providers will want you to have it and it will look good on your application.</p>
 
