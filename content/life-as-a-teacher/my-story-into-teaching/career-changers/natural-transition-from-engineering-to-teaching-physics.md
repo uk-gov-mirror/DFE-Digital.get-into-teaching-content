@@ -28,7 +28,7 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>My engineering degree provided a natural transition to teaching physics and I value the way science – especially physics – teaches a clear thought process and a way to make rational sense of the world.<span class="icon-quote quote-close"></span></h1>
+                    <strong class="quote-block__content">My engineering degree provided a natural transition to teaching physics and I value the way science – especially physics – teaches a clear thought process and a way to make rational sense of the world.<span class="icon-quote quote-close"></span></strong>
                 </div>
                <p>
                   When I spot the exact barrier stopping a child from learning, I always make sure to think of an analogy to help them through it. With key stage 3 pupils this often involves drama – either getting the children to act out a concept, or sometimes telling them a relevant story. With key stage 4 the breakthroughs are sometimes when you link learning to popular culture.

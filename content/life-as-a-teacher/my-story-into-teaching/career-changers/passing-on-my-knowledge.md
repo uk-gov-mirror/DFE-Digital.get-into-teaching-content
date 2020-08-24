@@ -28,7 +28,7 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>I remember one of my teachers saying 'We should not keep knowledge to ourselves; we should share this knowledge to others.'<span class="icon-quote quote-close"></span></h1>
+                    <strong class="quote-block__content">I remember one of my teachers saying 'We should not keep knowledge to ourselves; we should share this knowledge to others.'<span class="icon-quote quote-close"></span></strong>
                 </div>
                <p>
                   When I made the decision of a career change, I knew I needed to be doing something which could provide some type of service for the greater good. I wanted a career that would inspire me and motivate me to be at my best, a career which gives back to the soul.
@@ -54,7 +54,7 @@ backlink: "../../"
 </div>
 
 <div class="more-stories">
-    <h1 class="more-stories_header strapline">More stories</h1>
+    <h2 class="more-stories_header strapline">More stories</h2>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">

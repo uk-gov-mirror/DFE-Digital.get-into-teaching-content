@@ -28,7 +28,7 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>My military background is perfect for running the Duke of Edinburgh Award and organising ‘Fitness Friday’ where I teach pupils correct exercise techniques and healthy eating.<span class="icon-quote quote-close"></span></h1>
+                    <strong class="quote-block__content">My military background is perfect for running the Duke of Edinburgh Award and organising ‘Fitness Friday’ where I teach pupils correct exercise techniques and healthy eating.<span class="icon-quote quote-close"></span></strong>
                 </div>
                <p>
                   The unique expertise acquired from my military background offered a range of specialist interests that has aided the development of pupils I trained with. Teaching has also given me the opportunity to positively contribute to the people-centred culture of the school, as well as the key values of mutual respect and enabling pupils to realise their potential personally and socially, not just academically.
@@ -42,7 +42,7 @@ backlink: "../../"
 </div>
 
 <div class="more-stories">
-    <h1 class="more-stories_header strapline">More stories</h1>
+    <h2 class="more-stories_header strapline">More stories</h2>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">

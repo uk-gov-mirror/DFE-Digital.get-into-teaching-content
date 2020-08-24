@@ -25,7 +25,7 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>Everybody was very welcoming and said, ‘You’re absolutely not too old to become a teacher, we’re looking for people like you’.'<span class="icon-quote quote-close"></span></h1>
+                    <strong class="quote-block__content">Everybody was very welcoming and said, ‘You’re absolutely not too old to become a teacher, we’re looking for people like you’.'<span class="icon-quote quote-close"></span></strong>
                 </div>
                <p>
                   Making the decision to leave an established career wasn’t easy, and I had to be sure Iwas making the right decision. I went to a ‘train to teach roadshow’, taking the opportunity to speak to experienced teachers, schools and universities that offer teacher training and fellow professionals seeking to establish a new career in teaching.
@@ -39,7 +39,7 @@ backlink: "../../"
 </div>
 
 <div class="more-stories">
-    <h1 class="more-stories_header strapline">More stories</h1>
+    <h2 class="more-stories_header strapline">More stories</h2>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">

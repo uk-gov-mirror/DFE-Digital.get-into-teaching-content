@@ -31,7 +31,7 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>The best thing about teaching is the independence you have in your classroom to create an inspiring environment<span class="icon-quote quote-close"></span></h1>
+                    <strong class="quote-block__content">The best thing about teaching is the independence you have in your classroom to create an inspiring environment<span class="icon-quote quote-close"></span></strong>
                 </div>
                <p>
                   What got me noticed as a teacher were the improvements I made to the directional and strategic change of my school. I was recognised not only as a great teacher, but as a future leader.
@@ -54,7 +54,7 @@ Above all, you can’t develop a vision that staff can buy into and deliver if y
 </div>
 
 <div class="more-stories">
-    <h1 class="more-stories_header strapline">More stories</h1>
+    <h2 class="more-stories_header strapline">More stories</h2>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">

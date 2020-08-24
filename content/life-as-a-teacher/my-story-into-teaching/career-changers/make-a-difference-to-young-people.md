@@ -28,7 +28,7 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>When I decided to become a teacher I thought I’d better make sure that it really was what I wanted to do and I thought there’d be no better way than going into some schools.<span class="icon-quote quote-close"></span></h1>
+                    <strong class="quote-block__content">When I decided to become a teacher I thought I’d better make sure that it really was what I wanted to do and I thought there’d be no better way than going into some schools.<span class="icon-quote quote-close"></span></strong>
                 </div>
                <p>
                   After a few weeks observing lessons and speaking to students, I was convinced and decided to teach maths. I successfully applied for teacher training, but was advised to first complete a subject knowledge enhancement course (SKE) to make the transition from psychology to maths smoother.
@@ -48,7 +48,7 @@ backlink: "../../"
 </div>
 
 <div class="more-stories">
-    <h1 class="more-stories_header strapline">More stories</h1>
+    <h2 class="more-stories_header strapline">More stories</h2>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">

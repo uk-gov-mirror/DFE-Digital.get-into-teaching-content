@@ -28,7 +28,7 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>I am  now deputy director of learning for ICT and maths at Bluecoat Academy.<span class="icon-quote quote-close"></span></h1>
+                    <strong class="quote-block__content">I am  now deputy director of learning for ICT and maths at Bluecoat Academy.<span class="icon-quote quote-close"></span></strong>
                 </div>
                <p>
                   Becoming a teacher has been the best decision ever. Teaching is so much more satisfying. In teaching, the job becomes your reward and the salary is almost secondary. Though in hindsight, I do not regret my career in computing – it has contributed to my teaching skills, knowledge and experience.
@@ -42,7 +42,7 @@ backlink: "../../"
 </div>
 
 <div class="more-stories">
-    <h1 class="more-stories_header strapline">More stories</h1>
+    <h2 class="more-stories_header strapline">More stories</h2>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">

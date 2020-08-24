@@ -28,7 +28,7 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>Ultimately it's about the kids. This is their education and the onus is on you to provide them with the best opportunity for success. You tend to question yourself and think, Can I deliver what I need to deliver in order that these kids get to where they want or need to be?<span class="icon-quote quote-close"></span></h1>
+                    <strong class="quote-block__content">Ultimately it's about the kids. This is their education and the onus is on you to provide them with the best opportunity for success. You tend to question yourself and think, Can I deliver what I need to deliver in order that these kids get to where they want or need to be?<span class="icon-quote quote-close"></span></strong>
                 </div>
                <p>
                   We all have mentors assigned to us. They are there to support you with anything that you need, check on your progress and just help out. And also my fellow trainees and I are a close group; everyone’s friendly and really supportive of everyone else.
@@ -45,7 +45,7 @@ backlink: "../../"
 </div>
 
 <div class="more-stories">
-    <h1 class="more-stories_header strapline">More stories</h1>
+    <h2 class="more-stories_header strapline">More stories</h2>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">

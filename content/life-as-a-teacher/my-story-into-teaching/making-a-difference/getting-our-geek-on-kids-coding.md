@@ -27,7 +27,7 @@ backlink: "../../"
   <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>During this time I felt that something was missing, and the pull towards teaching became harder to resist.<span class="icon-quote quote-close"></span></h1>
+                    <strong class="quote-block__content">During this time I felt that something was missing, and the pull towards teaching became harder to resist.<span class="icon-quote quote-close"></span></strong>
                     <h2>Tarik</h2>
                 </div>
                 
@@ -59,7 +59,7 @@ backlink: "../../"
 </div>
 
 <div class="more-stories">
-    <h1 class="more-stories_header strapline">More stories</h1>
+    <h2 class="more-stories_header strapline">More stories</h2>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">

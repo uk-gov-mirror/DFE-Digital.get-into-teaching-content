@@ -28,7 +28,7 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>I was working away a lot and spending less and less time with my family. This was another reason I decided to investigate a career in teaching.<span class="icon-quote quote-close"></span></h1>
+                    <strong class="quote-block__content">I was working away a lot and spending less and less time with my family. This was another reason I decided to investigate a career in teaching.<span class="icon-quote quote-close"></span></strong>
                 </div>
                 <p>
                     I have two degrees - a Masters in management and a degree in geography, so I was thinking of teaching either business or geography. However, after some hard thinking, I knew my real passion lay in teaching geography. In addition, it was clear to me that geography is becoming a subject that will rise in importance and be in far more demand over the next decade.
@@ -43,7 +43,7 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>Without the bursary, I would still be in my old career. I simply wouldn’t have been able to maintain my rent and loans, and pay university fees.<span class="icon-quote quote-close"></span></h1>
+                    <strong class="quote-block__content">Without the bursary, I would still be in my old career. I simply wouldn’t have been able to maintain my rent and loans, and pay university fees.<span class="icon-quote quote-close"></span></strong>
                 </div>
                 <p>
                     One year, I double jumped up the pay range and with extra responsibilities - you can achieve additional increases to your salary.
@@ -60,7 +60,7 @@ backlink: "../../"
 </div>
 
 <div class="more-stories">
-    <h1 class="more-stories_header strapline">More stories</h1>
+    <h2 class="more-stories_header strapline">More stories</h2>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">

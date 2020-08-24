@@ -25,7 +25,7 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>As a qualified coach, I particularly enjoy the overwhelming satisfaction I get when a child I’ve been teaching has mastered a skill.<span class="icon-quote quote-close"></span></h1>
+                    <strong class="quote-block__content">As a qualified coach, I particularly enjoy the overwhelming satisfaction I get when a child I’ve been teaching has mastered a skill.<span class="icon-quote quote-close"></span></strong>
                 </div>
                 <p>
                     During my time as a police officer, I built my communication skills effectively and have been able to bring them into the classroom.  It gave me the understanding that some children do not have the ideal home life.
@@ -39,7 +39,7 @@ backlink: "../../"
 </div>
 
 <div class="more-stories">
-    <h1 class="more-stories_header strapline">More stories</h1>
+    <h2 class="more-stories_header strapline">More stories</h2>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">

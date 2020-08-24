@@ -28,7 +28,7 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>I was working for a charity as a communications manager, when I realised that teaching was what I loved and that I wanted to continue doing the work I was doing abroad.<span class="icon-quote quote-close"></span></h1>
+                    <strong class="quote-block__content">I was working for a charity as a communications manager, when I realised that teaching was what I loved and that I wanted to continue doing the work I was doing abroad.<span class="icon-quote quote-close"></span></strong>
                 </div>
                <p>
                   When I decided to move back to London from East Anglia, 'I wanted to be able to start working and have the money to support my move. That was my main objective, to be paid to train. I think financing myself through the training year could have been difficult, having lived abroad and come back to a job in the UK.
@@ -48,7 +48,7 @@ backlink: "../../"
 </div>
 
 <div class="more-stories">
-    <h1 class="more-stories_header strapline">More stories</h1>
+    <h2 class="more-stories_header strapline">More stories</h2>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">

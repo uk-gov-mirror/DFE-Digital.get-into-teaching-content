@@ -28,7 +28,7 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>I started thinking about the other options. I thought about speech and language therapy and teaching children with special needs. I thought, ‘The only way I’m going to know for certain if teaching is the right career for me, is if I go part-time at work and volunteer in a school’.<span class="icon-quote quote-close"></span></h1>
+                    <strong class="quote-block__content">I started thinking about the other options. I thought about speech and language therapy and teaching children with special needs. I thought, ‘The only way I’m going to know for certain if teaching is the right career for me, is if I go part-time at work and volunteer in a school’.<span class="icon-quote quote-close"></span></strong>
                 </div>
                 <p>
                 I volunteered at a local primary school for two days a week and from the moment I walked into my first class, it felt very natural to be interacting with children.
@@ -45,7 +45,7 @@ backlink: "../../"
 </div>
 
 <div class="more-stories">
-    <h1 class="more-stories_header strapline">More stories</h1>
+    <h2 class="more-stories_header strapline">More stories</h2>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-support-from-an-adviser">

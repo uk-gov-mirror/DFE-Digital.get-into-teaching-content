@@ -29,8 +29,8 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>Now 4 years into my teaching career, I haven’t looked back – I was head of year 18 months after qualifying as a teacher, and a year later promoted to head of department.
-<span class="icon-quote quote-close"></span></h1>
+                    <strong class="quote-block__content">Now 4 years into my teaching career, I haven’t looked back – I was head of year 18 months after qualifying as a teacher, and a year later promoted to head of department.
+<span class="icon-quote quote-close"></span></strong>
            </div>
                <p>I was working away a lot and spending less and less time with my family. This was another reason I decided to investigate a career in teaching.                
 	</p>
@@ -46,7 +46,7 @@ backlink: "../../"
 </div>
 
 <div class="more-stories">
-    <h1 class="more-stories_header strapline">More stories</h1>
+    <h2 class="more-stories_header strapline">More stories</h2>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">

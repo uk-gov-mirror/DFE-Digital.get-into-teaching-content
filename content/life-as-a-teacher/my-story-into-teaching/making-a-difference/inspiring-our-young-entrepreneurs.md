@@ -27,8 +27,8 @@ backlink: "../../"
   <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>Being able to make a difference to individuals’ lives, rather than being motivated by pounds in tills, is really satisfying.<span class="icon-quote quote-close"></span></h1>
-                    <h2>Tarik</h2>
+                    <stong class="quote-block__content">Being able to make a difference to individuals’ lives, rather than being motivated by pounds in tills, is really satisfying.<span class="icon-quote quote-close"></span></stong>
+                    <span class="quote-block__cite">Tarik</span>
                 </div>
                 
    <h3>Business studies equals life skills</h3>
@@ -59,7 +59,7 @@ backlink: "../../"
 </div>
 
 <div class="more-stories">
-    <h1 class="more-stories_header strapline">More stories</h1>
+    <h2 class="more-stories_header strapline">More stories</h2>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">

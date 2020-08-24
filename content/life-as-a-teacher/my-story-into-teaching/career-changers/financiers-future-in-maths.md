@@ -28,7 +28,7 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>Enrolling on a salaried teacher training course made becoming a teacher a possibility.<span class="icon-quote quote-close"></span></h1>
+                    <strong class="quote-block__content">Enrolling on a salaried teacher training course made becoming a teacher a possibility.<span class="icon-quote quote-close"></span></strong>
                 </div>
                <p>
                   I’d gained a lot of experience of working with people who have different skill sets and approaches, and it really helped me when faced with a classroom of students all of whom have different approaches, ideas and attitudes.
@@ -45,7 +45,7 @@ backlink: "../../"
 </div>
 
 <div class="more-stories">
-    <h1 class="more-stories_header strapline">More stories</h1>
+    <h2 class="more-stories_header strapline">More stories</h2>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">

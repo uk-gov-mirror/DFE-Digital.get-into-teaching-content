@@ -27,7 +27,7 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>There is no better feeling than watching a child succeed, especially if they have had to overcome obstacles or are lacking in self-belief.<span class="icon-quote quote-close"></span></h1>
+                    <strong class="quote-block__content">There is no better feeling than watching a child succeed, especially if they have had to overcome obstacles or are lacking in self-belief.<span class="icon-quote quote-close"></span></strong>
         </div>
 	<h3>100% job satisfaction</h3>
                <p>It is the only job where I can honestly say you get 100% job satisfaction. It is lovely to watch your pupils grow into young adults and when they receive their exam results, and realise it was all worthwhile, there is no greater pleasure. Being part of helping shape a young person’s future is very humbling as well as fulfilling.
@@ -45,7 +45,7 @@ backlink: "../../"
 </div>
 
 <div class="more-stories">
-    <h1 class="more-stories_header strapline">More stories</h1>
+    <h2 class="more-stories_header strapline">More stories</h2>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-support-from-an-adviser">

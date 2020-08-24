@@ -30,7 +30,7 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>The best part of teaching is being in front of my 32 students and seeing how my passion for the subject I teach rubs off on them<span class="icon-quote quote-close"></span></h1>
+                    <strong class="quote-block__content">The best part of teaching is being in front of my 32 students and seeing how my passion for the subject I teach rubs off on them<span class="icon-quote quote-close"></span></strong>
                 </div>
                 <h3>So grateful</h3>
                <p>
@@ -52,7 +52,7 @@ backlink: "../../"
 </div>
 
 <div class="more-stories">
-    <h1 class="more-stories_header strapline">More stories</h1>
+    <h2 class="more-stories_header strapline">More stories</h2>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">

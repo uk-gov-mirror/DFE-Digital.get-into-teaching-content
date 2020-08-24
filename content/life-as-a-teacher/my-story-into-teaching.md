@@ -9,8 +9,8 @@ fullwidth: true
 <div class="stories-feature">
     <div class="stories-feature__image" style="background-image:url('/assets/images/victoria.png')"></div>
     <div class="stories-feature__content">
-        <h1>Bring your professional skills to the classroom</h1>
-        <h2>Victoria Barton, teacher and former police officer</h2>
+        <h2>Bring your professional skills to the classroom</h2>
+        <h3>Victoria Barton, teacher and former police officer</h3>
         <p>
             In addition to 2 Master’s degrees, Victoria’s career had included time working as a police officer and property inspector. Find out why she decided to bring that diverse experience to teaching as a primary PE specialist.
         </p>

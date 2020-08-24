@@ -29,8 +29,8 @@ backlink: "../../"
   <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>Teaching is a massive responsibility; you’re tasked with working with hundreds of students each day, and they’re placed into your care – that’s quite a demanding responsibility. But it’s part of what you do as a teacher.<span class="icon-quote quote-close"></span></h1>
-                    <h2>Danny</h2>
+                    <strong class="quote-block__content">Teaching is a massive responsibility; you’re tasked with working with hundreds of students each day, and they’re placed into your care – that’s quite a demanding responsibility. But it’s part of what you do as a teacher.<span class="icon-quote quote-close"></span></strong>
+                    <span class="quote-block__cite">Danny</span>
                 </div>
                 
    
@@ -60,7 +60,7 @@ backlink: "../../"
 </div>
 
 <div class="more-stories">
-    <h1 class="more-stories_header strapline">More stories</h1>
+    <h2 class="more-stories_header strapline">More stories</h2>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">

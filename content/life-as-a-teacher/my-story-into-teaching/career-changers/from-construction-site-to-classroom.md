@@ -28,7 +28,7 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>Teaching has always been something I have wanted to do. My uncle came out of early retirement and became a history teacher – this reassured me that I could make the transition to the profession at any age.<span class="icon-quote quote-close"></span></h1>
+                    <strong class="quote-block__content">Teaching has always been something I have wanted to do. My uncle came out of early retirement and became a history teacher – this reassured me that I could make the transition to the profession at any age.<span class="icon-quote quote-close"></span></strong>
                 </div>
                <p>
                   The financial support definitely helped because it meant that I didn’t have to make any significant cutbacks. The bursary covered most of my costs.
@@ -42,7 +42,7 @@ backlink: "../../"
 </div>
 
 <div class="more-stories">
-    <h1 class="more-stories_header strapline">More stories</h1>
+    <h2 class="more-stories_header strapline">More stories</h2>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">

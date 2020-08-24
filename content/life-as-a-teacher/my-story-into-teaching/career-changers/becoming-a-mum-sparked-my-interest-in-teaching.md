@@ -27,7 +27,7 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>Being a mum, I realised that education in this country was more important to me than ever.<span class="icon-quote quote-close"></span></h1>
+                    <strong class="quote-block__content">Being a mum, I realised that education in this country was more important to me than ever.<span class="icon-quote quote-close"></span></strong>
                 </div>
                <p>
                   Whilst on maternity leave, I saw the advert for teacher training and saw that with my degree, I’d even get a bursary.
@@ -48,7 +48,7 @@ backlink: "../../"
 </div>
 
 <div class="more-stories">
-    <h1 class="more-stories_header strapline">More stories</h1>
+    <h2 class="more-stories_header strapline">More stories</h2>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">

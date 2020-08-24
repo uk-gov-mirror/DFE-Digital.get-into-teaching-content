@@ -27,8 +27,8 @@ backlink: "../../"
   <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>I see myself as a teacher that helps students and gives them a love for what they have to do, whether they want to do it or not.<span class="icon-quote quote-close"></span></h1>
-                    <h2>Sandra</h2>
+                    <strong class="quote-block__content">I see myself as a teacher that helps students and gives them a love for what they have to do, whether they want to do it or not.<span class="icon-quote quote-close"></span></strong>
+                    <span class="quote-block__cite">Sandra</span>
                 </div>
                 <h3>Proudest moment</h3>
 <p>One of my proudest moments was helping a GCSE student to achieve an A* in her RE exam, despite having a target grade of D.</p> 
@@ -53,7 +53,7 @@ backlink: "../../"
 </div>
 
 <div class="more-stories">
-    <h1 class="more-stories_header strapline">More stories</h1>
+    <h2 class="more-stories_header strapline">More stories</h2>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">

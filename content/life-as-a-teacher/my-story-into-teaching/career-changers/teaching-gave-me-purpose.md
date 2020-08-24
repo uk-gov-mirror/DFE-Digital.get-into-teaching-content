@@ -28,7 +28,7 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>I decided it wasn’t something I could see myself doing in the long term, as there was no sense of purpose. Teaching, for this reason, has so far provided this in spades!<span class="icon-quote quote-close"></span></h1>
+                    <strong class="quote-block__content">I decided it wasn’t something I could see myself doing in the long term, as there was no sense of purpose. Teaching, for this reason, has so far provided this in spades!<span class="icon-quote quote-close"></span></strong>
                 </div>
                <p>
                   This style of training is very much a hands-on approach to learning to teach, with the focus on the practicalities in the classroom.  It also helps pupils to accept you as a member of staff from the beginning instead of an outsider part-way through term. 

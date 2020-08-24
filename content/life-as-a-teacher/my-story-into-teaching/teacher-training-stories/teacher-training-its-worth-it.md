@@ -28,7 +28,7 @@ backlink: "../../"
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <h1>I also received a generous training bursary that has supported me throughout the duration of the course<span class="icon-quote quote-close"></span></h1>
+                    <strong class="quote-block__content">I also received a generous training bursary that has supported me throughout the duration of the course<span class="icon-quote quote-close"></span></strong>
                 </div>
                 <p>
                     I had to demonstrate my potential as a teacher. I had to teach some year 7 students, and that was the best part of the interview! I would advise others to prepare well in advance and to plan your lesson in as much detail as you can – but most importantly, 'be yourself.'
@@ -42,7 +42,7 @@ backlink: "../../"
 </div>
 
 <div class="more-stories">
-    <h1 class="more-stories_header strapline">More stories</h1>
+    <h2 class="more-stories_header strapline">More stories</h2>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">
