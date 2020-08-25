@@ -30,27 +30,18 @@ navigation: 10
 
   <p>You could get a bursary of up to £26,000 or apply for a scholarship of up to £28,000.</p>
 
-  <p><a href="/guidance#bursaries-and-scholarships" target="_blank" rel="noopener noreferrer">Find out more about bursaries and scholarships</a></p>
+  <p><a href="https://beta-getintoteaching.education.gov.uk/guidance#bursaries-and-scholarships" target="_blank" rel="noopener noreferrer">Find out more about bursaries and scholarships (opens in a new window or tab)</a></p>
 
   <h2 id="get-student-finance">Get student finance</h2>
   <p>Even if a bursary or scholarship is available for your course, you can borrow money to help pay for your fees and living costs. You can apply for a tuition fee and/or a maintenance loan even if you already have a student loan.</p>
 
   <p>You can apply for a tuition fee loan of up to £9,250 to cover the full cost of your course fees and a maintenance loan of up to £12,010 to help with your living costs.</p>
 
-  <p><a href="/guidance#student-finance" target="_blank" rel="noopener noreferrer">Find out more about student finance</a></p> 
+  <p><a href="https://beta-getintoteaching.education.gov.uk/guidance#student-finance" target="_blank" rel="noopener noreferrer">Find out more about student finance (opens in a new window or tab)</a></p> 
 
-  <p>Use the <a href="https://www.gov.uk/student-finance-calculator" target="_blank" rel="noopener noreferrer">student finance calculator on GOV.UK</a> to find out how much you can get.</p>
+  <p>Use the <a href="https://www.gov.uk/student-finance-calculator" target="_blank" rel="noopener noreferrer">student finance calculator on GOV.UK  (opens in a new window or tab)</a> to find out how much you can get.</p>
 
- <!-- <a href="/mailinglist/register/1">
-    <div class="media-cta">
-      <img src="/assets/images/cta-2.jpg" alt="">
-      <div>
-        Find out more about your financial options <i class="fas fa-chevron-right"></i>
-      </div>
-    </div>
-  </a>-->
-
-  <h2 id="get-financial-help-if-youre-a-parent-a-carer-or-you-have-a-disability" target="_blank" rel="noopener noreferrer">Get financial help if you’re a parent, a carer or you have a disability</h2>
+  <h2 id="get-financial-help-if-youre-a-parent-a-carer-or-you-have-a-disability" target="_blank" rel="noopener noreferrer">Get financial help if you’re a parent, a carer or you have a disability (opens in a new window or tab)</h2>
 
   <p>You may be able to get financial help if you have a disability, or if you have children or dependent adults. If you get this type of funding, you do not need to pay it back.</p>
 
@@ -63,7 +54,7 @@ navigation: 10
     <li><span>Adult Dependants’ Grant</span></li>
   </ul>
   
-  <p><a href="/guidance#other-types-of-financial-help-if-youre-a-parent-carer-or-you-have-a-disability" target="_blank" rel="noopener noreferrer">Find out more about financial help for parents, carers and people with disabilities</a></p>
+  <p><a href="https://beta-getintoteaching.education.gov.uk/guidance#other-types-of-financial-help-if-youre-a-parent-carer-or-you-have-a-disability" target="_blank" rel="noopener noreferrer">Find out more about financial help for parents, carers and people with disabilities (opens in a new window or tab)</a></p>
   
 
 
@@ -72,14 +63,14 @@ navigation: 10
 
   <p>Whether you’re a home student (living in Wales, Scotland or Northern Ireland), an EU student or a student from outside the EU, you may still be eligible for funding to train to teach.</p>
 
-  <p>If you live in Wales, Scotland or Northern Ireland you’ll need to contact <a href="/guidance#funding-if-you-live-in-wales-scotland-or-northern-ireland" target="_blank" rel="noopener noreferrer">your country’s student finance body</a>.</p>
+  <p>If you live in Wales, Scotland or Northern Ireland you’ll need to contact <a href="https://beta-getintoteaching.education.gov.uk/guidance#funding-if-you-live-in-wales-scotland-or-northern-ireland" target="_blank" rel="noopener noreferrer">your country’s student finance body (opens in a new window or tab)</a>.</p>
   
   
 <p>If you’re an EU national starting a teacher training course in the academic year 2020/21, you could get a bursary or scholarship, and a tuition fee loan.</p>
 
 <p><a href="/international-candidates#funding">Read about funding for international students</a>.</p>
 
-<p>If you live outside the UK or EU/EEA, you can get advice about training to be a teacher by using the <a href="https://beta-adviser-getintoteaching.education.gov.uk/" target="_blank" rel="noopener noreferrer">Teacher Training Adviser Service</a>.</p>
+<p>If you live outside the UK or EU/EEA, you can get advice about training to be a teacher by using the <a href="https://beta-adviser-getintoteaching.education.gov.uk/" target="_blank" rel="noopener noreferrer">Teacher Training Adviser Service (opens in a new window or tab)</a>.</p>
 
 
 
