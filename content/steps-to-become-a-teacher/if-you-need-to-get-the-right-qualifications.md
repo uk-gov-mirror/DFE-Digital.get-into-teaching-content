@@ -20,21 +20,18 @@ backlink: "../../"
 
 <h2 id="if-you-dont-have-a-degree">If you don’t have a degree</h2>
 
-<p>You’ll need to apply for an initial teacher training (ITT) course that will give you qualified teacher status (QTS). Courses usually take 3 to 4 years and include:</p>
+<p>You’ll need to apply for an initial teacher training (ITT) course that will give you qualified teacher status (QTS). Courses take 1 to 4 years and may include one of these:</p>
 
   <ul>
   <li><span>Bachelor of Education degree (BEd)</span></li>
   <li><span>Bachelor of Arts (BA) and Bachelor of Science (BSc) with QTS</span></li>
   </ul>
 
-<p>Search <a href="https://digital.ucas.com/search" target="_blank">UCAS</a> to find a degree with QTS.</p>
+Alternatively, if you are currently studying for, or have already been awarded your Bachelor's degree and you want to train to become a teacher in England, then you can study for a postgraduate certificate of education (PGCE).  
+
+<p>Search <a href="https://digital.ucas.com/search" target="_blank">UCAS</a> to find a degree with QTS or a PGCE course.</p>
 
 <!--[Go back to the home page](../../)-->
-
-<p>Sign up to get support from a teacher training adviser, who can help you with your personal statement, which funding you can get and how to complete your application.</p>
-
-<p><a href="https://register.getintoteaching.education.gov.uk/register" target="_blank">Sign up for a teacher training adviser</a>
-
 
 <h2 id="if-your-degree-is-not-in-the-subject-you-want-to-teach">If your degree is not in the subject you want to teach</h2>
 
