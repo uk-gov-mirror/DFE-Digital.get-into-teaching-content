@@ -99,7 +99,7 @@ navigation: 20
   <li><span><span>how long you want to train for</span></span></li>
   </ul>
 
-  <a href="https://beta-getintoteaching.education.gov.uk/guidance#5" target="_blank">Find out more about different ways to train</a>
+  <a href="/guidance#5" target="_blank">Find out more about different ways to train</a>
 
 
   <h3>Teaching children with special educational needs and/or disabilities (SEND)</h3>
@@ -109,7 +109,7 @@ navigation: 20
       <p>
         You could also specialise in supporting children with SEND.
       </p>
-      <a href="https://beta-getintoteaching.education.gov.uk/guidance#teaching-children-with-special-educational-needs-and-or-disabilities-SEND" target="_blank">Find out how to specialise in SEND</a>
+      <a href="/guidance#teaching-children-with-special-educational-needs-and-or-disabilities-SEND" target="_blank">Find out how to specialise in SEND</a>
     </div>
     <button class="steps-header" id="step-4" data-action="click->accordion#toggle" data-target="accordion.header" aria-controls="collapsable-content-4" aria-expanded="false">
       <h2>

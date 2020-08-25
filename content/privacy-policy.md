@@ -183,7 +183,7 @@ backlink: "../"
 
    <p>For the Data Protection Officer (DPO) please contact us via <a href="https://gov.uk">gov.uk</a> and mark it for the attention of the ‘DPO’.</p>
 
-   <p>If you need to contact us regarding any of the above rights, please do so via the <a href="https://beta-getintoteaching.education.gov.uk">Get into Teaching site.</a></p>
+   <p>If you need to contact us regarding any of the above rights, please do so via the <a href="/">Get into Teaching site.</a></p>
 
    <p>Further information about your data protection rights appears on the <a href="https://ico.org.uk/concerns">Information Commissioner's website</a>.</p>
 
@@ -197,7 +197,7 @@ backlink: "../"
 
    <p>We may need to update this privacy notice periodically, so we recommend that you revisit this information from time to time. This version was last updated on 17/07/2020.</p>
 
-   <p>We use cookies to make our services easy, useful and reliable. Find out more on how we use <a href="https://getintoteaching.education.gov.uk/how-we-use-your-information">cookies</a>.</p>
+   <p>We use cookies to make our services easy, useful and reliable. Find out more on how we use <a href="/how-we-use-your-information">cookies</a>.</p>
 
 </div>
 
