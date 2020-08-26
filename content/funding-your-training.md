@@ -37,7 +37,7 @@ navigation: 10
 
   <p>You can apply for a tuition fee loan of up to £9,250 to cover the full cost of your course fees and a maintenance loan of up to £12,010 to help with your living costs.</p>
 
-  <p><a href="https://beta-getintoteaching.education.gov.uk/guidance#student-finance" target="_blank" rel="noopener noreferrer">Find out more about student finance (opens in a new window or tab)</a></p> 
+  <p><a href="https://beta-getintoteaching.education.gov.uk/guidance#student-finance" target="_blank" rel="noopener noreferrer">Find out more about student finance</a></p> 
 
   <p>Use the <a href="https://www.gov.uk/student-finance-calculator" target="_blank" rel="noopener noreferrer">student finance calculator on GOV.UK  (opens in a new window or tab)</a> to find out how much you can get.</p>
 
