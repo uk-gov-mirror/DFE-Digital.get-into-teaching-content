@@ -30,7 +30,7 @@ navigation: 10
 
   <p>You could get a bursary of up to £26,000 or apply for a scholarship of up to £28,000.</p>
 
-  <p><a href="https://beta-getintoteaching.education.gov.uk/guidance#bursaries-and-scholarships" target="_blank" rel="noopener noreferrer">Find out more about bursaries and scholarships (opens in a new window or tab)</a></p>
+  <p><a href="https://beta-getintoteaching.education.gov.uk/guidance#bursaries-and-scholarships" target="_blank" rel="noopener noreferrer">Find out more about bursaries and scholarships</a>.</p>
 
   <h2 id="get-student-finance">Get student finance</h2>
   <p>Even if a bursary or scholarship is available for your course, you can borrow money to help pay for your fees and living costs. You can apply for a tuition fee and/or a maintenance loan even if you already have a student loan.</p>
