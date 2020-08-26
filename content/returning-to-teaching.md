@@ -74,7 +74,7 @@ backlink: "../../"
 
   <p>If you're a returning teacher of secondary modern foreign languages, maths or physics, the Department for Education offers:</p>
 <ul>
-  <li>one-to-one support from a teacher training adviser</li>
+  <li>one-to-one support from a return to teaching adviser</li>
   <li>help with arranging school experience</li>
   <li>a review of your subject and pedagogical knowledge</li>
   <li>access to a subject specialist training course to refresh your knowledge</li>
@@ -82,7 +82,7 @@ backlink: "../../"
   <li>help with your application and interview tips</li>
   </ul> 
   
-<p>For advice on returning to teaching, <a href="https://get-teacher-training-adviser-service-ur.london.cloudapps.digital/" target="_blank">sign up to speak to a teacher training adviser</a>.</p>
+<p>For advice on returning to teaching, <a href="https://get-teacher-training-adviser-service-ur.london.cloudapps.digital/" target="_blank">sign up to speak to a return to teaching adviser</a>.</p>
 
 
 
@@ -113,8 +113,8 @@ backlink: "../../"
 <p><a href="https://teaching-vacancies.service.gov.uk/" target="_blank">Search for a teaching role in England</a>. You can set up job alerts so that you do not miss out on any opportunities.</p>
 <p>Take a look at the different <a href="https://www.gov.uk/types-of-school" target="_blank">types of schools and staff roles</a> to find the best opportunity for you.</p>
 <p>We can give you one-to-one support if you’re returning to teach modern foreign languages, maths or physics.</p> 
-<p>Our teacher training advisers can help with finding vacancies, reviewing your subject and pedagogical knowledge, application support, and interview preparation.</p>
-<p>For advice on returning to teaching, <a href="https://get-teacher-training-adviser-service-ur.london.cloudapps.digital/" target="_blank">sign up to speak to a teacher training adviser</a>.</p>
+<p>Our return to teaching advisers can help with finding vacancies, reviewing your subject and pedagogical knowledge, application support, and interview preparation.</p>
+<p>For advice on returning to teaching, <a href="https://get-teacher-training-adviser-service-ur.london.cloudapps.digital/" target="_blank">sign up to speak to a return to teaching adviser</a>.</p>
 
 
 <h3>Preparing yourself for the move to England</h3>
