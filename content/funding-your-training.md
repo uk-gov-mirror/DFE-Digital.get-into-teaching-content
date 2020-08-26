@@ -39,7 +39,7 @@ navigation: 10
 
   <p><a href="https://beta-getintoteaching.education.gov.uk/guidance#student-finance" target="_blank" rel="noopener noreferrer">Find out more about student finance</a></p> 
 
-  <p>Use the <a href="https://www.gov.uk/student-finance-calculator" target="_blank" rel="noopener noreferrer">student finance calculator on GOV.UK  (opens in a new window or tab)</a> to find out how much you can get.</p>
+  <p>Use the <a href="https://www.gov.uk/student-finance-calculator" target="_blank" rel="noopener noreferrer">student finance calculator on GOV.UK</a> to find out how much you can get.</p>
 
   <h2 id="get-financial-help-if-youre-a-parent-a-carer-or-you-have-a-disability" target="_blank" rel="noopener noreferrer">Get financial help if you’re a parent, a carer or you have a disability</h2>
 
@@ -54,7 +54,7 @@ navigation: 10
     <li><span>Adult Dependants’ Grant</span></li>
   </ul>
   
-  <p><a href="https://beta-getintoteaching.education.gov.uk/guidance#other-types-of-financial-help-if-youre-a-parent-carer-or-you-have-a-disability" target="_blank" rel="noopener noreferrer">Find out more about financial help for parents, carers and people with disabilities (opens in a new window or tab)</a></p>
+  <p><a href="https://beta-getintoteaching.education.gov.uk/guidance#other-types-of-financial-help-if-youre-a-parent-carer-or-you-have-a-disability" target="_blank" rel="noopener noreferrer">Find out more about financial help for parents, carers and people with disabilities</a>.</p>
   
 
 
