@@ -82,7 +82,7 @@ backlink: "../../"
   <li>help with your application and interview tips</li>
   </ul> 
   
-<p>For advice on returning to teaching, <a href="https://get-teacher-training-adviser-service-ur.london.cloudapps.digital/" target="_blank">sign up to speak to a return to teaching adviser</a>.</p>
+<p>For advice on returning to teaching, speak to a return to teaching adviser by using the <a href="https://get-teacher-training-adviser-service-ur.london.cloudapps.digital/" target="_blank">Get an adviser</a> service.</p>
 
 
 
@@ -114,7 +114,7 @@ backlink: "../../"
 <p>Take a look at the different <a href="https://www.gov.uk/types-of-school" target="_blank">types of schools and staff roles</a> to find the best opportunity for you.</p>
 <p>We can give you one-to-one support if you’re returning to teach modern foreign languages, maths or physics.</p> 
 <p>Our return to teaching advisers can help with finding vacancies, reviewing your subject and pedagogical knowledge, application support, and interview preparation.</p>
-<p>For advice on returning to teaching, <a href="https://get-teacher-training-adviser-service-ur.london.cloudapps.digital/" target="_blank">sign up to speak to a return to teaching adviser</a>.</p>
+<p>For advice on returning to teaching, speak to a return to teaching adviser by using the <a href="https://get-teacher-training-adviser-service-ur.london.cloudapps.digital/" target="_blank">Get an adviser</a> service.</p>
 
 
 <h3>Preparing yourself for the move to England</h3>
