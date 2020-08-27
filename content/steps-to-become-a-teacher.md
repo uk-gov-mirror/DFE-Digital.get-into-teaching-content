@@ -7,8 +7,8 @@ navigation: 20
 
 <div class="content__left">
 
-<p id="steps" class="content-alert">To become a primary or secondary school teacher in England you will need to have a degree, or equivalent qualification.</p>
-
+<p id="steps" class="content-alert">To work as a qualified teacher in a state school in England, you will need to have Qualified Teacher Status (QTS). There are a number of ways to gain QTS such as completion of postgraduate initial teacher training (ITT) or a degree course with QTS included.</p>
+<!-- <p>To become a primary or secondary school teacher in England you will need to have a degree, or equivalent qualification</p>-->
   
  <div class="accordions" data-controller="accordion">
   <button class="steps-header" id="step-1" data-action="click->accordion#toggle" data-target="accordion.header" aria-controls="collapsable-content-1" aria-expanded="true">
@@ -19,6 +19,7 @@ navigation: 20
   <div id="collapsable-content-1" class="steps-content collapsable" data-target="accordion.content" aria-labelledby="step-1">
 
   <!--<p><strong>To become a primary or secondary school teacher in England you will need to have a degree, or equivalent qualification.</strong></p>-->
+  <p>To start initial teacher training, you'll need to have a degree, or equivalent qualification.</p>
   <p>If you're unsure whether your qualification is equivalent to a degree, you can <a href="#talk-to-us">talk to us, or chat online</a>.</p> 
 
  <p>
@@ -50,7 +51,7 @@ navigation: 20
    <p>
         If you do not have the required GCSEs, you’ll need to show that you have an equivalent level of education.
       </p>
-      <a href="steps-to-become-a-teacher/if-you-need-to-get-the-right-qualifications#if-your-degree-is-not-in-the-subject-you-want-to-teach">If your degree is not in the subject you want to teach</a>
+      <a href="/guidance#subject-knowledge-enhancement" target="_blank">If your degree is not in the subject you want to teach</a>
     </div>
       <button class="steps-header" id="step-2" data-action="click->accordion#toggle" data-target="accordion.header" aria-controls="collapsable-content-2" aria-expanded="false">
         <h2>
@@ -88,7 +89,7 @@ navigation: 20
 
   <h3>Find your way to train</h3>
 
-  <p>To work as a teacher in state schools in England, you’ll need ‘Qualified Teacher Status’ (QTS).</p>
+  <!--<p>To work as a teacher in state schools in England, you’ll need ‘Qualified Teacher Status’ (QTS).</p>-->
 
   <p>You’ll need to make some key decisions about teaching before you decide how to train:</p>
 
