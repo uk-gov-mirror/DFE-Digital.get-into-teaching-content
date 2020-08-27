@@ -67,7 +67,7 @@ window)</p>
 
   <p>Whether you’re a home student (living in Wales, Scotland or Northern Ireland), an EU student or a student from outside the EU, you may still be eligible for funding to train to teach.</p>
 
-  <p>If you live in Wales, Scotland or Northern Ireland you’ll need to contact <a href="https://beta-getintoteaching.education.gov.uk/guidance#funding-if-you-live-in-wales-scotland-or-northern-ireland" target="_blank" rel="noopener noreferrer">your country’s student finance body</a>.(Link opens in new
+  <p>If you live in Wales, Scotland or Northern Ireland you’ll need to contact <a href="https://beta-getintoteaching.education.gov.uk/guidance#funding-if-you-live-in-wales-scotland-or-northern-ireland" target="_blank" rel="noopener noreferrer">your country’s student finance body</a>. (Link opens in new
 window)</p>
   
   
