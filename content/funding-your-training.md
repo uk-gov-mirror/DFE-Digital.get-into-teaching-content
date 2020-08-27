@@ -30,7 +30,7 @@ navigation: 10
 
   <p>You could get a bursary of up to £26,000 or apply for a scholarship of up to £28,000.</p>
 
-  <p><a href="https://beta-getintoteaching.education.gov.uk/guidance#bursaries-and-scholarships" target="_blank" rel="noopener noreferrer">Find out more about bursaries and scholarships</a>.(Link opens in new
+  <p><a href="https://beta-getintoteaching.education.gov.uk/guidance#bursaries-and-scholarships" target="_blank" rel="noopener noreferrer">Find out more about bursaries and scholarships</a>. (Link opens in new
 window)</p>
 
   <h2 id="get-student-finance">Get student finance</h2>
