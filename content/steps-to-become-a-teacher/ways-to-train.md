@@ -8,9 +8,9 @@ backlink: "../"
   <div class="link-block link-block--related">
     <h2 class="link-block__header">Related Content:</h2>
     <ul class="link-block__list">
-      <li><span><a href="school-experience">School experience</a></span></li>
-      <li><span><a href="ways-to-train">Your training options</a></span></li>
-      <li><span><a href="choose-a-course-with-a-send-specialism">Teaching children with special education needs and/or disabilities (SEND)</a></span></li>
+      <li><span><a href="school-experience">School experience</a></span></li> 
+     <li><span><a href="../guidance#5" target="_blank">Ways to train</a></span></li>
+     <li><span><a href="../guidance#teaching-children-with-special-educational-needs-and-or-disabilities-SEND" target="_blank">Teaching children with special education needs and/or disabilities (SEND)</a></span></li>
     </ul>
   </div>
 </div>
