@@ -10,7 +10,7 @@ backlink: "../"
     <ul class="link-block__list">
       <li><span><a href="school-experience">School experience</a></span></li>
       <li><span><a href="ways-to-train">Your training options</a></span></li>
-      <li><span><a href="choose-a-course-with-a-send-specialism">Teaching children with special education needs and/or disabilities (SEND)</a></span></li>
+      <!--<li><span><a href="choose-a-course-with-a-send-specialism">Teaching children with special education needs and/or disabilities (SEND)</a></span></li>-->
     </ul>
   </div>
 </div>
