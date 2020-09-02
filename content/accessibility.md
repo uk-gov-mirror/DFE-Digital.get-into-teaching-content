@@ -22,8 +22,7 @@ backlink: "../"
 </script>
 
 <script async src='https://www.google-analytics.com/analytics.js'></script>
-<title>Accessibility statement for the school experience service
- | DfE School Experience</title>
+<title>Accessibility statement for Get into teaching</title>
     <meta name="csrf-param" content="authenticity_token" />
 <meta name="csrf-token" content="nmp6KXakluK5y9ZfZYWJPkEmnAa2dcWlE97VRwr+pll2phYLi8psIl6eJ2dW6iLNtj7qurQvG9b2YG5zF3mV3g==" />
     <meta name="csp-nonce" />
@@ -63,7 +62,7 @@ backlink: "../"
             </span>
 </a>        </div>
         <div class="govuk-header__content">
-          <a class="govuk-header__link govuk-header__link--service-name" href="/">Get school experience</a>
+          <a class="govuk-header__link govuk-header__link--service-name" href="/">Get into teaching</a>
         </div>
       </div>
     </header>
@@ -146,7 +145,7 @@ backlink: "../"
 
    <ul class="govuk-list">
         <li>
-          <a aria-label="School experience support email address" href="mailto:organise.school-experience@education.gov.uk">organise.school-experience@education.gov.uk</a>
+          <a aria-label="School experience support email address" href="mailto:organise.school-experience@education.gov.uk">GET INTO TEACHING EMAIL ADDRESS IN HERE @education.gov.uk</a>
         </li>
       </ul>
 
@@ -165,7 +164,7 @@ backlink: "../"
  <p>
         If you find any problems that are not listed on this page or think we're
         not meeting accessibility requirements email 
-        <a href="mailto:organise.school-experience@education.gov.uk">organise.school-experience@education.gov.uk</a>.
+        <a href="mailto:organise.school-experience@education.gov.uk">GET INTO TEACHING EMAIL IN HERE@education.gov.uk</a>.
       </p>
     </section>
 
@@ -224,7 +223,7 @@ backlink: "../"
     </section>
     <aside>
       <p class="govuk-hint">
-        This statement was prepared on 17 September 2019.
+        This statement was prepared on 01 September 2020.
       </p>
     </aside>
   </article>
