@@ -37,7 +37,7 @@ Alternatively, if you are currently studying for, or have already been awarded y
 
 <p>If you need to top up your knowledge of the subject you want to teach, you could take a subject knowledge enhancement course (SKE).</p> 
   
- <p>An SKE may be right for you if:</p>
+ <p>A SKE may be right for you if:</p>
 
   <ul>
   <li><span>your degree is not in the subject you want to teach, but is related</span></li>
