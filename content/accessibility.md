@@ -211,14 +211,14 @@ backlink: "../"
 <section>
       <h2 class="govuk-heading-m">How we tested this service</h2>
 <p>
-        This service was last tested on 3 July 2019. The test was carried out by
+        This service was last tested on 01 September 2020. The test was carried out by
         the <a href="https://digitalaccessibilitycentre.org/">Digital Accessibility Centre (DAC)</a>.
       </p>
 <p>
         We tested our whole service platform.
       </p>
 <p>
-        You can read the full <a href="/reports/school-experience-accessibility-report.pdf">Digital Accessibility Centre Report</a>.
+        You can read the full <a href="/reports/school-experience-accessibility-report.pdf">PUT THE CORRECT LINK FOR OUR REPORT HERE: Digital Accessibility Centre Report</a>.
       </p>
     </section>
     <aside>
