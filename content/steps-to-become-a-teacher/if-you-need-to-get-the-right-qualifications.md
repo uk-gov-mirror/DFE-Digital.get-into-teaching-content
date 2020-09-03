@@ -60,7 +60,8 @@ Alternatively, if you are currently studying for, or have already been awarded y
 
 <h3>High potential ITT</h3>
 
-<p>You’ll need to have a 2:1 degree or higher to apply for a place on the programme, currently delivered by Teach First. You’ll train over 2 years by learning on the job, paid as an unqualified teacher and you will not pay tuition fees. You’ll be placed into a school straight away and gain QTS in your first year and complete your Newly Qualified Teacher placement in year 2. You’ll also receive leadership training, which includes a fully-funded Postgraduate Diploma in Education and Leadership (PGDE), worth double the credits of a PGCE. </p>
+<p>You’ll need to have a 2:1 degree or higher to apply for a place on the programme, currently delivered by Teach First. You’ll train over 2 years by learning on the job, paid as an unqualified teacher and you will not pay tuition fees. You’ll be placed into a school straight away and gain QTS in your first year and complete your Newly Qualified Teacher placement in year 2.</p>
+<p>You’ll also receive leadership training, which includes a fully-funded Postgraduate Diploma in Education and Leadership (PGDE), worth double the credits of a PGCE.</p>
 
 <h3>Researchers in schools</h3>
 
