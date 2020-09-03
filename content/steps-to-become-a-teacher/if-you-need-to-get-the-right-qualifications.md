@@ -23,7 +23,7 @@ backlink: "../../"
 <p>You’ll need to apply for an initial teacher training (ITT) course that will give you qualified teacher status (QTS). Courses take 1 to 4 years and may include one of these:</p>
 
   <ul>
-  <li><span>Bachelor of Education degree (BEd)</span></li>
+  <li><span>Bachelor of Education degree (BEd) with QTS</span></li>
   <li><span>Bachelor of Arts (BA) and Bachelor of Science (BSc) with QTS</span></li>
   </ul>
 
