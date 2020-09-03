@@ -68,7 +68,7 @@ Alternatively, if you are currently studying for, or have already been awarded y
 
 <h3>Assessment only (AO)</h3>
 
-<p>If you’re a teaching assistant or unqualified teacher with two years’ experience you can be assessed over 12 weeks to get QTS. This way of getting QTS will not give you a PGCE. You’ll only need a PGCE if you want to do a master’s qualification or teach outside the UK.</p>
+<p>If you’re a teaching assistant or unqualified teacher with two years’ experience you can be assessed over 12 weeks to get QTS. This way of getting QTS will not give you a PGCE.</p>
 
 <h3>Postgraduate Early Years Initial Teacher Training (EYITT)</h3>
 
