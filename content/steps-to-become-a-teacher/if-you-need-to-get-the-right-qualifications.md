@@ -62,7 +62,7 @@ Alternatively, if you are currently studying for, or have already been awarded y
 
 <p>If you want a <a href="LINK TO GUIDANCE" target="_blank">career change and fancy becoming a teacher</a>, you’ll get the chance to use your life and work experience coupled with your passion for your subject to inspire young people.  There's plenty of support to get into teaching and make the career change. </p>
 
-<h3>High potential ITT</h3>
+<h3>High Potential ITT</h3>
 
 <p>You’ll need to have a 2:1 degree or higher to apply for a place on the programme, currently delivered by <a href="LINK TO GUIDANCE" target="_blank">Teach First</a>. You’ll train over 2 years by learning on the job, paid as an unqualified teacher and you will not pay tuition fees. You’ll be placed into a school straight away and gain QTS in your first year and complete your Newly Qualified Teacher placement in year 2.</p>
 <p>You’ll also receive leadership training, which includes a fully-funded Postgraduate Diploma in Education and Leadership (PGDE), worth double the credits of a PGCE.</p>
