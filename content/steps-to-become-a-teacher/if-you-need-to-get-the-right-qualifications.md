@@ -56,7 +56,7 @@ Alternatively, if you are currently studying for, or have already been awarded y
 
 <h3>Postgraduate teaching apprenticeship</h3>
 
-<p><a href="/guidance#find-postgraduate-teacher-training" target="_blank">Postgraduate teaching apprenticeships</a> are similar to school direct salaried places. You’ll be employed by a school to learn on the job over 4 terms. You’ll then take an assessment. This is a salaried training place so you will not pay tuition fees.</p>
+<p><a href="/guidance#salaried" target="_blank">Postgraduate teaching apprenticeships</a> are similar to school direct salaried places. You’ll be employed by a school to learn on the job over 4 terms. You’ll then take an assessment. This is a salaried training place so you will not pay tuition fees.</p>
 
 <h3>Career changers</h3>
 
