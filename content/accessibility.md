@@ -44,15 +44,15 @@ backlink: "../"
     </p>
     <h2 class="govuk-heading-m">What to do if you cannot access parts of this service</h2>
     <p>
-      Contact us if you need information on this service in accessible PDF, audio
-      recording, braille, easy read or large print format.
-    </p>
-    <ul class="govuk-list">
-      <li>
-        <a aria-label="Get into teaching support email address" href="mailto:getintoteaching.helpdesk@education.gov.uk">getintoteaching.helpdesk@education.gov.uk</a>
-      </li>
-    </ul>
-    <p>
+       <a aria-label="Get into teaching support email address" href="mailto:getintoteaching.helpdesk@education.gov.uk">Email us</a> if you need information on this service in any of the following formats:
+       <ul>
+     <li>accessible PDF</li>
+     <li>audio recording</li>
+     <li>braille, easy read or large print format email</li> 
+     </ul>
+   </p>
+      
+ <p>
       We'll consider your request and get back to you within 5 working days.
     </p>
     <h2 class="govuk-heading-m">Reporting accessibility problems with this service</h2>
