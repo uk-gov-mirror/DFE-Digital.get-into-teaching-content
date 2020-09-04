@@ -49,7 +49,7 @@ backlink: "../"
     </p>
     <ul class="govuk-list">
       <li>
-        <a aria-label="School experience support email address" href="mailto:organise.school-experience@education.gov.uk">GET INTO TEACHING EMAIL ADDRESS IN HERE @education.gov.uk</a>
+        <a aria-label="Get into teaching support email address" href="mailto:getintoteaching.helpdesk@education.gov.uk">getintoteaching.helpdesk@education.gov.uk</a>
       </li>
     </ul>
     <p>
@@ -62,7 +62,7 @@ backlink: "../"
     <p>
       If you find any problems that are not listed on this page or think we're
       not meeting accessibility requirements email 
-      <a href="mailto:organise.school-experience@education.gov.uk">GET INTO TEACHING EMAIL IN HERE@education.gov.uk</a>.
+      <a href="mailto:getintoteaching.helpdesk@education.gov.uk">getintoteaching.helpdesk@education.gov.uk</a>
     </p>
     <h2 class="govuk-heading-m">Enforcement procedure</h2>
     <p>
