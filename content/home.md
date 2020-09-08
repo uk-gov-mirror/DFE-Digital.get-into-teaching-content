@@ -1,8 +1,9 @@
 ---
 title: "Inspire the next generation"
-deepheader: true,
-mailinglist: true,
-fullwidth: true,
+deepheader: true
+mailinglist: true
+fullwidth: true
+hide_page_helpful_question: true
 subtitle: "Get information and support to help you become a teacher"
 image: "media/images/hero-home-dt.jpg"
 backlink: "/"
