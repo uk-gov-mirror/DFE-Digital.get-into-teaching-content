@@ -100,7 +100,7 @@ backlink: "../"
         We tested our whole service platform.
     </p>
     <p>
-      You can read the full <a href="/assets/documents/dac_git_report.pdf"Digital Accessibility Centre Report</a>.
+      You can read the full <a href="/assets/documents/dac_git_report.pdf">Digital Accessibility Centre Report</a>.
     </p>
     <p class="govuk-hint">
       This statement was prepared on 01 September 2020.
