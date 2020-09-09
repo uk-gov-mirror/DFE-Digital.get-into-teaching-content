@@ -2,6 +2,7 @@
 title: "Teacher training stories"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"
+hide_page_helpful_question: true
 ---
 
 <div class="content-wrapper">

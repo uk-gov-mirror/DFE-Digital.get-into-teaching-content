@@ -2,6 +2,7 @@
 title: "My story into teaching"
 image: "/assets/images/my-story-hero-dt.jpg"
 backlink: "../../"
+hide_page_helpful_question: true
 navigation: 35
 fullwidth: true
 ---
