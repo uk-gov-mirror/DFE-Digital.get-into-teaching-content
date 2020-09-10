@@ -87,7 +87,7 @@ navigation: 20
 
   <!--<a href="steps-to-become-a-teacher/school-experience">Find out more about school experience</a>-->
   
-  <a href="https://schoolexperience.education.gov.uk/">Find out more about school experience</a>
+  <a href="https://schoolexperience.education.gov.uk/" target="_blank" rel="noopener noreferrer">Find out more about school experience <span class="govuk-visually-hidden">(Link opens in new window)</span> <i class="fas fa-external-link-alt"></i> </a>
 
   <h3>Find your way to train</h3>
 
