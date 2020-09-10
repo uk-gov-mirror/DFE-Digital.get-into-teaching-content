@@ -1,6 +1,7 @@
 ---
 title: "Teaching as a career"
 image: "/assets/images/teaching-as-a-career-hero-dt.jpg"
+mobileimage: "/assets/images/teaching-as-a-career-hero-mob.jpg"
 backlink: "../"
 navigation: 30
 ---

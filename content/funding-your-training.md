@@ -1,6 +1,7 @@
 ---
 title: "Funding your training"
 image: "/assets/images/funding-hero-dt.jpg"
+mobileimage: "/assets/images/funding-hero-mob.jpg"
 backlink: "../"
 navigation: 10
 ---
