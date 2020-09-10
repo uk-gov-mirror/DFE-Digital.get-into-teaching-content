@@ -85,7 +85,9 @@ navigation: 20
   <p>Before you commit to a teacher training course, you might like to get some valuable experience in a school and find out what it’s really like to become a teacher.</p>  
   <p>This isn’t compulsory, but it will look good on your application.</p>
 
-  <a href="steps-to-become-a-teacher/school-experience">Find out more about school experience</a>
+  <!--<a href="steps-to-become-a-teacher/school-experience">Find out more about school experience</a>-->
+  
+  <a href="https://schoolexperience.education.gov.uk/">Find out more about school experience</a>
 
   <h3>Find your way to train</h3>
 
