@@ -29,14 +29,16 @@ backlink: "../../"
 
   <ol>
     <li><span>Reduce workload</span>
-      <p>Teachers, middle leaders and senior leaders reported working <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/838433/Teacher_workload_survey_2019_brief.pdf" target="_blank">5 hours less per week than they did in 2016</a>.</p>
-      <p>See how teachers are <a href="https://www.gov.uk/government/collections/reducing-school-workload#department-for-education-policy" target="_blank">reducing the workload</a>, and using the <a href="https://www.gov.uk/guidance/school-workload-reduction-toolkit" target="_blank">workload reduction toolkit</a>.</p>
+      <p>There has been a reduction between 2016 and 2019 in <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/838433/Teacher_workload_survey_2019_brief.pdf" target="_blank">reported working hours for teachers, middle leaders and senior leaders</a> of 5 hours a week.</p>
+      <p>Take a look at practical tools in the <a href="https://www.gov.uk/guidance/school-workload-reduction-toolkit" target="_blank">workload reduction kit</a>, examples of <a href="https://www.gov.uk/government/collections/reducing-school-workload#what-has-worked-in-schools" target="_blank">what's worked in schools</a> and a <a href="https://www.gov.uk/government/publications/reducing-teacher-workload-education-development-trust-report" target="_blank">report on school-led projects</a> aimed at reducing teacher workload.</p>
+      <br/>
     </li>
     <li><span>Improve behaviour</span>
   <p>The Department for Education has <a href="https://www.gov.uk/guidance/behaviour-hubs" target="_blank"> invested £10m through Behaviour Hubs</a> so that schools with exemplary behaviour can work closely with schools that want to improve behaviour.</p>
+      <br/>
   </li>
     <li><span>Introduce flexible working</span>
-      <p>Schools are helping teachers <a href="https://www.gov.uk/government/collections/flexible-working-resources-for-teachers-and-schools" target="_blank">work flexibly</a>.
+      <p>There are opportunities for teachers to <a href="https://www.gov.uk/government/collections/flexible-working-resources-for-teachers-and-schools" target="_blank">work flexibly</a>.
     You can search for jobs with flexible working patterns by using <a href="https://teaching-vacancies.service.gov.uk/" target="_blank">Teaching Vacancies</a>.</p>
   </li>
   </ol>
@@ -49,7 +51,7 @@ backlink: "../../"
 <ul>
   <li>review the latest <a href="https://www.gov.uk/government/publications/teachers-standards" target="_blank">Teachers’ Standards</a></li>
   <li>catch up on changes to the <a href="https://www.gov.uk/topic/schools-colleges-childrens-services/curriculum-qualifications" target="_blank">national curriculum and qualifications</a></li>
-  <li>read through current behaviour management guidelines – see the Department for Education’s <a href="" target="_blank">advice</a> and factsheet (PDF, 93KB)</li>
+  <li>read through current behaviour management guidelines – see the Department for Education’s <a href="https://www.gov.uk/government/publications/behaviour-and-discipline-in-schools" target="_blank">advice</a></li>
   </ul>
   
 <h3>Information technology</h3>
@@ -64,8 +66,17 @@ backlink: "../../"
   <li>some city learning centres offer ICT courses for teachers – <a href="https://www.gov.uk/find-local-council" target="_blank">check your local council</a> for more details.</li>
 </ul>
 
-<h4>Career coaching for women returning to teaching</h4>
-<p>The <a href="https://tscouncil.org.uk/wle-coaching-pledge/" target="_blank">Women Leading in Education Coaching Pledge</a> is an initiative run by the Teaching Schools Council. It aims to support women who are returning to teaching to progress into leadership roles through access to free coaching.</p>
+<h4>Support for returners identifying with protected characteristics</h4>
+<p>Support for returners (such as coaching opportunities) may be available if you identify with one or more of the protected characteristics as defined by the Equality Act 2010.</p>
+<p>Details of organisations which represent certain characteristics are listed below:</p>
+<ul>
+  <li><a href="https://www.womened.org" target="_blank">WomenEd</a><li>
+  <li><a href="https://www." target="_blank">BAMEed</a></li>
+  <li><a href="" target="_blank">LGBTed</a></li>
+  <li><a href="" target="_blank">DisabilityEd</a></li>
+  
+  </ul>
+
 
 <p><a href="#top">Back to top</a></p>
 
