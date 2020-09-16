@@ -71,9 +71,9 @@ backlink: "../../"
 <p>Details of organisations which represent certain characteristics are listed below:</p>
 <ul>
   <li><a href="https://www.womened.org" target="_blank">WomenEd</a><li>
-  <li><a href="https://www." target="_blank">BAMEed</a></li>
-  <li><a href="" target="_blank">LGBTed</a></li>
-  <li><a href="" target="_blank">DisabilityEd</a></li>
+  <li><a href="https://www.bameednetwork.com" target="_blank">BAMEed</a></li>
+  <li><a href="http://lgbted.uk" target="_blank">LGBTed</a></li>
+  <li><a href="https:twitter.com/disability_ed" target="_blank">DisabilityEd (Twitter account)</a></li>
   
   </ul>
 
