@@ -71,7 +71,7 @@ fullwidth: true
     </div>
     <div class="content-wrapper">
         <div class="content__left">
-            <h2>International teachers</h2>
+            <h2>International returning teachers</h2>
             <p>
                 <br/>
                 See how candidates with international qualifications became teachers in England and how already qualified teachers' returned to England from abroad, to get back into the profession.
@@ -103,7 +103,7 @@ fullwidth: true
     <div class="content-wrapper">
         <div class="content__left">
             <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers" class="call-to-action-button stories-call-to-action">
-                Read all stories from international career<span> changers</span>
+                Read all stories about international returning teachers
             </a>
         </div>
     </div>
