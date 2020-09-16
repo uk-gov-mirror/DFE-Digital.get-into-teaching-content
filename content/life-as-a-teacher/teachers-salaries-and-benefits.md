@@ -43,11 +43,11 @@ navigation: 40
   <li><span>teach in a state-funded school in England after finishing your teacher training course</span></li>
   </ul>
 
-<p>You’ll get 3 additional early-career payments of £2,000 each in your second, third and fourth year of teaching. You may get £3,000 each year if you teach in certain areas. <a href="https://www.gov.uk/guidance/early-career-payments-guidance-for-teachers-and-schools">Find out more about early-career payments</a>.</p>
+<p>You’ll get 3 additional early-career payments of £2,000 each in your second, third and fourth year of teaching. You may get £3,000 each year if you teach in certain areas. <a href="https://www.gov.uk/guidance/early-career-payments-guidance-for-teachers-and-schools" target="_blank" rel="noopener noreferrer">Find out more about early-career payments<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>.</p>
 
 <h3>Claim back student loan repayments</h3>
 
-<p>When you start teaching, you may be able to claim back the student loan payments you made the year before. You will need to <a href="https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/teachers-claim-back-your-student-loan-repayments-eligibility-and-payment-details"  target="_blank" rel="noopener noreferrer">teach in an eligible local authority<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a> for this, in one of these subjects:</p>
+<p>When you start teaching, you may be able to claim back the student loan payments you made the year before. You will need to <a href="https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/teachers-claim-back-your-student-loan-repayments-eligibility-and-payment-details" target="_blank" rel="noopener noreferrer">teach in an eligible local authority<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a> for this, in one of these subjects:</p>
 
   <ul>
   <li><span>languages</span></li>
