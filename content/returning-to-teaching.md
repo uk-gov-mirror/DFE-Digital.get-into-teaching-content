@@ -58,6 +58,12 @@ backlink: "../../"
 
 <p>You can find out how up to date your information and communication technologies (ICT) skills are by completing an ICT skills audit (PDF, 158KB).</p>
 
+<h3>National Tutoring Programme</h3>
+
+<p>This provides two different options to return to a school environment without taking on a full-time or part-time classroom role.</p>
+<p>Find out <a href="https://nationaltutoring.org.uk/" target="_blank">how to apply and get more information about 'Tuition Partners' and 'Academic Mentor' pillars of the National Tutoring Programme</a></p>.
+
+
 <h3>Useful resources</h3>
 
 <ul>
@@ -70,7 +76,7 @@ backlink: "../../"
 <p>Support for returners (such as coaching opportunities) may be available if you identify with one or more of the protected characteristics as defined by the Equality Act 2010.</p>
 <p>Details of organisations which represent certain characteristics are listed below:</p>
 <ul>
-  <li><a href="https://www.womened.org" target="_blank">WomenEd</a><li>
+  <li><a href="https://www.womened.org" target="_blank">WomenEd</a></li>
   <li><a href="https://www.bameednetwork.com" target="_blank">BAMEed</a></li>
   <li><a href="http://lgbted.uk" target="_blank">LGBTed</a></li>
   <li><a href="https:twitter.com/disability_ed" target="_blank">DisabilityEd (Twitter account)</a></li>
@@ -79,6 +85,8 @@ backlink: "../../"
 
 
 <p><a href="#top">Back to top</a></p>
+
+
 
   <h2 id="modern-languages-maths-physics">Modern languages, maths or physics</h2>
  
