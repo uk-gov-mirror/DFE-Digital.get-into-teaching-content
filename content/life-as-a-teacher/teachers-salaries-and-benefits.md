@@ -35,29 +35,31 @@ navigation: 40
 
 <p>You could get payments of up to £9k after tax when you start teaching. You’ll be eligible for the payments even if you have already had a bursary or scholarship during your training.</p>
 
-<p>You'll get early-career payments if you have:</p>
+<p>You'll get early-career payments if you:</p>
 
   <ul>
-  <li><span>completed a non-salaried teacher training course</span></li>
-  <li><span>received a bursary or scholarship in the academic year 2020/21</span></li>
-  <li><span>taught in a state-funded school in England since finishing your teacher training course</span></li>
+  <li><span>complete a non-salaried teacher training course in chemistry, modern foreign languages, maths or physics</span></li>
+  <li><span>receive a bursary or scholarship in the academic year 2020/21</span></li>
+  <li><span>teach in a state-funded school in England after finishing your teacher training course</span></li>
   </ul>
 
-<p>You’ll get 3 additional early-career payments of £2k each in your second, third and fourth year of teaching. You may get £3k each year if you teach in certain areas. Find out more.</p>
+<p>You’ll get 3 additional early-career payments of £2k each in your second, third and fourth year of teaching. You may get £3k each year if you teach in certain areas. <a href="https://www.gov.uk/guidance/early-career-payments-guidance-for-teachers-and-schools">Find out more about early-career payments</a>.</p>
 
-<h3>Student loan repayments</h3>
+<h3>Claim back student loan repayments</h3>
 
-<p>When you start teaching, you can claim back the student loan payments you made the year before. You’ll need to teach:</p>
+<p>When you start teaching, you may be able to claim back the student loan payments you made the year before. You will need to <a href="https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/teachers-claim-back-your-student-loan-repayments-eligibility-and-payment-details" target="_blank">teach in an eligible local authority</a> for this, in one of these subjects:</p>
 
   <ul>
   <li><span>languages</span></li>
   <li><span>biology</span></li>
   <li><span>chemistry</span></li>
   <li><span>physics</span></li>
-  <li><span>computer science</span></li>
+  <li><span>computing</span></li>
   </ul>
+  
+  
 
-<p><a href="https://www.gov.uk/guidance/teachers-student-loan-reimbursement-guidance-for-teachers-and-schools" target="_blank">Find out more about eligibility criteria, payment rates, participating local authorities and how to apply at GOV.UK</a></p>
+
 
 <h3>Teachers’ Pension Scheme</h3>
 
