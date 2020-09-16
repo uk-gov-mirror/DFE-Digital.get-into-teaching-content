@@ -186,9 +186,13 @@ window)</span><i class="icon icon-external"></i></a>.</p>
 <p>NPQs can help you get into leadership positions such as head of department, deputy headteacher or headteacher.</p>
  
 <h3>Getting qualified</h3>
-<p>You may need to gain <a href="https://www.gov.uk/guidance/qualified-teacher-status-qts"  target="_blank" rel="noopener noreferrer">Qualified Teacher Status (QTS)<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>, depending on the type of school you want to work in.</p>
-<p>If you're experienced and have a degree, you may be able to get QTS through the assessment only route without any further training.</p>
+
+<p>If you taught overseas as an unqualified teacher, you'll need <a href="https://www.gov.uk/guidance/qualified-teacher-status-qts"  target="_blank" rel="noopener noreferrer">qualified teacher status(QTS)<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> to teach in a maintained school in England.</p>
+
+
+
+<p>If you're experienced and have a degree, you may be able to get QTS through the <a href="guidance#assessment-only" target="_blank">assessment only</a> route without any further training.</p>
 <p>If you have fewer than 2 years of teaching experience, you can get qualified on a <a href="https://www.find-postgraduate-teacher-training.service.gov.uk/"  target="_blank" rel="noopener noreferrer">teacher training course<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>.</p>
 <p>You can teach as an unqualified teacher in academies and free schools.</p>
