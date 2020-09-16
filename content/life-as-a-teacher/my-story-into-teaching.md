@@ -71,7 +71,7 @@ fullwidth: true
     </div>
     <div class="content-wrapper">
         <div class="content__left">
-            <h2>Stories from international teachers</h2>
+            <h2>International teachers</h2>
             <p>
                 <br/>
                 See how candidates with international qualifications became teachers in England and how already qualified teachers' returned to England from abroad, to get back into the profession.
@@ -109,7 +109,7 @@ fullwidth: true
     </div>
     <div class="content-wrapper">
         <div class="content__left">
-            <h2>Teacher training stories</h2>
+            <h2>Teacher training </h2>
             <p>
                 <br/>
                 It’s a great time to train to teach, with a wide array of training options and support available. Find out what you can expect
@@ -157,7 +157,7 @@ fullwidth: true
     </div>
     <div class="content-wrapper">
         <div class="content__left">
-            <h2>Stories about making a difference</h2>
+            <h2>Making a difference</h2>
             <p>
                 <br/>
                 Teachers talk about making a real difference to pupils’ learning and lives - and the job satisfaction that comes with a career
@@ -205,7 +205,7 @@ fullwidth: true
     </div>
     <div class="content-wrapper">
         <div class="content__left">
-            <h2>Stories about career progression</h2>
+            <h2>Career progression</h2>
             <p>
                 <br/>
                 Teachers talk about making a real difference to pupils’ learning and lives - and the job satisfaction that comes with a career
@@ -253,7 +253,7 @@ fullwidth: true
     </div>
     <div class="content-wrapper">
         <div class="content__left">
-            <h2>Stories about returning to teaching</h2>
+            <h2>Returning to teaching</h2>
             <p>
                 <br/>
                 Teachers talk about making a real difference to pupils' learning and lives - and the job satisfaction that comes with a career
