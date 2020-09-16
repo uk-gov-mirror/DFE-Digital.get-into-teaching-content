@@ -183,6 +183,5 @@ backlink: "../../"
       </div>
     </div>
   </div>
-  <p><a href="#top">Back to top</a></p>
 
 <!--</div>-->

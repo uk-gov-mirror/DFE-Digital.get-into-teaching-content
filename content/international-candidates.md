@@ -183,7 +183,6 @@ There may be financial support available, but this will depend on your status as
       </div>
     </div>
   </div>
-  <p><a href="#top">Back to top</a></p>
 </div>
   
 
