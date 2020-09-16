@@ -33,7 +33,7 @@ navigation: 40
 
 <h3>Early-career payments</h3>
 
-<p>You could get payments of up to £9k after tax when you start teaching. You’ll be eligible for the payments even if you have already had a bursary or scholarship during your training.</p>
+<p>You could get payments of up to £9,000 after tax when you start teaching. You’ll be eligible for the payments even if you have already had a bursary or scholarship during your training.</p>
 
 <p>You'll get early-career payments if you:</p>
 
@@ -43,7 +43,7 @@ navigation: 40
   <li><span>teach in a state-funded school in England after finishing your teacher training course</span></li>
   </ul>
 
-<p>You’ll get 3 additional early-career payments of £2k each in your second, third and fourth year of teaching. You may get £3k each year if you teach in certain areas. <a href="https://www.gov.uk/guidance/early-career-payments-guidance-for-teachers-and-schools">Find out more about early-career payments</a>.</p>
+<p>You’ll get 3 additional early-career payments of £2,000 each in your second, third and fourth year of teaching. You may get £3,000 each year if you teach in certain areas. <a href="https://www.gov.uk/guidance/early-career-payments-guidance-for-teachers-and-schools">Find out more about early-career payments</a>.</p>
 
 <h3>Claim back student loan repayments</h3>
 
