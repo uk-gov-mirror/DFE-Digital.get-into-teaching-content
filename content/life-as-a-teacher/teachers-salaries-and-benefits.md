@@ -27,7 +27,7 @@ navigation: 40
 
 <p>Headteachers lead, motivate and manage staff. In this role you will earn between £46,357 to £114,060. This could be up to £121,749 if you work in inner London.</p>
 
-<!--<p>Find the full list of teacher salary scales in England from <a href="https://www.nasuwt.org.uk/">NASUWT The Teachers Union</a>.</p>-->
+
 
 <h2>Teacher benefits</h2>
 
@@ -66,7 +66,7 @@ navigation: 40
 <p>The Teachers’ Pension Scheme gives you a regular source of income when you retire. It is:</p>
 
   <ul>
-  <li><span>based on your salary and service rather than investments so there will be no surprises about what you’ll get</span></li>
+  <li><span>based on your salary and service rather than investments</span></li>
   <li><span>registered with HM Revenue and Customs - so you don’t pay tax on contributions</span></li>
   <li><span>flexible and allows you to take some of it as a tax-free lump sum</span></li>
   </ul>
