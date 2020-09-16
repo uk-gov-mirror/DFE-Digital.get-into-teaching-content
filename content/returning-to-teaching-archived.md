@@ -20,7 +20,8 @@ backlink: "../../"
     <li><span>introduce flexible working</span></li>
   </ul>
   
-  <p>For more detailed information read the <a href="https://beta-getintoteaching.education.gov.uk/guidance#9" target="_blank">UK government guidance on returning to teaching in England</a>.</p>
+  <p>For more detailed information read the <a href="https://beta-getintoteaching.education.gov.uk/guidance#9"  target="_blank" rel="noopener noreferrer">UK government guidance on returning to teaching in England<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>.</p>
 
   <p>If you're a returning maths, physics or modern languages teacher, we can offer you one-to-one support from a teacher training adviser.</p>
 
@@ -32,7 +33,8 @@ backlink: "../../"
     <li><span>preparing for interviews</span></li>
   </ul>
 
-  <p><a href="https://beta-adviser-getintoteaching.education.gov.uk/" target="_blank">Sign up to speak to a teacher training adviser</a>.</p>
+  <p><a href="https://beta-adviser-getintoteaching.education.gov.uk/"  target="_blank" rel="noopener noreferrer">Sign up to speak to a teacher training adviser<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>.</p>
 
   <h2>Stories about returning to teaching in England</h2> 
   <br/>

@@ -47,7 +47,7 @@ navigation: 40
 
 <h3>Claim back student loan repayments</h3>
 
-<p>When you start teaching, you may be able to claim back the student loan payments you made the year before. You will need to <a href="https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/teachers-claim-back-your-student-loan-repayments-eligibility-and-payment-details" target="_blank">teach in an eligible local authority</a> for this, in one of these subjects:</p>
+<p>When you start teaching, you may be able to claim back the student loan payments you made the year before. You will need to <a href="https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/teachers-claim-back-your-student-loan-repayments-eligibility-and-payment-details"  target="_blank" rel="noopener noreferrer">teach in an eligible local authority<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a> for this, in one of these subjects:</p>
 
   <ul>
   <li><span>languages</span></li>
@@ -71,7 +71,7 @@ navigation: 40
   <li><span>flexible and allows you to take some of it as a tax-free lump sum</span></li>
   </ul>
 
-<p><a href="https://www.teacherspensions.co.uk/members/new-starter.aspx" target="_blank">Find out more from Teachers’ Pensions</a></p>
+<p><a href="https://www.teacherspensions.co.uk/members/new-starter.aspx"  target="_blank" rel="noopener noreferrer">Find out more from Teachers’ Pensions<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></p>
 
 
 

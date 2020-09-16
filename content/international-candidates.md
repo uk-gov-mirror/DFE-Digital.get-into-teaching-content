@@ -32,17 +32,21 @@ backlink: "../../"
   <p><a href="#top">Back to top</a></p>
   
 <h2 id="international-teacher-training-applicants">International teacher training applicants</h2>
-  <p>As well as teacher training, you can also consider the <a href="https://researchersinschools.org/about/maths-and-physics-chairs-programme/" target="_blank">Maths and Physics Chairs Programme</a> or Teach First.</p>
+  <p>As well as teacher training, you can also consider the <a href="https://researchersinschools.org/about/maths-and-physics-chairs-programme/"  target="_blank" rel="noopener noreferrer">Maths and Physics Chairs Programme<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> or Teach First.</p>
   <p>Call Get into Teaching on Freephone 0800 389 2500 for advice. They can also give you a free UK National Recognition Information Centre (UK NARIC) statement to show what your qualifications are equivalent to in the UK.</p>
   
   <p><a href="#top">Back to top</a></p>
   
 <h2 id="international-qualified-teachers">International qualified teachers</h2>
-<p>If you’re an international qualified teacher and want to teach in England, you may need to gain <a href="https://www.gov.uk/guidance/qualified-teacher-status-qts" target="_blank">Qualified Teacher Status (QTS)</a>, depending on the type of school you want to work in.</p>
+<p>If you’re an international qualified teacher and want to teach in England, you may need to gain <a href="https://www.gov.uk/guidance/qualified-teacher-status-qts"  target="_blank" rel="noopener noreferrer">Qualified Teacher Status (QTS)<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>, depending on the type of school you want to work in.</p>
 <p>You can work for up to 4 years in maintained schools and non-maintained special schools without QTS. Academies and free schools can also employ teachers without QTS for any period of time.</p>
-<p>Find out about the different <a href="https://www.gov.uk/types-of-school" target="_blank">types of schools</a> in England.</p>
+<p>Find out about the different <a href="https://www.gov.uk/types-of-school"  target="_blank" rel="noopener noreferrer">types of schools<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> in England.</p>
 <br/>
-<p>If you’re a qualified teacher from the EU, Iceland, Lichtenstein, Norway or Switzerland, or you have a teaching qualification from the USA, Canada, Australia or New Zealand you can <a href="https://www.gov.uk/guidance/qualified-teacher-status-qts" target="_blank">apply for QTS without further training</a>.</p>
+<p>If you’re a qualified teacher from the EU, Iceland, Lichtenstein, Norway or Switzerland, or you have a teaching qualification from the USA, Canada, Australia or New Zealand you can <a href="https://www.gov.uk/guidance/qualified-teacher-status-qts"  target="_blank" rel="noopener noreferrer">apply for QTS without further training<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>.</p>
 <p>
 If you’re an experienced teacher from any other country, you may be able to get QTS through the assessment only route without further training.</p>
 
@@ -81,10 +85,14 @@ If you’re an experienced teacher from any other country, you may be able to ge
 <p>The UK government works with recruitment agencies to run the programme. They all offer the same high level of support but may vary in where they place teachers in England.</p>
 <p>You can register your interest with one of them:</p>
 <ul>
-<li><span><a href="https://www.pointtopointeducation.com/department-for-education-endorsement/" target="_blank">Point to Point Education</a></span></li>
-<li><span><a href="https://prosperoteaching.com/campaigns/teachuk/" target="_blank">Prospero Teaching</a></span></li>
-<li><span><a href="https://www.quantum-scholars.co.uk/" target="_blank">Quantum Scholars</a></span></li>
-<li><span><a href="https://www.randstad.co.uk/job-seeker/areas-of-expertise/education/stem-registration/?utm_source=DfE%20website&utm_medium=STEM%20candidate%20page&utm_campaign=DfE%20website" target="_blank">Randstad Education</a></span></li>
+<li><span><a href="https://www.pointtopointeducation.com/department-for-education-endorsement/"  target="_blank" rel="noopener noreferrer">Point to Point Education<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a></span></li>
+<li><span><a href="https://prosperoteaching.com/campaigns/teachuk/"  target="_blank" rel="noopener noreferrer">Prospero Teaching<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a></span></li>
+<li><span><a href="https://www.quantum-scholars.co.uk/"  target="_blank" rel="noopener noreferrer">Quantum Scholars<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a></span></li>
+<li><span><a href="https://www.randstad.co.uk/job-seeker/areas-of-expertise/education/stem-registration/?utm_source=DfE%20website&utm_medium=STEM%20candidate%20page&utm_campaign=DfE%20website"  target="_blank" rel="noopener noreferrer">Randstad Education<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a></span></li>
 </ul>
 
 <p><a href="#top">Back to top</a></p>
@@ -115,13 +123,17 @@ To find out if you need to apply for a visa:
 To find out if you will need to apply for a visa:</p>
 <ul>
 <li><span>contact the school that will be employing you</span></li>
-<li><span>read the UK government’s guidance on the <a href="https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know" target="_blank">new immigration system</a> and the <a href="https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#eu-citizens-living-in-the-uk-by-31-december-2020" target="_blank">EU settlement scheme</a></span></li>
+<li><span>read the UK government’s guidance on the <a href="https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know"  target="_blank" rel="noopener noreferrer">new immigration system<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> and the <a href="https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#eu-citizens-living-in-the-uk-by-31-december-2020"  target="_blank" rel="noopener noreferrer">EU settlement scheme<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a></span></li>
 </ul>
 <p>If you’re a graduate from outside the European Economic Area (EEA), you may need to apply for a visa before starting your teacher training course.</p>
 <p>To find out if you need to apply for a visa:</p>
 <ul>
 <li><span>contact the school or university you want to train with</span></li>
-<li><span>read the UK government guidance on <a href="https://www.gov.uk/browse/visas-immigration/student-visas" target="_blank">student visas</a>; or if you want to train on a course where you get paid, read the UK government guidance on <a href="https://www.gov.uk/browse/visas-immigration/work-visas" target="_blank">work visas</a></span></li>
+<li><span>read the UK government guidance on <a href="https://www.gov.uk/browse/visas-immigration/student-visas"  target="_blank" rel="noopener noreferrer">student visas<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>; or if you want to train on a course where you get paid, read the UK government guidance on <a href="https://www.gov.uk/browse/visas-immigration/work-visas"  target="_blank" rel="noopener noreferrer">work visas<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a></span></li>
 </ul>
 <p>
 If your teacher training course starts after 1 January 2021 and you’re a graduate from outside the UK, including the EEA, you may need to apply for a visa under the UK’s new immigration system.</p>
@@ -130,14 +142,17 @@ To find out if you will need to apply for a visa:
 </p>
 <ul>
 <li><span>contact the school or univeristy you want to train with</span></li>
-<li><span>read the UK government's guidance on the <a href="https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know" target="_blank">new immigration system</a> and the <a href="https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#eu-citizens-living-in-the-uk-by-31-december-2020" target="_blank">EU settlement scheme</a></span></li>
+<li><span>read the UK government's guidance on the <a href="https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know"  target="_blank" rel="noopener noreferrer">new immigration system<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> and the <a href="https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#eu-citizens-living-in-the-uk-by-31-december-2020"  target="_blank" rel="noopener noreferrer">EU settlement scheme<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a></span></li>
 </ul>
 
 <p><a href="#top">Back to top</a></p>
 
 <h2 id="travelling-to-the-uk">Travelling to the UK</h2>
 <p>Check your country’s advice to keep up to date with travel restrictions during coronavirus.</p>
-<p>The UK government has also published guidance for those affected by <a href="https://www.gov.uk/government/collections/coronavirus-covid-19-immigration-and-borders" target="_blank">changes to UK immigration and borders</a> due to coronavirus, including what to do if you need a visa to travel to the UK and an immigration helpline.</p>
+<p>The UK government has also published guidance for those affected by <a href="https://www.gov.uk/government/collections/coronavirus-covid-19-immigration-and-borders"  target="_blank" rel="noopener noreferrer">changes to UK immigration and borders<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> due to coronavirus, including what to do if you need a visa to travel to the UK and an immigration helpline.</p>
 
 
 <p><a href="#top">Back to top</a></p>
@@ -155,7 +170,8 @@ Your tuition fees may be higher than fees for UK or EU/EEA students. Contact the
 Get advice about training to be a teacher if you live outside the UK, EU/EAA by using the Sign up to talk to a teacher training adviser service.
 </p>
 <p>
-There may be financial support available, but this will depend on your status as a home, EU/EEA or overseas student. Find out more from the <a href="https://www.ukcisa.org.uk/" target="_blank">UK Council for International Student Affairs</a>.
+There may be financial support available, but this will depend on your status as a home, EU/EEA or overseas student. Find out more from the <a href="https://www.ukcisa.org.uk/"  target="_blank" rel="noopener noreferrer">UK Council for International Student Affairs<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>.
 </p>
 
 <p><a href="#top">Back to top</a></p>

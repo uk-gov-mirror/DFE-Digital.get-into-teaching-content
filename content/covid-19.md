@@ -33,7 +33,8 @@ backlink: "../"
         <p>Applicants should wait to be contacted by the providers for specific guidance.</p>
         <p><strong>Q. Do I need to have school experience?</strong></p>
         <p>A. Getting some classroom experience can help you decide whether teaching is right for you. It is not an entry requirement for Initial Teacher Training.</p>
-<p>You can search and sign up through our <a href="https://schoolexperience.education.gov.uk/" target="_blank">Get school experience service</a>.</p>
+<p>You can search and sign up through our <a href="https://schoolexperience.education.gov.uk/" target="_blank" rel="noopener noreferrer">Get school experience service<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>.</p>
 <p><strong>Can I get school experience from September?</strong></p>
 <p>Some schools are offering the opportunity for ITT candidates to undertake school experience both in school and virtually.</p>
         <p><strong>Q. Does the 40-day rule for making decisions about ITT applications still apply?</strong></p>
@@ -51,7 +52,9 @@ backlink: "../"
         <p>A. Autumn events will be confirmed soon, please check back for more details.</p>
        <p><strong> Q. What if I’m an overseas applicant?</strong></p>
         <p>A. Although global travel, including to the UK, is affected by coronavirus, we still encourage you to take the steps to becoming a teacher in England.</p> 
-        <p>Check your country’s advice to keep up to date with travel restrictions. The UK government has also published guidance about <a href="https://www.gov.uk/guidance/coronavirus-covid-19-advice-for-uk-visa-applicants-and-temporary-uk-residents#outside-uk" target="_blank">what to do if you need a visa to travel to the UK</a> and has an immigration <a href="https://www.gov.uk/guidance/coronavirus-covid-19-advice-for-uk-visa-applicants-and-temporary-uk-residents#helpline" target="_blank">helpline</a>. If you’ve already started applying for a course, contact the training providers - they’ll be able to advise you on how coronavirus is affecting recruitment to their courses.</p>
+        <p>Check your country’s advice to keep up to date with travel restrictions. The UK government has also published guidance about <a href="https://www.gov.uk/guidance/coronavirus-covid-19-advice-for-uk-visa-applicants-and-temporary-uk-residents#outside-uk" target="_blank" rel="noopener noreferrer">what to do if you need a visa to travel to the UK<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> and has an immigration <a href="https://www.gov.uk/guidance/coronavirus-covid-19-advice-for-uk-visa-applicants-and-temporary-uk-residents#helpline" target="_blank" rel="noopener noreferrer">helpline<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>. If you’ve already started applying for a course, contact the training providers - they’ll be able to advise you on how coronavirus is affecting recruitment to their courses.</p>
         
    <h2>GCSE and equivalency tests</h2>
         <p><strong>Q. Because of coronavirus, I have been unable to sit my GCSE or equivalency test as scheduled. Will this mean I cannot meet the entry criteria to start a course in September 2020?</strong></p>
@@ -60,9 +63,12 @@ backlink: "../"
         <p><strong>Q. Will I still be eligible for bursaries and grants if, due to coronavirus, I start a course in September 2020 without having provided this evidence?</strong></p>
         <p>A. If you begin a course with evidence of your GCSE standard equivalent pending, initially you will not be eligible for financial incentives. However, once you have submitted evidence, any financial incentive will be backdated to the start of the course. Your eligibility for a student loan will be unaffected.</p>
         ***
-       <p> For more information about the government response to coronavirus (COVID-19), please visit <a href="https://www.gov.uk/coronavirus" target="_blank">GOV.UK</a>.</p>
-        <p>If you have another question, not covered here, please <a href="https://getintoteaching.education.gov.uk#talk-to-us" target="_blank">get in touch</a>.</p>
-        <p>We have been working closely across government to <a href="https://www.gov.uk/government/publications/coronavirus-covid-19-initial-teacher-training-itt" target="_blank">develop guidance on COVID-19</a> and its impact on Initial Teacher Training, and the <a href="https://www.gov.uk/government/publications/initial-teacher-training-criteria" target="_blank"> amended ITT criteria</a>.</p> 
+       <p> For more information about the government response to coronavirus (COVID-19), please visit <a href="https://www.gov.uk/coronavirus" target="_blank" rel="noopener noreferrer">GOV.UK</a>.</p>
+        <p>If you have another question, not covered here, please <a href="https://getintoteaching.education.gov.uk#talk-to-us" target="_blank" rel="noopener noreferrer">get in touch<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>.</p>
+        <p>We have been working closely across government to <a href="https://www.gov.uk/government/publications/coronavirus-covid-19-initial-teacher-training-itt" target="_blank" rel="noopener noreferrer">develop guidance on COVID-19<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> and its impact on Initial Teacher Training, and the <a href="https://www.gov.uk/government/publications/initial-teacher-training-criteria" target="_blank" rel="noopener noreferrer"> amended ITT criteria<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>.</p> 
     
 
 </div>

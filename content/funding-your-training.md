@@ -32,7 +32,7 @@ navigation: 10
 
   <p>You could get a bursary of up to £26,000 or apply for a scholarship of up to £28,000.</p>
 
-  <p><a href="/guidance#bursaries-and-scholarships" target="_blank" rel="noopener noreferrer">Find out more about bursaries and scholarships <span class="govuk-visually-hidden">(Link opens in new
+  <p><a href="/guidance#bursaries-and-scholarships" target="_blank" rel="noopener noreferrer">Find out more about bursaries and scholarships<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>.</p>
 
   <h2 id="get-student-finance">Get student finance</h2>
@@ -48,7 +48,7 @@ window)</span><i class="icon icon-external"></i></a>.</p>
   <p>Use the <a href="https://www.gov.uk/student-finance-calculator" target="_blank" rel="noopener noreferrer">student finance calculator on GOV.UK<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a> to find out how much you can get.</p> 
 
-  <h2 id="get-financial-help-if-youre-a-parent-a-carer-or-you-have-a-disability" target="_blank" rel="noopener noreferrer">Get extra funding if you’re a parent, a carer or you have a disability</h2>
+  <h2 id="get-financial-help-if-youre-a-parent-a-carer-or-you-have-a-disability">Get extra funding if you’re a parent, a carer or you have a disability</h2>
 
   <p>You may be able to get extra funding if you have a disability, or if you have children or dependent adults. If you get this type of funding, you do not need to pay it back.</p>
 

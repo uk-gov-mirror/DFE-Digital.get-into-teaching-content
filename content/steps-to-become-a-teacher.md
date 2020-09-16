@@ -52,7 +52,7 @@ navigation: 20
    <p>
         If you do not have the required GCSEs, you’ll need to show that you have an equivalent level of education.
       </p>
-      <a href="/guidance#subject-knowledge-enhancement" target="_blank" rel="noopener noreferrer">If your degree is not in the subject you want to teach <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>
+      <a href="/guidance#subject-knowledge-enhancement" target="_blank" rel="noopener noreferrer">If your degree is not in the subject you want to teach<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>
       
    </div>
       <button class="steps-header" id="step-2" data-action="click->accordion#toggle" data-target="accordion.header" aria-controls="collapsable-content-2" aria-expanded="false">
@@ -89,7 +89,7 @@ navigation: 20
 
   <!--<a href="steps-to-become-a-teacher/school-experience">Find out more about school experience</a>-->
   
-  <a href="https://schoolexperience.education.gov.uk/" target="_blank" rel="noopener noreferrer">Find out more about school experience <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>
+  <a href="https://schoolexperience.education.gov.uk/" target="_blank" rel="noopener noreferrer">Find out more about school experience<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>
 
   <h3>Find your way to train</h3>
 
@@ -106,7 +106,7 @@ navigation: 20
 
   
   
-  <a href="/guidance#5" target="_blank" rel="noopener noreferrer">Find out more about different ways to train <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>
+  <a href="/guidance#5" target="_blank" rel="noopener noreferrer">Find out more about different ways to train<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>
 
 
   <h3>Teaching children with special educational needs and/or disabilities (SEND)</h3>
@@ -116,7 +116,7 @@ navigation: 20
       <p>
         You could also specialise in supporting children with SEND.
       </p>
-      <a href="/guidance#teaching-children-with-special-educational-needs-and-or-disabilities-SEND" target="_blank" rel="noopener noreferrer">Find out how to specialise in SEND <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>
+      <a href="/guidance#teaching-children-with-special-educational-needs-and-or-disabilities-SEND" target="_blank" rel="noopener noreferrer">Find out how to specialise in SEND<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>
       
       
    </div>
@@ -128,13 +128,13 @@ navigation: 20
     <div id="collapsable-content-4" class="steps-content collapsable" data-target="accordion.content">
       <p>
         Once you have decided that you want to train to become a teacher and have the necessary qualifications you’ll need to 
-        <a href="https://qa.apply-for-teacher-training.education.gov.uk/candidate" target="_blank" rel="noopener noreferrer">prepare your application <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>using the following steps:
+        <a href="https://qa.apply-for-teacher-training.education.gov.uk/candidate" target="_blank" rel="noopener noreferrer">prepare your application<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>using the following steps:
       </p>
       <ul>
-        <li><span><span><a href="https://www.gov.uk/find-postgraduate-teacher-training-courses" target="_blank" rel="noopener noreferrer">choose your course <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></span></span></li>
+        <li><span><span><a href="https://www.gov.uk/find-postgraduate-teacher-training-courses" target="_blank" rel="noopener noreferrer">choose your course<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></span></span></li>
         <li><span><span>write a personal statement</span></span></li>
         <li><span><span>get two references</span></span></li>
-        <li><span><span><a href="https://qa.apply-for-teacher-training.education.gov.uk/candidate" target="_blank" rel="noopener noreferrer">apply for teacher training <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></span></span></li>
+        <li><span><span><a href="https://qa.apply-for-teacher-training.education.gov.uk/candidate" target="_blank" rel="noopener noreferrer">apply for teacher training<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></span></span></li>
       </ul>
     </div>
   </div>
