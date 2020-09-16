@@ -23,7 +23,7 @@ fullwidth: true
 <div class="container-1000">
     <div class="content-wrapper">
         <div class="content__left">
-            <h2>Career changers' stories</h2>
+            <h2>Changing career</h2>
             <p>
                 <br/>
                 If you are thinking of changing your career, you’re in good company. Every year, many people decide to move from 
