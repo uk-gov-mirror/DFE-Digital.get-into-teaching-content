@@ -33,7 +33,7 @@ navigation: 10
   <p>You could get a bursary of up to £26,000 or apply for a scholarship of up to £28,000.</p>
 
   <p><a href="/guidance#bursaries-and-scholarships" target="_blank" rel="noopener noreferrer">Find out more about bursaries and scholarships <span class="govuk-visually-hidden">(Link opens in new
-window)</span> <i class="fas fa-external-link-alt"></i> </a>.</p>
+window)</span><i class="icon icon-external"></i></a>.</p>
 
   <h2 id="get-student-finance">Get student finance</h2>
   <p>Even if a bursary or scholarship is available for your course, you can get student finance to cover your fees and help with your living costs. You can apply for a tuition fee and/or a maintenance loan even if you already have a student loan.</p>
@@ -43,10 +43,10 @@ window)</span> <i class="fas fa-external-link-alt"></i> </a>.</p>
  <p>You will only have to make repayments when you're earning. Your repayments will not increase if you already have a student loan and take a loan out for teacher training.</p>
 
   <p><a href="/guidance#student-finance" target="_blank" rel="noopener noreferrer">Find out more about student finance<span class="govuk-visually-hidden">(Link opens in new
-window)</span> <i class="fas fa-external-link-alt"></i> </a>.</p> 
+window)</span><i class="icon icon-external"></i></a>.</p> 
 
   <p>Use the <a href="https://www.gov.uk/student-finance-calculator" target="_blank" rel="noopener noreferrer">student finance calculator on GOV.UK<span class="govuk-visually-hidden">(Link opens in new
-window)</span> <i class="fas fa-external-link-alt"></i> </a> to find out how much you can get.</p> 
+window)</span><i class="icon icon-external"></i></a> to find out how much you can get.</p> 
 
   <h2 id="get-financial-help-if-youre-a-parent-a-carer-or-you-have-a-disability" target="_blank" rel="noopener noreferrer">Get extra funding if you’re a parent, a carer or you have a disability</h2>
 
@@ -62,7 +62,7 @@ window)</span> <i class="fas fa-external-link-alt"></i> </a> to find out how muc
   </ul>
   
   <p><a href="/guidance#other-types-of-financial-help-if-youre-a-parent-carer-or-you-have-a-disability" target="_blank" rel="noopener noreferrer">Find out more about financial help for parents, carers and people with disabilities.<span class="govuk-visually-hidden">(Link opens in new
-window)</span> <i class="fas fa-external-link-alt"></i> </a>.</p> 
+window)</span><i class="icon icon-external"></i></a>.</p> 
 
 
 
@@ -71,7 +71,7 @@ window)</span> <i class="fas fa-external-link-alt"></i> </a>.</p>
   <p>Whether you’re a home student (living in Wales, Scotland or Northern Ireland), an EU student or a student from outside the EU, you may still be eligible for funding to train to teach.</p>
 
   <p>If you live in Wales, Scotland or Northern Ireland you’ll need to contact <a href="/guidance#funding-if-you-live-in-wales-scotland-or-northern-ireland" target="_blank" rel="noopener noreferrer">your country’s student finance body<span class="govuk-visually-hidden">(Link opens in new
-window)</span> <i class="fas fa-external-link-alt"></i> </a>.</p> 
+window)</span><i class="icon icon-external"></i></a>.</p> 
 <p>You could get a bursary or scholarship, student finance and extra funding to train to teach.</p>
 
   
