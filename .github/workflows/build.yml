@@ -14,9 +14,33 @@ env:
   CF_PROVIDER_URL: https://github.com/cloudfoundry-community/terraform-provider-cloudfoundry/releases/download/v0.12.3/terraform-provider-cloudfoundry_v0.12.3_linux_amd64
 
 jobs:
+  turnstyle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check workflow concurrency
+        uses: softprops/turnstyle@v1
+        with:
+          poll-interval-seconds: 20
+          same-branch-only: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Slack Notification
+        if: failure()
+        uses: rtCamp/action-slack-notify@master
+        env:
+           SLACK_CHANNEL: getintoteaching_tech
+           SLACK_COLOR: '#3278BD'
+           SLACK_ICON: https://github.com/rtCamp.png?size=48
+           SLACK_MESSAGE: 'Content Delivery has failed. This is due to a workflow concurrency issue'
+           SLACK_TITLE: 'Failure: ${{ github.workflow }}'
+           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+
   deploy:
     name: Build and deploy
     runs-on: ubuntu-latest
+    needs: turnstyle 
     steps:
       - name: Check out the repo
         uses: actions/checkout@v2
@@ -88,13 +112,6 @@ jobs:
             mkdir -p $HOME/.terraform.d/plugins/linux_amd64
             wget -O ${{ env.CF_PROVIDER_DIR }} ${{ env.CF_PROVIDER_URL }}
             chmod +x ${{ env.CF_PROVIDER_DIR }}
-
-      - name: Wait for any previous runs to complete
-        uses: softprops/turnstyle@v1
-        env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-           continue-after-seconds: 180   
 
       - name: Terraform Init
         if: github.ref == 'refs/heads/master'
