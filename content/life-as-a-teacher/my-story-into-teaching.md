@@ -65,7 +65,7 @@ fullwidth: true
     <div class="content-wrapper">
         <div class="content__left">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers" class="call-to-action-button stories-call-to-action">
-                Read all career changers' <span> stories</span>
+                Read all stories about changing career
             </a>
         </div>
     </div>
@@ -247,7 +247,7 @@ fullwidth: true
     <div class="content-wrapper">
         <div class="content__left">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-progression" class="call-to-action-button stories-call-to-action">
-                Read all stories about making career <span> progression</span>
+                Read all stories about career <span> progression</span>
             </a>
         </div>
     </div>
