@@ -151,7 +151,12 @@ window)</span><i class="icon icon-external"></i></a></li>
 
 <h2 id="for-teachers-trained-in-england">For teachers who trained in England returning from overseas</h2>
 
-<p>This is for UK and non-UK nationals who have trained to teach in England and are interested in returning to teach here.</p>
+<p>This is for UK and non-UK nationals who have trained to teach in England and are interested in returning to teach here after teaching overseas.</p>
+
+<p>If you're looking for new opportunities in England, we're here to support you and progress your career in teaching.</p>
+<p>The diversity, culture, different teaching methods you've experienced and skills you've acquired will be an invaluable asset to our schools, children and young people.</p>
+
+<p><a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/">Read stories about teachers with international experience who've made the move back to England</a>.</p>
 
 <h3>Finding a role</h3>
 
