@@ -286,7 +286,7 @@ fullwidth: true
     <div class="content-wrapper">
         <div class="content__left">
             <a href="/life-as-a-teacher/my-story-into-teaching/returners" class="call-to-action-button stories-call-to-action">
-                Read all returning to teaching<span> stories</span>
+                Read all stories about returning to teaching
             </a>
         </div>
     </div>
