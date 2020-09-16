@@ -61,7 +61,7 @@ If you’re an experienced teacher from any other country, you may be able to ge
   <li><span>getting used to living in the UK</span></li>
   <li><span>professional development</span></li>
 </ul>
-<p>You may be eligible for this programme if you're from on of the following countries:
+<p>You may be eligible for this programme if you're from one of the following countries:
 </p>
 <ul>
 <li><span>Australia</span></li>
@@ -74,7 +74,7 @@ If you’re an experienced teacher from any other country, you may be able to ge
 <li><span>Spain</span></li>
 <li><span>United States of America</span></li>
 </ul>
-<p>And also qualified to teach on of these subjects:</p>
+<p>And also qualified to teach on one of these subjects:</p>
 <ul>
 <li><span>Computer Science</span></li>
 <li><span>General Science</span></li>
@@ -114,7 +114,7 @@ To find out if you need to apply for a visa:
 </p>
 <ul>
 <li><span>contact the school that will be employing you</span></li>
-<li><span>read the UK governemtn's guidance on work visas</span></li>
+<li><span>read the UK government guidance on work visas</span></li>
 </ul>
 
 <p>If your teaching role starts after 1 January 2021 and you’re from outside the UK, including the EEA, you may need to apply for a visa under the UK’s new immigration system.
@@ -141,7 +141,7 @@ If your teacher training course starts after 1 January 2021 and you’re a gradu
 To find out if you will need to apply for a visa:
 </p>
 <ul>
-<li><span>contact the school or univeristy you want to train with</span></li>
+<li><span>contact the school or university you want to train with</span></li>
 <li><span>read the UK government's guidance on the <a href="https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know"  target="_blank" rel="noopener noreferrer">new immigration system<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a> and the <a href="https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#eu-citizens-living-in-the-uk-by-31-december-2020"  target="_blank" rel="noopener noreferrer">EU settlement scheme<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a></span></li>
