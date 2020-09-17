@@ -42,7 +42,7 @@ window)</span><i class="icon icon-external"></i></a> aimed at reducing teacher w
 window)</span><i class="icon icon-external"></i></a> so that schools with exemplary behaviour can work closely with schools that want to improve behaviour.</p>
       <br/>
   </li>
-    <li><span>Introduce flexible working</span>
+    <li><span>Increase the offer of flexible working</span>
       <p>There are opportunities for teachers to <a href="https://www.gov.uk/government/collections/flexible-working-resources-for-teachers-and-schools"  target="_blank" rel="noopener noreferrer">work flexibly<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>.
     You can search for jobs with flexible working patterns by using <a href="https://teaching-vacancies.service.gov.uk/"  target="_blank" rel="noopener noreferrer">Teaching Vacancies<span class="govuk-visually-hidden">(Link opens in new
