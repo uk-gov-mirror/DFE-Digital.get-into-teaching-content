@@ -66,7 +66,7 @@ window)</span><i class="icon icon-external"></i></a></li>
   
 <h3>Information technology</h3>
 
-<p>You can find out how up to date your information and communication technologies (ICT) skills are by completing an ICT skills audit (PDF, 158KB).</p>
+<p>You can find out how up to date your information and communication technologies (ICT) skills are by completing an <a href="/assets/documents/ICT_skills_audit_returners.pdf" target="_blank">ICT skills audit</a> (PDF, 158KB).</p>
 
 <h3>National Tutoring Programme</h3>
 
@@ -78,7 +78,7 @@ window)</span><i class="icon icon-external"></i></a></p>.
 <h3>Useful resources</h3>
 
 <ul>
-  <li><a href="http://itte.org.uk/wp/"  target="_blank" rel="noopener noreferrer">Association for Information Technology in Initial Teacher Training<span class="govuk-visually-hidden">(Link opens in new
+  <li><a href="https://tpea.ac.uk/"  target="_blank" rel="noopener noreferrer">Technology Pedagogy and Education Association<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a></li>
   <li><a href="https://www.learndirect.com/"  target="_blank" rel="noopener noreferrer">learndirect<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a> offers courses in basic ICT skills</li>
