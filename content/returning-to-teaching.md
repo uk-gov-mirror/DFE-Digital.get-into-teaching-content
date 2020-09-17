@@ -134,7 +134,7 @@ window)</span><i class="icon icon-external"></i></a>, or follow them on Twitter 
 window)</span><i class="icon icon-external"></i></a>.</p>
 
 <h3>Specialist help for returning maths teachers</h3>
-<p>The <a href="https://www.ncetm.org.uk/ncetm/benefits-of-registering"  target="_blank" rel="noopener noreferrer">National Centre for the Excellence in the Teaching of Mathematics (NCETM)</a> offers <a href="https://www.ncetm.org.uk/in-the-classroom/"  target="_blank" rel="noopener noreferrer"> teaching resources<span class="govuk-visually-hidden">(Link opens in new
+<p>The <a href="https://www.ncetm.org.uk/news-features/" target="_blank" rel="noopener noreferrer">National Centre for the Excellence in the Teaching of Mathematics (NCETM)</a> offers <a href="https://www.ncetm.org.uk/in-the-classroom/"  target="_blank" rel="noopener noreferrer"> teaching resources<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a> around the maths you will be teaching.</p>
 
 <h3>Further information and support</h3>
