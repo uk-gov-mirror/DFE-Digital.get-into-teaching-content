@@ -11,21 +11,53 @@ navigation: 40
 
 <h2>Teacher salaries</h2>
 
-<p>As a newly qualified teacher you’ll earn £24,373.</p>
+Schools develop their own pay policies to attract and retain teachers that have the greatest impact on their pupils' learning. What you're paid will be linked to performance, not length of service - meaning your salary can move forward in line with your career.
 
-<p>This could be up to £30,480 if you work in inner London.</p>
+<h2>Unqualified teachers </h2>
+<p>As an unqualified teacher you could earn between £17,682 and £32,515 depending on where you teach and your level of experience.</p>
+<ul>
+  <li>England and Wales (excluding London and fringes) - between £17,682 and £27,965</li>
+  <li>Inner London - between £22,237 and £32,515</li>
+  <li>Outer London - between £21,004 and £31,290</li>
+  <li>London fringe - between £18,844 and £29,123 </li>
+</ul>
+  
+<h2>Qualified teachers</h2>  
 
-<h2>Experienced teachers</h2>
+<p>As a newly qualified teacher you could earn between £24,373 and £30,480 depending on where you teach.</p>
+<p>As you progress in your teaching career, it's possible to move up through these pay ranges:</p>
 
-<p>When you have experience you could earn between £35,971 to £40,490. This could be up to £49,571 if you work in inner London.</p>
+<ul>
+  <li>England and Wales (excluding London and fringes) - between £24,373 and £35,971</li>
+  <li>Inner London - between £30,480 and £49,571</li>
+  <li>Outer London - between £28,355 and £44,541</li>
+  <li>London fringe - between £25,543 and £41,635 </li>
+</ul>
+
+
+
 
 <h2>Leading practitioners</h2>
 
-<p>Lead practitioners share their skills with other teachers. In this role you will earn between £41,267 and £62,735. This could be up to £70,540 if you work in inner London.</p>
+<p>Leading practitioners share their skills with other teachers. In this role you could earn between £41,267 and £70,540 depending on where you teach.</p>
+<ul>
+  <li>England and Wales (excluding London and fringes) - between £41,267 and £62,735</li>
+  <li>Inner London - between £49,065 and £70,540</li>
+  <li>Outer London - between £44,541 and £66,012</li>
+  <li>London fringe - between £42,403 and £63,874 </li>
+</ul>
+
 
 <h2>Headteachers</h2>
 
-<p>Headteachers lead, motivate and manage staff. In this role you will earn between £46,357 to £114,060. This could be up to £121,749 if you work in inner London.</p>
+<p>Headteachers lead, motivate and manage staff. In this role you will earn between £46,457 to £114,060 depending on where you teach.</p>
+
+<ul>
+  <li>England and Wales (excluding London and fringes) - between £46,457 and £114,060</li>
+  <li>Inner London - between £54,223 and £121,749</li>
+  <li>Outer London - between £49,714 and £117,287</li>
+  <li>London fringe - between £47,592 and £115,188 </li>
+</ul>
 
 
 
@@ -39,11 +71,21 @@ navigation: 40
 
   <ul>
   <li><span>complete a non-salaried teacher training course in chemistry, modern foreign languages, maths or physics</span></li>
-  <li><span>receive a bursary or scholarship in the academic year 2020/21</span></li>
   <li><span>teach in a state-funded school in England after finishing your teacher training course</span></li>
   </ul>
 
 <p>You’ll get 3 additional early-career payments of £2,000 each in your second, third and fourth year of teaching. You may get £3,000 each year if you teach in certain areas. <a href="https://www.gov.uk/guidance/early-career-payments-guidance-for-teachers-and-schools" target="_blank" rel="noopener noreferrer">Find out more about early-career payments<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>.</p>
+
+<h3>Teaching and learning responsibility (TLR) payments</h3>
+<p>If you take on extra ongoing responsibilities in your role, you could get a salary uplift.</p>
+<p>There are two main ranges for these (TLR 1 and TLR 2), depending on the category your duties come under:</p>
+<ul>
+  <li>TLR 1 £8,069 - £13,654</li>
+  <li>TLR 2 £6,829 - £2,796</li>
+  </ul>
+  
+  
+
 
 <h3>Claim back student loan repayments</h3>
 
@@ -57,6 +99,9 @@ navigation: 40
   <li><span>computing</span></li>
   </ul>
   
+  <h3>Holidays</h3>
+  <p>You'll get more days than people in many other professions. Full-time teachers work for 195 days per year in school.</p>
+  
   
 
 
@@ -67,7 +112,7 @@ navigation: 40
 
   <ul>
   <li><span>based on your salary and service rather than investments</span></li>
-  <li><span>registered with HM Revenue and Customs - so you don’t pay tax on contributions</span></li>
+  <li><span>registered with HM Revenue and Customs - so your contributions are tax-free</span></li>
   <li><span>flexible and allows you to take some of it as a tax-free lump sum</span></li>
   </ul>
 
