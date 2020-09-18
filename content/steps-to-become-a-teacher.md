@@ -130,11 +130,11 @@ navigation: 20
         Once you have decided that you want to train to become a teacher and have the necessary qualifications you’ll need to 
         <a href="https://qa.apply-for-teacher-training.education.gov.uk/candidate" target="_blank" rel="noopener noreferrer">prepare your application<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>using the following steps:
       </p>
-      <ul>
+  <ul>
         <li><span><span><a href="https://www.gov.uk/find-postgraduate-teacher-training-courses" target="_blank" rel="noopener noreferrer">choose your course<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></span></span></li>
         <li><span><span>write a personal statement</span></span></li>
         <li><span><span>get two references</span></span></li>
-        <li><span><span><a href="https://qa.apply-for-teacher-training.education.gov.uk/candidate" target="_blank" rel="noopener noreferrer">apply for teacher training<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></span></span></li>
+        <li>apply for teacher training either through UCAS, or by using the <span><span><a href="https://qa.apply-for-teacher-training.education.gov.uk/candidate" target="_blank" rel="noopener noreferrer">Apply for teacher training service <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></span></span></li>
       </ul>
     </div>
   </div>
