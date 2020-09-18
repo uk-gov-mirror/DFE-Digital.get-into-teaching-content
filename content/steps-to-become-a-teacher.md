@@ -136,6 +136,8 @@ navigation: 20
         <li><span><span>get two references</span></span></li>
         <li>apply for teacher training either through UCAS, or by using the <span><span><a href="https://qa.apply-for-teacher-training.education.gov.uk/candidate" target="_blank" rel="noopener noreferrer">Apply for teacher training service <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></span></span></li>
       </ul>
+  
+  <p>You can get help preparing your application by signing up to the <a href="https://beta-adviser-getintoteaching.education.gov.uk/">Get an adviser</a> service.</p>
     </div>
   </div>
 </div>
