@@ -34,7 +34,7 @@ backlink: "../../"
 <h2 id="international-teacher-training-applicants">International teacher training applicants</h2>
   <p>As well as teacher training, you can also consider the <a href="https://researchersinschools.org/about/maths-and-physics-chairs-programme/"  target="_blank" rel="noopener noreferrer">Maths and Physics Chairs Programme<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a> or Teach First.</p>
-  <p>Call Get into Teaching on Freephone 0800 389 2500 for advice. They can also give you a free UK National Recognition Information Centre (UK NARIC) statement to show what your qualifications are equivalent to in the UK.</p>
+  <p>Call Get into Teaching on Freephone <a href="tel:08003892501">0800 389 2501</a> for advice. They can also give you a free UK National Recognition Information Centre (UK NARIC) statement to show what your qualifications are equivalent to in the UK.</p>
   
   <p><a href="#top">Back to top</a></p>
   
