@@ -79,7 +79,7 @@ window)</span><i class="icon icon-external"></i></a>.</p>
 
 <p><a href="/international-candidates#funding">Read about funding for international students</a>.</p>
 
-<p>If you come from outside England, you can get advice about training to be a teacher by using the <a href="https://beta-adviser-getintoteaching.education.gov.uk/" target="_blank" rel="noopener noreferrer">Get an adviser</a> service.</p>
+<p>If you come from outside England, you can get advice about training to be a teacher by using the online chat or Freephone number at the bottom of this page.</p>
 
 </div>
 
