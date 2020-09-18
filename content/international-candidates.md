@@ -170,7 +170,7 @@ If you’re an EU national starting a teacher training course in the academic ye
 Your tuition fees may be higher than fees for UK or EU/EEA students. Contact the university or training provider you want to train with to find out how much your fees will cost.
 </p>
 <p>
-Get advice about training to be a teacher if you live outside the UK, EU/EEA by using the Sign up to talk to a teacher training adviser service.
+Get advice about training to be a teacher if you live outside the UK, EU/EEA by using the online chat or Freephone number at the bottom of this page.
 </p>
 <p>
 There may be financial support available, but this will depend on your status as a home, EU/EEA or overseas student. Find out more from the <a href="https://www.ukcisa.org.uk/"  target="_blank" rel="noopener noreferrer">UK Council for International Student Affairs<span class="govuk-visually-hidden">(Link opens in new
