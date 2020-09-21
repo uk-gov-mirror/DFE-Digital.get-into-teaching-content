@@ -11,7 +11,7 @@ navigation: 40
 
 <h2>Teacher salaries</h2>
 
-Schools develop their own pay policies to attract and retain teachers that have the greatest impact on their pupils' learning. What you're paid will be linked to performance, not length of service - meaning your salary can move forward in line with your career.
+<p>Schools develop their own pay policies to attract and retain teachers that have the greatest impact on their pupils' learning. What you're paid will be linked to performance, not length of service - meaning your salary can move forward in line with your career.</p>
 
 <h2>Unqualified teachers </h2>
 <p>As an unqualified teacher you could earn between £17,682 and £32,515 depending on where you teach and your level of experience.</p>
