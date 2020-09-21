@@ -16,7 +16,7 @@ backlink: "../"
         For more information about the government response to coronavirus (COVID-19), please visit <a href="https://www.gov.uk/coronavirus">GOV.UK</a>.
     </p>
     <p>
-        If you have another question, not covered here, please <a href="https://getintoteaching.education.gov.uk#talk-to-us" target="_blank" rel="noopener noreferrer">get in touch</a>.
+        If you have another question, not covered here, please <a href="https://beta-getintoteaching.education.gov.uk/#talk-to-us" target="_blank" rel="noopener noreferrer">get in touch</a>.
     </p>
     <p>
         If you are an ITT provider, and have further urgent questions, please <a href="mailto:DfE.coronavirushelpline@education.gov.uk">email our dedicated COVID-19 inbox</a>.
@@ -55,7 +55,7 @@ window)</span><i class="icon icon-external"></i></a>.</p>
  <p>***</p>
        <p> For more information about the government response to coronavirus (COVID-19), please visit <a href="https://www.gov.uk/coronavirus" target="_blank" rel="noopener noreferrer">GOV.UK<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>.</p>
-        <p>If you have another question, not covered here, please <a href="https://getintoteaching.education.gov.uk#talk-to-us" target="_blank" rel="noopener noreferrer">get in touch<span class="govuk-visually-hidden">(Link opens in new
+        <p>If you have another question, not covered here, please <a href="https://beta-getintoteaching.education.gov.uk/#talk-to-us" target="_blank" rel="noopener noreferrer">get in touch<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>.</p>
         <p>We have been working closely across government to <a href="https://www.gov.uk/government/publications/coronavirus-covid-19-initial-teacher-training-itt" target="_blank" rel="noopener noreferrer">develop guidance on COVID-19<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a> and its impact on Initial Teacher Training, and the <a href="https://www.gov.uk/government/publications/initial-teacher-training-criteria" target="_blank" rel="noopener noreferrer"> amended ITT criteria<span class="govuk-visually-hidden">(Link opens in new
