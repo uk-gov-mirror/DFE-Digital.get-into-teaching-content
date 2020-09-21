@@ -51,7 +51,7 @@ window)</span><i class="icon icon-external"></i></a>.</p>
 <p>Further information is available if you are affected by <a href="https://www.gov.uk/government/collections/coronavirus-covid-19-immigration-and-borders" target="_blank" rel="noopener noreferrer">changes to UK immigration and borders due to coronavirus (COVID-19)<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i>.</p>
     
- ***
+ <p>***</p>
        <p> For more information about the government response to coronavirus (COVID-19), please visit <a href="https://www.gov.uk/coronavirus" target="_blank" rel="noopener noreferrer">GOV.UK<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>.</p>
         <p>If you have another question, not covered here, please <a href="https://getintoteaching.education.gov.uk#talk-to-us" target="_blank" rel="noopener noreferrer">get in touch<span class="govuk-visually-hidden">(Link opens in new
