@@ -48,8 +48,9 @@ window)</span><i class="icon icon-external"></i></a>.</p>
         <p>You should check your country’s advice as well as the UK's advice to keep up to date with travel restrictions and self-isolation requirements. The UK government has also published guidance about <a href="https://www.gov.uk/guidance/coronavirus-covid-19-advice-for-uk-visa-applicants-and-temporary-uk-residents#outside-uk" target="_blank" rel="noopener noreferrer">what to do if you need a visa to travel to the UK<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a> and has a coronavirus immigration <a href="https://www.gov.uk/guidance/coronavirus-covid-19-advice-for-uk-visa-applicants-and-temporary-uk-residents#helpline" target="_blank" rel="noopener noreferrer">help centre<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>.</p>
+
 <p>Further information is available if you are affected by <a href="https://www.gov.uk/government/collections/coronavirus-covid-19-immigration-and-borders" target="_blank" rel="noopener noreferrer">changes to UK immigration and borders due to coronavirus (COVID-19)<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i>.</p>
+    window)</span><i class="icon icon-external"></i></a>.</p>
     
  <p>***</p>
        <p> For more information about the government response to coronavirus (COVID-19), please visit <a href="https://www.gov.uk/coronavirus" target="_blank" rel="noopener noreferrer">GOV.UK<span class="govuk-visually-hidden">(Link opens in new
