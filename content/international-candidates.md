@@ -33,7 +33,7 @@ backlink: "../../"
   
 <h2 id="international-teacher-training-applicants">International teacher training applicants</h2>
   
-  <p>If all or part of your qualifications are from outside the UK, you should contact the schools or universities you would like to train with, as they make the final decision if your qualifications meet the minimum requirements -  you may be asked to formally recognise any overseas qualifications through UK NARIC. We can help you with this. Contact us on <a href="tel:0800 389 2500">0800 389 2500</a>.</p>
+  <p>If all or part of your qualifications are from outside the UK, you should contact the schools or universities you would like to train with, as they make the final decision if your qualifications meet the minimum requirements -  you may be asked to formally recognise any overseas qualifications through UK NARIC. We can help you with this. Contact us on <a href="tel:0800 389 2501">0800 389 2501</a>.</p>
   
   <p>As well as teacher training, you can also consider the <a href="https://researchersinschools.org/about/maths-and-physics-chairs-programme/"  target="_blank" rel="noopener noreferrer">Maths and Physics Chairs Programme<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a> or Teach First.</p>
