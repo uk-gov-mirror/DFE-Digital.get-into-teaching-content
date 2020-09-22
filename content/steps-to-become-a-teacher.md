@@ -125,7 +125,7 @@ navigation: 20
 
   <button class="steps-header" id="step-5" data-action="click->accordion#toggle" data-target="accordion.header" aria-controls="collapsable-content-5" aria-expanded="false">
       <h2>
-        4. Application process
+        5. Application process
       </h2>
     </button>
     <div id="collapsable-content-5" class="steps-content collapsable" data-target="accordion.content">
