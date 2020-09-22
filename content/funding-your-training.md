@@ -13,7 +13,7 @@ navigation: 10
       <li><a href="#bursaries-and-scholarships">Bursaries and scholarships</a></li>
       <li><a href="#get-student-finance">Get student finance</a></li>
       <li><a href="#get-financial-help-if-youre-a-parent-a-carer-or-you-have-a-disability">Get extra funding if you’re a parent, a carer or you have a disability</a></li>
-      <li><a href="#applying-for-funding-if-you-live-outside-england">Applying for funding if you live outside England</a></li>
+      <li><a href="#applying-for-funding-if-you-live-outside-england">Applying for funding if you come from outside England</a></li>
     </ul>
   </div>
 </div>
