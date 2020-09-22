@@ -77,23 +77,25 @@ navigation: 20
         <a href="../funding-your-training">Find out more about funding</a> you could get. 
       </p>
     </div>
-    <button class="steps-header" id="step-3" data-action="click->accordion#toggle" data-target="accordion.header" aria-controls="collapsable-content-3" aria-expanded="false">
+
+  <button class="steps-header" id="step-3" data-action="click->accordion#toggle" data-target="accordion.header" aria-controls="collapsable-content-3" aria-expanded="false">
       <h2>
-        3. Ways to train
+        3. Consider School Experience
       </h2>
     </button>
     <div id="collapsable-content-3" class="steps-content collapsable" data-target="accordion.content">
-    <h3>Get school experience</h3>
   <p>Before you commit to a teacher training course, you might like to get some valuable experience in a school and find out what it’s really like to become a teacher.</p>  
   
-
-  <!--<a href="steps-to-become-a-teacher/school-experience">Find out more about school experience</a>-->
   
-  <a href="https://schoolexperience.education.gov.uk/" target="_blank" rel="noopener noreferrer">Find out more about school experience<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>
+  <a href="https://schoolexperience.education.gov.uk/" target="_blank" rel="noopener noreferrer">Find out more about school experience<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>      
+   </div>
 
-  <h3>Find your way to train</h3>
-
-  <!--<p>To work as a teacher in state schools in England, you’ll need ‘Qualified Teacher Status’ (QTS).</p>-->
+  <button class="steps-header" id="step-4" data-action="click->accordion#toggle" data-target="accordion.header" aria-controls="collapsable-content-4" aria-expanded="false">
+      <h2>
+        4. Ways to train
+      </h2>
+    </button>
+    <div id="collapsable-content-4" class="steps-content collapsable" data-target="accordion.content">
 
   <p>You’ll need to make some key decisions about teaching before you decide how to train:</p>
 
@@ -120,12 +122,13 @@ navigation: 20
       
       
    </div>
-    <button class="steps-header" id="step-4" data-action="click->accordion#toggle" data-target="accordion.header" aria-controls="collapsable-content-4" aria-expanded="false">
+
+  <button class="steps-header" id="step-5" data-action="click->accordion#toggle" data-target="accordion.header" aria-controls="collapsable-content-5" aria-expanded="false">
       <h2>
         4. Application process
       </h2>
     </button>
-    <div id="collapsable-content-4" class="steps-content collapsable" data-target="accordion.content">
+    <div id="collapsable-content-5" class="steps-content collapsable" data-target="accordion.content">
       <p>
         Once you have decided that you want to train to become a teacher and have the necessary qualifications you’ll need to 
         <a href="https://qa.apply-for-teacher-training.education.gov.uk/candidate" target="_blank" rel="noopener noreferrer">prepare your application<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>using the following steps:
