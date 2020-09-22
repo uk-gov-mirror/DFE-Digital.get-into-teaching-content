@@ -83,7 +83,7 @@ backlink: "../../"
         </div>
         <div class="more-stories__thumbs__thumb">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-progression/nqt-to-head-of-biology">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-sarah.jpg')"></div>
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-sarah-f.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
                 <p>NQT to Head of Biology</p>
