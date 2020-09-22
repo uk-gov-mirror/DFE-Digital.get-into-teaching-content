@@ -30,9 +30,7 @@ backlink: "../../"
                 <div class="quote-block">
                     <span class="icon-quote"></span>
                  <strong class="quote-block__content">There’s an open field of play, due to the fact that wherever you are, there’s always a school nearby offering opportunities.<span class="icon-quote quote-close"></span></strong>
-             
-            
-              
+                </div>      
 <h3>The best bit</h3>
                <p>Results day is when you see the outcome of all the teaching and hard work, and seeing the next generation of scientists, engineers and doctors is incredibly rewarding.
                 </p>
