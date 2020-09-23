@@ -4,8 +4,6 @@ image: "/assets/images/salaries-hero-dt.jpg"
 backlink: "../../"
 navigation: 40
 ---
-<div class="content__right">
-</div>
 
 <div class="content__left">
 

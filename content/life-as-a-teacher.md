@@ -66,6 +66,3 @@ window)</span><i class="icon icon-external"></i></a>.</p>
   <p>This is part of government’s commitment to transform support for early career teachers.</p>
   
 </div>
-
-<div class="content__right">
-</div>

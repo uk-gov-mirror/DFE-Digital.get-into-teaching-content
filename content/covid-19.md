@@ -4,9 +4,6 @@ image: false
 backlink: "../"
 ---
 
-<div class="content__right">
-
-</div>
 
 <div class="content__left">
     <h1>Impact of COVID-19 on teacher training</h1>

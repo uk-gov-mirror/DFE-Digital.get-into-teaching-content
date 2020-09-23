@@ -157,5 +157,3 @@ backlink: "../../"
 
 </div>
 
-<div class="content__right">
-</div>

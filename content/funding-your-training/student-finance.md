@@ -25,6 +25,3 @@ backlink: "../../"
 <p>Use the <a href="https://www.gov.uk/student-finance-calculator"  target="_blank" rel="noopener noreferrer">student finance calculator on GOV.UK<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a> to find out how much you can get.</p>
 
 </div>
-
-<div class="content__right">
-</div>

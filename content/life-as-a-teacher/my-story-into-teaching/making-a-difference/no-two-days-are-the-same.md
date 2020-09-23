@@ -5,8 +5,6 @@ backlink: "../../"
 ---
 
 <div class="content-wrapper">
-    <div class="content__right">
-    </div>
     <div class="content__left">
       <div class="stories">
         <p><a class="backlink backlink--top" href="/life-as-a-teacher/my-story-into-teaching/making-a-difference">Stories about making a difference</a></p>

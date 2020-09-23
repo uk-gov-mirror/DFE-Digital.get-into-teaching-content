@@ -3,8 +3,6 @@ title: "Returning to teaching"
 image: "/assets/images/return-to-teaching-dt.jpg"
 backlink: "../../"
 ---
-<div class="content__right">
-</div>
 
 <div class="content__left">
   

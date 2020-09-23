@@ -5,8 +5,6 @@ backlink: "../../"
 ---
 
 <div class="content-wrapper">
-    <div class="content__right">
-    </div>
     <div class="content__left">
         <div class="stories">
             <p>
@@ -40,14 +38,7 @@ backlink: "../../"
 
 <p>This particular pupil went on to study A levels at the school, with her top GCSE grade providing a major confidence boost.</p> 
 
-<p>Once she got her A*, it gave her everything she needed to see that she could achieve anything. When she got her results, she spoke to me and said, ‘It was your teaching style and it was you who made that possible. You’ve given me the time and energy to help me get what I needed to get.’ That was just a phenomenal experience</p>.
-
-
-
-
-
-
-
+<p>Once she got her A*, it gave her everything she needed to see that she could achieve anything. When she got her results, she spoke to me and said, ‘It was your teaching style and it was you who made that possible. You’ve given me the time and energy to help me get what I needed to get.’ That was just a phenomenal experience.</p>
    </div>
     </div>
 </div>
