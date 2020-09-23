@@ -73,7 +73,7 @@ jobs:
              TF_VAR_HTTPAUTH_PASSWORD: ""
              TF_VAR_HTTPAUTH_USERNAME: ""
              TF_VAR_RAILS_MASTER_KEY:  "${{ secrets.RAILS_MASTER_KEY_PRODUCTION }}"
-             TF_VAR_RAILS_ENV:         "Production"
+             TF_VAR_RAILS_ENV:         "production"
 
        - name: Terraform Apply
          run: |
