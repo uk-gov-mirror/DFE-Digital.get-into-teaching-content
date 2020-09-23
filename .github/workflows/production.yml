@@ -72,8 +72,8 @@ jobs:
              ARM_ACCESS_KEY:           "${{ secrets.PROD_ARM_ACCESS_KEY  }}"
              TF_VAR_HTTPAUTH_PASSWORD: ""
              TF_VAR_HTTPAUTH_USERNAME: ""
-             TF_VAR_RAILS_MASTER_KEY:  "${{ secrets.RAILS_MASTER_KEY_USERRESEARCH }}"
-             TF_VAR_RAILS_ENV:         "userresearch"
+             TF_VAR_RAILS_MASTER_KEY:  "${{ secrets.RAILS_MASTER_KEY_PRODUCTION }}"
+             TF_VAR_RAILS_ENV:         "Production"
 
        - name: Terraform Apply
          run: |
