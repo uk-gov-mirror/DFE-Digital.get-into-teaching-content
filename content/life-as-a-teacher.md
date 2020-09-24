@@ -17,9 +17,9 @@ navigation: 30
   <p>In addition to the day job you can get involved in after-school activities, clubs, trips or sport.</p>
 
   <p>
-    <a class="content-link-secondary" href='/life-as-a-teacher/my-story-into-teaching'>My story into teaching <i class="fas fa-chevron-right"></i></a>
+    <a class="content-link-secondary" href='/life-as-a-teacher/my-story-into-teaching'>My story into <span>teaching</span></a>
     <br/><br/>
-    <a class="content-link-secondary" href='/life-as-a-teacher/teachers-salaries-and-benefits'>Salaries and other financial benefits <i class="fas fa-chevron-right"></i></a>
+    <a class="content-link-secondary" href='/life-as-a-teacher/teachers-salaries-and-benefits'>Salaries and other financial <span>benefits</span></a> 
   </p>
 
   <h2>Career progression</h2>
