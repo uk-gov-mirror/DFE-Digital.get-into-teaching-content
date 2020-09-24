@@ -11,14 +11,7 @@ navigation: 40
 
 <p>Schools develop their own pay policies to attract and retain teachers that have the greatest impact on their pupils' learning. What you're paid will be linked to performance, not length of service - meaning your salary can move forward in line with your career.</p>
 
-<h2>Unqualified teachers </h2>
-<p>As an unqualified teacher you could earn between £17,682 and £32,515 depending on where you teach and your level of experience.</p>
-<ul>
-  <li>England and Wales (excluding London and fringes) - between £17,682 and £27,965</li>
-  <li>Inner London - between £22,237 and £32,515</li>
-  <li>Outer London - between £21,004 and £31,290</li>
-  <li>London fringe - between £18,844 and £29,123 </li>
-</ul>
+
   
 <h2>Qualified teachers</h2>  
 
@@ -55,6 +48,15 @@ navigation: 40
   <li>Inner London - between £54,223 and £121,749</li>
   <li>Outer London - between £49,714 and £117,287</li>
   <li>London fringe - between £47,592 and £115,188 </li>
+</ul>
+
+<h2>Unqualified teachers </h2>
+<p>As an unqualified teacher you could earn between £17,682 and £32,515 depending on where you teach and your level of experience.</p>
+<ul>
+  <li>England and Wales (excluding London and fringes) - between £17,682 and £27,965</li>
+  <li>Inner London - between £22,237 and £32,515</li>
+  <li>Outer London - between £21,004 and £31,290</li>
+  <li>London fringe - between £18,844 and £29,123 </li>
 </ul>
 
 
