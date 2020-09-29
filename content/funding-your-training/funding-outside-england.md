@@ -30,6 +30,3 @@ backlink: "../../"
 <p>There may be financial support available, but this will depend on your status as a home, EU/EEA or overseas student. Find out more from the UK Council for International Student Affairs.</p>
 
 </div>
-
-<div class="content__right">
-</div>

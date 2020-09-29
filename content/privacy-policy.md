@@ -4,10 +4,6 @@ image: false
 backlink: "../"
 ---
 
-<div class="content__right">
-
-</div>
-
 <div class="content__left">
 <br/><br/>
     <h2>Privacy Policy</h2>

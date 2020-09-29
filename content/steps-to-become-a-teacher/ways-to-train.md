@@ -9,8 +9,8 @@ backlink: "../"
     <h2 class="link-block__header">Related Content:</h2>
     <ul class="link-block__list">
       <li><span><a href="school-experience">School experience</a></span></li> 
-     <li><span><a href="../guidance#5" target="_blank">Ways to train</a></span></li>
-     <li><span><a href="../guidance#teaching-children-with-special-educational-needs-and-or-disabilities-SEND" target="_blank">Teaching children with special education needs and/or disabilities (SEND)</a></span></li>
+     <li><span><a href="../guidance#5"  target="_blank" rel="noopener noreferrer">Ways to train</a></span></li>
+     <li><span><a href="../guidance#teaching-children-with-special-educational-needs-and-or-disabilities-SEND"  target="_blank" rel="noopener noreferrer">Teaching children with special education needs and/or disabilities (SEND)</a></span></li>
     </ul>
   </div>
 </div>
@@ -49,7 +49,7 @@ backlink: "../"
       <li><span>be able to move from a school placement if it doesn’t suit you</span></li>
     </ul>
     <p>
-      <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses" target="_blank">Find a teacher training course</a>
+      <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses"  target="_blank" rel="noopener noreferrer">Find a teacher training course<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>
     </p>
     <h1 id="train-in-a-school">Train in a school</h1>
     <p>
@@ -66,7 +66,7 @@ backlink: "../"
       <li><span>get a job in the network of schools where you’ve trained</span></li>
     </ul>
     <p>
-      <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses" target="_blank">Find a teacher training course</a>
+      <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses"  target="_blank" rel="noopener noreferrer">Find a teacher training course<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>
     </p>
     <p>
       There are some other <a href="/steps-to-become-a-teacher/if-you-need-to-get-the-right-qualifications#specialist-ways-to-get-into-teaching">specialist training options</a> to get into teaching. These include:</p>

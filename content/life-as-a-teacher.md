@@ -17,15 +17,16 @@ navigation: 30
   <p>In addition to the day job you can get involved in after-school activities, clubs, trips or sport.</p>
 
   <p>
-    <a class="content-link-secondary" href='/life-as-a-teacher/my-story-into-teaching'>My story into teaching <i class="fas fa-chevron-right"></i></a>
+    <a class="content-link-secondary" href='/life-as-a-teacher/my-story-into-teaching'>My story into <span>teaching</span></a>
     <br/><br/>
-    <a class="content-link-secondary" href='/life-as-a-teacher/teachers-salaries-and-benefits'>Salaries and other financial benefits <i class="fas fa-chevron-right"></i></a>
+    <a class="content-link-secondary" href='/life-as-a-teacher/teachers-salaries-and-benefits'>Salaries and other financial <span>benefits</span></a> 
   </p>
 
   <h2>Career progression</h2>
   <p>Training to be a teacher will give you the opportunities to add to your professional skills and help you achieve your ambitions.</p>
 
-  <p>The Department for Education (DfE) has made it easier to find a teaching role in England, by using the <a href="https://teaching-vacancies.service.gov.uk/" target="_blank">Teaching Vacancies service</a>.</p>
+  <p>The Department for Education (DfE) has made it easier to find a teaching role in England, by using the <a href="https://teaching-vacancies.service.gov.uk/"  target="_blank" rel="noopener noreferrer">Teaching Vacancies service<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>.</p>
 
   <h2>Leadership</h2>
   <p>Leadership roles in a school can offer a number of different opportunities, from taking charge of a year group or a particular key stage; to becoming a deputy or headteacher.</p>
@@ -41,7 +42,8 @@ navigation: 30
   <p>If you’re interested in the welfare of students throughout their education, a pastoral role might be for you. You could also take on the role of a mentor for young people with special educational needs.</p>
 
   <h2>Early Career Framework</h2>
-  <p>The Department for Education has developed a 2 year package to support new teachers at the start of their career, based on the <a href="https://www.gov.uk/government/publications/supporting-early-career-teachers" target="_blank">Early Career Framework</a>.</p>
+  <p>The Department for Education has developed a 2 year package to support new teachers at the start of their career, based on the <a href="https://www.gov.uk/government/publications/supporting-early-career-teachers"  target="_blank" rel="noopener noreferrer">Early Career Framework<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>.</p>
 
   <p>The Early Career Framework was designed with an expert advisory group to support early career teacher development.</p>
 
@@ -63,7 +65,4 @@ navigation: 30
 
   <p>This is part of government’s commitment to transform support for early career teachers.</p>
   
-</div>
-
-<div class="content__right">
 </div>

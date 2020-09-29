@@ -9,8 +9,8 @@ backlink: "../"
     <h2 class="link-block__header">Related Content:</h2>
     <ul class="link-block__list">
       <li><span><a href="school-experience">School experience</a></span></li>
-      <li><span><a href="../guidance#5" target="_blank">Ways to train</a></span></li>
-      <li><span><a href="../guidance#teaching-children-with-special-educational-needs-and-or-disabilities-SEND" target="_blank">Teaching children with special education needs and/or disabilities (SEND)</a></span></li>
+      <li><span><a href="../guidance#5"  target="_blank" rel="noopener noreferrer">Ways to train</a></span></li>
+      <li><span><a href="../guidance#teaching-children-with-special-educational-needs-and-or-disabilities-SEND"  target="_blank" rel="noopener noreferrer">Teaching children with special education needs and/or disabilities (SEND)</a></span></li>
     </ul>
   </div>
 </div>
@@ -33,10 +33,10 @@ backlink: "../"
       Your experience can help you decide whether teaching is right for you.
     </p>
     <p>
-      Use the <a href="https://schoolexperience.education.gov.uk" target="_blank">Get school experience</a> service.
+      Use the <a href="https://schoolexperience.education.gov.uk"  target="_blank" rel="noopener noreferrer">Get school experience<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a> service.
     </p>
     <p>
-      Do a <a href="https://www.gov.uk/guidance/paid-internships-for-teaching" target="_blank">teaching internship</a> if you’re a STEM-related degree student.
+      Do a <a href="https://www.gov.uk/guidance/paid-internships-for-teaching"  target="_blank" rel="noopener noreferrer">teaching internship<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a> if you’re a STEM-related degree student.
     </p>
     <p>
       * STEM stands for science, technology, engineering and mathematics and refers to any subjects that come under these four areas.

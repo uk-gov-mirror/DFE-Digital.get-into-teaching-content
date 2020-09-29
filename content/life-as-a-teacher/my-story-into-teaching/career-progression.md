@@ -6,8 +6,6 @@ hide_page_helpful_question: true
 ---
 
 <div class="content-wrapper">
-    <div class="content__right">
-    </div>
     <div class="content__left">
         <p>
             <a class="backlink" href="/life-as-a-teacher/my-story-into-teaching">All stories</a>
