@@ -29,7 +29,7 @@ backlink: "../../"
     <li><span>travelling to the UK</span></li>
   </ul>
 
-  <p>Read the <a href="https://beta-getintoteaching.education.gov.uk/guidance#10" target="_blank">UK government guidance on teaching in England as an international candidate</a> for more information.</p>
+  <p>Read the <a href="https://beta-getintoteaching.education.gov.uk/guidance#10"  target="_blank" rel="noopener noreferrer">UK government guidance on teaching in England as an international candidate</a> for more information.</p>
 
   <h2 id="international-teacher-training-applicants">International teacher training applicants</h2>
   <h3>If you have an overseas degree</h3>
@@ -44,7 +44,7 @@ backlink: "../../"
 
   <h2 id="international-qualified-teachers">International qualified teachers</h2>
 
-  <p>If you're an international qualified teacher looking to teach in England, you may need to gain <a href="https://www.gov.uk/government/collections/qualified-teacher-status-qts" target="_blank">Qualified Teacher Status(QTS)</a> depending on the type of school you want to teach in.</p>
+  <p>If you're an international qualified teacher looking to teach in England, you may need to gain <a href="https://www.gov.uk/government/collections/qualified-teacher-status-qts"  target="_blank" rel="noopener noreferrer">Qualified Teacher Status(QTS)</a> depending on the type of school you want to teach in.</p>
 
   <p>You may be eligible to join the UK government-run International Teacher Recruitment Programme (ITRP).</p>
     
@@ -52,7 +52,7 @@ backlink: "../../"
   
   <p>If you are a teacher from outside the European Economic Area (EEA), you may need to apply for a visa before starting work as a teacher in England.</p>
   
-  <p>To find out if you need to apply for a visa, read the <a href="https://www.gov.uk/browse/visas-immigration/work-visas" target="_blank">UK government’s guidance on work visas</a>.</p>
+  <p>To find out if you need to apply for a visa, read the <a href="https://www.gov.uk/browse/visas-immigration/work-visas"  target="_blank" rel="noopener noreferrer">UK government’s guidance on work visas</a>.</p>
  
 <h2 id="UK-nationals-returning-to-teaching-in-England-from-overseas">UK nationals returning to teaching in England from overseas</h2> 
 

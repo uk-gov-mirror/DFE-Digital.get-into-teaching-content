@@ -23,7 +23,7 @@ fullwidth: true
 <div class="container-1000">
     <div class="content-wrapper">
         <div class="content__left">
-            <h2>Career changers' stories</h2>
+            <h2>Changing career</h2>
             <p>
                 <br/>
                 If you are thinking of changing your career, you’re in good company. Every year, many people decide to move from 
@@ -65,13 +65,13 @@ fullwidth: true
     <div class="content-wrapper">
         <div class="content__left">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-changers" class="call-to-action-button stories-call-to-action">
-                Read all career changers' <span> stories</span>
+                Read all stories about changing career
             </a>
         </div>
     </div>
     <div class="content-wrapper">
         <div class="content__left">
-            <h2>Stories from international teachers</h2>
+            <h2>International returning teachers</h2>
             <p>
                 <br/>
                 See how candidates with international qualifications became teachers in England and how already qualified teachers' returned to England from abroad, to get back into the profession.
@@ -103,13 +103,13 @@ fullwidth: true
     <div class="content-wrapper">
         <div class="content__left">
             <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers" class="call-to-action-button stories-call-to-action">
-                Read all stories from international career<span> changers</span>
+                Read all stories about international returning teachers
             </a>
         </div>
     </div>
     <div class="content-wrapper">
         <div class="content__left">
-            <h2>Teacher training stories</h2>
+            <h2>Teacher training </h2>
             <p>
                 <br/>
                 It’s a great time to train to teach, with a wide array of training options and support available. Find out what you can expect
@@ -151,13 +151,13 @@ fullwidth: true
     <div class="content-wrapper">
         <div class="content__left">
             <a href="/life-as-a-teacher/my-story-into-teaching/teacher-training-stories" class="call-to-action-button stories-call-to-action">
-                Read all teacher training <span> stories</span>
+                Read all stories about teacher training
             </a>
         </div>
     </div>
     <div class="content-wrapper">
         <div class="content__left">
-            <h2>Stories about making a difference</h2>
+            <h2>Making a difference</h2>
             <p>
                 <br/>
                 Teachers talk about making a real difference to pupils’ learning and lives - and the job satisfaction that comes with a career
@@ -205,7 +205,7 @@ fullwidth: true
     </div>
     <div class="content-wrapper">
         <div class="content__left">
-            <h2>Stories about career progression</h2>
+            <h2>Career progression</h2>
             <p>
                 <br/>
                 Teachers talk about making a real difference to pupils’ learning and lives - and the job satisfaction that comes with a career
@@ -247,13 +247,13 @@ fullwidth: true
     <div class="content-wrapper">
         <div class="content__left">
             <a href="/life-as-a-teacher/my-story-into-teaching/career-progression" class="call-to-action-button stories-call-to-action">
-                Read all stories about making career <span> progression</span>
+                Read all stories about career <span> progression</span>
             </a>
         </div>
     </div>
     <div class="content-wrapper">
         <div class="content__left">
-            <h2>Stories about returning to teaching</h2>
+            <h2>Returning to teaching</h2>
             <p>
                 <br/>
                 Teachers talk about making a real difference to pupils' learning and lives - and the job satisfaction that comes with a career
@@ -286,7 +286,7 @@ fullwidth: true
     <div class="content-wrapper">
         <div class="content__left">
             <a href="/life-as-a-teacher/my-story-into-teaching/returners" class="call-to-action-button stories-call-to-action">
-                Read all returning to teaching<span> stories</span>
+                Read all stories about returning to teaching
             </a>
         </div>
     </div>

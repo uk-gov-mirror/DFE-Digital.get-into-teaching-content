@@ -5,8 +5,6 @@ backlink: "../../"
 ---
 
 <div class="content-wrapper">
-    <div class="content__right">
-    </div>
     <div class="content__left">
         <div class="stories">
         <p>
@@ -42,33 +40,33 @@ backlink: "../../"
 </div>
 
 <div class="more-stories">
-    <h2 class="more-stories_header strapline">More stories </h2>
+    <h2 class="more-stories_header strapline">More stories</h2>
     <div class="more-stories__thumbs">
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-zainab.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="#">Read Peter's story  <i class="fas fa-chevron-right"></i></a>
+                <p>School experience helped me decide to switch</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">Read Zainab's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-katie.png')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="#">Read Peter's story  <i class="fas fa-chevron-right"></i></a>
+                <p>Returning to teach with international experience</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience">Read Katie's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories-karen.png')"></div>
+            <a href="/life-as-a-teacher/my-story-into-teaching/career-progression/lawyer-to-assistant-teacher">
+                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-helen.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Embracing a new challenge</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/karens-story">Read Peter's story <i class="fas fa-chevron-right"></i></a>
+                <p>Lawyer to assistant headteacher</p>
+                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-progression/lawyer-to-assistant-teacher">Read Helen's story <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
     </div>

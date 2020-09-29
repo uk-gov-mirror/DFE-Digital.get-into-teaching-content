@@ -2,7 +2,7 @@ name: Periodic CVE Tests
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 20 * * *"
 env:
   DOCKERHUB_REPOSITORY: dfedigital/get-into-teaching-frontend
   CONTAINER: get-into-teaching-app

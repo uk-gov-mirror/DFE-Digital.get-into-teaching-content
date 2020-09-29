@@ -4,9 +4,6 @@ image: "/assets/images/funding-header.jpg"
 backlink: "../"
 ---
 
-<div class="content__right">
-</div>
-
 <div class="content__left">
   
   <p class="content-alert">With a teaching internship, you will be able to experience the teaching profession, gain new skills and be paid £300 per week for your time.</p> 

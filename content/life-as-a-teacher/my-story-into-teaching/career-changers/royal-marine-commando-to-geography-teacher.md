@@ -5,8 +5,6 @@ backlink: "../../"
 ---
 
 <div class="content-wrapper">
-    <div class="content__right">
-    </div>
     <div class="content__left">
         <div class="stories">
         <p>
