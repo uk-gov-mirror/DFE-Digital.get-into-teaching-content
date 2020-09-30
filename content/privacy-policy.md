@@ -10,7 +10,7 @@ backlink: "../"
 
   <h3>Legal information</h3>
 
-   <h3>Privacy Notice: Get into Teaching Information Service</h3>
+   <h3>Privacy Notice: Get Into Teaching Information Service</h3>
 
    <h3>Who we are</h3>
 
@@ -143,7 +143,7 @@ backlink: "../"
 
    <p>If you do not supply us with your personal information then we cannot provide a tailored advice and information service or offer you access to the services available via our website such as booking a Train to Teach event. </p>
 
-   <p>However, without signing up for a teacher training adviser, signing up for an event or signing up for updates, you can still access general information via the Get into Teaching helpline and website and can complete an application for Initial Teacher Training through UCAS Teacher Training.</p>
+   <p>However, without signing up for a teacher training adviser, signing up for an event or signing up for updates, you can still access general information via the Get Into Teaching helpline and website and can complete an application for Initial Teacher Training through UCAS Teacher Training.</p>
 
    <h3>Why our use of your personal data is lawful</h3>
 
@@ -179,7 +179,7 @@ backlink: "../"
 
    <p>For the Data Protection Officer (DPO) please contact us via <a href="https://gov.uk">gov.uk</a> and mark it for the attention of the ‘DPO’.</p>
 
-   <p>If you need to contact us regarding any of the above rights, please do so via the <a href="/">Get into Teaching site.</a></p>
+   <p>If you need to contact us regarding any of the above rights, please do so via the <a href="/">Get Into Teaching site.</a></p>
 
    <p>Further information about your data protection rights appears on the <a href="https://ico.org.uk/concerns">Information Commissioner's website</a>.</p>
 

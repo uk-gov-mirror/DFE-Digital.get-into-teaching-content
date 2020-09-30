@@ -40,7 +40,7 @@ backlink: "../"
     </p>
     <h2 class="govuk-heading-m">What to do if you cannot access parts of this service</h2>
     <p>
-       <a aria-label="Get into teaching support email address" href="mailto:getintoteaching.helpdesk@education.gov.uk">Email us</a> if you need information on this service in any of the following formats:
+       <a aria-label="Get Into Teaching support email address" href="mailto:getintoteaching.helpdesk@education.gov.uk">Email us</a> if you need information on this service in any of the following formats:
        <ul>
      <li>accessible PDF</li>
      <li>audio recording</li>
