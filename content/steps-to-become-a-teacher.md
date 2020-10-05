@@ -23,7 +23,7 @@ navigation: 20
   <p>To start initial teacher training, you'll need to have a degree, or equivalent qualification.</p>
   <p>If you're unsure whether your qualification is equivalent to a degree, you can <a href="#talk-to-us">talk to us, or chat online</a>.</p> 
 
- p>If you want to teach in a fee-paying or private school, the rules may be different. You’ll need to check with the school you want to teach at.</p>
+ <p>If you want to teach in a fee-paying or private school, the rules may be different. You’ll need to check with the school you want to teach at.</p>
       <p>
         If you want to teach in a primary or secondary school you can apply for postgraduate initial teacher training (ITT) to give you qualified teacher status (QTS).  This usually takes a year, unless you study part-time.  All ITT courses include a minimum of 24 weeks in school - usually two schools or more.
       </p>
