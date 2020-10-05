@@ -1,6 +1,8 @@
 ---  
 name: Release to test
 on: 
+   repository_dispatch:
+   workflow_dispatch:
    release:
      types:  [edited, created]
 env:
@@ -18,10 +20,12 @@ jobs:
     steps:
        - name: Checkout
          uses: actions/checkout@v2
+         with:
+               ref: "t.57"
 
        - name: Get Short SHA
          id: sha
-         run: echo ::set-output name=short::$(git rev-parse --short $GITHUB_SHA)
+         run: echo ::set-output name=short::$(git rev-parse --short HEAD )
 
        - name: Get parent SHA 
          run: |
@@ -75,21 +79,29 @@ jobs:
              TF_VAR_RAILS_MASTER_KEY:  "${{ secrets.RAILS_MASTER_KEY_PREPROD }}"
              TF_VAR_RAILS_ENV:         "preprod"
 
-       - name: Terraform Apply
-         run: |
-             cd terraform/paas && pwd
-             terraform apply -auto-approve plan
-         env:
-             TF_VAR_user:              "${{ secrets.GOVUKPAAS_USERNAME  }}"
-             TF_VAR_password:          "${{ secrets.GOVUKPAAS_PASSWORD  }}"
-             ARM_ACCESS_KEY:           "${{ secrets.TEST_ARM_ACCESS_KEY  }}"
+#      - name: Terraform Apply
+#        run: |
+#            cd terraform/paas && pwd
+#            terraform apply -auto-approve plan
+#        env:
+#            TF_VAR_user:              "${{ secrets.GOVUKPAAS_USERNAME  }}"
+#            TF_VAR_password:          "${{ secrets.GOVUKPAAS_PASSWORD  }}"
+#            ARM_ACCESS_KEY:           "${{ secrets.TEST_ARM_ACCESS_KEY  }}"
 
-       - name: Smoke tests
-         run: |
-             tests/confidence/healthcheck.sh  "get-into-teaching-app-test" "${parent_sha}" "${{ steps.sha.outputs.short }}"
-         env:
-             HTTPAUTH_PASSWORD: "${{ secrets.HTTPAUTH_PASSWORD }}"
-             HTTPAUTH_USERNAME: "${{ secrets.HTTPAUTH_USERNAME }}"
+#      - name: Smoke tests
+#        run: |
+#            tests/confidence/healthcheck.sh  "get-into-teaching-app-test" "${parent_sha}" "${{ steps.sha.outputs.short }}"
+#        env:
+#            HTTPAUTH_PASSWORD: "${{ secrets.HTTPAUTH_PASSWORD }}"
+#            HTTPAUTH_USERNAME: "${{ secrets.HTTPAUTH_USERNAME }}"
+
+       - name: Update Dockerhub with Release Tag
+         uses: zenato/docker-action@master
+         with:
+             username: ${{ secrets.DOCKERHUB_USERNAME }}
+             password: ${{ secrets.DOCKERHUB_PERSONAL_ACCESS_TOKEN }}
+             repository: ${{ env.DOCKERHUB_REPOSITORY }}
+             tag: "Steve"
 
        - name: Create Sentry release
          if: success()
