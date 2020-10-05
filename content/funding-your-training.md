@@ -75,9 +75,9 @@ window)</span><i class="icon icon-external"></i></a>, <a href="http://www.saas.g
 window)</span><i class="icon icon-external"></i></a> or <a href="http://www.studentfinanceni.co.uk" target="_blank" rel="noopener noreferrer">Northern Ireland<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a> you’ll need to contact your country’s student finance body.</p>
 
-<p>Contact the education authority if you live in the Channel Islands (Jersey<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> and Guernsey<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>) or Isle of Man<span class="govuk-visually-hidden">(Link opens in new
+<p>Contact the education authority if you live in the Channel Islands (<a href="https://www.gov.je/Working/Careers/16To19YearOlds/EnteringHigherEducation/FinancingHigherEducationCourses/FundingDegreeProfessionalQualifications/Pages/index.aspx" target="_blank" rel="noopener noreferrer">Jersey<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> and <a href="https://www.gov.gg/article/152744/Policies" target="_blank" rel="noopener noreferrer">Guernsey<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>) or <a href="https://www.gov.im/student-grants" target="_blank" rel="noopener noreferrer">Isle of Man<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>.</p>
 <p>You could get a bursary or scholarship, student finance and extra funding to train to teach.</p>
 
