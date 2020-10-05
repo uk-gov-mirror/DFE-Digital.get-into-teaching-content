@@ -7,10 +7,10 @@ backlink: "../../"
   <div class="link-block link-block--jump">
     <h2 id="top" class="link-block__header">On this page:</h2>
     <ul class="link-block__list">
-      <li><a href="#how-were-improving-things-for-teachers">How we're improving things for teachers</a></li>
-      <li><a href="#get-up-to-date-with-best-practice">Get up to date with best practice</a></li>
       <li><a href="#modern-languages-maths-physics">Modern languages, maths or physics</a></li>
-      <li><a href="#for-teachers-trained-in-england">For teachers who trained in England returning from overseas</a></li>
+       <li><a href="#get-up-to-date-with-best-practice">Get up to date with best practice</a></li>
+       <li><a href="#how-were-improving-things-for-teachers">How we're improving life for teachers</a></li>
+       <li><a href="#for-teachers-trained-in-england">For teachers who trained in England returning from overseas</a></li>
       <li><a href="#stories-about-returning-to-teaching">Stories about returning to teaching in England</a></li>
     </ul>
   </div>
