@@ -21,38 +21,45 @@ backlink: "../../"
  
 
   <p>You’re considering a return to teaching. You may have been inspired by home schooling children during lockdown, or you might want to pass on your professional skills and experience to the next generation.</p>
-  <p>Whatever your reasons, you can get access to support and advice if you’re interested in coming back to teaching.</p>  
-
-  <h2 id="how-were-improving-things-for-teachers">How we’re improving things for teachers</h2>
+  <p>Whatever your reasons, you can get access to support and advice if you’re interested in coming back to teaching.</p>
   
-  <p>A lot has changed for teachers in England over the last few years. The Department for Education is working with schools to:</p>
+   <h2 id="modern-languages-maths-physics">Modern languages, maths or physics</h2>
+ 
 
-  <ol>
-    <li><span>Reduce workload</span>
-      <p>There has been a reduction between 2016 and 2019 in <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/838433/Teacher_workload_survey_2019_brief.pdf"  target="_blank" rel="noopener noreferrer">reported working hours for teachers, middle leaders and senior leaders<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> of 5 hours a week.</p>
-      <p>Take a look at practical tools in the <a href="https://www.gov.uk/guidance/school-workload-reduction-toolkit"  target="_blank" rel="noopener noreferrer">workload reduction kit<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>, examples of <a href="https://www.gov.uk/government/collections/reducing-school-workload#what-has-worked-in-schools"  target="_blank" rel="noopener noreferrer">what's worked in schools<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> and a <a href="https://www.gov.uk/government/publications/reducing-teacher-workload-education-development-trust-report"  target="_blank" rel="noopener noreferrer">report on school-led projects<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> aimed at reducing teacher workload.</p>
-      <br/>
-    </li>
-    <li><span>Improve behaviour</span>
-  <p>The Department for Education has <a href="https://www.gov.uk/guidance/behaviour-hubs"  target="_blank" rel="noopener noreferrer"> invested £10m through Behaviour Hubs<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> so that schools with exemplary behaviour can work closely with schools that want to improve behaviour.</p>
-      <br/>
-  </li>
-    <li><span>Increase the offer of flexible working</span>
-      <p>There are opportunities for teachers to <a href="https://www.gov.uk/government/collections/flexible-working-resources-for-teachers-and-schools"  target="_blank" rel="noopener noreferrer">work flexibly<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>.
-    You can search for jobs with flexible working patterns by using <a href="https://teaching-vacancies.service.gov.uk/"  target="_blank" rel="noopener noreferrer">Teaching Vacancies<span class="govuk-visually-hidden">(Link opens in new
+  <p>If you're a returning teacher of secondary modern foreign languages, maths or physics, the Department for Education offers:</p>
+<ul>
+  <li>one-to-one support from a return to teaching adviser</li>
+  <li>help with arranging school experience</li>
+  <li>a review of your subject and pedagogical knowledge</li>
+  <li>access to a subject specialist training course to refresh your knowledge</li>
+  <li>information on vacancies in your local area</li>
+  <li>help with your application and interview tips</li>
+  </ul> 
+  
+<p>For advice on returning to teaching, speak to a return to teaching adviser by using the <a href="/tta-service">Get an adviser</a> service.</p>
+
+<h3>Specialist help for returning physics teachers</h3>
+
+<p>The <a href="https://www.iop.org/education"  target="_blank" rel="noopener noreferrer">Institute of Physics<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> offers teaching resources.</p>
+<p>Visit the <a href="https://spark.iop.org/practical-physics"  target="_blank" rel="noopener noreferrer">Nuffield Foundation<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> for demonstrations of experiments for pupils up to the age of 19.</p>
+<p>If you’d like more information on what it’s like to teach physics today, you can also talk to other physics teachers at <a href="https://www.talkphysics.org/"  target="_blank" rel="noopener noreferrer">TalkPhysics<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>, or follow them on Twitter via <a href="https://twitter.com/takeonphysics"  target="_blank" rel="noopener noreferrer">@TakeOnPhysics<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>.</p>
-  </li>
-  </ol>
-  
-  <p><a href="#top">Back to top</a></p>
-  
-  <h2 id="get-up-to-date-with-best-practice">Get up to date with best practice</h2>
+
+<h3>Specialist help for returning maths teachers</h3>
+<p>The <a href="https://www.ncetm.org.uk/news-features/" target="_blank" rel="noopener noreferrer">National Centre for the Excellence in the Teaching of Mathematics (NCETM)</a> offers <a href="https://www.ncetm.org.uk/in-the-classroom/"  target="_blank" rel="noopener noreferrer"> teaching resources<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> around the maths you will be teaching.</p>
+
+<h3>National Tutoring Programme</h3>
+
+<p>This provides two different options to return to a school environment without taking on a full-time or part-time classroom role.</p>
+<p>Find out <a href="https://nationaltutoring.org.uk/"  target="_blank" rel="noopener noreferrer">how to apply and get more information about 'Tuition Partners' and 'Academic Mentor' pillars of the National Tutoring Programme<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a></p>.
+
+
+<h2 id="get-up-to-date-with-best-practice">Get up to date with best practice</h2>
 
 <p>If you’ve been out of teaching for a while, you may want to:</p>
 <ul>
@@ -67,12 +74,6 @@ window)</span><i class="icon icon-external"></i></a></li>
 <h3>Information technology</h3>
 
 <p>You can find out how up to date your information and communication technologies (ICT) skills are by completing an <a href="/assets/documents/ICT_skills_audit_returners.pdf" target="_blank">ICT skills audit</a> (PDF, 158KB).</p>
-
-<h3>National Tutoring Programme</h3>
-
-<p>This provides two different options to return to a school environment without taking on a full-time or part-time classroom role.</p>
-<p>Find out <a href="https://nationaltutoring.org.uk/"  target="_blank" rel="noopener noreferrer">how to apply and get more information about 'Tuition Partners' and 'Academic Mentor' pillars of the National Tutoring Programme<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a></p>.
 
 
 <h3>Useful resources</h3>
@@ -105,49 +106,6 @@ window)</span><i class="icon icon-external"></i></a></li>
 <p><a href="#top">Back to top</a></p>
 
 
-
-  <h2 id="modern-languages-maths-physics">Modern languages, maths or physics</h2>
- 
-
-  <p>If you're a returning teacher of secondary modern foreign languages, maths or physics, the Department for Education offers:</p>
-<ul>
-  <li>one-to-one support from a return to teaching adviser</li>
-  <li>help with arranging school experience</li>
-  <li>a review of your subject and pedagogical knowledge</li>
-  <li>access to a subject specialist training course to refresh your knowledge</li>
-  <li>information on vacancies in your local area</li>
-  <li>help with your application and interview tips</li>
-  </ul> 
-  
-<p>For advice on returning to teaching, speak to a return to teaching adviser by using the <a href="/tta-service">Get an adviser</a> service.</p>
-
-
-
-<h3>Specialist help for returning physics teachers</h3>
-
-<p>The <a href="https://www.iop.org/education"  target="_blank" rel="noopener noreferrer">Institute of Physics<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> offers teaching resources.</p>
-<p>Visit the <a href="https://spark.iop.org/practical-physics"  target="_blank" rel="noopener noreferrer">Nuffield Foundation<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> for demonstrations of experiments for pupils up to the age of 19.</p>
-<p>If you’d like more information on what it’s like to teach physics today, you can also talk to other physics teachers at <a href="https://www.talkphysics.org/"  target="_blank" rel="noopener noreferrer">TalkPhysics<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>, or follow them on Twitter via <a href="https://twitter.com/takeonphysics"  target="_blank" rel="noopener noreferrer">@TakeOnPhysics<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>.</p>
-
-<h3>Specialist help for returning maths teachers</h3>
-<p>The <a href="https://www.ncetm.org.uk/news-features/" target="_blank" rel="noopener noreferrer">National Centre for the Excellence in the Teaching of Mathematics (NCETM)</a> offers <a href="https://www.ncetm.org.uk/in-the-classroom/"  target="_blank" rel="noopener noreferrer"> teaching resources<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> around the maths you will be teaching.</p>
-
-<h3>Further information and support</h3>
-<ul>
-  <li>if you’re returning to teach maths or physics in a state-funded school in certain areas, <a href="https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/claim-a-payment-for-teaching-maths-or-physics-eligibility-and-payment-details"  target="_blank" rel="noopener noreferrer">you could be eligible for a £2,000 payment after tax<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a></li>
-<li>returning science, languages and computing teachers in 25 local authorities may also be eligible to <a href="https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/teachers-claim-back-your-student-loan-repayments-eligibility-and-payment-details"  target="_blank" rel="noopener noreferrer">claim back student loan repayments<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a></li>
-<li>if you’re returning to teach secondary maths, core maths, physics or languages and want to refresh your knowledge, you may be eligible for a <a href="https://www.gov.uk/guidance/teacher-subject-specialism-training-courses"  target="_blank" rel="noopener noreferrer">free subject specialist training course<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a></li>
-</ul>
-
-<p><a href="#top">Back to top</a></p>
 
 <h2 id="for-teachers-trained-in-england">For teachers who trained in England returning from overseas</h2>
 
@@ -189,6 +147,36 @@ window)</span><i class="icon icon-external"></i></a></li>
 <p>If you want to progress in your career in England, you may wish to apply for a <a href="https://www.gov.uk/government/publications/national-professional-qualifications-frameworks"  target="_blank" rel="noopener noreferrer">National Professional Qualification (NPQ)<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>.</p>
 <p>NPQs can help you get into leadership positions such as head of department, deputy headteacher or headteacher.</p>
+
+
+<h2 id="how-were-improving-things-for-teachers">How we’re improving things for teachers</h2>
+  
+  <p>A lot has changed for teachers in England over the last few years. The Department for Education is working with schools to:</p>
+
+  <ol>
+    <li><span>Reduce workload</span>
+      <p>There has been a reduction between 2016 and 2019 in <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/838433/Teacher_workload_survey_2019_brief.pdf"  target="_blank" rel="noopener noreferrer">reported working hours for teachers, middle leaders and senior leaders<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> of 5 hours a week.</p>
+      <p>Take a look at practical tools in the <a href="https://www.gov.uk/guidance/school-workload-reduction-toolkit"  target="_blank" rel="noopener noreferrer">workload reduction kit<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>, examples of <a href="https://www.gov.uk/government/collections/reducing-school-workload#what-has-worked-in-schools"  target="_blank" rel="noopener noreferrer">what's worked in schools<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> and a <a href="https://www.gov.uk/government/publications/reducing-teacher-workload-education-development-trust-report"  target="_blank" rel="noopener noreferrer">report on school-led projects<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> aimed at reducing teacher workload.</p>
+      <br/>
+    </li>
+    <li><span>Improve behaviour</span>
+  <p>The Department for Education has <a href="https://www.gov.uk/guidance/behaviour-hubs"  target="_blank" rel="noopener noreferrer"> invested £10m through Behaviour Hubs<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> so that schools with exemplary behaviour can work closely with schools that want to improve behaviour.</p>
+      <br/>
+  </li>
+    <li><span>Increase the offer of flexible working</span>
+      <p>There are opportunities for teachers to <a href="https://www.gov.uk/government/collections/flexible-working-resources-for-teachers-and-schools"  target="_blank" rel="noopener noreferrer">work flexibly<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>.
+    You can search for jobs with flexible working patterns by using <a href="https://teaching-vacancies.service.gov.uk/"  target="_blank" rel="noopener noreferrer">Teaching Vacancies<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>.</p>
+  </li>
+  </ol>
+  
+  <p><a href="#top">Back to top</a></p>
  
 <h3>Getting qualified</h3>
 
@@ -203,6 +191,16 @@ window)</span><i class="icon icon-external"></i></a>.</p>
 <p>You can teach as an unqualified teacher in academies and free schools.</p>
 
 <p><a href="#top">Back to top</a></p>
+
+<h3>Further information and support</h3>
+<ul>
+  <li>if you’re returning to teach maths or physics in a state-funded school in certain areas, <a href="https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/claim-a-payment-for-teaching-maths-or-physics-eligibility-and-payment-details"  target="_blank" rel="noopener noreferrer">you could be eligible for a £2,000 payment after tax<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a></li>
+<li>returning science, languages and computing teachers in 25 local authorities may also be eligible to <a href="https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/teachers-claim-back-your-student-loan-repayments-eligibility-and-payment-details"  target="_blank" rel="noopener noreferrer">claim back student loan repayments<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a></li>
+<li>if you’re returning to teach secondary maths, core maths, physics or languages and want to refresh your knowledge, you may be eligible for a <a href="https://www.gov.uk/guidance/teacher-subject-specialism-training-courses"  target="_blank" rel="noopener noreferrer">free subject specialist training course<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a></li>
+</ul>
 
 <h2 id="stories-about-returning-to-teaching">Stories about returning to teaching in England</h2> 
   <br/>
