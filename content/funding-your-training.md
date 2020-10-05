@@ -11,7 +11,7 @@ navigation: 10
     <h2 class="link-block__header">On this page:</h2>
     <ul class="link-block__list">
       <li><a href="#bursaries-and-scholarships">Bursaries and scholarships</a></li>
-      <li><a href="#get-student-finance">Get student finance</a></li>
+      <li><a href="#get-student-finance">Tuition fee and maintenance loans</a></li>
       <li><a href="#get-financial-help-if-youre-a-parent-a-carer-or-you-have-a-disability">Get extra funding if you’re a parent, a carer or you have a disability</a></li>
       <li><a href="#applying-for-funding-if-you-live-outside-england">Applying for funding if you come from outside England</a></li>
     </ul>
@@ -32,25 +32,25 @@ navigation: 10
 
   <p>You could get a bursary of up to £26,000 or apply for a scholarship of up to £28,000.</p>
 
-  <p><a href="/guidance#bursaries-and-scholarships" target="_blank" rel="noopener noreferrer">Find out more about bursaries and scholarships<span class="govuk-visually-hidden">(Link opens in new
+  <p><a href="/finance-guidance#bursaries-and-scholarships" target="_blank" rel="noopener noreferrer">Find out more about bursaries and scholarships<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>.</p>
 
-  <h2 id="get-student-finance">Get student finance</h2>
+  <h2 id="get-student-finance">Tuition fee and maintenance loans</h2>
   <p>Even if a bursary or scholarship is available for your course, you can get student finance to cover your fees and help with your living costs. You can apply for a tuition fee and/or a maintenance loan even if you already have a student loan.</p>
 
   <p>You can apply for a tuition fee loan of up to £9,250 to cover the full cost of your course fees and a maintenance loan of up to £12,010 to help with your living costs.</p>
   
  <p>You will only have to make repayments when you're earning. Your repayments will not increase if you already have a student loan and take a loan out for teacher training.</p>
 
-  <p><a href="/guidance#student-finance" target="_blank" rel="noopener noreferrer">Find out more about student finance<span class="govuk-visually-hidden">(Link opens in new
+  <p><a href="/finance-guidance#tuition-fee-maintenance-loans" target="_blank" rel="noopener noreferrer">Find out more about tuition fee and maintenance loans<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>.</p> 
 
   <p>Use the <a href="https://www.gov.uk/student-finance-calculator" target="_blank" rel="noopener noreferrer">student finance calculator on GOV.UK<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a> to find out how much you can get.</p> 
 
-  <h2 id="get-financial-help-if-youre-a-parent-a-carer-or-you-have-a-disability">Get extra funding if you’re a parent, a carer or you have a disability</h2>
+  <h2 id="get-financial-help-if-youre-a-parent-a-carer-or-you-have-a-disability">Get extra financial support if you’re a parent, a carer or you have a disability</h2>
 
-  <p>You may be able to get extra funding if you have a disability, or if you have children or dependent adults. If you get this type of funding, you do not need to pay it back.</p>
+  <p>You may be able to get extra financial support if you have a disability, or if you have children or dependent adults. If you get this type of funding, you do not need to pay it back.</p>
 
 
   <p>You could apply for:</p>
@@ -61,7 +61,7 @@ window)</span><i class="icon icon-external"></i></a> to find out how much you ca
     <li><span>Adult Dependants’ Grant</span></li>
   </ul>
   
-  <p><a href="/guidance#other-types-of-financial-help-if-youre-a-parent-carer-or-you-have-a-disability" target="_blank" rel="noopener noreferrer">Find out more about financial help for parents, carers and people with disabilities.<span class="govuk-visually-hidden">(Link opens in new
+  <p><a href="/guidance#other-types-of-financial-help-if-youre-a-parent-carer-or-you-have-a-disability" target="_blank" rel="noopener noreferrer">Find out more about extra financial support for parents, carers and people with disabilities.<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>.</p> 
 
 
@@ -70,8 +70,15 @@ window)</span><i class="icon icon-external"></i></a>.</p>
 
   <p>Whether you’re a home student (living in Wales, Scotland or Northern Ireland), an EU student or a student from outside the EU, you may still be eligible for funding to train to teach.</p>
 
-  <p>If you live in Wales, Scotland or Northern Ireland you’ll need to contact <a href="/guidance#funding-if-you-live-in-wales-scotland-or-northern-ireland" target="_blank" rel="noopener noreferrer">your country’s student finance body<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>.</p> 
+  <p>If you live in <a href="http://www.studentfinancewales.co.uk" target="_blank" rel="noopener noreferrer">Wales<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>, <a href="http://www.saas.gov.uk" target="_blank" rel="noopener noreferrer">Scotland<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> or <a href="http://www.studentfinanceni.co.uk" target="_blank" rel="noopener noreferrer">Northern Ireland<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> you’ll need to contact your country’s student finance body.</p>
+
+<p>Contact the education authority if you live in the Channel Islands (Jersey<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> and Guernsey<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>) or Isle of Man<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>.</p>
 <p>You could get a bursary or scholarship, student finance and extra funding to train to teach.</p>
 
   
