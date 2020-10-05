@@ -109,7 +109,7 @@ navigation: 20
   <a href="/ways-to-train-guidance" target="_blank" rel="noopener noreferrer">Find out more about different ways to train<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>
 
 
-  <h3>Teaching children with special educational needs and/or disabilities (SEND)</h3>
+  <h3>Teaching children with special educational needs and disabilities (SEND)</h3>
       <p>
         All teaching courses with QTS include training on working with pupils with SEND.
       </p>
