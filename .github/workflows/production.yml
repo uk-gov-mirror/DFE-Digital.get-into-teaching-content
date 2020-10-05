@@ -1,7 +1,13 @@
 ---  
 name: Release to Production
 on: 
-    workflow_dispatch:
+   repository_dispatch:
+   workflow_dispatch:
+    inputs:
+      tags:
+        description: 'Release Tag'
+        required: true
+        default: 'master'
 
 env:
   DOCKERHUB_REPOSITORY: dfedigital/get-into-teaching-frontend
@@ -18,10 +24,12 @@ jobs:
     steps:
        - name: Checkout
          uses: actions/checkout@v2
+         with:
+            ref: "${{ github.event.inputs.tags }}"
 
        - name: Get Short SHA
          id: sha
-         run: echo ::set-output name=short::$(git rev-parse --short $GITHUB_SHA)
+         run: echo ::set-output name=short::$(git rev-parse --short HEAD )
 
        - name: Get parent SHA 
          run: |
