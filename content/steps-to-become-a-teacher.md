@@ -23,19 +23,7 @@ navigation: 20
   <p>To start initial teacher training, you'll need to have a degree, or equivalent qualification.</p>
   <p>If you're unsure whether your qualification is equivalent to a degree, you can <a href="#talk-to-us">talk to us, or chat online</a>.</p> 
 
- <p>
-    Here's what you need to do if you:
-  </p>
-
-  <ul>
-  <li><span><a href="steps-to-become-a-teacher/if-you-need-to-get-the-right-qualifications#if-you-dont-have-a-degree">do not have a degree</a></span></li>
-  <li><span><a href="/international-candidates">have an overseas degree</a></span></li>
-  <li><span><a href="/returning-to-teaching">are returning to teach in England</a></span></li>
-  </ul>
-  
- <p>If you want to teach in a fee-paying or private school, the rules may be different. You’ll need to check with the school you want to teach at.</p>
- 
-  <h3>If you have a degree</h3>
+ p>If you want to teach in a fee-paying or private school, the rules may be different. You’ll need to check with the school you want to teach at.</p>
       <p>
         If you want to teach in a primary or secondary school you can apply for postgraduate initial teacher training (ITT) to give you qualified teacher status (QTS).  This usually takes a year, unless you study part-time.  All ITT courses include a minimum of 24 weeks in school - usually two schools or more.
       </p>
@@ -53,6 +41,16 @@ navigation: 20
         If you do not have the required GCSEs, you’ll need to show that you have an equivalent level of education.
       </p>
       <a href="/finance-guidance#subject-knowledge-enhancement-courses" target="_blank" rel="noopener noreferrer">If your degree is not in the subject you want to teach<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>
+      
+   <p>
+    Here's what you need to do if you:
+  </p>
+
+  <ul>
+  <li><span><a href="steps-to-become-a-teacher/if-you-need-to-get-the-right-qualifications#if-you-dont-have-a-degree">do not have a degree</a></span></li>
+  <li><span><a href="/international-candidates">have an overseas degree</a></span></li>
+  <li><span><a href="/returning-to-teaching">are returning to teach in England</a></span></li>
+  </ul>
       
    </div>
       <button class="steps-header" id="step-2" data-action="click->accordion#toggle" data-target="accordion.header" aria-controls="collapsable-content-2" aria-expanded="false">
