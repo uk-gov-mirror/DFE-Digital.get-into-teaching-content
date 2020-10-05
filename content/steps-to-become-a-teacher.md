@@ -52,7 +52,7 @@ navigation: 20
    <p>
         If you do not have the required GCSEs, you’ll need to show that you have an equivalent level of education.
       </p>
-      <a href="/guidance#subject-knowledge-enhancement-courses" target="_blank" rel="noopener noreferrer">If your degree is not in the subject you want to teach<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>
+      <a href="/finance-guidance#subject-knowledge-enhancement-courses" target="_blank" rel="noopener noreferrer">If your degree is not in the subject you want to teach<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>
       
    </div>
       <button class="steps-header" id="step-2" data-action="click->accordion#toggle" data-target="accordion.header" aria-controls="collapsable-content-2" aria-expanded="false">
@@ -108,7 +108,7 @@ navigation: 20
 
   
   
-  <a href="/guidance#5" target="_blank" rel="noopener noreferrer">Find out more about different ways to train<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>
+  <a href="/finance-guidance" target="_blank" rel="noopener noreferrer">Find out more about different ways to train<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>
 
 
   <h3>Teaching children with special educational needs and/or disabilities (SEND)</h3>
@@ -118,7 +118,7 @@ navigation: 20
       <p>
         You could also specialise in supporting children with SEND.
       </p>
-      <a href="/guidance#teaching-children-with-special-educational-needs-and-or-disabilities-SEND" target="_blank" rel="noopener noreferrer">Find out how to specialise in SEND<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>
+      <a href="/finance-guidance#teaching-children-with-special-educational-needs-and-or-disabilities-SEND" target="_blank" rel="noopener noreferrer">Find out how to specialise in SEND<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>
       
       
    </div>
@@ -137,8 +137,10 @@ navigation: 20
         <li><span><span><a href="https://www.gov.uk/find-postgraduate-teacher-training-courses" target="_blank" rel="noopener noreferrer">choose your course<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></span></span></li>
         <li><span><span>write a personal statement</span></span></li>
         <li><span><span>get two references</span></span></li>
-        <li>apply for teacher training either through UCAS, or by using the <span><span><a href="https://qa.apply-for-teacher-training.education.gov.uk/candidate" target="_blank" rel="noopener noreferrer">Apply for teacher training service <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></span></span></li>
+        <li>apply for teacher training either through <a href="https://www.ucas.com/postgraduate/teacher-training/how-to-apply/">UCAS Teacher Training <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>, or by using the <span><span><a href="https://qa.apply-for-teacher-training.education.gov.uk/candidate" target="_blank" rel="noopener noreferrer">Apply for teacher training GOV.UK service <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></span></span></li>
       </ul>
+  <p>Apply for teacher training will eventually replace UCAS, but for now, the new service is limited to certain providers.</p>
+  <p>View a list of <a href="https://www.apply-for-teacher-training.service.gov.uk/candidate/providers">training providers and courses available <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a> through the new GOV.UK service.</p>
   
   <p>You can get help preparing your application by signing up to the <a href="https://beta-adviser-getintoteaching.education.gov.uk/">Get an adviser</a> service.</p>
     </div>
