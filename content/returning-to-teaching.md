@@ -56,7 +56,7 @@ window)</span><i class="icon icon-external"></i></a> around the maths you will b
 
 <p>This provides two different options to return to a school environment without taking on a full-time or part-time classroom role.</p>
 <p>Find out <a href="https://nationaltutoring.org.uk/"  target="_blank" rel="noopener noreferrer">how to apply and get more information about 'Tuition Partners' and 'Academic Mentor' pillars of the National Tutoring Programme<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a></p>.
+window)</span><i class="icon icon-external"></i></a>.</p>
 
 
 <h2 id="get-up-to-date-with-best-practice">Get up to date with best practice</h2>
@@ -186,16 +186,16 @@ window)</span><i class="icon icon-external"></i></a>.</p>
         <li>discovered <a href="https://www.gov.uk/government/collections/reducing-school-workload#what-has-worked-in-schools"  target="_blank" rel="noopener noreferrer">what has worked in schools<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a></li>
         <li>reported on <a href="https://www.gov.uk/government/publications/reducing-teacher-workload-education-development-trust-report"  target="_blank" rel="noopener noreferrer">school-led projects<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></li>
+          window)</span><i class="icon icon-external"></i></a></li>
       </ul>
       <br/>
     </li>
-    <li>introduced a <a href="https://www.gov.uk/guidance/behaviour-hubs"  target="_blank" rel="noopener noreferrer">Behaviour Hubs<span class="govuk-visually-hidden">(Link opens in new
+    <li>introduce a <a href="https://www.gov.uk/guidance/behaviour-hubs"  target="_blank" rel="noopener noreferrer">Behaviour Hubs<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>
      programme that will enable schools with exemplary behaviour to work with other schools to improve their behaviour culture
   <br/>
   </li>
-    <li><span>created <a href="https://www.gov.uk/government/collections/flexible-working-resources-for-teachers-and-schools"  target="_blank" rel="noopener noreferrer">flexible working opportunities<span class="govuk-visually-hidden">(Link opens in new
+    <li><span>create <a href="https://www.gov.uk/government/collections/flexible-working-resources-for-teachers-and-schools"  target="_blank" rel="noopener noreferrer">flexible working opportunities<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a> for teachers</span>
       
    <p>You can search for jobs with flexible working patterns by using <a href="https://teaching-vacancies.service.gov.uk/"  target="_blank" rel="noopener noreferrer">Teaching Vacancies<span class="govuk-visually-hidden">(Link opens in new
