@@ -86,15 +86,6 @@ jobs:
              HTTPAUTH_PASSWORD: "${{ secrets.HTTPAUTH_PASSWORD }}"
              HTTPAUTH_USERNAME: "${{ secrets.HTTPAUTH_USERNAME }}"
 
-       - name: Update Dockerhub with Release Tag
-         run: |
-           docker tag "Steve"  ${{ env.DOCKERHUB_REPOSITORY }} 
-         with:
-             username: ${{ secrets.DOCKERHUB_USERNAME }}
-             password: ${{ secrets.DOCKERHUB_PERSONAL_ACCESS_TOKEN }}
-             repository: ${{ env.DOCKERHUB_REPOSITORY }}
-             tag: "Steve"
-
        - name: Create Sentry release
          if: success()
          uses: getsentry/action-release@v1.0.0
