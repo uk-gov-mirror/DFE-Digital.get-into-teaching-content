@@ -1,13 +1,11 @@
 ---  
 name: Release to Production
 on: 
-   repository_dispatch:
    workflow_dispatch:
-    inputs:
-      tags:
-        description: 'Release Tag'
-        required: true
-        default: 'master'
+     inputs:
+       tags:
+         description: 'Release Tag'
+         required: true
 
 env:
   DOCKERHUB_REPOSITORY: dfedigital/get-into-teaching-frontend
