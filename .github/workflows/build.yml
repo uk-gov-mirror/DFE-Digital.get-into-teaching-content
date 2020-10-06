@@ -151,7 +151,7 @@ jobs:
       - name: Smoke tests
         if: github.ref == 'refs/heads/master'
         run: |
-             tests/confidence/healthcheck.sh  "get-into-teaching-app-dev" "${parent_sha}" "${{ steps.sha.outputs.short }}"
+             tests/confidence/healthcheck.sh  "get-into-teaching-app-dev" "${{ steps.sha.outputs.short }}"
         env:
              HTTPAUTH_PASSWORD: "${{ secrets.HTTPAUTH_PASSWORD }}"
              HTTPAUTH_USERNAME: "${{ secrets.HTTPAUTH_USERNAME }}"
