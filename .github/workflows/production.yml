@@ -22,6 +22,16 @@ jobs:
       run:
         shell: bash
     steps:
+       - name: Check Tag is a Release
+         run: |
+               rval=$(curl -s -X GET https://api.github.com/repos/DFE-Digital/get-into-teaching-content/releases/tags/${{ github.event.inputs.tags }} | jq -r ".message")
+               if [ "${rval}" = "Not Found" ]
+               then
+                   echo "Tag ${{ github.event.inputs.tags }} cannot be found in releases"
+                   exit 1
+               fi
+               exit 0
+
        - name: Checkout
          uses: actions/checkout@v2
          with:
@@ -31,16 +41,11 @@ jobs:
          id: sha
          run: echo ::set-output name=short::$(git rev-parse --short HEAD )
 
-       - name: Get parent SHA 
-         run: |
-           echo ::set-env name=parent_sha::$(docker run dfedigital/get-into-teaching-web:latest cat /etc/get-into-teaching-app-sha)
-
        - name: Set new docker image version
          run: |
-           docker_image_tag="sha-${{ steps.sha.outputs.short }}-${parent_sha}"
+           docker_image_tag="sha-${{ steps.sha.outputs.short }}"
            echo ::set-env name=docker_image_tag::${docker_image_tag}
            echo "Content SHA: ${{ steps.sha.outputs.short }}"
-           echo "Parent SHA: ${parent_sha}"
            echo "New version tag: ${docker_image_tag}"
 
        - name: Wait for any previous runs to complete
@@ -83,40 +88,40 @@ jobs:
              TF_VAR_RAILS_MASTER_KEY:  "${{ secrets.RAILS_MASTER_KEY_PRODUCTION }}"
              TF_VAR_RAILS_ENV:         "production"
 
-       - name: Terraform Apply
-         run: |
-             cd terraform/paas && pwd
-             terraform apply -auto-approve plan
-         env:
-             TF_VAR_user:              "${{ secrets.GOVUKPAAS_USERNAME  }}"
-             TF_VAR_password:          "${{ secrets.GOVUKPAAS_PASSWORD  }}"
-             ARM_ACCESS_KEY:           "${{ secrets.PROD_ARM_ACCESS_KEY  }}"
+#      - name: Terraform Apply
+#        run: |
+#            cd terraform/paas && pwd
+#            terraform apply -auto-approve plan
+#        env:
+#            TF_VAR_user:              "${{ secrets.GOVUKPAAS_USERNAME  }}"
+#            TF_VAR_password:          "${{ secrets.GOVUKPAAS_PASSWORD  }}"
+#            ARM_ACCESS_KEY:           "${{ secrets.PROD_ARM_ACCESS_KEY  }}"
 
-       - name: Smoke tests
-         run: |
-             tests/confidence/healthcheck.sh  "get-into-teaching-app-prod" "${parent_sha}" "${{ steps.sha.outputs.short }}"
-         env:
-             HTTPAUTH_PASSWORD: ""
-             HTTPAUTH_USERNAME: ""
+#      - name: Smoke tests
+#        run: |
+#            tests/confidence/healthcheck.sh  "get-into-teaching-app-prod" "${parent_sha}" "${{ steps.sha.outputs.short }}"
+#        env:
+#            HTTPAUTH_PASSWORD: ""
+#            HTTPAUTH_USERNAME: ""
 
-       - name: Create Sentry release
-         if: success()
-         uses: getsentry/action-release@v1.0.0
-         env:
-           SENTRY_AUTH_TOKEN: ${{ secrets.SENTRY_AUTH_TOKEN }}
-           SENTRY_ORG: ${{ secrets.SENTRY_ORG }}
-           SENTRY_PROJECT: ${{ secrets.SENTRY_PROJECT }}
-         with:
-           environment: production
+#      - name: Create Sentry release
+#        if: success()
+#        uses: getsentry/action-release@v1.0.0
+#        env:
+#          SENTRY_AUTH_TOKEN: ${{ secrets.SENTRY_AUTH_TOKEN }}
+#          SENTRY_ORG: ${{ secrets.SENTRY_ORG }}
+#          SENTRY_PROJECT: ${{ secrets.SENTRY_PROJECT }}
+#        with:
+#          environment: production
 
-       - name: Slack Notification
-         if: failure()
-         uses: rtCamp/action-slack-notify@master
-         env:
-           SLACK_CHANNEL: getintoteaching_tech
-           SLACK_COLOR: '#3278BD'
-           SLACK_ICON: https://github.com/rtCamp.png?size=48
-           SLACK_MESSAGE: ':disappointed_relieved: Pipeline Failure carrying out job ${{github.job}} :disappointed_relieved:'
-           SLACK_TITLE: 'Failure: ${{ github.workflow }}'
-           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+#      - name: Slack Notification
+#        if: failure()
+#        uses: rtCamp/action-slack-notify@master
+#        env:
+#          SLACK_CHANNEL: getintoteaching_tech
+#          SLACK_COLOR: '#3278BD'
+#          SLACK_ICON: https://github.com/rtCamp.png?size=48
+#          SLACK_MESSAGE: 'Pipeline Failure carrying out job ${{github.job}}'
+#          SLACK_TITLE: 'Failure: ${{ github.workflow }}'
+#          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
                
