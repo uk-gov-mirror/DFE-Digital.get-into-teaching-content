@@ -97,7 +97,7 @@ jobs:
 
        - name: Smoke tests
          run: |
-             tests/confidence/healthcheck.sh  "get-into-teaching-app-prod" "${parent_sha}" "${{ steps.sha.outputs.short }}"
+             tests/confidence/healthcheck.sh  "get-into-teaching-app-prod" "${{ steps.sha.outputs.short }}"
          env:
              HTTPAUTH_PASSWORD: ""
              HTTPAUTH_USERNAME: ""

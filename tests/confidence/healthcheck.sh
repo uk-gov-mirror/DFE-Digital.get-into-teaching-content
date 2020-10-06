@@ -5,8 +5,7 @@
 ###
 ### Input parameters ( not validated )
 ### 1 URL
-### 2 APPLICATION SHA
-### 3 CONTENT SHA
+### 2 CONTENT SHA
 ###
 ### Returns
 ### 1 on failure
@@ -14,8 +13,7 @@
 ###
 #################################################################################################
 URL=${1}
-APP_SHA=${2}
-CONTENT_SHA=${3}
+CONTENT_SHA=${2}
 
 #URL="get-into-teaching-app-dev"
 #APP_SHA="de1bb0b"
@@ -40,15 +38,6 @@ else
 	echo "HTTP Status is Healthy"
 
         json=$(curl ${AUTHORITY}  -s -X GET ${FULL_URL})
-
-        sha=$( echo ${json} | jq -r .app_sha)
-        if [ "${sha}" != "${APP_SHA}"  ] 
-        then
-		echo "APPLICATION SHA (${sha}) is not ${APP_SHA} "
-        	rval=1
-        else
-                echo "APPLICATION SHA is correct"
-        fi
 
         sha=$( echo ${json} | jq -r .content_sha)
         if [ "${sha}" != "${CONTENT_SHA}"  ] 
