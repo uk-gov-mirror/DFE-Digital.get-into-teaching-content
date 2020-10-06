@@ -19,21 +19,18 @@ jobs:
     steps:
        - name: Checkout
          uses: actions/checkout@v2
+         with:
+               ref: "t.57"
 
        - name: Get Short SHA
          id: sha
-         run: echo ::set-output name=short::$(git rev-parse --short $GITHUB_SHA)
-
-       - name: Get parent SHA 
-         run: |
-           echo ::set-env name=parent_sha::$(docker run dfedigital/get-into-teaching-web:latest cat /etc/get-into-teaching-app-sha)
+         run: echo ::set-output name=short::$(git rev-parse --short HEAD )
 
        - name: Set new docker image version
          run: |
-           docker_image_tag="sha-${{ steps.sha.outputs.short }}-${parent_sha}"
+           docker_image_tag="sha-${{ steps.sha.outputs.short }}"
            echo ::set-env name=docker_image_tag::${docker_image_tag}
            echo "Content SHA: ${{ steps.sha.outputs.short }}"
-           echo "Parent SHA: ${parent_sha}"
            echo "New version tag: ${docker_image_tag}"
 
        - name: Wait for any previous runs to complete
@@ -87,10 +84,19 @@ jobs:
 
        - name: Smoke tests
          run: |
-             tests/confidence/healthcheck.sh  "get-into-teaching-app-test" "${parent_sha}" "${{ steps.sha.outputs.short }}"
+             tests/confidence/healthcheck.sh  "get-into-teaching-app-test" "${{ steps.sha.outputs.short }}"
          env:
              HTTPAUTH_PASSWORD: "${{ secrets.HTTPAUTH_PASSWORD }}"
              HTTPAUTH_USERNAME: "${{ secrets.HTTPAUTH_USERNAME }}"
+
+       - name: Update Dockerhub with Release Tag
+         run: |
+           docker tag "Steve"  ${{ env.DOCKERHUB_REPOSITORY }} 
+         with:
+             username: ${{ secrets.DOCKERHUB_USERNAME }}
+             password: ${{ secrets.DOCKERHUB_PERSONAL_ACCESS_TOKEN }}
+             repository: ${{ env.DOCKERHUB_REPOSITORY }}
+             tag: "Steve"
 
        - name: Create Sentry release
          if: success()
