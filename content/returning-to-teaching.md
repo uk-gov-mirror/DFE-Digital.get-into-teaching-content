@@ -7,10 +7,10 @@ backlink: "../../"
   <div class="link-block link-block--jump">
     <h2 id="top" class="link-block__header">On this page:</h2>
     <ul class="link-block__list">
-      <li><a href="#how-were-improving-things-for-teachers">How we're improving things for teachers</a></li>
-      <li><a href="#get-up-to-date-with-best-practice">Get up to date with best practice</a></li>
       <li><a href="#modern-languages-maths-physics">Modern languages, maths or physics</a></li>
-      <li><a href="#for-teachers-trained-in-england">For teachers who trained in England returning from overseas</a></li>
+       <li><a href="#get-up-to-date-with-best-practice">Get up to date with best practice</a></li>
+       <li><a href="#for-teachers-trained-in-england">For teachers who trained in England returning from overseas</a></li>
+      <li><a href="#how-dfe-improving-things-for-teachers">How Department for Education are improving life for teachers</a></li>
       <li><a href="#stories-about-returning-to-teaching">Stories about returning to teaching in England</a></li>
     </ul>
   </div>
@@ -116,6 +116,29 @@ window)</span><i class="icon icon-external"></i></a></li>
 
 <p><a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/">Read stories about teachers with international experience who've made the move back to England</a>.</p>
 
+<h3>Getting qualified</h3>
+
+<p>If you taught overseas as an unqualified teacher, you'll need <a href="https://www.gov.uk/guidance/qualified-teacher-status-qts"  target="_blank" rel="noopener noreferrer">qualified teacher status(QTS)<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> to teach in a maintained school in England.</p>
+
+<p>If you're experienced and have a degree, you may be able to get QTS through the <a href="guidance#assessment-only" target="_blank">assessment only</a> route without any further training.</p>
+<p>If you have fewer than 2 years of teaching experience, you can get qualified on a <a href="https://www.find-postgraduate-teacher-training.service.gov.uk/"  target="_blank" rel="noopener noreferrer">teacher training course<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>.</p>
+<p>You can teach as an unqualified teacher in academies and free schools.</p>
+
+<h3>Further information and support</h3>
+<ul>
+  <li>if you’re returning to teach maths or physics in a state-funded school in certain areas, <a href="https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/claim-a-payment-for-teaching-maths-or-physics-eligibility-and-payment-details"  target="_blank" rel="noopener noreferrer">you could be eligible for a £2,000 payment after tax<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a></li>
+<li>returning science, languages and computing teachers in 25 local authorities may also be eligible to <a href="https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/teachers-claim-back-your-student-loan-repayments-eligibility-and-payment-details"  target="_blank" rel="noopener noreferrer">claim back student loan repayments<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a></li>
+<li>if you’re returning to teach secondary maths, core maths, physics or languages and want to refresh your knowledge, you may be eligible for a <a href="https://www.gov.uk/guidance/teacher-subject-specialism-training-courses"  target="_blank" rel="noopener noreferrer">free subject specialist training course<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a></li>
+</ul>
+
+<p><a href="#top">Back to top</a></p>
+
+
 <h3>Finding a role</h3>
 
 <p><a href="https://teaching-vacancies.service.gov.uk/"  target="_blank" rel="noopener noreferrer">Search for a teaching role in England<span class="govuk-visually-hidden">(Link opens in new
@@ -149,26 +172,30 @@ window)</span><i class="icon icon-external"></i></a>.</p>
 <p>NPQs can help you get into leadership positions such as head of department, deputy headteacher or headteacher.</p>
 
 
-<h2 id="how-were-improving-things-for-teachers">How we’re improving things for teachers</h2>
+<h2 id="how-dfe-improving-things-for-teachers">How Department for Education are improving life for teachers</h2>
   
-  <p>A lot has changed for teachers in England over the last few years. The Department for Education is working with schools to:</p>
+  <p>A lot has changed for teachers in England over the last few years.</p>
 
   <ol>
-    <li><span>Reduce workload</span>
-      <p>There has been a reduction between 2016 and 2019 in <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/838433/Teacher_workload_survey_2019_brief.pdf"  target="_blank" rel="noopener noreferrer">reported working hours for teachers, middle leaders and senior leaders<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> of 5 hours a week.</p>
-      <p>Take a look at practical tools in the <a href="https://www.gov.uk/guidance/school-workload-reduction-toolkit"  target="_blank" rel="noopener noreferrer">workload reduction kit<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>, examples of <a href="https://www.gov.uk/government/collections/reducing-school-workload#what-has-worked-in-schools"  target="_blank" rel="noopener noreferrer">what's worked in schools<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> and a <a href="https://www.gov.uk/government/publications/reducing-teacher-workload-education-development-trust-report"  target="_blank" rel="noopener noreferrer">report on school-led projects<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> aimed at reducing teacher workload.</p>
+    <li><span>Teachers are working less hours</span>
+      <p>You can see a reduction of 5 hours a week in <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/838433/Teacher_workload_survey_2019_brief.pdf"  target="_blank" rel="noopener noreferrer">reported working hours for teachers, middle leaders and senior leaders<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>.</p>
+      <p>Read about the action Department for Education has taken to reduce teacher workload:</p>
+      <ul>
+        <li>implemented a <a href="https://www.gov.uk/guidance/school-workload-reduction-toolkit"  target="_blank" rel="noopener noreferrer">workload reduction kit<span class="govuk-visually-hidden">(Link opens in new
+        window)</span><i class="icon icon-external"></i></a></li>
+        <li>discovered <a href="https://www.gov.uk/government/collections/reducing-school-workload#what-has-worked-in-schools"  target="_blank" rel="noopener noreferrer">what's worked in schools<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a></li>
+        <li>reported on <a href="https://www.gov.uk/government/publications/reducing-teacher-workload-education-development-trust-report"  target="_blank" rel="noopener noreferrer">school-led projects<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></li>
+      </ul>
       <br/>
     </li>
-    <li><span>Improve behaviour</span>
-  <p>The Department for Education has <a href="https://www.gov.uk/guidance/behaviour-hubs"  target="_blank" rel="noopener noreferrer"> invested £10m through Behaviour Hubs<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> so that schools with exemplary behaviour can work closely with schools that want to improve behaviour.</p>
-      <br/>
+    <li><span>Behaviour Hubs</span>
+      The Department for Education has introduced a <a href="https://www.gov.uk/guidance/behaviour-hubs"  target="_blank" rel="noopener noreferrer">Behaviour Hubs <span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>programme that will enable schools with exemplary behaviour to work with other schools to improve their behaviour culture.
+  <br/>
   </li>
-    <li><span>Increase the offer of flexible working</span>
+    <li><span>flexible working</span>
       <p>There are opportunities for teachers to <a href="https://www.gov.uk/government/collections/flexible-working-resources-for-teachers-and-schools"  target="_blank" rel="noopener noreferrer">work flexibly<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>.
     You can search for jobs with flexible working patterns by using <a href="https://teaching-vacancies.service.gov.uk/"  target="_blank" rel="noopener noreferrer">Teaching Vacancies<span class="govuk-visually-hidden">(Link opens in new
@@ -178,29 +205,8 @@ window)</span><i class="icon icon-external"></i></a>.</p>
   
   <p><a href="#top">Back to top</a></p>
  
-<h3>Getting qualified</h3>
-
-<p>If you taught overseas as an unqualified teacher, you'll need <a href="https://www.gov.uk/guidance/qualified-teacher-status-qts"  target="_blank" rel="noopener noreferrer">qualified teacher status(QTS)<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> to teach in a maintained school in England.</p>
 
 
-
-<p>If you're experienced and have a degree, you may be able to get QTS through the <a href="guidance#assessment-only" target="_blank">assessment only</a> route without any further training.</p>
-<p>If you have fewer than 2 years of teaching experience, you can get qualified on a <a href="https://www.find-postgraduate-teacher-training.service.gov.uk/"  target="_blank" rel="noopener noreferrer">teacher training course<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>.</p>
-<p>You can teach as an unqualified teacher in academies and free schools.</p>
-
-<p><a href="#top">Back to top</a></p>
-
-<h3>Further information and support</h3>
-<ul>
-  <li>if you’re returning to teach maths or physics in a state-funded school in certain areas, <a href="https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/claim-a-payment-for-teaching-maths-or-physics-eligibility-and-payment-details"  target="_blank" rel="noopener noreferrer">you could be eligible for a £2,000 payment after tax<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a></li>
-<li>returning science, languages and computing teachers in 25 local authorities may also be eligible to <a href="https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/teachers-claim-back-your-student-loan-repayments-eligibility-and-payment-details"  target="_blank" rel="noopener noreferrer">claim back student loan repayments<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a></li>
-<li>if you’re returning to teach secondary maths, core maths, physics or languages and want to refresh your knowledge, you may be eligible for a <a href="https://www.gov.uk/guidance/teacher-subject-specialism-training-courses"  target="_blank" rel="noopener noreferrer">free subject specialist training course<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a></li>
-</ul>
 
 <h2 id="stories-about-returning-to-teaching">Stories about returning to teaching in England</h2> 
   <br/>

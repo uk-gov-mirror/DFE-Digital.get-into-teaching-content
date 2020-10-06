@@ -1,7 +1,6 @@
 ---  
 name: Release to test
 on: 
-   repository_dispatch:
    workflow_dispatch:
    release:
      types:  [edited, created]
