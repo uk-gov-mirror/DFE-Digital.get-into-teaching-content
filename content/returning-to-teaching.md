@@ -174,10 +174,10 @@ window)</span><i class="icon icon-external"></i></a>.</p>
 
 <h2 id="how-dfe-improving-things-for-teachers">How Department for Education are improving life for teachers</h2>
   
-  <p>A lot has changed for teachers in England over the last few years.</p>
+  <p>A lot has changed for teachers in England over the last few years. The Department of Education is working with schools to:</p>
 
   <ol>
-    <li><span>Teachers are working less hours</span>
+    <li><span>help teachers work fewer hours</span>
       <p>You can see a reduction of 5 hours a week in <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/838433/Teacher_workload_survey_2019_brief.pdf"  target="_blank" rel="noopener noreferrer">reported working hours for teachers, middle leaders and senior leaders<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>.</p>
       <p>Read about the action Department for Education has taken to reduce teacher workload:</p>
       <ul>
@@ -190,15 +190,15 @@ window)</span><i class="icon icon-external"></i></li>
       </ul>
       <br/>
     </li>
-    <li><span>Behaviour Hubs</span>
-      The Department for Education has introduced a <a href="https://www.gov.uk/guidance/behaviour-hubs"  target="_blank" rel="noopener noreferrer">Behaviour Hubs <span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>programme that will enable schools with exemplary behaviour to work with other schools to improve their behaviour culture.
+    <li>introduce a <a href="https://www.gov.uk/guidance/behaviour-hubs"  target="_blank" rel="noopener noreferrer">Behaviour Hubs<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>
+     programme that will enable schools with exemplary behaviour to work with other schools to improve their behaviour culture
   <br/>
   </li>
-    <li><span>flexible working</span>
-      <p>There are opportunities for teachers to <a href="https://www.gov.uk/government/collections/flexible-working-resources-for-teachers-and-schools"  target="_blank" rel="noopener noreferrer">work flexibly<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>.
-    You can search for jobs with flexible working patterns by using <a href="https://teaching-vacancies.service.gov.uk/"  target="_blank" rel="noopener noreferrer">Teaching Vacancies<span class="govuk-visually-hidden">(Link opens in new
+    <li><span>create <a href="https://www.gov.uk/government/collections/flexible-working-resources-for-teachers-and-schools"  target="_blank" rel="noopener noreferrer">flexible working opportunities<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> for teachers</span>
+      
+   <p>You can search for jobs with flexible working patterns by using <a href="https://teaching-vacancies.service.gov.uk/"  target="_blank" rel="noopener noreferrer">Teaching Vacancies<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>.</p>
   </li>
   </ol>
