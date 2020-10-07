@@ -34,7 +34,7 @@ window)</span><i class="icon icon-external"></i></a>.</p>
 <p>Candidates can search and sign up through our <a href="https://schoolexperience.education.gov.uk/" target="_blank" rel="noopener noreferrer">Get school experience service<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>.</p>
         <p><strong>Q. Does the 40-day rule for making decisions about ITT applications still apply?</strong></p>
-        <p>A. The 40-day rule for making decisions about ITT applications was reinstated on 1 June. This has now been reduced to 20 days.</p>
+        <p>A. The 40-day rule for making decisions about ITT applications still applies.</p>
         <p><strong>Q. Do I have to have a face-to-face interview?</strong></p>
         <p>A. There is no requirement for a face-to-face interview. These can take place electronically, ideally by Skype or similar. Documentation such as degree and GCSE certificates may be scanned and sent electronically.</p>
         <p>Applicants should wait to be contacted by the providers for specific guidance.</p>
