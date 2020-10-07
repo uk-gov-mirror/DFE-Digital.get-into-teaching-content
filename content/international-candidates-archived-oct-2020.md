@@ -1,4 +1,3 @@
-
 ---
 title: "International candidates"
 image: "/assets/images/international-dt.jpg"
