@@ -209,6 +209,7 @@ window)</span><i class="icon icon-external"></i></a></span></li>
 <li><span><a href="https://www.randstad.co.uk/job-seeker/areas-of-expertise/education/stem-registration/?utm_source=DfE%20website&utm_medium=STEM%20candidate%20page&utm_campaign=DfE%20website"  target="_blank" rel="noopener noreferrer">Randstad Education<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a></span></li>
 </ul>
+<br/>
 
 <h2>Search and apply for teaching jobs</h2> 
 <p>You can browse available teaching jobs in England using the UK government’s <a href="https://teaching-vacancies.service.gov.uk/" target="_blank" rel="noopener noreferrer">Teaching vacancies service<span class="govuk-visually-hidden">(Link opens in new
