@@ -196,7 +196,7 @@ window)</span><i class="icon icon-external"></i></a>
      programme that will enable schools with exemplary behaviour to work with other schools to improve their behaviour culture
   <br/>
   </li>
-    <li><span>create <a href="https://www.gov.uk/government/collections/flexible-working-resources-for-teachers-and-schools"  target="_blank" rel="noopener noreferrer">flexible working opportunities<span class="govuk-visually-hidden">(Link opens in new
+    <li><span>increase <a href="https://www.gov.uk/government/collections/flexible-working-resources-for-teachers-and-schools"  target="_blank" rel="noopener noreferrer">flexible working opportunities<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a> for teachers</span>
       
    <p>You can search for jobs with flexible working patterns by using <a href="https://teaching-vacancies.service.gov.uk/"  target="_blank" rel="noopener noreferrer">Teaching Vacancies<span class="govuk-visually-hidden">(Link opens in new
