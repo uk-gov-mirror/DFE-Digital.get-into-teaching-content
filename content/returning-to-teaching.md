@@ -124,6 +124,9 @@ window)</span><i class="icon icon-external"></i></a> to teach in a maintained sc
 <p>If you're experienced and have a degree, you may be able to get QTS through the <a href="guidance#assessment-only" target="_blank">assessment only</a> route without any further training.</p>
 <p>If you have fewer than 2 years of teaching experience, you can get qualified on a <a href="https://www.find-postgraduate-teacher-training.service.gov.uk/"  target="_blank" rel="noopener noreferrer">teacher training course<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>.</p>
+
+<p><a href="https://www.gov.uk/guidance/qualified-teacher-status-qts#teachers-qualified-in-australia-canada-new-zealand-and-the-usa"  target="_blank" rel="noopener noreferrer">If you qualified overseas in the EEA, Switzerland, Australia, Canada, New Zealand or the USA, you can apply for QTS<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>.</p>
 <p>You can teach as an unqualified teacher in academies and free schools.</p>
 
 <h3>Further information and support</h3>
