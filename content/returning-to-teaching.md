@@ -175,29 +175,18 @@ window)</span><i class="icon icon-external"></i></a>.</p>
 <p>NPQs can help you get into leadership positions such as head of department, deputy headteacher or headteacher.</p>
 
 
-<h2 id="how-dfe-improving-things-for-teachers">How Department for Education are improving life for teachers</h2>
+<h2 id="how-dfe-improving-things-for-teachers">Improving the lives of teachers</h2>
   
-  <p>A lot has changed for teachers in England over the last few years. The Department of Education has worked with schools to:</p>
+  <p>A lot has changed for teachers in England over the last few years.</p>
+  <p>The Department of Education has worked with schools to:</p>
 
-  <ol>
-    <li><span>help teachers work fewer hours</span>
-      <p>You can see a reduction of 5 hours a week in <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/838433/Teacher_workload_survey_2019_brief.pdf"  target="_blank" rel="noopener noreferrer">reported working hours for teachers, middle leaders and senior leaders<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>.</p>
-      <p>Read about the action Department for Education has taken to reduce teacher workload. It has:</p>
-      <ul>
-        <li>implemented a <a href="https://www.gov.uk/guidance/school-workload-reduction-toolkit"  target="_blank" rel="noopener noreferrer">workload reduction kit<span class="govuk-visually-hidden">(Link opens in new
+  <ul>
+    <li><span><a href="https://www.gov.uk/government/publications/teacher-workload-survey-2019"  target="_blank" rel="noopener noreferrer">reduce the hours teachers work<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></span>
+      <li>develop a <a href="https://www.gov.uk/guidance/school-workload-reduction-toolkit"  target="_blank" rel="noopener noreferrer">workload reduction kit<span class="govuk-visually-hidden">(Link opens in new
         window)</span><i class="icon icon-external"></i></a></li>
-        <li>discovered <a href="https://www.gov.uk/government/collections/reducing-school-workload#what-has-worked-in-schools"  target="_blank" rel="noopener noreferrer">what has worked in schools<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a></li>
-        <li>reported on <a href="https://www.gov.uk/government/publications/reducing-teacher-workload-education-development-trust-report"  target="_blank" rel="noopener noreferrer">school-led projects<span class="govuk-visually-hidden">(Link opens in new
-          window)</span><i class="icon icon-external"></i></a></li>
-      </ul>
-      <br/>
-    </li>
-  <br/>
-    <li>introduce a <a href="https://www.gov.uk/guidance/behaviour-hubs"  target="_blank" rel="noopener noreferrer">Behaviour Hubs<span class="govuk-visually-hidden">(Link opens in new
+       <li>improve behaviour in schools by introducing the <a href="https://www.gov.uk/guidance/behaviour-hubs"  target="_blank" rel="noopener noreferrer">Behaviour Hubs<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>
-     programme that will enable schools with exemplary behaviour to work with other schools to improve their behaviour culture
-  <br/>
+     programme
   </li>
     <li><span>increase <a href="https://www.gov.uk/government/collections/flexible-working-resources-for-teachers-and-schools"  target="_blank" rel="noopener noreferrer">flexible working opportunities<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a> for teachers</span>
