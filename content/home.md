@@ -42,7 +42,7 @@ backlink: "/"
             <span class="cta-link__label">Teaching as a career</span>
         </div>
     </a>
-    <a class="cta-link" href="/life-as-a-teacher">
+    <a class="cta-link" href="/life-as-a-teacher/teachers-salaries-and-benefits">
         <div class="cta-link__img" style="background-image: url(assets/images/piclink2.png)">
             <span class="cta-link__label">Salaries and benefits</span>
         </div>
