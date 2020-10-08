@@ -74,7 +74,7 @@ fullwidth: true
             <h2>International returning teachers</h2>
             <p>
                 <br/>
-                See how candidates with international qualifications became teachers in England and how already qualified teachers' returned to England from abroad, to get back into the profession.
+                See how already qualified teachers' returned to England from abroad, to get back into the profession.
             </p>
         </div>
     </div>
