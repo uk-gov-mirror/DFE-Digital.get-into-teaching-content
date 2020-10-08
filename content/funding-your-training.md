@@ -83,7 +83,7 @@ window)</span><i class="icon icon-external"></i></a>.</p>
 <p>You could get a bursary or scholarship, student finance and extra funding to train to teach.</p>
 
   
-<p>If you’re an EU national starting a teacher training course in the academic year 2020/21, you could get a bursary or scholarship, and student finance.</p>
+<p>If you’re an EU national starting a teacher training course in the academic year 2021/22, you could get a bursary or scholarship, and student finance.</p>
 
 <p><a href="/international-candidates#funding">Read about funding for international students</a>.</p>
 
