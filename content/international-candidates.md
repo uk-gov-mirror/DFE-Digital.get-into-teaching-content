@@ -219,7 +219,7 @@ window)</span><i class="icon icon-external"></i></a>.</p>
 <p><a href="#top">Back to top</a></p>
 
 
-<h2>Stories from international teachers</h2> 
+<!--<h2>Stories from international teachers</h2> 
 <div class="stories-inline">
     <div class="stories-inline__block">
       <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience">
@@ -239,7 +239,7 @@ window)</span><i class="icon icon-external"></i></a>.</p>
         <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-support-from-an-adviser">
         <br/>
         Read Shaun's story</a>
-      </div>
+      </div>-->
     </div>
   </div>
 </div>
