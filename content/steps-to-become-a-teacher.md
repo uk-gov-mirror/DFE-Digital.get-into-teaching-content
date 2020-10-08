@@ -40,7 +40,7 @@ navigation: 20
    <p>
         If you do not have the required GCSEs, you’ll need to show that you have an equivalent level of education.
       </p>
-      <a href="/ways-to-train-guidance#subject-knowledge-enhancement-courses" target="_blank" rel="noopener noreferrer">If your degree is not in the subject you want to teach<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>
+      <p><a href="/ways-to-train-guidance#subject-knowledge-enhancement-courses" target="_blank" rel="noopener noreferrer">If your degree is not in the subject you want to teach<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></p>
       
    <p>
     Here's what you need to do if you:
