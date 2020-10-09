@@ -39,8 +39,10 @@ backlink: "../../"
   <p>In many schools funded by the UK government in England ('<a href="https://www.gov.uk/types-of-school"  target="_blank" rel="noopener noreferrer">state schools <span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>'), teachers must have 'qualified teacher status' (QTS).</p>
   
-  <p>International qualified teachers are allowed to work as a teacher in England for up to 4 years without QTS.  <a href="https://www.gov.uk/guidance/recruit-teachers-from-overseas#employing-overseas-teachers-without-qts-the-4-year-rule"  target="_blank" rel="noopener noreferrer">Learn more about the ‘4 year rule’<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>.</p>
+  <p>International qualified teachers are allowed to work as a teacher in England for up to 4 years without QTS.</p>
+  
+  <p>Learn more about the ‘<a href="https://www.gov.uk/guidance/recruit-teachers-from-overseas#employing-overseas-teachers-without-qts-the-4-year-rule"  target="_blank" rel="noopener noreferrer">4 year rule<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>’.</p>
 
 <p>However, you’ll strengthen your application for teaching jobs in the UK in both the state sector and <a href="https://www.gov.uk/types-of-school/private-schools" target="_blank" rel="noopener noreferrer">private sector<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a> if you have QTS.</p>
@@ -60,7 +62,7 @@ window)</span><i class="icon icon-external"></i></a></p>
   
 <h2 id="how-to-apply-for-qts">How to apply for QTS</h2>
 
-<p>Fast-track application for teachers who qualified in:</p>
+<h3>Fast-track application for teachers who qualified in the following countries</h3>
 <ul>
   <li>the <a href="https://www.gov.uk/eu-eea" target="_blank" rel="noopener noreferrer">European Economic Area <span class="govuk-visually-hidden">(Link opens in new
     window)</span><i class="icon icon-external"></i></a> (EEA)</li>
@@ -102,7 +104,7 @@ window)</span><i class="icon icon-external"></i></a>.</p>
 window)</span><i class="icon icon-external"></i></a>.</p>
 
 
-<h2>Check if you’re eligible for extra support</h2>
+<h3>Check if you’re eligible for extra support</h3>
 
 <p>If you qualified as a teacher of maths, physics, computer science, general science or modern foreign languages in Australia, Canada, France, Germany, Jamaica, New Zealand, South Africa, Spain or the USA, you are eligible for extra help from DfE, including:</p>
 
@@ -168,7 +170,7 @@ window)</span><i class="icon icon-external"></i></a>. When you complete your stu
 window)</span><i class="icon icon-external"></i></a> programme.</p>  
 
 
-<h2>Applying for the right visa</h2>
+<h3>Applying for the right visa</h3>
 
 <p><a href="#work-visas" target="_blank" rel="noopener noreferrer">You should check to see if you need a visa to study in the UK</a>. This will probably be a student visa, although you may be eligible for other visas.</p>  
 
@@ -176,7 +178,7 @@ window)</span><i class="icon icon-external"></i></a> programme.</p>
 
 <p><a href="#talk-to-us">Contact us</a> to get help and support about training to teach by phone or online chat.</p>
 
-<h2>Research teacher training courses</h2>
+<h3>Research teacher training courses</h3>
 
 <p>Visit <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses" target="_blank" rel="noopener noreferrer">Find postgraduate teacher training<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a> to search for UK government-approved teacher training courses by location, teaching subject and age group.</p> 
@@ -193,21 +195,22 @@ window)</span><i class="icon icon-external"></i></a>.</p>
 window)</span><i class="icon icon-external"></i></a> (EEA) and Switzerland, you may already need a visa to study or work in the UK. <a href="https://www.gov.uk/check-uk-visa" target="_blank" rel="noopener noreferrer">Check if you need a visa under the current immigration system<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>.</p>
 
-<h2>EU Settlement Scheme</h2>
+<h3>EU Settlement Scheme</h3>
 
 <p>If you are a citizen of a country inside the <a href="https://www.gov.uk/eu-eea" target="_blank" rel="noopener noreferrer">European Economic Area<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> (EEA) or Switzerland, living in the UK by 31 December 2020, you can apply to the EU Settlement Scheme.</p> 
+window)</span><i class="icon icon-external"></i></a> (EEA) or Switzerland, living in the UK by 31 December 2020, you can apply to the <a href="https://www.gov.uk/settled-status-eu-citizens-families" target="_blank" rel="noopener noreferrer">EU Settlement Scheme<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>.</p> 
 
 <p>If your application is successful, you can continue to live, work and study in the UK after 30 June 2021. You will not need to use the points-based immigration system explained here.</p>
 
-<h2>Changes to the UK’s immigration system</h2> 
+<h3>Changes to the UK’s immigration system</h3> 
 
-<p>The new points-based immigration system will apply to all non-UK citizens arriving in the UK from that date, including those from the EEA or Switzerland.</p> 
+<p>The new points-based immigration system will apply to all non-UK citizens arriving in the UK from 1 January 2021, including those from the EEA or Switzerland.</p> 
 
 <p>You can now apply for a <a href="https://www.gov.uk/student-visa" target="_blank" rel="noopener noreferrer">student visa<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a> under the new system; other immigration routes to live and work in the UK will open over the course of 2020.</p>
 
-<h2>Irish citizens</h2>
+<h3>Irish citizens</h3>
 
 <p>Irish citizens will continue to be able to enter, work and study in the UK as they do now.</p>
 
@@ -269,7 +272,7 @@ window)</span><i class="icon icon-external"></i></a></li>
   </ul>
 
 
-<h2>Applying for a skilled worker visa for a salaried teacher training course, or to work as a teacher</h2>
+<h3>Applying for a skilled worker visa for a salaried teacher training course, or to work as a teacher</h3>
 
 <p>For a salaried teacher training course or to work as a teacher, you will need a <a href="https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#skilled-workers" target="_blank" rel="noopener noreferrer">skilled worker visa<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>. Skilled worker visas are sponsored by Home Office licensed employers.</p> 
@@ -281,7 +284,7 @@ window)</span><i class="icon icon-external"></i></a>.</p>
 
 <p>Then, contact your chosen teacher training provider to ask about the school where you’ll be employed during your training. The school must be a Home Office licensed employer sponsor – sponsors can help you apply for your visa.</p> 
 
-<h2>To work as a teacher</h2>
+<h3>To work as a teacher</h3>
 
 <p>First, search for teaching jobs using <a href="https://teaching-vacancies.service.gov.uk/" target="_blank" rel="noopener noreferrer">Teaching Vacancies<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>.</p>
