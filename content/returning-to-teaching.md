@@ -52,6 +52,17 @@ window)</span><i class="icon icon-external"></i></a>.</p>
 <p>The <a href="https://www.ncetm.org.uk/news-features/" target="_blank" rel="noopener noreferrer">National Centre for the Excellence in the Teaching of Mathematics (NCETM)</a> offers <a href="https://www.ncetm.org.uk/in-the-classroom/"  target="_blank" rel="noopener noreferrer"> teaching resources<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a> around the maths you will be teaching.</p>
 
+<h3>Finding a role</h3>
+
+<p><a href="https://teaching-vacancies.service.gov.uk/"  target="_blank" rel="noopener noreferrer">Search for a teaching role in England<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>. You can set up job alerts so that you do not miss out on any opportunities.</p>
+<p>Take a look at the different <a href="https://www.gov.uk/types-of-school"  target="_blank" rel="noopener noreferrer">types of schools and staff roles<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> to find the best opportunity for you.</p>
+<p>We can give you one-to-one support if you’re returning to teach modern foreign languages, maths or physics.</p> 
+<p>Our return to teaching advisers can help with finding vacancies, reviewing your subject and pedagogical knowledge, application support, and interview preparation.</p>
+<p>For advice on returning to teaching, speak to a return to teaching adviser by using the <a href="/tta-service"  target="_blank" rel="noopener noreferrer">Get an adviser<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> service.</p>
+
 <h3>National Tutoring Programme</h3>
 
 <p>This provides two different options to return to a school environment without taking on a full-time or part-time classroom role.</p>
@@ -87,6 +98,16 @@ window)</span><i class="icon icon-external"></i></a> offers courses in basic ICT
 window)</span><i class="icon icon-external"></i></a> for more details.</li>
 </ul>
 
+<h3>Further information and support</h3>
+<ul>
+  <li>if you’re returning to teach maths or physics in a state-funded school in certain areas, <a href="https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/claim-a-payment-for-teaching-maths-or-physics-eligibility-and-payment-details"  target="_blank" rel="noopener noreferrer">you could be eligible for a £2,000 payment after tax<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a></li>
+<li>returning science, languages and computing teachers in 25 local authorities may also be eligible to <a href="https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/teachers-claim-back-your-student-loan-repayments-eligibility-and-payment-details"  target="_blank" rel="noopener noreferrer">claim back student loan repayments<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a></li>
+<li>if you’re returning to teach secondary maths, core maths, physics or languages and want to refresh your knowledge, you may be eligible for a <a href="https://www.gov.uk/guidance/teacher-subject-specialism-training-courses"  target="_blank" rel="noopener noreferrer">free subject specialist training course<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a></li>
+</ul>
+
 <h4>Support for returners identifying with protected characteristics</h4>
 <p>Support for returners (such as coaching opportunities) may be available if you identify with one or more of the protected characteristics as defined by the Equality Act 2010.</p>
 <p>Details of organisations which represent certain characteristics are listed below:</p>
@@ -104,70 +125,6 @@ window)</span><i class="icon icon-external"></i></a></li>
 
 
 <p><a href="#top">Back to top</a></p>
-
-
-
-<h2 id="for-teachers-trained-in-england">For teachers who trained in England returning from overseas</h2>
-
-<p>This is for UK and non-UK nationals who have trained to teach in England and are interested in returning to teach here after teaching overseas.</p>
-
-<p>If you're looking for new opportunities in England, we're here to support you and progress your career in teaching.</p>
-<p>The diversity, culture, different teaching methods you've experienced and skills you've acquired will be an invaluable asset to our schools, children and young people.</p>
-
-<p><a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/">Read stories about teachers with international experience who've made the move back to England</a>.</p>
-
-<h3>Getting qualified</h3>
-
-<p>If you taught overseas as an unqualified teacher, you'll need <a href="https://www.gov.uk/guidance/qualified-teacher-status-qts"  target="_blank" rel="noopener noreferrer">qualified teacher status(QTS)<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> to teach in a maintained school in England.</p>
-
-<p>If you're experienced and have a degree, you may be able to get QTS through the <a href="guidance#assessment-only" target="_blank">assessment only</a> route without any further training.</p>
-<p>If you have fewer than 2 years of teaching experience, you can get qualified on a <a href="https://www.find-postgraduate-teacher-training.service.gov.uk/"  target="_blank" rel="noopener noreferrer">teacher training course<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>.</p>
-
-<p><a href="https://www.gov.uk/guidance/qualified-teacher-status-qts#teachers-qualified-in-australia-canada-new-zealand-and-the-usa"  target="_blank" rel="noopener noreferrer">If you qualified overseas in the EEA, Switzerland, Australia, Canada, New Zealand or the USA, you can apply for QTS<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>.</p>
-<p>You can teach as an unqualified teacher in academies and free schools.</p>
-
-<h3>Further information and support</h3>
-<ul>
-  <li>if you’re returning to teach maths or physics in a state-funded school in certain areas, <a href="https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/claim-a-payment-for-teaching-maths-or-physics-eligibility-and-payment-details"  target="_blank" rel="noopener noreferrer">you could be eligible for a £2,000 payment after tax<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a></li>
-<li>returning science, languages and computing teachers in 25 local authorities may also be eligible to <a href="https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/teachers-claim-back-your-student-loan-repayments-eligibility-and-payment-details"  target="_blank" rel="noopener noreferrer">claim back student loan repayments<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a></li>
-<li>if you’re returning to teach secondary maths, core maths, physics or languages and want to refresh your knowledge, you may be eligible for a <a href="https://www.gov.uk/guidance/teacher-subject-specialism-training-courses"  target="_blank" rel="noopener noreferrer">free subject specialist training course<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a></li>
-</ul>
-
-<p><a href="#top">Back to top</a></p>
-
-
-<h3>Finding a role</h3>
-
-<p><a href="https://teaching-vacancies.service.gov.uk/"  target="_blank" rel="noopener noreferrer">Search for a teaching role in England<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>. You can set up job alerts so that you do not miss out on any opportunities.</p>
-<p>Take a look at the different <a href="https://www.gov.uk/types-of-school"  target="_blank" rel="noopener noreferrer">types of schools and staff roles<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> to find the best opportunity for you.</p>
-<p>We can give you one-to-one support if you’re returning to teach modern foreign languages, maths or physics.</p> 
-<p>Our return to teaching advisers can help with finding vacancies, reviewing your subject and pedagogical knowledge, application support, and interview preparation.</p>
-<p>For advice on returning to teaching, speak to a return to teaching adviser by using the <a href="/tta-service"  target="_blank" rel="noopener noreferrer">Get an adviser<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> service.</p>
-
-
-<h3>Preparing yourself for the move to England</h3>
-<p>You may wish to:</p>
-<ul>
-  <li>join the <a href="https://chartered.college/"  target="_blank" rel="noopener noreferrer">Chartered College of Teaching<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>, the professional body for teachers</li>
-  <li>join a <a href="https://www.tes.com/jobs/careers-advice/pay-and-conditions/which-teachers-union"  target="_blank" rel="noopener noreferrer">teaching union<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a></li>
-  <li>read up on <a href="https://www.teachertoolkit.co.uk/2019/04/04/job-interviews/"  target="_blank" rel="noopener noreferrer">teaching interview tips<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> if it’s been a while since your last interview, as well as <a href="https://www.tes.com/news/coronavirus-10-tips-acing-remote-job-interview"  target="_blank" rel="noopener noreferrer">specific pointers for remote interviewing<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a></li>
-  <li>ensure <a href="https://www.teacherspensions.co.uk/members/working-life/life-events/moving-abroad.aspx"  target="_blank" rel="noopener noreferrer">your pension is up to date</a></li>
-  <li>check the <a href="https://www.gov.uk/foreign-travel-advice"  target="_blank" rel="noopener noreferrer">FCO’s travel advice<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a></li>
-  </ul>
 
 <h3>Career progression</h3>
 <p>If you want to progress in your career in England, you may wish to apply for a <a href="https://www.gov.uk/government/publications/national-professional-qualifications-frameworks"  target="_blank" rel="noopener noreferrer">National Professional Qualification (NPQ)<span class="govuk-visually-hidden">(Link opens in new
@@ -194,9 +151,59 @@ window)</span><i class="icon icon-external"></i></a> for teachers</span>
    <p>You can search for jobs with flexible working patterns by using <a href="https://teaching-vacancies.service.gov.uk/"  target="_blank" rel="noopener noreferrer">Teaching Vacancies<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>.</p>
   </li>
-  </ol>
+  </ul>
   
   <p><a href="#top">Back to top</a></p>
+
+
+<h2 id="for-teachers-trained-in-england">Additional information for teachers who trained in England returning from overseas</h2>
+
+<p>This is for UK and non-UK nationals who have trained to teach in England and are interested in returning to teach here after teaching overseas.</p>
+
+<p>If you're looking for new opportunities in England, we're here to support you and progress your career in teaching.</p>
+<p>The diversity, culture, different teaching methods you've experienced and skills you've acquired will be an invaluable asset to our schools, children and young people.</p>
+
+<p><a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/">Read stories about teachers with international experience who've made the move back to England</a>.</p>
+
+<h3>Preparing yourself for the move to England</h3>
+<p>You may wish to:</p>
+<ul>
+  <li>join the <a href="https://chartered.college/"  target="_blank" rel="noopener noreferrer">Chartered College of Teaching<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>, the professional body for teachers</li>
+  <li>join a <a href="https://www.tes.com/jobs/careers-advice/pay-and-conditions/which-teachers-union"  target="_blank" rel="noopener noreferrer">teaching union<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a></li>
+  <li>read up on <a href="https://www.teachertoolkit.co.uk/2019/04/04/job-interviews/"  target="_blank" rel="noopener noreferrer">teaching interview tips<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> if it’s been a while since your last interview, as well as <a href="https://www.tes.com/news/coronavirus-10-tips-acing-remote-job-interview"  target="_blank" rel="noopener noreferrer">specific pointers for remote interviewing<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a></li>
+  <li>ensure <a href="https://www.teacherspensions.co.uk/members/working-life/life-events/moving-abroad.aspx"  target="_blank" rel="noopener noreferrer">your pension is up to date</a></li>
+  <li>check the <a href="https://www.gov.uk/foreign-travel-advice"  target="_blank" rel="noopener noreferrer">FCO’s travel advice<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a></li>
+  </ul>
+
+<h3>Getting qualified</h3>
+
+<p>If you taught overseas as an unqualified teacher, you'll need <a href="https://www.gov.uk/guidance/qualified-teacher-status-qts"  target="_blank" rel="noopener noreferrer">qualified teacher status(QTS)<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> to teach in a maintained school in England.</p>
+
+<p>If you're experienced and have a degree, you may be able to get QTS through the <a href="guidance#assessment-only" target="_blank">assessment only</a> route without any further training.</p>
+<p>If you have fewer than 2 years of teaching experience, you can get qualified on a <a href="https://www.find-postgraduate-teacher-training.service.gov.uk/"  target="_blank" rel="noopener noreferrer">teacher training course<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>.</p>
+
+<p><a href="https://www.gov.uk/guidance/qualified-teacher-status-qts#teachers-qualified-in-australia-canada-new-zealand-and-the-usa"  target="_blank" rel="noopener noreferrer">If you qualified overseas in the EEA, Switzerland, Australia, Canada, New Zealand or the USA, you can apply for QTS<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>.</p>
+<p>You can teach as an unqualified teacher in academies and free schools.</p>
+
+
+
+<p><a href="#top">Back to top</a></p>
+
+
+
+
+
+
+
+
  
 
 
