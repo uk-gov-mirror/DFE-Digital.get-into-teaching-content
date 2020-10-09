@@ -43,7 +43,7 @@ backlink: "/"
         </a>
         <div class="featured-content__content">
             <span> I was a director of a large market research agency, but I had always always harboured a long-term ambition to teach.</span>
-            <a class="featured-content__link" href="/life-as-a-teacher/my-story-into-teaching/career-progression/newly-qualified-to-head-of-faculty">Read Karen’s story </a>
+            <a class="featured-content__link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/swapping-senior-management-for-students">Read Karen’s story </a>
         </div>
     </div>
 </div>
