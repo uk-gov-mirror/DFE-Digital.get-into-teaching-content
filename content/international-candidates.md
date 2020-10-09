@@ -134,8 +134,8 @@ window)</span><i class="icon icon-external"></i></a></span></li>
 
 <h3>Funding</h3>
 
-<p>You may be eligible for financial support. Contact <a href="https://www.gov.uk/student-finance/who-qualifies"  target="_blank" rel="noopener noreferrer">Student Finance<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> to find out if you are eligible and how to apply.</p>  
+<p>If you’re an EU national starting a teacher training course in the academic year 2021/22, you may get a bursary or scholarship, and student finance on a similar basis to domestic students if you have settled or pre-settled status under the <a href="https://www.gov.uk/settled-status-eu-citizens-families" target="_blank" rel="noopener noreferrer">EU Settlement Scheme<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>, and meet the usual residence requirements.</p>  
 
 <h3>What you’ll need</h3>
 
