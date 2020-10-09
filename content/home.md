@@ -11,26 +11,38 @@ backlink: "/"
 
 <div class="featured-content__items container-1000">
     <div class="featured-content__item">
-        <span class="featured-content__title">Royal Marine Commando to geography teacher</span>
-        <div class="featured-content__image" style="background-image: url('assets/images/thomas-home.jpg')"></div>
+        <span class="featured-content__title">Apply for teacher training.</span>
+        <div class="featured-content__image" style="background-image: url('assets/images/home-steps.jpg')"></div>
         <div class="featured-content__content">
-            <span>Thomas came into teaching after 4 years in the Royal Marine Commandos. Find out how his life experiences equipped him for teaching.</span>
-            <a class="featured-content__link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/royal-marine-commando-to-geography-teacher">Read Thomas’ story</a>
+            <span>Applications to teacher training courses starting in autumn 2021 open on 13 October. Start getting ready now.</span>
+            <a class="featured-content__link" href="https://beta-getintoteaching.education.gov.uk/steps-to-become-a-teacher">Steps to become a teacher</a>
         </div>
     </div>
     <div class="featured-content__item">
-        <span class="featured-content__title">No two days are the same</span>
-        <div class="featured-content__image" style="background-image: url('assets/images/gavin-home.jpg')"></div>
+        <span class="featured-content__title">Why sign up for a Teacher Training Adviser?</span>
+         <a href="https://www.youtube.com/watch?v=vvY7m2YD0Vs" target="_blank" data-action="click->video#play" data-target="video.link">
+            <div class="featured-content__image" style="background-image: url('assets/images/home-tta.jpg')">
+                <div class="more-stories__thumbs__thumb__play">
+                    <div class="icon-play"></div>
+                </div>
+            </div>
+        </a>
         <div class="featured-content__content">
-            <span>Gavin always had the idea that teaching would be the career path for him.  Find out what happened to him when he decided to take the plunge.</span>
-            <a class="featured-content__link" href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/no-two-days-are-the-same">Read Gavin’s story</a>
+            <span>Our dedicated, experienced teaching professionals can help you prepare a strong teacher training application.</span>
+            <a class="featured-content__link" href="https://beta-adviser-getintoteaching.education.gov.uk/">Get help with your application</a>
         </div>
     </div>
     <div class="featured-content__item">
-        <span class="featured-content__title">From newly qualified teacher to head of faculty in 5 years</span>
-        <div class="featured-content__image" style="background-image: url('assets/images/karen-f-home.jpg')"></div>
+        <span class="featured-content__title">Swapping senior management for students.</span>
+        <a href="https://www.youtube.com/watch?v=riY-1DUkLVk" target="_blank" data-action="click->video#play" data-target="video.link">
+            <div class="featured-content__image" style="background-image: url('assets/images/home-karen.jpg')">
+                <div class="more-stories__thumbs__thumb__play">
+                    <div class="icon-play"></div>
+                </div>
+            </div>
+        </a>
         <div class="featured-content__content">
-            <span>Karen progressed quickly from qualifying in teaching to becoming head of faculty.  Find out how you could follow in her steps. </span>
+            <span> I was a director of a large market research agency, but I had always always harboured a long-term ambition to teach.</span>
             <a class="featured-content__link" href="/life-as-a-teacher/my-story-into-teaching/career-progression/newly-qualified-to-head-of-faculty">Read Karen’s story </a>
         </div>
     </div>
