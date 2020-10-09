@@ -23,7 +23,7 @@ backlink: "../../"
   <p>Your route to working or training as a teacher in England and the financial support you might get depends on:</p>
   
   <ul>
-    <li><span>your nationality</span></li>
+    <li><span>your nationality or residency status</span></li>
     <li><span>what you want to teach</span></li>
     <li><span>your current level of qualification</span></li>
   
@@ -71,7 +71,8 @@ window)</span><i class="icon icon-external"></i></a></p>
 
 <h3>Assessment only (AO) QTS for teachers who qualified in other countries</h3>
 
-<p>Teachers from outside the EEA, Australia, Canada, New Zealand, Switzerland and the USA can apply for an assessment only QTS.</p>
+<p>Teachers from outside <a href="https://www.gov.uk/eu-eea" target="_blank" rel="noopener noreferrer">the EEA <span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>, Australia, Canada, New Zealand, Switzerland and the USA can apply for an assessment only QTS.</p>
 
 
 <p><a href="https://www.gov.uk/guidance/qualified-teacher-status-qts" target="_blank" rel="noopener noreferrer">Learn more how to apply for QTS if you trained outside the UK<span class="govuk-visually-hidden">(Link opens in new
@@ -79,7 +80,9 @@ window)</span><i class="icon icon-external"></i></a>.</p>
 
 <h3>Applying for the right visa</h3>
 
-<p>You will also need to apply for the correct visa to work in the UK. This will probably be a skilled worker visa, although you may be eligible for other visas.</p> 
+<p>You will also need to <a href="#work-visas" target="_blank" rel="noopener noreferrer">apply for the correct visa to work in the UK <span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>. This will probably be a skilled worker visa, although you may be eligible for <a href="#other-visas" target="_blank" rel="noopener noreferrer">other visas<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>.</p> 
 
 
 <h2>Search and apply for teaching jobs</h2> 
@@ -90,11 +93,11 @@ window)</span><i class="icon icon-external"></i></a>.</p>
 
 <h2>Check if you’re eligible for extra support</h2>
 
-<p>If you are a teacher of maths, physics, computer science, general science or modern foreign languages from Australia, Canada, France, Germany, Jamaica, New Zealand, South Africa, Spain or the USA, you are eligible for extra help from DfE, including:</p>
+<p>If you qualified as a teacher of maths, physics, computer science, general science or modern foreign languages from Australia, Canada, France, Germany, Jamaica, New Zealand, South Africa, Spain or the USA, you are eligible for extra help from DfE, including:</p>
 
 <ul>
   <li>guidance on work visas and permits</li>
-  <li>matching applicants to UK schools</li>
+  <li>support finding a job in England</li>
   <li>help settling in to the English education system</li>
   <li>continuing professional development</li>
   </ul>
@@ -168,7 +171,7 @@ window)</span><i class="icon icon-external"></i></a> programme.</p>
 <p>Not all training providers can accept international candidates. You should contact your chosen teacher training providers directly, before you apply online, to get their advice about your eligibility and the application process.</p> 
 
 
-<h2>How to apply for a visa which allows you to work or study in the UK</h2>
+<h2 id="work-visas">How to apply for a visa which allows you to work or study in the UK</h2>
 
 <p>If you are a non-UK citizen from a country outside the European Economic Area (EEA) and Switzerland, you may already need a visa to study or work in the UK. Check if you need a visa under the current immigration system.</p>
 
