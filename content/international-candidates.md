@@ -341,10 +341,10 @@ window)</span><i class="icon icon-external"></i></a> to check.</p>
         <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-support-from-an-adviser">
         <br/>
         Read Shaun's story</a>
-      </div>-->
+      </div>
     </div>
   </div>
-</div>
+</div>-->
   
 
 
