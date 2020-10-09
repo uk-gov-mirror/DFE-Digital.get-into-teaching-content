@@ -134,7 +134,7 @@ window)</span><i class="icon icon-external"></i></a>.</p>
   <p>The Department of Education has worked with schools to:</p>
 
   <ul>
-    <li><a href="https://www.gov.uk/government/publications/teacher-workload-survey-2019"  target="_blank" rel="noopener noreferrer">reduce the hours teachers work<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></span></li>
+    <li><a href="https://www.gov.uk/government/publications/teacher-workload-survey-2019"  target="_blank" rel="noopener noreferrer">reduce the hours teachers work<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></li>
       <li>develop a <a href="https://www.gov.uk/guidance/school-workload-reduction-toolkit"  target="_blank" rel="noopener noreferrer">workload reduction kit<span class="govuk-visually-hidden">(Link opens in new
         window)</span><i class="icon icon-external"></i></a></li>
        <li>invest £10m through <a href="https://www.gov.uk/guidance/behaviour-hubs"  target="_blank" rel="noopener noreferrer">Behaviour Hubs<span class="govuk-visually-hidden">(Link opens in new
@@ -142,7 +142,7 @@ window)</span><i class="icon icon-external"></i></a>
      so that schools with exemplary behaviour can work closely with other schools that want and need to improve behaviour
   </li>
     <li>increase <a href="https://www.gov.uk/government/collections/flexible-working-resources-for-teachers-and-schools"  target="_blank" rel="noopener noreferrer">flexible working opportunities<span class="govuk-visually-hidden">(Link opens in new
-      window)</span><i class="icon icon-external"></i></a> for teachers</span></li>
+      window)</span><i class="icon icon-external"></i></a> for teachers</li>
   </ul>    
    
    <p>You can search for jobs with flexible working patterns by using <a href="https://teaching-vacancies.service.gov.uk/"  target="_blank" rel="noopener noreferrer">Teaching Vacancies<span class="govuk-visually-hidden">(Link opens in new
