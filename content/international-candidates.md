@@ -294,7 +294,7 @@ window)</span><i class="icon icon-external"></i></a>.</p>
 <h3>You’ll be able to apply for your skilled worker visa if:</h3>
 
 <ul>
-  <li>you have an offer for a salaried training place with a school that is a licensed Home Office employer sponsor</li>
+  <li>you have an offer for a salaried training place or a teaching job with a school that is a licensed Home Office employer sponsor</li>
   <li>you can speak, read, write, and understand English</li>
   <li>your role pays at least: i) £20,480; or ii) the relevant minimum rate for teachers in the region of England where you are working or training – whichever is higher. Pro-rata rates will apply if you work part-time as long as you earn at least £20,480 per annum</li>
   </ul>
