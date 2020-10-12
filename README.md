@@ -4,7 +4,6 @@
 ![Release to test](https://github.com/DFE-Digital/get-into-teaching-content/workflows/Release%20to%20test/badge.svg)
 
 ## Prerequisites
-
 - None
 
 ## Whats included in this repository
