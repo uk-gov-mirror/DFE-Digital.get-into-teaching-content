@@ -20,16 +20,17 @@ navigation: 10
 
 <div class="content__left">
   
-  <!--<p class="content-alert">Teacher training tuition fees cost up to £9,250 depending on how you decide to train. You may be able to get a bursary or scholarship to help with the cost of your training. You’ll also be able to apply for student finance.</p>-->
   
   <p class="content-alert">You can apply for a tuition fee loan to pay for your training so you don't need to pay anything upfront. You can also apply for a maintenance loan to help with living costs and you may be able to get a bursary or a scholarship. </p>
   
   <h2 id="bursaries-and-scholarships">Bursaries and scholarships</h2>
   <p>Bursaries and scholarships are tax-free amounts of money to train in certain subjects. You don’t need to pay them back.</p>
-
-  <p>The funding available for teacher training courses starting in academic year 2021/22 will be announced soon - please sign up for our <a href="/mailinglist/signup">mailing list</a> to be kept up-to-date.</p>
-
-  <p><a href="/finance-guidance#bursaries-and-scholarships" target="_blank" rel="noopener noreferrer">Find out more about bursaries and scholarships<span class="govuk-visually-hidden">(Link opens in new
+  
+ <p>You’ll need a first, 2:1, 2:2 degree or a PhD or Master's to be eligible for a bursary.</p>
+ <p>For a scholarship, each professional scholarship body sets its own criteria.</p>
+ <p>You could get a bursary of up to £24,000 or apply for a scholarship of up to £26,000.</p>
+ 
+<p><a href="/finance-guidance#bursaries-and-scholarships" target="_blank" rel="noopener noreferrer">Find out more about bursaries and scholarships<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>.</p>
 
   <h2 id="get-student-finance">Tuition fee and maintenance loans</h2>
