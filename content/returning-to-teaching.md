@@ -100,6 +100,10 @@ window)</span><i class="icon icon-external"></i></a> for more details.</li>
 
 <h3>Further information and support</h3>
 <ul>
+  <li>if you’re returning to teach maths or physics in a state-funded school in certain areas, <a href="https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/claim-a-payment-for-teaching-maths-or-physics-eligibility-and-payment-details"  target="_blank" rel="noopener noreferrer">you could be eligible for a £2,000 payment after tax<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a></li>
+  <li>returning science, languages and computing teachers in 25 local authorities may also be eligible to <a href="https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/teachers-claim-back-your-student-loan-repayments-eligibility-and-payment-details" target="_blank" rel="noopener noreferrer">claim back student loan repayments<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a></li>
   <li>if you’re returning to teach secondary maths, core maths, physics or languages and want to refresh your knowledge, you may be eligible for a <a href="https://www.gov.uk/guidance/teacher-subject-specialism-training-courses"  target="_blank" rel="noopener noreferrer">free subject specialist training course<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a></li>
 </ul>
