@@ -138,7 +138,7 @@ navigation: 20
         <li>apply for teacher training either through <a href="https://www.ucas.com/postgraduate/teacher-training/how-to-apply/">UCAS Teacher Training <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>, or by using the <span><span><a href="https://www.gov.uk/apply-for-teacher-training" target="_blank" rel="noopener noreferrer">Apply for teacher training GOV.UK service <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></span></span></li>
       </ul>
   <p>Apply for teacher training will eventually replace UCAS, but for now, the new service is limited to certain providers.</p>
-  <p>View a list of <a href="https://www.gov.uk/apply-for-teacher-training">training providers and courses available <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a> through the new GOV.UK service.</p>
+  <p>View a list of <a href="https://www.apply-for-teacher-training.service.gov.uk/candidate/providers">training providers and courses available <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a> through the new GOV.UK service.</p>
   
   <p>You can get help preparing your application by signing up to the <a href="https://beta-adviser-getintoteaching.education.gov.uk/">Get an adviser</a> service.</p>
     </div>
