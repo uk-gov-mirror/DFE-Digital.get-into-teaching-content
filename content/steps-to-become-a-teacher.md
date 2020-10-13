@@ -129,16 +129,16 @@ navigation: 20
     <div id="collapsable-content-5" class="steps-content collapsable" data-target="accordion.content">
       <p>
         Once you have decided that you want to train to become a teacher and have the necessary qualifications you’ll need to 
-        <a href="https://www.apply-for-teacher-training.service.gov.uk/" target="_blank" rel="noopener noreferrer">prepare your application<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>using the following steps:
+        <a href="https://www.gov.uk/apply-for-teacher-training" target="_blank" rel="noopener noreferrer">prepare your application<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>using the following steps:
       </p>
   <ul>
         <li><span><span><a href="https://www.gov.uk/find-postgraduate-teacher-training-courses" target="_blank" rel="noopener noreferrer">choose your course<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></span></span></li>
         <li><span><span>write a personal statement</span></span></li>
         <li><span><span>get two references</span></span></li>
-        <li>apply for teacher training either through <a href="https://www.ucas.com/postgraduate/teacher-training/how-to-apply/">UCAS Teacher Training <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>, or by using the <span><span><a href="https://www.apply-for-teacher-training.service.gov.uk/" target="_blank" rel="noopener noreferrer">Apply for teacher training GOV.UK service <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></span></span></li>
+        <li>apply for teacher training either through <a href="https://www.ucas.com/postgraduate/teacher-training/how-to-apply/">UCAS Teacher Training <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>, or by using the <span><span><a href="https://www.gov.uk/apply-for-teacher-training" target="_blank" rel="noopener noreferrer">Apply for teacher training GOV.UK service <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></span></span></li>
       </ul>
   <p>Apply for teacher training will eventually replace UCAS, but for now, the new service is limited to certain providers.</p>
-  <p>View a list of <a href="https://www.apply-for-teacher-training.service.gov.uk/candidate/providers">training providers and courses available <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a> through the new GOV.UK service.</p>
+  <p>View a list of <a href="https://www.gov.uk/apply-for-teacher-training">training providers and courses available <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a> through the new GOV.UK service.</p>
   
   <p>You can get help preparing your application by signing up to the <a href="https://beta-adviser-getintoteaching.education.gov.uk/">Get an adviser</a> service.</p>
     </div>
