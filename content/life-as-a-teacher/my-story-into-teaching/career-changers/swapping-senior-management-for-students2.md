@@ -6,6 +6,19 @@ story:
   teacher: Karen Roberts
   video: https://www.youtube.com/embed/riY-1DUkLVk
   position: languages teacher
+more_stories:
+  - name: Read Zainab's story
+    snippet: School experience helped me decide to switch
+    image: /assets/images/stories/stories-zainab.jpg
+    link: /life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch
+  - name: Read Katie's story
+    snippet: Returning to teach with international experience
+    image: /assets/images/stories/stories-katie.png
+    link: /life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience
+  - name: Read Helen's story
+    snippet: Lawyer to assistant headteacher
+    image: /assets/images/stories/stories-helen.jpg
+    link: /life-as-a-teacher/my-story-into-teaching/career-progression/lawyer-to-assistant-teacher
 build_layout_from_frontmatter: true
 ---
 
