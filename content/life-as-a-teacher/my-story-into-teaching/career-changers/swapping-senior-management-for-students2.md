@@ -1,36 +1,45 @@
 ---
 title: "Swapping senior management for students"
-image: "/assets/images/karen.jpg"
+image: "/assets/images/stories/stories-karen.jpg"
 backlink: "../../"
 ---
 
 <div class="content-wrapper">
     <div class="content__left">
         <div class="stories">
+        <p>
+            <a class="backlink backlink--top" href="/life-as-a-teacher/my-story-into-teaching/career-changers">Career changers' stories</a>
+        </p>
             <h1>Swapping senior management for students</h1>
             <div class="story-header">
                 <div class="story-header__thumb" style="background-image:url('/assets/images/stories/stories-karen.jpg')"></div>
                 <div class="story-header__label">
-                    <h2>Karen Roberts, <br>Languages teacher</h2>
+                    <h2>Karen Roberts, <br/>languages teacher</h2>
                 </div>
+            </div>
+            <div class="stories__video">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/riY-1DUkLVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <p class="prominent">
                 I am a French and Spanish teacher at Norbury Manor Business Enterprise College for Girls. I was a director of a large market research agency, but I had always always harboured a long-term ambition to teach.
             </p>
             <p>
-            I’d always had teaching in mind, because I’d really enjoyed the work I’d done with young people and children in my previous job. I felt a spark and the creativity that comes with that. I wanted to become a teacher for that reason but also because of the passion and enthusiasm I have for languages, which I wanted to pass on. I’d assumed that my age would be a barrier, but it absolutely wasn’t. 
+         I’d always had teaching in mind, because I’d really enjoyed the work I’d done with young people and children in my previous job. I felt a spark and the creativity that comes with that. I wanted to become a teacher for that reason but also because of the passion and enthusiasm I have for languages, which I wanted to pass on.
             </p>
             <div>
                 <div class="quote-block">
                     <span class="icon-quote"></span>
-                    <strong class="quote-block__content">Everybody was very welcoming and said, ‘You’re absolutely not too old to become a teacher, we’re looking for people like you’.'<span class="icon-quote quote-close"></span></strong>
+                    <strong class="quote-block__content">The best parts of teaching for me are seeing that lightbulb moment when a child suddenly understands something they didn't before.<span class="icon-quote quote-close"></span></strong>
                 </div>
-               <p>
-                  Making the decision to leave an established career wasn’t easy, and I had to be sure Iwas making the right decision. I went to a ‘train to teach roadshow’, taking the opportunity to speak to experienced teachers, schools and universities that offer teacher training and fellow professionals seeking to establish a new career in teaching.
+                <p>
+                    Making the decision to leave an established career wasn’t easy, and I had to be sure Iwas making the right decision. I went to a ‘train to teach roadshow’, taking the opportunity to speak to experienced teachers, schools and universities that offer teacher training and fellow professionals seeking to establish a new career in teaching.
                 </p>
             </div>
             <p>
-            I arranged school experience so I could get a feel for teaching. It’s really rewarding. You will find it very varied, very challenging and you’ll find it intellectually stimulating because it will make you think about your subject in a different way. Definitely do it. I don’t regret it for a moment.
+               I’d assumed that my age would be a barrier, but it absolutely wasn’t. Everybody was very welcoming and said, ‘You’re absolutely not too old to become a teacher, we’re looking for people like you’.
+            </p>
+            <p>
+                I arranged school experience so I could get a feel for teaching. It’s really rewarding. You will find it very varied, very challenging and you’ll find it intellectually stimulating because it will make you think about your subject in a different way. Definitely do it. I don’t regret it for a moment.
             </p>
         </div>
     </div>
