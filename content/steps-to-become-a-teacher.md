@@ -139,6 +139,7 @@ navigation: 20
       </ul>
   <p>Apply for teacher training will eventually replace UCAS, but for now, the new service is limited to certain providers.</p>
 
+
   <p>Use UCAS Teacher Training if:</p>
 
 <ul>
@@ -151,6 +152,7 @@ navigation: 20
 <ul>
 <li>all your chosen training providers are available through this new service</li>
 </ul>
+
   <p>View a list of <a href="https://www.apply-for-teacher-training.service.gov.uk/candidate/providers">training providers and courses available <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a> through the new GOV.UK service.</p>
   
   <p>You can get help preparing your application by signing up to the <a href="https://beta-adviser-getintoteaching.education.gov.uk/">Get an adviser</a> service.</p>
