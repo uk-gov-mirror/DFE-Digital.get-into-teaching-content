@@ -7,11 +7,12 @@ backlink: "../../"
   <div class="link-block link-block--jump">
     <h2 id="top" class="link-block__header">On this page:</h2>
     <ul class="link-block__list">
-      <li><a href="#modern-languages-maths-physics">Modern languages, maths or physics</a></li>
+       <li><a href="#modern-languages-maths-physics">Modern languages, maths or physics</a></li>
+       <li><a href="#finding-a-role">Finding a role</a></li>
        <li><a href="#get-up-to-date-with-best-practice">Get up to date with best practice</a></li>
+       <li><a href="#improving-life-for-teachers">Improving the lives of teachers</a></li>
        <li><a href="#for-teachers-trained-in-england">For teachers who trained in England returning from overseas</a></li>
-      <li><a href="#how-dfe-improving-things-for-teachers">How Department for Education are improving life for teachers</a></li>
-      <li><a href="#stories-about-returning-to-teaching">Stories about returning to teaching in England</a></li>
+       <li><a href="#stories-about-returning-to-teaching">Stories about returning to teaching in England</a></li>
     </ul>
   </div>
 </div>
@@ -52,7 +53,7 @@ window)</span><i class="icon icon-external"></i></a>.</p>
 <p>The <a href="https://www.ncetm.org.uk/news-features/" target="_blank" rel="noopener noreferrer">National Centre for the Excellence in the Teaching of Mathematics (NCETM)</a> offers <a href="https://www.ncetm.org.uk/in-the-classroom/"  target="_blank" rel="noopener noreferrer"> teaching resources<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a> around the maths you will be teaching.</p>
 
-<h3>Finding a role</h3>
+<h2 id="finding-a-role">Finding a role</h2>
 
 <p><a href="https://teaching-vacancies.service.gov.uk/"  target="_blank" rel="noopener noreferrer">Search for a teaching role in England<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>. You can set up job alerts so that you do not miss out on any opportunities.</p>
@@ -128,7 +129,7 @@ window)</span><i class="icon icon-external"></i></a>.</p>
 <p>NPQs can help you get into leadership positions such as head of department, deputy headteacher or headteacher.</p>
 
 
-<h2 id="how-dfe-improving-things-for-teachers">Improving the lives of teachers</h2>
+<h2 id="improving-life-for-teachers">Improving the lives of teachers</h2>
   
   <p>A lot has changed for teachers in England over the last few years.</p>
   <p>The Department of Education has worked with schools to:</p>
