@@ -7,15 +7,15 @@ story:
   video: https://www.youtube.com/embed/riY-1DUkLVk
   position: languages teacher
 more_stories:
-  - name: Read Zainab's story
+  - name: Zainab
     snippet: School experience helped me decide to switch
     image: /assets/images/stories/stories-zainab.jpg
     link: /life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch
-  - name: Read Katie's story
+  - name: Katie
     snippet: Returning to teach with international experience
     image: /assets/images/stories/stories-katie.png
     link: /life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience
-  - name: Read Helen's story
+  - name: Helen
     snippet: Lawyer to assistant headteacher
     image: /assets/images/stories/stories-helen.jpg
     link: /life-as-a-teacher/my-story-into-teaching/career-progression/lawyer-to-assistant-teacher
