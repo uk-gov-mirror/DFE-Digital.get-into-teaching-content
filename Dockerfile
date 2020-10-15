@@ -1,5 +1,4 @@
-ARG APP_SHA
-FROM dfedigital/get-into-teaching-web:${APP_SHA}
+FROM dfedigital/get-into-teaching-web:sha-5fe203c
 
 COPY content app/views/content
 COPY assets public/assets
