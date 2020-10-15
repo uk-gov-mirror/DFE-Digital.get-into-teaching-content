@@ -1,7 +1,7 @@
 ---
 title: Teaching gave me purpose
 image: /assets/images/stories/stories-luke.jpg
-backlink: "../../"
+backlink: "./"
 story:
   teacher: Luke Anderson
   position: Masters in languages

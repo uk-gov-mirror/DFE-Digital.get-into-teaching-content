@@ -1,7 +1,7 @@
 ---
-title: "Swapping senior management for students"
-image: "/assets/images/stories/stories-karen.jpg"
-backlink: "../../"
+title: Swapping senior management for students
+image: /assets/images/stories/stories-karen.jpg
+backlink: "./"
 story:
   teacher: Karen Roberts
   video: https://www.youtube.com/embed/riY-1DUkLVk
