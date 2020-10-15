@@ -15,14 +15,14 @@ navigation: 40
   
 <h2>Qualified teachers</h2>  
 
-<p>As a newly qualified teacher you could earn between £24,373 and £30,480 depending on where you teach.</p>
+<p>As a newly qualified teacher you could earn between £25,714 and £32,157 depending on where you teach.</p>
 <p>As you progress in your teaching career, it's possible to move up through these pay ranges:</p>
 
 <ul>
-  <li>England and Wales (excluding London and fringes) - between £24,373 and £35,971</li>
-  <li>London fringe - between £25,543 and £41,635 </li>
-  <li>Outer London - between £28,355 and £44,541</li>
-  <li>Inner London - between £30,480 and £49,571</li>
+  <li>England and Wales (excluding London and fringes) - between £25,714 and £41,604</li>
+  <li>London fringe - between £26,948 and £42,780 </li>
+  <li>Outer London - between £29,915 and £45,766</li>
+  <li>Inner London - between £32,157 and £50,935</li>
 </ul>
 
 
@@ -30,35 +30,35 @@ navigation: 40
 
 <h2>Leading practitioners</h2>
 
-<p>Leading practitioners share their skills with other teachers. In this role you could earn between £41,267 and £70,540 depending on where you teach.</p>
+<p>Leading practitioners share their skills with other teachers. In this role you could earn between £42,402 and £72,480 depending on where you teach.</p>
 <ul>
-  <li>England and Wales (excluding London and fringes) - between £41,267 and £62,735</li>
-  <li>London fringe - between £42,403 and £63,874 </li>
-  <li>Outer London - between £44,541 and £66,012</li>
-  <li>Inner London - between £49,065 and £70,540</li>
+  <li>England and Wales (excluding London and fringes) - between £42,402 and £64,461</li>
+  <li>London fringe - between £43,570 and £65,631 </li>
+  <li>Outer London - between £45,766 and £67,828</li>
+  <li>Inner London - between £50,415 and £72,480</li>
   
 </ul>
 
 
 <h2>Headteachers</h2>
 
-<p>Headteachers lead, motivate and manage staff. In this role you will earn between £46,457 to £114,060 depending on where you teach.</p>
+<p>Headteachers lead, motivate and manage staff. In this role you will earn between £47,735 to £125,098 depending on where you teach.</p>
 
 <ul>
-  <li>England and Wales (excluding London and fringes) - between £46,457 and £114,060</li>
-  <li>London fringe - between £47,592 and £115,188 </li>
-  <li>Outer London - between £49,714 and £117,287</li>
-  <li>Inner London - between £54,223 and £121,749</li>
+  <li>England and Wales (excluding London and fringes) - between £47,735 and £117,197</li>
+  <li>London fringe - between £48,901 and £118,356 </li>
+  <li>Outer London - between £51,082 and £120,513</li>
+  <li>Inner London - between £55,715 and £125,098</li>
   
 </ul>
 
 <h2>Unqualified teachers </h2>
-<p>As an unqualified teacher you could earn between £17,682 and £32,515 depending on where you teach and your level of experience.</p>
+<p>As an unqualified teacher you could earn between £18,169 and £33,410 depending on where you teach and your level of experience.</p>
 <ul>
-  <li>England and Wales (excluding London and fringes) - between £17,682 and £27,965</li>
-  <li>London fringe - between £18,844 and £29,123 </li>
-  <li>Outer London - between £21,004 and £31,290</li>
-  <li>Inner London - between £22,237 and £32,515</li>
+  <li>England and Wales (excluding London and fringes) - between £18,169 and £28,735</li>
+  <li>London fringe - between £19,363 and £29,924 </li>
+  <li>Outer London - between £21,582 and £32,151</li>
+  <li>Inner London - between £22,849 and £33,410</li>
 </ul>
 
 
@@ -70,8 +70,8 @@ navigation: 40
 <p>If you take on extra ongoing responsibilities in your role, you could get a salary uplift.</p>
 <p>There are two main ranges for these (TLR 1 and TLR 2), depending on the category your duties come under:</p>
 <ul>
-  <li>TLR 1 £8,069 - £13,654</li>
-  <li>TLR 2 £6,829 - £2,796</li>
+  <li>TLR 1 £8,291 - £14,030</li>
+  <li>TLR 2 £2,873 - £7,017</li>
   </ul>
   
   <h3>Holidays</h3>
