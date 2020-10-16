@@ -43,6 +43,9 @@ jobs:
     runs-on: ubuntu-latest
     needs: turnstyle 
     steps:
+      - name: EVENT NAME
+        run: echo "Event name is '${{ env.GITHUB_EVENT_NAME }}'"
+
       - name: Get parent SHA if triggered from app pipeline
         id: parent-sha
         if: env.GITHUB_EVENT_NAME == 'repository_dispatch'
