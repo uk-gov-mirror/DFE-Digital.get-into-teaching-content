@@ -82,6 +82,12 @@ jobs:
           push: true
           build_args: CONTENT_SHA=${{ steps.sha.outputs.short }}
 
+      - name: Check Content pages
+        run: |-
+          docker run -t --rm -e RAILS_ENV=test \
+            ${{env.DOCKERHUB_REPOSITORY}}:sha-${{ steps.sha.outputs.short }} \
+            rspec --format documentation spec/features/content_pages_spec.rb
+
       - uses: hashicorp/setup-terraform@v1
         with:
            terraform_version: 0.12.29
