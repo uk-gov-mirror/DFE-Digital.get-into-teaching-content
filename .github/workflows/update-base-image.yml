@@ -9,7 +9,6 @@ jobs:
   updatebase:
     name: Update base docker image
     runs-on: ubuntu-latest
-    if: env.GITHUB_EVENT_NAME == 'repository_dispatch'
     steps:
       - name: Check out the repo
         uses: actions/checkout@v2
@@ -42,8 +41,8 @@ jobs:
 
           ${{ steps.docker-image.outputs.image }}"
 
-      - name: Commit debug
+      - name: Commit info
         run: git show HEAD
 
-      - name: Push branch
+      - name: Push to master
         run: git push origin master
