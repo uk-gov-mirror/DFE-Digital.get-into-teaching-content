@@ -17,7 +17,7 @@ jobs:
         id: parent-sha
         run: |
           echo ::set-output name=full::${{ github.event.client_payload.parent_sha }}
-          echo ::set-output name=short::$(${{ github.event.client_payload.parent_sha }} | cut -c -7)
+          echo ::set-output name=short::$(echo "${{ github.event.client_payload.parent_sha }}" | cut -c -7)
 
       - name: Derive base image
         id: docker-image
