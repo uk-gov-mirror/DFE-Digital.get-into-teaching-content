@@ -1,76 +1,34 @@
 ---
-title: "Financier’s future in maths"
-image: "/assets/images/life-as-a-teacher-header.jpg"
-backlink: "../../"
+title: Financier’s future in maths
+image: /assets/images/stories/stories-peter.jpg
+backlink: "./"
+story:
+  teacher: Peter Bassett,
+  position: Maths teacher
+more_stories:
+  - name: Zainab
+    snippet: School experience helped me decide to switch
+    image: /assets/images/stories/stories-zainab.jpg
+    link: /life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch
+  - name: Katie
+    snippet: Returning to teach with international experience
+    image: /assets/images/stories/stories-katie.png
+    link: /life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience
+  - name: Helen
+    snippet: Lawyer to assistant headteacher
+    image: /assets/images/stories/stories-helen.jpg
+    link: /life-as-a-teacher/my-story-into-teaching/career-progression/lawyer-to-assistant-teacher
+build_layout_from_frontmatter: true
 ---
 
-<div class="content-wrapper">
-    <div class="content__left">
-        <div class="stories">
-        <p>
-            <a class="backlink backlink--top" href="/life-as-a-teacher/my-story-into-teaching/career-changers">Career changers' stories</a>
-        </p>
-            <h1>Financier’s future in maths</h1>
-            <div class="story-header">
-                <div class="story-header__thumb" style="background-image:url('/assets/images/stories/stories-peter.jpg')"></div>
-                <div class="story-header__label">
-                    <h2>Peter Bassett, <br>Maths teacher</h2>
-                </div>
-            </div>
-            <p class="prominent">
-                I spent 27 years working in finance in London. Having raised my own family and enjoyed a successful career in the city, I wanted to pursue one of my long-term ambitions, and chose to make the switch to teaching.
-            </p>
-            <p>
-            I’d been working in the same role for many years and I was no longer feeling challenged. So I had a decision to make: stay in my finance role, or give myself a new break.
-            </p>
-            <div>
-                <div class="quote-block">
-                    <span class="icon-quote"></span>
-                    <strong class="quote-block__content">Enrolling on a salaried teacher training course made becoming a teacher a possibility.<span class="icon-quote quote-close"></span></strong>
-                </div>
-               <p>
-                  I’d gained a lot of experience of working with people who have different skill sets and approaches, and it really helped me when faced with a classroom of students all of whom have different approaches, ideas and attitudes.
-                </p>
-            </div>
-            <p>
-              Having worked with adults all my life, I was used to dealing with people who are prepared to sit and listen to you. Now that I’m working with children, I really have to earn their respect – and it’s extremely rewarding to have a student come out of a lesson and thank you, or receive an email from a parent telling you how much impact you’ve had on their child’s learning.
-            </p>
-            <p>
-             Of course, there are highs and lows in teaching, but the highs are immeasurable. You might have a child who starts the lesson not particularly focused because they’re struggling with the subject. As you guide them and encourage them, their understanding increases and all of a sudden they’ve got their hand up to answer a question. That light-bulb moment really gives you a buzz.
-            </p>
-        </div>
-    </div>
-</div>
+I spent 27 years working in finance in London. Having raised my own family and enjoyed a successful career in the city, I wanted to pursue one of my long-term ambitions, and chose to make the switch to teaching.
 
-<div class="more-stories">
-    <h2 class="more-stories_header strapline">More stories</h2>
-    <div class="more-stories__thumbs">
-        <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-zainab.jpg')"></div>
-            </a>
-            <div class="more-stories__thumbs__thumb__content">
-                <p>School experience helped me decide to switch</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">Read Zainab's story  <i class="fas fa-chevron-right"></i></a>
-            </div>
-        </div>
-        <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-katie.png')"></div>
-            </a>
-            <div class="more-stories__thumbs__thumb__content">
-                <p>Returning to teach with international experience</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience">Read Katie's story  <i class="fas fa-chevron-right"></i></a>
-            </div>
-        </div>
-        <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-progression/lawyer-to-assistant-teacher">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-helen.jpg')"></div>
-            </a>
-            <div class="more-stories__thumbs__thumb__content">
-                <p>Lawyer to assistant headteacher</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-progression/lawyer-to-assistant-teacher">Read Helen's story <i class="fas fa-chevron-right"></i></a>
-            </div>
-        </div>
-    </div>
-</div>
+I’d been working in the same role for many years and I was no longer feeling challenged. So I had a decision to make: stay in my finance role, or give myself a new break.
+
+> Enrolling on a salaried teacher training course made becoming a teacher a possibility.
+
+I’d gained a lot of experience of working with people who have different skill sets and approaches, and it really helped me when faced with a classroom of students all of whom have different approaches, ideas and attitudes.
+
+Having worked with adults all my life, I was used to dealing with people who are prepared to sit and listen to you. Now that I’m working with children, I really have to earn their respect – and it’s extremely rewarding to have a student come out of a lesson and thank you, or receive an email from a parent telling you how much impact you’ve had on their child’s learning.
+
+Of course, there are highs and lows in teaching, but the highs are immeasurable. You might have a child who starts the lesson not particularly focused because they’re struggling with the subject. As you guide them and encourage them, their understanding increases and all of a sudden they’ve got their hand up to answer a question. That light-bulb moment really gives you a buzz.
