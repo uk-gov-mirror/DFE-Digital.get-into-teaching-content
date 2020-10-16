@@ -2,6 +2,7 @@
 title: Natural transition from engineering to teaching physics
 image: /assets/images/stories/stories-roger.jpg
 backlink: "./"
+backlink_text: Career changers' stories
 story:
   teacher: Roger Brown
   position: Career changer

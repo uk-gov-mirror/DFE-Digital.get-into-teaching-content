@@ -1,7 +1,8 @@
 ---
 title: Grasp every opportunity - you will progress
 image: /assets/images/stories/stories-paul.jpg
-backlink: "../../"
+backlink: "./"
+backlink_text: Career progression stories
 story:
   teacher: Paul Evason
   position: Assistant headteacher

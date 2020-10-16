@@ -1,7 +1,8 @@
 ---
 title: Lawyer to assistant headteacher
 image: /assets/images/stories/stories-helen.jpg
-backlink: "../../"
+backlink: "./"
+backlink_text: Career progression stories
 story:
   teacher: Helen Winter
   position: Director of teaching school and assistant headteacher

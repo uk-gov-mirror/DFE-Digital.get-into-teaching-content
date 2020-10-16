@@ -1,7 +1,8 @@
 ---
 title: "Teacher training: it’s worth it"
 image: /assets/images/stories/stories-generic.jpg
-backlink: "../../"
+backlink: "./"
+backlink_text: Teacher training stories
 story:
   teacher: Hasina Nizamee
   position: Teacher in training

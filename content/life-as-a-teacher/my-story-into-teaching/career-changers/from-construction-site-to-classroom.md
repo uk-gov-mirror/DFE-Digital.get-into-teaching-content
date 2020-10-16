@@ -1,7 +1,8 @@
 ---
 title: From construction site to classroom
 image: /assets/images/stories/stories-julia.jpg
-backlink: "../../"
+backlink: "./"
+backlink_text: Career changers' stories
 story:
   teacher: Julia Capon
   position: Career changer

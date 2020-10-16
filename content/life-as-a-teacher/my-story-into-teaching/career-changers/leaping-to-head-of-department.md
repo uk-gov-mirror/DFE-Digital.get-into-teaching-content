@@ -2,6 +2,7 @@
 title: Leaping to head of department
 image: /assets/images/life-as-a-teacher-header.jpg
 backlink: "./"
+backlink_text: Career changers' stories
 story:
   teacher: Jon Simmons
   position: Head of department

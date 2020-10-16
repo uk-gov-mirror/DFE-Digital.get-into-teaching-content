@@ -1,7 +1,8 @@
 ---
 title: Leaping to head of department
 image: /assets/images/stories/stories-jon.jpg
-backlink: "../../"
+backlink: "./"
+backlink_text: Career progression stories
 story:
   teacher: Jon Simmons
   position: Head of department

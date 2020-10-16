@@ -2,6 +2,7 @@
 title: Returning to teaching with international experience
 image: /assets/images/stories/stories-katie.png
 backlink: "./"
+backlink_text: Stories from international teachers
 story:
   teacher: Katie Lockett
   position: Head of Faculty

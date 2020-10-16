@@ -2,6 +2,7 @@
 title: Swapping senior management for students
 image: /assets/images/stories/stories-karen.jpg
 backlink: "./"
+backlink_text: Career changers' stories
 story:
   teacher: Karen Roberts
   video: https://www.youtube.com/embed/riY-1DUkLVk

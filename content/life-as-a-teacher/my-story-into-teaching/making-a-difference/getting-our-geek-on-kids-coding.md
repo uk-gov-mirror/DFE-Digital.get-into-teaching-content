@@ -1,7 +1,8 @@
 ---
 title: Getting our 'geek' on - kids coding
 image: /assets/images/stories/stories-tarik.jpg
-backlink: "../../"
+backlink: "./"
+backlink_text: Stories about making a difference
 story:
   teacher: Tarik Reghif
   position: career changer

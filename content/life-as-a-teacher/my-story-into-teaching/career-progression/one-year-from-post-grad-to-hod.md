@@ -1,7 +1,8 @@
 ---
 title: One year from Post Grad to head of department
 image: /assets/images/stories/stories-sarah-f.jpg
-backlink: "../../"
+backlink: "./"
+backlink_text: Career progression stories
 story:
   teacher: Dr Owen Mather
   position: Leader of teaching standards

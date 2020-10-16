@@ -1,7 +1,8 @@
 ---
 title: Top tips for returning teachers
 image: /assets/images/stories/stories-helen.jpg
-backlink: "../../"
+backlink: "./"
+backlink_text: Stories about returning to teaching
 story:
   teacher: Helen
   position: Returning teacher

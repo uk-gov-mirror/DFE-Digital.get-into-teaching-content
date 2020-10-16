@@ -1,7 +1,8 @@
 ---
 title: Inspiring our young entrepreneurs
 image: /assets/images/stories/stories-laura.jpg
-backlink: "../../"
+backlink: "./"
+backlink_text: Stories about making a difference
 story:
   teacher: Laura Hurn
   position: 

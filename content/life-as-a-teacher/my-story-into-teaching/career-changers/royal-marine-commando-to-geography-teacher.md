@@ -1,7 +1,8 @@
 ---
 title: Royal Marine Commando to geography teacher
 image: /assets/images/stories/stories-thomas.jpg
-backlink: "../../"
+backlink: "./"
+backlink_text: Career changers' stories
 story:
   teacher: Thomas
   position: Trainee geography teacher and former Royal Marine Commando

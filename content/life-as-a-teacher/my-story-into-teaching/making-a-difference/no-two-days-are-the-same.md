@@ -1,7 +1,8 @@
 ---
 title: No two days are the same
 image: /assets/images/stories/stories-gavin.jpg
-backlink: "../../"
+backlink: "./"
+backlink_text: Stories about making a difference
 story:
   teacher: Gavin McIntyre
   position: assistant headteacher

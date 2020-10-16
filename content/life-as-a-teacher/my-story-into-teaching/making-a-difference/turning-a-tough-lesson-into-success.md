@@ -1,7 +1,8 @@
 ---
 title: Turning a tough lesson into a success
 image: /assets/images/stories/stories-danny.jpg
-backlink: "../../"
+backlink: "./"
+backlink_text: Stories about making a difference
 story:
   teacher: Danny Holliday
   position: physical education(PE) teacher

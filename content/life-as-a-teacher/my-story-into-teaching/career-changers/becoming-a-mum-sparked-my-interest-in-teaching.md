@@ -1,7 +1,8 @@
 ---
 title: "Becoming a mum sparked my interest in teaching"
 image: /assets/images/stories/stories-claire.jpg
-backlink: "../../"
+backlink: "./"
+backlink_text: Career changers' stories
 story:
   teacher: Clair Johnson
   position: Physics teacher

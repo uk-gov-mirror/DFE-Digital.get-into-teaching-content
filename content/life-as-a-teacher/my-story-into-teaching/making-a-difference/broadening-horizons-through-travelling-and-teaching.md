@@ -1,7 +1,8 @@
 ---
 title: Broadening horizons through travelling and teaching
 image: /assets/images/stories/stories-craig.jpg
-backlink: "../../"
+backlink: "./"
+backlink_text: Stories about making a difference
 story:
   teacher: Craig Cairns
   position: Primary teacher

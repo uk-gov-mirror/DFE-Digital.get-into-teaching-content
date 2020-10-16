@@ -1,7 +1,8 @@
 ---
 title: Going back and giving back
 image: /assets/images/stories/stories-sandra.jpg
-backlink: "../../"
+backlink: "./"
+backlink_text: Stories about making a difference
 story:
   teacher: Sandra Macfarlane
   position: Head of RE

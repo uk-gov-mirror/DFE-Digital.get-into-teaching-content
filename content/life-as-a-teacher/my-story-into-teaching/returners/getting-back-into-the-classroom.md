@@ -2,6 +2,7 @@
 title: Getting back into the classroom
 image: /assets/images/stories/stories-jill.png
 backlink: "./"
+backlink_text: Stories about returning to teaching
 story:
   teacher: Jill
   position: Returning teacher

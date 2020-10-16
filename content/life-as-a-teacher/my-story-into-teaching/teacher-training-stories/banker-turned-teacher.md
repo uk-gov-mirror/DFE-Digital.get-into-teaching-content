@@ -2,6 +2,7 @@
 title: Banker turned teacher
 image: /assets/images/stories/stories-katherine.jpg
 backlink: "./"
+backlink_text: Teacher training stories
 story:
   teacher: Katherine Hills
   position: Modern foreign languages

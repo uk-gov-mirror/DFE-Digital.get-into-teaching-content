@@ -1,7 +1,8 @@
 ---
 title: Why don’t you teach, Miss?
 image: /assets/images/stories/stories-emma.png
-backlink: "../../"
+backlink: "./"
+backlink_text: Teacher training stories
 story:
   teacher: Emma Maskell
   position: Technician turned science teacher

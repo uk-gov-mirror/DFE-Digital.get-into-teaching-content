@@ -2,6 +2,7 @@
 title: Transferring my skills to teaching
 image: /assets/images/stories/stories-will.jpg
 backlink: "./"
+backlink_text: Career changers' stories
 story:
   teacher: Will Fordham
   position: Trainee English teacher

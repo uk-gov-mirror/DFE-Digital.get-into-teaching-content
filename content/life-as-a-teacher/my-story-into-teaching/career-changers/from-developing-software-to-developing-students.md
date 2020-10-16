@@ -2,6 +2,7 @@
 title: From developing software to developing students
 image: /assets/images/stories/stories-steven.jpg
 backlink: "./"
+backlink_text: Career changers' stories
 story:
   teacher: Steven Li
   position: Deputy director of learning for ICT and maths

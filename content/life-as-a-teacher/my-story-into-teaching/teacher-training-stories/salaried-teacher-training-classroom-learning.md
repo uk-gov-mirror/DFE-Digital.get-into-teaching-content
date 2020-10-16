@@ -1,7 +1,8 @@
 ---
 title: "Salaried teacher training: classroom learning"
 image: /assets/images/stories/stories-nathan.jpg
-backlink: "../../"
+backlink: "./"
+backlink_text: Teacher training stories
 story:
   teacher: Nathan Sproule
   position: Salaried teacher trainee

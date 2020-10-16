@@ -1,7 +1,8 @@
 ---
 title: From NQT to head of biology in 2 years
 image: /assets/images/stories/stories-sarah-f.jpg
-backlink: "../../"
+backlink: "./"
+backlink_text: Career progression stories
 story:
   teacher: Sarah Fisher
   position: Head of biology
