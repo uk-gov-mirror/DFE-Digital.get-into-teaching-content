@@ -1,6 +1,6 @@
 name: Build and Deploy
+
 on:
-  repository_dispatch:
   pull_request:
     types: [assigned, opened, synchronize, reopened]
   push:
@@ -56,26 +56,7 @@ jobs:
         
       - name: Get Short SHA
         id: sha
-        run: echo ::set-output name=short::$(git rev-parse --short $GITHUB_SHA)
-
-      - name: Get parent SHA 
-        id: parent
-        run: |
-          if [ ${{env.GITHUB_EVENT_NAME}} = 'repository_dispatch']
-          then
-            echo ::set-output name=parent_sha::${{ github.event.client_payload.parent_sha }}
-          else
-            echo ::set-output name=parent_sha::$(docker run dfedigital/get-into-teaching-web:latest cat /etc/get-into-teaching-app-sha)
-          fi
-
-      - name: Set new docker image version
-        id: image
-        run: |
-          docker_image_tag="sha-${{ steps.sha.outputs.short }}-${{steps.parent.outputs.parent_sha}}"
-          echo ::set-output name=docker_image_tag::${docker_image_tag}
-          echo "Content SHA: ${{ steps.sha.outputs.short }}"
-          echo "Parent SHA: ${{steps.parent.outputs.parent_sha}}"
-          echo "New version tag: ${docker_image_tag}"
+        run: echo ::set-output name=short::$(echo $GITHUB_SHA | cut -c -7)
 
       - name: Cache Docker layers
         uses: actions/cache@v2
@@ -121,6 +102,12 @@ jobs:
                       APP_SHA=${{ steps.parent.outputs.parent_sha }}
                       CONTENT_SHA=${{ steps.sha.outputs.short }}
 
+      - name: Check Content pages
+        run: |-
+          docker run -t --rm -e RAILS_ENV=test \
+            ${{env.DOCKERHUB_REPOSITORY}}:sha-${{ steps.sha.outputs.short }} \
+            rspec --format documentation spec/features/content_pages_spec.rb
+
       - uses: hashicorp/setup-terraform@v1
         with:
            terraform_version: 0.12.29
@@ -148,7 +135,7 @@ jobs:
             cd terraform/paas && pwd
             terraform plan -var-file=dev.env.tfvars -out plan
         env:
-              TF_VAR_paas_app_docker_image: ${{env.DOCKERHUB_REPOSITORY}}:${{ steps.image.outputs.docker_image_tag  }}
+              TF_VAR_paas_app_docker_image: ${{env.DOCKERHUB_REPOSITORY}}:sha-${{ steps.sha.outputs.short }}
               ARM_ACCESS_KEY:           "${{ secrets.DEV_ARM_ACCESS_KEY  }}"
               TF_VAR_user:              "${{ secrets.GOVUKPAAS_USERNAME  }}"
               TF_VAR_password:          "${{ secrets.GOVUKPAAS_PASSWORD  }}"
@@ -177,7 +164,7 @@ jobs:
 
       - name: Create Sentry release
         if: success()
-        uses: getsentry/action-release@v1.0.0
+        uses: getsentry/action-release@v1.1.1
         env:
            SENTRY_AUTH_TOKEN: ${{ secrets.SENTRY_AUTH_TOKEN }}
            SENTRY_ORG: ${{ secrets.SENTRY_ORG }}
