@@ -80,11 +80,9 @@ jobs:
           cache-from: type=local,src=/tmp/.buildx-cache
           cache-to: type=local,dest=/tmp/.buildx-cache
           tags: |
-                 ${{env.DOCKERHUB_REPOSITORY}}:${{ steps.image.outputs.docker_image_tag  }}
                  ${{env.DOCKERHUB_REPOSITORY}}:${{ steps.sha.outputs.short }}
           push: false
           build-args: |
-                      APP_SHA=${{ steps.parent.outputs.parent_sha }}
                       CONTENT_SHA=${{ steps.sha.outputs.short }}
 
       - name: Build and push to DockerHub
@@ -95,11 +93,9 @@ jobs:
           cache-from: type=local,src=/tmp/.buildx-cache
           cache-to: type=local,dest=/tmp/.buildx-cache
           tags: |
-                 ${{env.DOCKERHUB_REPOSITORY}}:${{ steps.image.outputs.docker_image_tag }}
                  ${{env.DOCKERHUB_REPOSITORY}}:${{ steps.sha.outputs.short }}
           push: true
           build-args: |
-                      APP_SHA=${{ steps.parent.outputs.parent_sha }}
                       CONTENT_SHA=${{ steps.sha.outputs.short }}
 
       - name: Check Content pages
@@ -179,6 +175,6 @@ jobs:
            SLACK_CHANNEL: getintoteaching_tech
            SLACK_COLOR: '#3278BD'
            SLACK_ICON: https://github.com/rtCamp.png?size=48
-           SLACK_MESSAGE: ':disappointed_relieved: Pipeline Failure carrying out job ${{github.job}} :disappointed_relieved:'
-           SLACK_TITLE: 'Failure: ${{ github.workflow }}'
+           SLACK_MESSAGE: 'The Development get-into-teaching-content workflow has failed carrying out job ${{github.job}}'
+           SLACK_TITLE: 'Development get-into-teaching-content Workflow Failure'
            SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
