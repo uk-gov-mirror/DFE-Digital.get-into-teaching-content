@@ -80,7 +80,7 @@ jobs:
           cache-from: type=local,src=/tmp/.buildx-cache
           cache-to: type=local,dest=/tmp/.buildx-cache
           tags: |
-                 ${{env.DOCKERHUB_REPOSITORY}}:${{ steps.sha.outputs.short }}
+                 ${{env.DOCKERHUB_REPOSITORY}}:sha-${{ steps.sha.outputs.short }}
           push: false
           build-args: |
                       CONTENT_SHA=${{ steps.sha.outputs.short }}
@@ -93,7 +93,7 @@ jobs:
           cache-from: type=local,src=/tmp/.buildx-cache
           cache-to: type=local,dest=/tmp/.buildx-cache
           tags: |
-                 ${{env.DOCKERHUB_REPOSITORY}}:${{ steps.sha.outputs.short }}
+                 ${{env.DOCKERHUB_REPOSITORY}}:sha-${{ steps.sha.outputs.short }}
           push: true
           build-args: |
                       CONTENT_SHA=${{ steps.sha.outputs.short }}
