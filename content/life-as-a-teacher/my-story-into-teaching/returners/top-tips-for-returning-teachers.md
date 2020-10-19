@@ -19,6 +19,9 @@ more_stories:
     snippet: Broadening horizons through travelling and teaching
     image: /assets/images/stories/stories-craig.jpg
     link: /life-as-a-teacher/my-story-into-teaching/making-a-difference/broadening-horizons-through-travelling-and-teaching
+more_information:
+  link: /returning-to-teaching
+  text: Read further guidance if you're returning to teaching
 build_layout_from_frontmatter: true
 ---
 
@@ -52,5 +55,3 @@ Preparation is clearly important when submitting an application or preparing for
 ### Get help from a professional adviser
 
 The support I've received from my return to teaching adviser has been brilliant. The monthly updates have been very helpful as they have advised me of things I need to consider or actions I need to take. When a part time maternity cover job was advertised, my adviser checked my application forms and covering letter. When I got the interview, they happily checked over my lesson plan and resources prior to interview, which was fantastic. I am extremely relieved to discover that my adviser's support will continue for the first two months of my new post.
-
-[Read further guidance if you're returning to teaching](/returning-to-teaching)

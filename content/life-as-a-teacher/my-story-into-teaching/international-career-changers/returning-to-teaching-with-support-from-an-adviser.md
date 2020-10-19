@@ -19,6 +19,9 @@ more_stories:
     snippet: NQT to Head of Biology
     image: /assets/images/stories/stories-sarah-f.jpg
     link: /life-as-a-teacher/my-story-into-teaching/career-progression/nqt-to-head-of-biology
+more_information:
+  link: /international-candidates
+  text: International candidates information
 build_layout_from_frontmatter: true
 ---
 
@@ -43,5 +46,3 @@ I was also concerned that gaps in employment and time away from teaching would p
 I found during interviews that gaps were never raised and schools were more interested in how I performed on the day, i.e. in the observed lesson with students, with the interview panel and in general interactions with staff.
 
 I owe a great deal of thanks to my adviser for supporting me through the return to teaching process and am very happy to learn that they will continue to support me for the first two months of my post.
-
-[International candidates information](/international-candidates)

@@ -19,6 +19,9 @@ more_stories:
     snippet: Lawyer to assistant headteacher
     image: /assets/images/stories/stories-helen.jpg
     link: /life-as-a-teacher/my-story-into-teaching/career-progression/lawyer-to-assistant-teacher
+more_information:
+  link: /international-candidates
+  text: International candidates information
 build_layout_from_frontmatter: true
 ---
 
@@ -65,6 +68,4 @@ It's so much easier here to engage with research, learn new things and try them 
 * I'd always contact head teachers in advance of applying for jobs in the UK
 * Engage with social media, blogs and education books to stay up-to-date while away
 * Visit schools and attend conferences on your visits back to the UK
-
-[International candidates information](/international-candidates)
 * Don't worry about behaviour management - honestly, teenagers are teenagers everywhere!
