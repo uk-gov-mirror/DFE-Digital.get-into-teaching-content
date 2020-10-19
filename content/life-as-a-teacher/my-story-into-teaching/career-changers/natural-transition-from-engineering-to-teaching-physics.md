@@ -24,7 +24,7 @@ build_layout_from_frontmatter: true
 
 After gaining a 2:1 degree in engineering, I initially enjoyed a varied career, as an account manager, freelance cartoonist, and even an Olympic athlete before deciding to teach physics.
 
-I realised I was enjoying my afternoon helping out at my daughter’s school more than my job. I also had the gradual realisation how rewarding it is to help others rather than focus on personal gain.
+I realised I was enjoying my afternoon helping out at my daughter's school more than my job. I also had the gradual realisation how rewarding it is to help others rather than focus on personal gain.
 
 > My engineering degree provided a natural transition to teaching physics and I value the way science – especially physics – teaches a clear thought process and a way to make rational sense of the world.
 

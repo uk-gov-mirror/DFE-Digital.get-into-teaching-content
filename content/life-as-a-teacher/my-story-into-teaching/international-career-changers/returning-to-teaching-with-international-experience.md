@@ -26,7 +26,7 @@ After four years of teaching modern foreign languages in London, I decided to tr
 
 > The main thing I missed about teaching in England was the curriculum and approach to teaching and learning.
 
-We’re fortunate to have so many research-based educators here who share their ideas at exciting events like ResearchEd.
+We're fortunate to have so many research-based educators here who share their ideas at exciting events like ResearchEd.
 
 I missed being at the cutting edge of educational research, like I felt I had been while working in London.
 
@@ -48,23 +48,23 @@ Moving from China to England was very easy. Like most international schools, min
 
 ### Back in an English school
 
-Starting back at an English state school was hard, like starting any new job - so much to learn! But it didn’t feel different just because I was back in England. By October half term, my new school felt like home.
+Starting back at an English state school was hard, like starting any new job - so much to learn! But it didn't feel different just because I was back in England. By October half term, my new school felt like home.
 
 Though I was only away for 2 years, during that time a new GCSE curriculum and Ofsted Framework were introduced!
 
-While in China, I’d kept up-to-date with the UK education scene via Twitter. I visited UK schools and went on UK-based courses whenever I was home in England for the holidays.
+While in China, I'd kept up-to-date with the UK education scene via Twitter. I visited UK schools and went on UK-based courses whenever I was home in England for the holidays.
 
-As for behaviour management – teenagers are teenagers! I still had to manage behaviour in China in the same way I did back in London, so I didn’t lose any of my skills there!
+As for behaviour management – teenagers are teenagers! I still had to manage behaviour in China in the same way I did back in London, so I didn't lose any of my skills there!
 
-I’m enjoying the freedom to teach the way I want to. I felt a huge amount of pressure in a fee-paying international school (where parents call a certain amount of the shots!) to teach in a certain way.
+I'm enjoying the freedom to teach the way I want to. I felt a huge amount of pressure in a fee-paying international school (where parents call a certain amount of the shots!) to teach in a certain way.
 
-It’s so much easier here to engage with research, learn new things and try them out in the classroom - without being judged! I feel professionally free in England.
+It's so much easier here to engage with research, learn new things and try them out in the classroom - without being judged! I feel professionally free in England.
 
 ### Advice for teachers planning to return to England
 
-* I’d always contact head teachers in advance of applying for jobs in the UK
+* I'd always contact head teachers in advance of applying for jobs in the UK
 * Engage with social media, blogs and education books to stay up-to-date while away
 * Visit schools and attend conferences on your visits back to the UK
-* Don’t worry about behaviour management - honestly, teenagers are teenagers everywhere!
 
 [International candidates information](/international-candidates)
+* Don't worry about behaviour management - honestly, teenagers are teenagers everywhere!

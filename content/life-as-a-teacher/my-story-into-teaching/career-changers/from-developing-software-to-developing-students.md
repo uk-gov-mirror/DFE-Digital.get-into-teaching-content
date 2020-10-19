@@ -22,11 +22,11 @@ more_stories:
 build_layout_from_frontmatter: true
 ---
 
-I graduated with a degree in computing mathematics and spent 13 years in industry with 4 different companies ranging from small to large, I didn’t feel the role was as enjoyable or rewarding anymore. I did some work at schools and I relished working with pupils and the sense of reward I got whilst supporting them. It’s worth noting that teaching was never in my career plan!
+I graduated with a degree in computing mathematics and spent 13 years in industry with 4 different companies ranging from small to large, I didn't feel the role was as enjoyable or rewarding anymore. I did some work at schools and I relished working with pupils and the sense of reward I got whilst supporting them. It's worth noting that teaching was never in my career plan!
 
-I enjoyed my earlier roles and the companies that I worked for, but I sometimes found that I wasn’t recognised or valued. The market also became more competitive and volatile, so project deadlines often became more unrealistic to secure customers and we had to meet tighter budgets.
+I enjoyed my earlier roles and the companies that I worked for, but I sometimes found that I wasn't recognised or valued. The market also became more competitive and volatile, so project deadlines often became more unrealistic to secure customers and we had to meet tighter budgets.
 
-The sense of job security worsened after I had been with 2 companies for over 4 years, and major changes were announced with no warning. This had a major effect on my commitment to the industry and pushed me to consider a different career path – which I do not regret at all and I’m thankful for.
+The sense of job security worsened after I had been with 2 companies for over 4 years, and major changes were announced with no warning. This had a major effect on my commitment to the industry and pushed me to consider a different career path – which I do not regret at all and I'm thankful for.
 
 > I am now deputy director of learning for ICT and maths at Bluecoat Academy.
 

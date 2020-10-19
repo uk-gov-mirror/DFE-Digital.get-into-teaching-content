@@ -24,7 +24,7 @@ build_layout_from_frontmatter: true
 
 After university I became an accountant and built my way up to chief financial officer. I wanted to use this experience to break down the perceived barriers around the subject I love: maths.
 
-Maths has the unfortunate reputation of being difficult and lifeless. I want to raise its reputation by inspiring young minds to find the fun in discovering maths’ unique characteristics.
+Maths has the unfortunate reputation of being difficult and lifeless. I want to raise its reputation by inspiring young minds to find the fun in discovering maths' unique characteristics.
 
 > I remember one of my teachers saying 'We should not keep knowledge to ourselves; we should share this knowledge to others.'
 
@@ -34,7 +34,7 @@ This is the main reason I chose teaching.
 
 I remember one of my teachers saying 'We should not keep knowledge to ourselves; we should share this knowledge to others.'
 
-Recently, I was explaining a difficult maths concept, where I nearly exhausted every different method of explanation. All of a sudden I heard a river of the same comment flowing from each and every pupil: ‘Oh, I get it now.’ It’s instances like this that make me proud of being a teacher.
+Recently, I was explaining a difficult maths concept, where I nearly exhausted every different method of explanation. All of a sudden I heard a river of the same comment flowing from each and every pupil: 'Oh, I get it now.' It's instances like this that make me proud of being a teacher.
 
 I had several concerns before applying; would I have the time to be a good parent and train in a new and demanding career, and would I be able to teach an entire classroom?
 

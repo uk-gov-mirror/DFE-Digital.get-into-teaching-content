@@ -22,10 +22,10 @@ more_stories:
 build_layout_from_frontmatter: true
 ---
 
-I graduated with a BSc in sport and human movement studies, and then went on to achieve Master’s degrees in sports biomechanics and exercise nutrition science. I had a career in the police force and feel this has shaped who I am as a teacher.
+I graduated with a BSc in sport and human movement studies, and then went on to achieve Master's degrees in sports biomechanics and exercise nutrition science. I had a career in the police force and feel this has shaped who I am as a teacher.
 
-> As a qualified coach, I particularly enjoy the overwhelming satisfaction I get when a child I’ve been teaching has mastered a skill.
+> As a qualified coach, I particularly enjoy the overwhelming satisfaction I get when a child I've been teaching has mastered a skill.
 
 During my time as a police officer, I built my communication skills effectively and have been able to bring them into the classroom. It gave me the understanding that some children do not have the ideal home life.
 
-I’m really keen to promote the importance of PE both in school and in everyday life, and away from sport, I want children to see the importance of subjects like maths and not to be afraid of it.
+I'm really keen to promote the importance of PE both in school and in everyday life, and away from sport, I want children to see the importance of subjects like maths and not to be afraid of it.

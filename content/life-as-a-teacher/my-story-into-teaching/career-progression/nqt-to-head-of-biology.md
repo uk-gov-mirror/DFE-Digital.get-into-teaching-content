@@ -27,13 +27,13 @@ Two years after qualifying as a teacher, I progressed to head of biology, climbi
 ###I knew teaching was for me
 From an early age, I knew a teaching career was for me. I could not imagine working a typical nine-to-five desk job. Every day in teaching brings a new challenge and new situations, which is what makes the job so exciting.
 
-When your pupils have those ‘light bulb’ moments, hearing the sudden ‘So that’s how it works!’ and seeing them take your subject into A level and beyond makes the job so worthwhile.
+When your pupils have those 'light bulb' moments, hearing the sudden 'So that's how it works!' and seeing them take your subject into A level and beyond makes the job so worthwhile.
 
 >The best part of teaching is being in front of my 32 students and seeing how my passion for the subject I teach rubs off on them
 
 ###So grateful
 
-I am extremely proud of my teaching achievements and career progression so far. The encouragement and support from my head of faculty really helped; they saw the potential in me and I’m so grateful for that opportunity.
+I am extremely proud of my teaching achievements and career progression so far. The encouragement and support from my head of faculty really helped; they saw the potential in me and I'm so grateful for that opportunity.
 
 With my leadership skills, my department has gone from strength to strength. We have managed to increase uptake of students from a class of 20 A level students to 50. This was a great achievement, and I could not have done this without the support of my colleagues and the leadership courses I attended.
 

@@ -26,12 +26,12 @@ Just one year after completing my postgraduate teacher training, I was head of d
 
 ###The opportunities are there
 
-My salary has increased from when I was a senior research scientist in the pharmaceutical industry. Although you may take a hit when you initially change careers, if you’ve got the skills, you can climb back up quickly. In addition there are opportunities to earn further salary enhancements when you take up additional responsibilities.
+My salary has increased from when I was a senior research scientist in the pharmaceutical industry. Although you may take a hit when you initially change careers, if you've got the skills, you can climb back up quickly. In addition there are opportunities to earn further salary enhancements when you take up additional responsibilities.
 
->There’s an open field of play, due to the fact that wherever you are, there’s always a school nearby offering opportunities.
+>There's an open field of play, due to the fact that wherever you are, there's always a school nearby offering opportunities.
 
 ###The best bit
 
 Results day is when you see the outcome of all the teaching and hard work, and seeing the next generation of scientists, engineers and doctors is incredibly rewarding.
 
-If you can do it, it’s the best job in the world. It’s better paid than most people realise, and most of all, it’s incredibly rewarding. All day, you get to spend time focusing on the subject you’re passionate about and you get to impact the next generation with your skills and enthusiasm.
+If you can do it, it's the best job in the world. It's better paid than most people realise, and most of all, it's incredibly rewarding. All day, you get to spend time focusing on the subject you're passionate about and you get to impact the next generation with your skills and enthusiasm.

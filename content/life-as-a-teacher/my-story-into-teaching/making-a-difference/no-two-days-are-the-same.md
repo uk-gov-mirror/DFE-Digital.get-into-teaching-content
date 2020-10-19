@@ -28,11 +28,11 @@ I am an assistant headteacher and ICT learning co-ordinator and have an MSc in c
 
 Teacher training proved to be a steep learning curve for me.
 
->One thing I’ve realised is that when you’re training to be a teacher, it’s okay to make mistakes.
+> One thing I've realised is that when you're training to be a teacher, it's okay to make mistakes.
 
 Making mistakes allows you to develop strategies, techniques, and skills which you can apply to your teaching.
 
-Now I am fully qualified, I find working with young students and seeing them realise their own potential is powerful. They test you with their desire to learn and their ability to challenge your own thinking by posing questions that you haven’t even thought of.
+Now I am fully qualified, I find working with young students and seeing them realise their own potential is powerful. They test you with their desire to learn and their ability to challenge your own thinking by posing questions that you haven't even thought of.
 
 ###Positive learning environment: an on-going challenge
 
@@ -46,5 +46,5 @@ Teaching and learning does not stop with the bell at the end of the school day. 
 
 Learning and reflecting on your own practice becomes paramount to your development as a teacher. Seeking out new strategies and advice from colleagues is an ongoing process that ensures your own learning evolves.
 
-Students are amazing to work with, they’re funny and inquisitive – they challenge you to spark their interest in your subject. Being part of a learning community is a wholly worthwhile experience that cannot be measured in monetary terms or student achievement alone.
+Students are amazing to work with, they're funny and inquisitive – they challenge you to spark their interest in your subject. Being part of a learning community is a wholly worthwhile experience that cannot be measured in monetary terms or student achievement alone.
 
