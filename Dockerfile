@@ -1,4 +1,4 @@
-FROM dfedigital/get-into-teaching-web:sha-1945522
+FROM dfedigital/get-into-teaching-web:sha-e9bd0b0
 
 COPY content app/views/content
 COPY assets public/assets
