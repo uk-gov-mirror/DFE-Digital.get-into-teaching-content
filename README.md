@@ -41,7 +41,7 @@ acronym definition.
 
 ```YAML
 ---
-accronyms:
+acronyms:
   DFE: Department for Education
   VAT: Value added tag
 ---
