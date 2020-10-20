@@ -24,6 +24,29 @@ Image layered on top of the application one.
 
 The combined image is then deployed through to GovUK PAAS via Github Actions.
 
+## Frontmatter
+
+How markdown content is rendered is controlled from the Frontmatter - that YAML
+definition at the start of the markdown file. 
+
+There is also a global frontmatter config which is merged in with the per-page 
+front matter. This can be used for things like global acronym definitions.
+
+This can be found at `config/frontmatter.yml`
+
+### Acronyms
+
+Acronyms are replaced with an HTML tag allowing the user to hover to view the
+acronym definition.
+
+```YAML
+---
+accronyms:
+  DFE: Department for Education
+  VAT: Value added tag
+---
+```
+
 ## DevOps
 
 ### Accessibility Scanning
