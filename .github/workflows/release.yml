@@ -23,13 +23,6 @@ jobs:
          id: sha
          run: echo ::set-output name=short::$(git rev-parse --short HEAD )
 
-       - name: Set new docker image version
-         run: |
-           docker_image_tag="sha-${{ steps.sha.outputs.short }}"
-           echo ::set-env name=docker_image_tag::${docker_image_tag}
-           echo "Content SHA: ${{ steps.sha.outputs.short }}"
-           echo "New version tag: ${docker_image_tag}"
-
        - name: Wait for any previous runs to complete
          uses: softprops/turnstyle@v1
          env:
@@ -61,7 +54,7 @@ jobs:
              cd terraform/paas && pwd
              terraform plan -var-file=test.env.tfvars -out plan
          env:
-             TF_VAR_paas_app_docker_image: ${{env.DOCKERHUB_REPOSITORY}}:${{ env.docker_image_tag }}
+             TF_VAR_paas_app_docker_image: ${{env.DOCKERHUB_REPOSITORY}}:sha-${{ steps.sha.outputs.short }}
              TF_VAR_user:              "${{ secrets.GOVUKPAAS_USERNAME  }}"
              TF_VAR_password:          "${{ secrets.GOVUKPAAS_PASSWORD  }}"
              ARM_ACCESS_KEY:           "${{ secrets.TEST_ARM_ACCESS_KEY  }}"
@@ -103,7 +96,7 @@ jobs:
            SLACK_CHANNEL: getintoteaching_tech
            SLACK_COLOR: '#3278BD'
            SLACK_ICON: https://github.com/rtCamp.png?size=48
-           SLACK_MESSAGE: ':disappointed_relieved: Pipeline Failure carrying out job ${{github.job}} :disappointed_relieved:'
-           SLACK_TITLE: 'Failure: ${{ github.workflow }}'
+           SLACK_MESSAGE: 'There has been an error deploying the content to the QA environment'
+           SLACK_TITLE: 'Failure Deploying Content to QA'
            SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
                
