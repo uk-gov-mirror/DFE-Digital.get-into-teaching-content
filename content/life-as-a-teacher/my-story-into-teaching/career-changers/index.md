@@ -2,12 +2,13 @@
 title: "Career changers' stories"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"
+hide_page_helpful_question: true
 ---
 
 <div class="content-wrapper">
     <div class="content__left">
         <p>
-            <a class="backlink" href="/life-as-a-teacher/my-story-into-teaching/index">All stories</a>
+            <a class="backlink" href="/life-as-a-teacher/my-story-into-teaching">All stories</a>
         </p>
         <p>
           If you are thinking of changing your career, you’re in good company. Every year, many people decide to move from other 
