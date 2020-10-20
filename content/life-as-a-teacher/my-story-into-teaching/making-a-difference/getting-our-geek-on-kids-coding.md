@@ -1,93 +1,45 @@
 ---
-title: "Getting our 'geek' on: kids coding"
-image: "/assets/images/life-as-a-teacher-header.jpg"
-backlink: "../../"
+title: Getting our 'geek' on - kids coding
+image: /assets/images/stories/stories-tarik.jpg
+backlink: "./"
+backlink_text: Stories about making a difference
+story:
+  teacher: Tarik Reghif
+  position: career changer
+more_stories:
+  - name: Zainab
+    snippet: School experience helped me decide to switch
+    image: /assets/images/stories/stories-zainab.jpg
+    link: /life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch
+  - name: Katie
+    snippet: Returning to teach with international experience
+    image: /assets/images/stories/stories-katie.png
+    link: /life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience
+  - name: Helen
+    snippet: Lawyer to assistant headteacher
+    image: /assets/images/stories/stories-helen.jpg
+    link: /life-as-a-teacher/my-story-into-teaching/career-progression/lawyer-to-assistant-teacher
+build_layout_from_frontmatter: true
 ---
 
-<div class="content-wrapper">
-    <div class="content__left">
-        <div class="stories">
-            <p>
-                <a class="backlink backlink--top" href="/life-as-a-teacher/my-story-into-teaching/making-a-difference">Stories about making a difference</a>
-            </p>
-            <h1>Getting our 'geek' on:kids coding</h1>
-            <div class="story-header">
-                <div class="story-header__thumb" style="background-image:url('/assets/images/stories/stories-tarik.jpg')"></div>
-                <div class="story-header__label">
-                    <h2>Tarik Reghif,<br/> career changer</h2>
-                </div>
-            </div>
-            
-   <p class="prominent">
-               I am a ‘geek’ and have always been passionate about computing. It’s a professional outlet that helped me develop a fabulously varied and exciting career, which included travelling the world.
-            </p>
-            
-  <div>
-                <div class="quote-block">
-                    <span class="icon-quote"></span>
-                    <strong class="quote-block__content">During this time I felt that something was missing, and the pull towards teaching became harder to resist.<span class="icon-quote quote-close"></span></strong>
-                    <h2>Tarik</h2>
-                </div>
-                
-   <h3>Bye CEO, hi kids</h3>
-<p>In teaching, instead of working for a CEO, you’re working for the kids. This is what drives you to put in the hours and the effort. The reward you’re getting at the end of it is the kids actually learning and creating things independently.</p>
+I am a 'geek' and have always been passionate about computing. It's a professional outlet that helped me develop a fabulously varied and exciting career, which included travelling the world.
 
-                
-  </div>
-                 
-                 
-  <p>The great thing about the training is the amount of time I’ve been able to spend with the class and the amount of control I’ve had. I’ve been able to make my own decisions and see where that takes me. Being in charge of a class allows you to be really hands-on.</p>
+>During this time I felt that something was missing, and the pull towards teaching became harder to resist.
 
-<h3>Introducing scratch</h3>
-<p>When I started teaching I was introduced to new tools that I’d never encountered before in my computing career. Scratch is a fantastic example of a program which explores the fundamentals of programming and provides a visual means to learn programming. Seeing some of the things it inspires the class to create is mind-blowing.</p>
-<h3>Quiet in class</h3>
-<p>The best thing about teaching, and computing in particular, is being able to have the satisfaction of a totally quiet class, when everyone is content to work away.</p>
-<p>All of a sudden you hear a student go ‘Yes!’ as their program starts working. There’s the excitement and the joy of when they finally figure something out and they have a program which they can be proud of.</p>
-<p>You go into a class and suddenly you’ve got 30 faces looking at you, all hoping to learn something exciting. It really changes your view from ‘Let’s see what we can do to satisfy the customer’ to ‘Let’s see what we can do to inspire’.</p>
+###Bye CEO, hi kids
 
+In teaching, instead of working for a CEO, you're working for the kids. This is what drives you to put in the hours and the effort. The reward you're getting at the end of it is the kids actually learning and creating things independently.
 
+The great thing about the training is the amount of time I've been able to spend with the class and the amount of control I've had. I've been able to make my own decisions and see where that takes me. Being in charge of a class allows you to be really hands-on.
 
+###Introducing scratch
 
+When I started teaching I was introduced to new tools that I'd never encountered before in my computing career. Scratch is a fantastic example of a program which explores the fundamentals of programming and provides a visual means to learn programming. Seeing some of the things it inspires the class to create is mind-blowing.
 
+###Quiet in class
 
+The best thing about teaching, and computing in particular, is being able to have the satisfaction of a totally quiet class, when everyone is content to work away.
 
+All of a sudden you hear a student go 'Yes!' as their program starts working. There's the excitement and the joy of when they finally figure something out and they have a program which they can be proud of.
 
-   </div>
-    </div>
-</div>
-
-<div class="more-stories">
-    <h2 class="more-stories_header strapline">More stories</h2>
-    <div class="more-stories__thumbs">
-        <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-zainab.jpg')"></div>
-            </a>
-            <div class="more-stories__thumbs__thumb__content">
-                <p>School experience helped me decide to switch</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch">Read Zainab's story  <i class="fas fa-chevron-right"></i></a>
-            </div>
-        </div>
-        <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-katie.png')"></div>
-            </a>
-            <div class="more-stories__thumbs__thumb__content">
-                <p>Returning to teach with international experience</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience">Read Katie's story  <i class="fas fa-chevron-right"></i></a>
-            </div>
-        </div>
-        <div class="more-stories__thumbs__thumb">
-            <a href="/life-as-a-teacher/my-story-into-teaching/career-progression/lawyer-to-assistant-teacher">
-                <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-helen.jpg')"></div>
-            </a>
-            <div class="more-stories__thumbs__thumb__content">
-                <p>Lawyer to assistant headteacher</p>
-                <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/career-progression/lawyer-to-assistant-teacher">Read Helen's story <i class="fas fa-chevron-right"></i></a>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-
+You go into a class and suddenly you've got 30 faces looking at you, all hoping to learn something exciting. It really changes your view from 'Let's see what we can do to satisfy the customer' to 'Let's see what we can do to inspire'.
