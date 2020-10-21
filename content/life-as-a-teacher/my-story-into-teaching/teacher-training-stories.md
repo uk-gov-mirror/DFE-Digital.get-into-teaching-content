@@ -41,7 +41,7 @@ hide_page_helpful_question: true
                 <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-generic.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Swapping senior management for students</p>
+                <p>Teacher training: it’s worth it</p>
                 <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/teacher-training-stories/teacher-training-its-worth-it">Read Hasina's story <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
