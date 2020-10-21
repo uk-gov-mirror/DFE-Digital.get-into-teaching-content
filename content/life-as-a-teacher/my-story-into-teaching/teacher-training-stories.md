@@ -32,7 +32,7 @@ hide_page_helpful_question: true
                 <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-nathan.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Classroom learning</p>
+                <p>Salaried teacher training: classroom learning</p>
                 <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/teacher-training-stories/salaried-teacher-training-classroom-learning">Read Nathan's story  <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
