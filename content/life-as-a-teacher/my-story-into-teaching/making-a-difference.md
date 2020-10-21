@@ -70,7 +70,7 @@ hide_page_helpful_question: true
                 <div class="more-stories__thumbs__thumb__img" style="background-image:url('/assets/images/stories/stories-danny.jpg')"></div>
             </a>
             <div class="more-stories__thumbs__thumb__content">
-                <p>Going back and giving back</p>
+                <p>Turning a tough lesson into a success</p>
                 <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/making-a-difference/turning-a-tough-lesson-into-success">Read Danny's story <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
