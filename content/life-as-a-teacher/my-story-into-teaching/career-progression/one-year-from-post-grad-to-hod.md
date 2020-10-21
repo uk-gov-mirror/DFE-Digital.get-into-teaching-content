@@ -1,6 +1,6 @@
 ---
 title: One year from Post Grad to head of department
-image: /assets/images/stories/stories-sarah-f.jpg
+image: /assets/images/stories/stories-owen.jpg
 backlink: "./"
 backlink_text: Career progression stories
 story:
