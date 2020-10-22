@@ -9,8 +9,6 @@ on:
 
 env:
   DOCKERHUB_REPOSITORY: dfedigital/get-into-teaching-frontend
-  CF_PROVIDER_DIR: $HOME/.terraform.d/plugins/linux_amd64/terraform-provider-cloudfoundry
-  CF_PROVIDER_URL: https://github.com/cloudfoundry-community/terraform-provider-cloudfoundry/releases/download/v0.12.3/terraform-provider-cloudfoundry_v0.12.3_linux_amd64
 
 jobs:
   deploy_qa:
@@ -39,13 +37,6 @@ jobs:
          id: sha
          run: echo ::set-output name=short::$(git rev-parse --short HEAD )
 
-       - name: Set new docker image version
-         run: |
-           docker_image_tag="sha-${{ steps.sha.outputs.short }}"
-           echo ::set-env name=docker_image_tag::${docker_image_tag}
-           echo "Content SHA: ${{ steps.sha.outputs.short }}"
-           echo "New version tag: ${docker_image_tag}"
-
        - name: Wait for any previous runs to complete
          uses: softprops/turnstyle@v1
          env:
@@ -55,14 +46,8 @@ jobs:
 
        - uses: hashicorp/setup-terraform@v1
          with:
-           terraform_version: 0.12.29
+           terraform_version: 0.13.4
 
-       - name: Install Terraform CloudFoundry Provider
-         run: |
-             mkdir -p $HOME/.terraform.d/plugins/linux_amd64
-             wget -O ${{ env.CF_PROVIDER_DIR }} ${{ env.CF_PROVIDER_URL }}
-             chmod +x ${{ env.CF_PROVIDER_DIR }}
-   
        - name: Terraform Init
          run: |
              cd terraform/paas && pwd
@@ -77,7 +62,7 @@ jobs:
              cd terraform/paas && pwd
              terraform plan -var-file=production.env.tfvars -out plan
          env:
-             TF_VAR_paas_app_docker_image: ${{env.DOCKERHUB_REPOSITORY}}:${{ env.docker_image_tag }}
+             TF_VAR_paas_app_docker_image: ${{env.DOCKERHUB_REPOSITORY}}:sha-${{ steps.sha.outputs.short }}
              TF_VAR_user:              "${{ secrets.GOVUKPAAS_USERNAME  }}"
              TF_VAR_password:          "${{ secrets.GOVUKPAAS_PASSWORD  }}"
              ARM_ACCESS_KEY:           "${{ secrets.PROD_ARM_ACCESS_KEY  }}"
@@ -119,7 +104,7 @@ jobs:
            SLACK_CHANNEL: getintoteaching_tech
            SLACK_COLOR: '#3278BD'
            SLACK_ICON: https://github.com/rtCamp.png?size=48
-           SLACK_MESSAGE: 'Pipeline Failure carrying out job ${{github.job}}'
-           SLACK_TITLE: 'Failure: ${{ github.workflow }}'
+           SLACK_MESSAGE: 'There has been a workflow failure delivering content to the production environment'
+           SLACK_TITLE: 'Failure Deploying Content to Production'
            SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
                

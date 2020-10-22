@@ -16,7 +16,7 @@ more_stories:
     image: /assets/images/stories/stories-victoria.jpg
     link: /life-as-a-teacher/my-story-into-teaching/career-changers/police-officer-to-pe-teacher
   - name: Tarik
-    snippet: Getting our 'geek' on:kids coding
+    snippet: "Getting our 'geek' on: kids coding"
     image: /assets/images/stories/stories-tarik.jpg
     link: /life-as-a-teacher/my-story-into-teaching/making-a-difference/getting-our-geek-on-kids-coding
 build_layout_from_frontmatter: true

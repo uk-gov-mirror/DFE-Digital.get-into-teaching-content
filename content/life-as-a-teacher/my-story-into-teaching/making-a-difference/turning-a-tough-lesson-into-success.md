@@ -5,7 +5,7 @@ backlink: "./"
 backlink_text: Stories about making a difference
 story:
   teacher: Danny Holliday
-  position: physical education(PE) teacher
+  position: physical education (PE) teacher
 more_stories:
   - name: Zainab
     snippet: School experience helped me decide to switch
