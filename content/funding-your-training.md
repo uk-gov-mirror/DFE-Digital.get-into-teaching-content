@@ -30,7 +30,7 @@ navigation: 10
  <p>For a scholarship, each professional scholarship body sets its own criteria.</p>
  <p>You could get a bursary of up to £24,000 or apply for a scholarship of up to £26,000.</p>
  
-<p><a href="/finance-guidance#bursaries-and-scholarships" target="_blank" rel="noopener noreferrer">Find out more about bursaries and scholarships<span class="govuk-visually-hidden">(Link opens in new
+<p><a href="/financial-support-for-teacher-training#bursaries-and-scholarships" target="_blank" rel="noopener noreferrer">Find out more about bursaries and scholarships<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>.</p>
 
   <h2 id="get-student-finance">Tuition fee and maintenance loans</h2>
@@ -40,7 +40,7 @@ window)</span><i class="icon icon-external"></i></a>.</p>
   
  <p>You will only have to make repayments when you're earning. Your repayments will not increase if you already have a student loan and take a loan out for teacher training.</p>
 
-  <p><a href="/finance-guidance#tuition-fee-maintenance-loans" target="_blank" rel="noopener noreferrer">Find out more about tuition fee and maintenance loans<span class="govuk-visually-hidden">(Link opens in new
+  <p><a href="/financial-support-for-teacher-training#tuition-fee-maintenance-loans" target="_blank" rel="noopener noreferrer">Find out more about tuition fee and maintenance loans<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>.</p> 
 
   <p>Use the <a href="https://www.gov.uk/student-finance-calculator" target="_blank" rel="noopener noreferrer">student finance calculator on GOV.UK<span class="govuk-visually-hidden">(Link opens in new
@@ -59,8 +59,8 @@ window)</span><i class="icon icon-external"></i></a> to find out how much you ca
     <li><span>Adult Dependants’ Grant</span></li>
   </ul>
   
-  <p>Find out more about extra financial support for <a href="/finance-guidance#parents-and-carers" target="_blank" rel="noopener noreferrer">parents and carers<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> and <a href="/finance-guidance#disabled-students" target="_blank" rel="noopener noreferrer">people with disabilities<span class="govuk-visually-hidden">(Link opens in new
+  <p>Find out more about extra financial support for <a href="/financial-support-for-teacher-training#parents-and-carers" target="_blank" rel="noopener noreferrer">parents and carers<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> and <a href="/financial-support-for-teacher-training#disabled-students" target="_blank" rel="noopener noreferrer">people with disabilities<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a>.</p> 
 
 

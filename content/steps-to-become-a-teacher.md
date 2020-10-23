@@ -40,7 +40,7 @@ navigation: 20
    <p>
         If you do not have the required GCSEs, you’ll need to show that you have an equivalent level of education.
       </p>
-      <p><a href="/ways-to-train-guidance#subject-knowledge-enhancement-courses" target="_blank" rel="noopener noreferrer">If your degree is not in the subject you want to teach<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></p>
+      <p><a href="/train-to-become-a-teacher#subject-knowledge-enhancement-courses" target="_blank" rel="noopener noreferrer">If your degree is not in the subject you want to teach<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></p>
       
    <p>
     Here's what you need to do if you:
@@ -106,7 +106,7 @@ navigation: 20
 
   
   
-  <a href="/ways-to-train-guidance" target="_blank" rel="noopener noreferrer">Find out more about different ways to train<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>
+  <a href="/train-to-become-a-teacher" target="_blank" rel="noopener noreferrer">Find out more about different ways to train<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>
 
 
   <h3>Teaching children with special educational needs and disabilities (SEND)</h3>
@@ -116,7 +116,7 @@ navigation: 20
       <p>
         You could also specialise in supporting children with SEND.
       </p>
-      <a href="/ways-to-train-guidance#teaching-children-with-special-educational-needs-and-or-disabilities-SEND" target="_blank" rel="noopener noreferrer">Find out how to specialise in SEND<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>
+      <a href="/train-to-become-a-teacher#teaching-children-with-special-educational-needs-and-or-disabilities-SEND" target="_blank" rel="noopener noreferrer">Find out how to specialise in SEND<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>
       
       
    </div>
