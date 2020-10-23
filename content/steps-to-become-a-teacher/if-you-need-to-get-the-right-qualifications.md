@@ -35,7 +35,7 @@ Alternatively, if you are currently studying for, or have already been awarded y
 
 <h2 id="if-your-degree-is-not-in-the-subject-you-want-to-teach">Increase your knowledge of the subject you want to teach</h2>
 
-<p>If you need to top up your knowledge of the subject you want to teach, you could take a <a href="/guidance#subject-knowledge-enhancement-courses"  target="_blank" rel="noopener noreferrer">subject knowledge enhancement course (SKE)<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>.</p> 
+<p>If you need to top up your knowledge of the subject you want to teach, you could take a <a href="/train-to-become-a-teacher#subject-knowledge-enhancement-courses"  target="_blank" rel="noopener noreferrer">subject knowledge enhancement course (SKE)<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>.</p> 
   
  <p>A SKE may be right for you if:</p>
 
@@ -46,38 +46,38 @@ Alternatively, if you are currently studying for, or have already been awarded y
   <li><span>it’s been some time since you used your degree knowledge</span></li>
   </ul>
 
-<p>If you want more information, read the <a href="/guidance#subject-knowledge-enhancement-courses"  target="_blank" rel="noopener noreferrer">UK government guidance on SKE courses<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>.</p>
+<p>If you want more information, read the <a href="/train-to-become-a-teacher#subject-knowledge-enhancement-courses"  target="_blank" rel="noopener noreferrer">UK government guidance on SKE courses<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>.</p>
 
 <h2 id="specialist-ways-to-get-into-teaching">Specialist ways to get into teaching</h2>
 
 <h3>School Direct salaried places</h3>
 
-<p>You’ll earn a <a href="/guidance#salaried"  target="_blank" rel="noopener noreferrer">salary while you train<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a> and you will not pay tuition fees. These places are usually given to graduates with at least 3 years’ work experience.</p>
+<p>You’ll earn a <a href="/train-to-become-a-teacher#salaried"  target="_blank" rel="noopener noreferrer">salary while you train<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a> and you will not pay tuition fees. These places are usually given to graduates with at least 3 years’ work experience.</p>
 
 <h3>Postgraduate teaching apprenticeship</h3>
 
-<p><a href="/guidance#salaried"  target="_blank" rel="noopener noreferrer">Postgraduate teaching apprenticeships<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a> are similar to school direct salaried places. You’ll be employed by a school to learn on the job over 4 terms. You’ll then take an assessment. This is a salaried training place so you will not pay tuition fees.</p>
+<p><a href="/train-to-become-a-teacher#salaried"  target="_blank" rel="noopener noreferrer">Postgraduate teaching apprenticeships<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a> are similar to school direct salaried places. You’ll be employed by a school to learn on the job over 4 terms. You’ll then take an assessment. This is a salaried training place so you will not pay tuition fees.</p>
 
 <h3>Career changers</h3>
 
-<p>If you want a <a href="/guidance#career-changers"  target="_blank" rel="noopener noreferrer">career change and fancy becoming a teacher<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>, you’ll get the chance to use your life and work experience coupled with your passion for your subject to inspire young people.  There's plenty of support to get into teaching and make the career change. </p>
+<p>If you want a <a href="/train-to-become-a-teacher#career-changers"  target="_blank" rel="noopener noreferrer">career change and fancy becoming a teacher<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>, you’ll get the chance to use your life and work experience coupled with your passion for your subject to inspire young people.  There's plenty of support to get into teaching and make the career change. </p>
 
 <h3>High Potential ITT</h3>
 
-<p>You’ll need to have a 2:1 degree or higher to apply for a place on the programme, currently delivered by <a href="/guidance#high-potential-itt"  target="_blank" rel="noopener noreferrer">Teach First<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>. You’ll train over 2 years by learning on the job, paid as an unqualified teacher and you will not pay tuition fees. You’ll be placed into a school straight away and gain QTS in your first year and complete your Newly Qualified Teacher placement in year 2.</p>
+<p>You’ll need to have a 2:1 degree or higher to apply for a place on the programme, currently delivered by <a href="/train-to-become-a-teacher#high-potential-itt"  target="_blank" rel="noopener noreferrer">Teach First<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>. You’ll train over 2 years by learning on the job, paid as an unqualified teacher and you will not pay tuition fees. You’ll be placed into a school straight away and gain QTS in your first year and complete your Newly Qualified Teacher placement in year 2.</p>
 <p>You’ll also receive leadership training, which includes a fully-funded Postgraduate Diploma in Education and Leadership (PGDE), worth double the credits of a PGCE.</p>
 
 <h3>Researchers in schools</h3>
 
-<p>You’ll need (or be about to finish) a doctorate in the <a href="/guidance#researchers-in-schools"  target="_blank" rel="noopener noreferrer">subject you want to teach<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>. You’ll then train over 3 years with a bursary. If you have a lot of relevant work experience you could train and earn a salary.</p>
+<p>You’ll need (or be about to finish) a doctorate in the <a href="/train-to-become-a-teacher#researchers-in-schools"  target="_blank" rel="noopener noreferrer">subject you want to teach<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>. You’ll then train over 3 years with a bursary. If you have a lot of relevant work experience you could train and earn a salary.</p>
 
 <h3>Assessment only (AO)</h3>
 
-<p>If you’re a teaching assistant or unqualified teacher with two years’ experience you can be <a href="/guidance#assessment-only-candidates-already-working-in-school"  target="_blank" rel="noopener noreferrer">assessed over 12 weeks to get QTS<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>. This way of getting QTS will not give you a PGCE.</p>
+<p>If you’re a teaching assistant or unqualified teacher with two years’ experience you can be <a href="/train-to-become-a-teacher#assessment-only-candidates-already-working-in-school"  target="_blank" rel="noopener noreferrer">assessed over 12 weeks to get QTS<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>. This way of getting QTS will not give you a PGCE.</p>
 
 <h3>Postgraduate Early Years Initial Teacher Training (EYITT)</h3>
 
-<p>A number of postgraduate Early Years Initial Teacher Training (EYITT) courses are available at university or via a school-led route – all lead to <a href="/guidance#teaching-under-fives"  target="_blank" rel="noopener noreferrer">Early Years Teacher Status (EYTS)<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a> on successful completion. EYTS is different to QTS in that you specialise in working with children up to five years old only.</p>
+<p>A number of postgraduate Early Years Initial Teacher Training (EYITT) courses are available at university or via a school-led route – all lead to <a href="/train-to-become-a-teacher#teaching-under-fives"  target="_blank" rel="noopener noreferrer">Early Years Teacher Status (EYTS)<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a> on successful completion. EYTS is different to QTS in that you specialise in working with children up to five years old only.</p>
 
 
 <p><a href="https://www.gov.uk/find-postgraduate-teacher-training-courses"  target="_blank" rel="noopener noreferrer">Find a school-led teacher training course<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></p>
