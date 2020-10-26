@@ -14,7 +14,7 @@ backlink: "/"
         <span class="featured-content__title">Apply for teacher training.</span>
         <div class="featured-content__image" style="background-image: url('assets/images/home-steps.jpg')"></div>
         <div class="featured-content__content">
-            <span>Applications to teacher training courses starting in autumn 2021 open on 13 October. Start getting ready now.</span>
+            <span>Applications to teacher training courses starting in autumn 2021 are open now.</span>
             <a class="featured-content__link" href="https://beta-getintoteaching.education.gov.uk/steps-to-become-a-teacher">Steps to become a teacher</a>
         </div>
     </div>
