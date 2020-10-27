@@ -454,12 +454,6 @@
 	<p>
 	Your repayments will not increase if you take out another loan for teacher training.
 </p>
-
-<a class="govuk-link govuk-link--no-visited-state app-back-to-top__link" href="#top">
-  <svg role="presentation" focusable="false" class="app-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewBox="0 0 13 17">
-    <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
-  </svg>Back to top
-</a>
 	    
 <h2 id="parents-and-carers">Parents and carers - extra financial support
 </h2>
@@ -480,13 +474,7 @@
 	    <p>You do not need to pay back these kinds of financial support.</p>
 </p>
 	  
-<a class="govuk-link govuk-link--no-visited-state app-back-to-top__link" href="#top">
-  <svg role="presentation" focusable="false" class="app-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewBox="0 0 13 17">
-    <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
-  </svg>Back to top
-</a>
-	 
-	  <h2 id="disabled-students">Disabled students - extra financial support</h2>
+<h2 id="disabled-students">Disabled students - extra financial support</h2>
 <p>If you have additional needs due to a mental health condition, long-term illness or disability you can apply for <a href="https://www.gov.uk/disabled-students-allowances-dsas/how-to-claim" target="_blank">Disabled Students’ Allowances (DSAs)</a>.</p>
 
 		
@@ -497,12 +485,6 @@
 	  events</a> are informal opportunities for you to get free expert advice about your
 	next steps into teaching.
 </p>
-
-	  <a class="govuk-link govuk-link--no-visited-state app-back-to-top__link" href="#top">
-  <svg role="presentation" focusable="false" class="app-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewBox="0 0 13 17">
-    <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
-  </svg>Back to top
-</a>
 	  
 <h2 id="help-and-support">
 	Contact and support
@@ -523,11 +505,6 @@
 
 </div>
 </div>
-	  <a class="govuk-link govuk-link--no-visited-state app-back-to-top__link" href="#top">
-  <svg role="presentation" focusable="false" class="app-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewBox="0 0 13 17">
-    <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
-  </svg>Back to top
-</a>
 
 
   <div class="responsive-bottom-margin">
@@ -537,15 +514,14 @@
 
   </div>
 
-  <div data-sticky-element="" class="app-c-contents-list-with-body__link-wrapper govuk-sticky-element--stuck-to-window">
+  <div id="back-to-top-link" style="display: none" data-sticky-element="" class="app-c-contents-list-with-body__link-wrapper govuk-sticky-element--stuck-to-window">
         <div class="app-c-contents-list-with-body__link-container">
           <a class="govuk-link app-c-back-to-top dont-print" href="#top">
             <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewBox="0 0 13 17">
               <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
             </svg>
-            Back to top
+            Contents
           </a>
-
         </div>
       </div>
   </div>
@@ -966,6 +942,16 @@
   <script>if (typeof window.GOVUK === 'undefined') document.body.className = document.body.className.replace('js-enabled', '');</script>
   <script src="https://www.gov.uk/assets/government-frontend/application-e6e189e655c0c3d1835298a128f8f68fa8b56785858230797bba7b8c5acfdfbf.js"></script>
 
+  <script>
+    $(document).scroll(function() {
+      const backToTopLink = $('#back-to-top-link');
 
+      if ($(this).scrollTop() > 1000) {
+        backToTopLink.fadeIn();
+      } else {
+        backToTopLink.fadeOut();
+      }
+    });
+  </script>
 </body>
 </html>
