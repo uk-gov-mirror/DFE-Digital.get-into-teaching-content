@@ -24,9 +24,9 @@ build_layout_from_frontmatter: true
 
 For me, the teachers who stick in my mind are the ones that gave me their time and effort, and really prepared me for my future. I chose to train as a teacher so that I could do the same and give something back.
 
->I see myself as a teacher that helps students and gives them a love for what they have to do, whether they want to do it or not.
+> I see myself as a teacher that helps students and gives them a love for what they have to do, whether they want to do it or not.
 
-###Proudest moment
+### Proudest moment
 
 One of my proudest moments was helping a GCSE student to achieve an A* in her RE exam, despite having a target grade of D.
 

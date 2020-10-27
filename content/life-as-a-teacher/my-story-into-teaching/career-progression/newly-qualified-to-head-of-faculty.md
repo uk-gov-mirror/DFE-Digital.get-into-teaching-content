@@ -28,7 +28,7 @@ I couldn't have made a better decision. I love the challenge of raising my stand
 
 I developed a reputation for delivering exceptional lessons and became an outstanding reflective practitioner. I also had a positive impact on each student, helping them develop and meet all areas of the curriculum and beyond. In my fifth year of teaching, I received a promotion to head of humanities, which is also the school's specialism.
 
-###Getting noticed
+### Getting noticed
 
 What got me noticed as a teacher were the improvements I made to the directional and strategic change of my school. I was recognised not only as a great teacher, but as a future leader.
 

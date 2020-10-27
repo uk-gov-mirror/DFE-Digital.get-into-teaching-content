@@ -1,6 +1,6 @@
 ---
 title: Leaping to head of department
-image: /assets/images/life-as-a-teacher-header.jpg
+image: /assets/images/stories/stories-jon.jpg
 backlink: "./"
 backlink_text: Career changers' stories
 story:
