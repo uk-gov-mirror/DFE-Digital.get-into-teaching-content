@@ -776,12 +776,6 @@
 	<li>modern foreign languages (French, German or Spanish)</li>
 </ul>
 
-<a class="govuk-link govuk-link--no-visited-state app-back-to-top__link" href="#top">
-  <svg role="presentation" focusable="false" class="app-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewBox="0 0 13 17">
-    <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
-  </svg>Back to top
-</a>
-
 <h2 id="teaching-children-with-special-educational-needs-and-or-disabilities-SEND">
 	Teaching children with special educational needs and disabilities (SEND)
 </h2>
@@ -809,13 +803,6 @@
 	<li>complete the National Award in Special Educational Needs Coordination (NASENCO) when you take up the SENCO post</li>
 </ul>
 
-<a class="govuk-link govuk-link--no-visited-state app-back-to-top__link" href="#top">
-  <svg role="presentation" focusable="false" class="app-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewBox="0 0 13 17">
-    <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
-  </svg>Back to top
-</a>
-
-	
 <h2 id="get-a-job-in-teaching">
 	Get a job in teaching
 </h2>
@@ -828,12 +815,6 @@
 	The service is used by 70% of state schools in England. Search by location,
 	subject, job title and salary and set up job alerts.
 </p>
-<a class="govuk-link govuk-link--no-visited-state app-back-to-top__link" href="#top">
-  <svg role="presentation" focusable="false" class="app-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewBox="0 0 13 17">
-    <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
-  </svg>Back to top
-</a>
-
 
 <h2 id="contact-and-support">
 	Contact and support
@@ -858,11 +839,7 @@
 	  events</a> are informal opportunities for you to get free expert advice about your
 	next steps into teaching.
 </p>
-<a class="govuk-link govuk-link--no-visited-state app-back-to-top__link" href="#top">
-  <svg role="presentation" focusable="false" class="app-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewBox="0 0 13 17">
-    <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
-  </svg>Back to top
-</a>
+
 <h2 id="further-support-and-information">Further support and information</h2>
 
 <p>Send an email to:
@@ -880,7 +857,7 @@
 
   </div>
 
-  <div data-sticky-element="" class="app-c-contents-list-with-body__link-wrapper govuk-sticky-element--stuck-to-window">
+  <div id="back-to-top-link" style="display: none;" data-sticky-element="" class="app-c-contents-list-with-body__link-wrapper govuk-sticky-element--stuck-to-window">
         <div class="app-c-contents-list-with-body__link-container">
           <a class="govuk-link app-c-back-to-top dont-print" href="#top">
             <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewBox="0 0 13 17">
@@ -888,7 +865,6 @@
             </svg>
             Back to top
           </a>
-
         </div>
       </div>
   </div>
@@ -1309,6 +1285,17 @@
   <script>if (typeof window.GOVUK === 'undefined') document.body.className = document.body.className.replace('js-enabled', '');</script>
   <script src="https://www.gov.uk/assets/government-frontend/application-e6e189e655c0c3d1835298a128f8f68fa8b56785858230797bba7b8c5acfdfbf.js"></script>
 
+  <script>
+    $(document).scroll(function() {
+      const backToTopLink = $('#back-to-top-link');
+
+      if ($(this).scrollTop() > 1000) {
+        backToTopLink.fadeIn();
+      } else {
+        backToTopLink.fadeOut();
+      }
+    });
+  </script>
 
 </body>
 </html>
