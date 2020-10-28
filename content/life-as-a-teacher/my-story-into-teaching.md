@@ -53,7 +53,7 @@ sections:
         image: /assets/images/stories/stories-shaun.jpg
         snippet: Returning to teaching with support from an adviser
   Teacher training:
-    link: my-story-into-teaching/teacher-training
+    link: my-story-into-teaching/teacher-training-stories
     text: >
       It’s a great time to train to teach, with a wide array of training
       options and support available. Find out what you can expect from current
