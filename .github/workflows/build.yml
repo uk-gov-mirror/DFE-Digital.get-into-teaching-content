@@ -141,6 +141,9 @@ jobs:
               TF_VAR_HTTPAUTH_USERNAME: "${{ secrets.HTTPAUTH_USERNAME }}"
               TF_VAR_RAILS_MASTER_KEY:  "${{ secrets.RAILS_MASTER_KEY_ROLLING }}"
               TF_VAR_RAILS_ENV:         "rolling"
+              TF_VAR_docker_username:   "${{ secrets.DOCKERHUB_USERNAME }}"
+              TF_VAR_docker_password:   "${{ secrets.DOCKERHUB_PERSONAL_ACCESS_TOKEN }}"
+
 
       - name: Terraform Apply
         if: github.ref == 'refs/heads/master'
