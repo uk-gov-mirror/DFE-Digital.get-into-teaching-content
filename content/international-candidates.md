@@ -246,7 +246,7 @@ window)</span><i class="icon icon-external"></i></a> you may be eligible for.)</
   <li>unsalaried includes higher education institution programmes, school-centred initial teacher training (SCITT) programmes and the School Direct fee-funded programme</li>
   </ul>
 
-<p><a href="https://beta-getintoteaching.education.gov.uk/ways-to-train-guidance" target="_blank" rel="noopener noreferrer">Learn more about ways to train in England<span class="govuk-visually-hidden">(Link opens in new
+<p><a href="https://beta-getintoteaching.education.gov.uk/train-to-become-a-teacher" target="_blank" rel="noopener noreferrer">Learn more about ways to train in England<span class="govuk-visually-hidden">(Link opens in new
 window)</span><i class="icon icon-external"></i></a></p>
 
 
