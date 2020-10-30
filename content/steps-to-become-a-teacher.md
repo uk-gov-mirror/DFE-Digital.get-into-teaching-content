@@ -138,19 +138,11 @@ navigation: 20
         <li><span><span><a href="https://www.gov.uk/find-postgraduate-teacher-training-courses" target="_blank" rel="noopener noreferrer">choose your course<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></span></span></li>
         <li><span><span>write a personal statement</span></span></li>
         <li><span><span>get two references</span></span></li>
-        <li>apply for teacher training either through <a href="https://2021.teachertraining.apply.ucas.com/apply/student/login.do">UCAS Teacher Training <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>, or by using the <span><span><a href="https://www.gov.uk/apply-for-teacher-training" target="_blank" rel="noopener noreferrer">Apply for teacher training GOV.UK service <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></span></span></li>
+        <li>apply for teacher training either through <span><span><a href="https://www.gov.uk/apply-for-teacher-training" target="_blank" rel="noopener noreferrer">Apply for teacher training GOV.UK service <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a>, or by using the <a href="https://2021.teachertraining.apply.ucas.com/apply/student/login.do">UCAS Teacher Training <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a></span></span></li>
       </ul>
   <p>Apply for teacher training will eventually replace UCAS, but for now, the new service is limited to certain providers.</p>
 
-
-  <p>Use UCAS Teacher Training if:</p>
-
-<ul>
-<li>you’ve already started applying via UCAS</li>
-<li>some of your chosen training providers are not available through Apply for teacher training and you don’t want to use 2 different services</li>
-</ul>
-
-<p>Use Apply for teacher training if:</p>
+  <p>Use Apply for teacher training if:</p>
 
 <ul>
 <li>all your chosen training providers are available through this new service</li>
@@ -159,6 +151,14 @@ navigation: 20
   <p>View a list of <a href="https://www.apply-for-teacher-training.service.gov.uk/candidate/providers">training providers and courses available <span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a> through the new GOV.UK service.</p>
   
   <p>You can get help preparing your application by signing up to the <a href="https://beta-adviser-getintoteaching.education.gov.uk/">Get an adviser</a> service.</p>
+
+
+  <p>Use UCAS Teacher Training if:</p>
+
+<ul>
+<li>you’ve already started applying via UCAS</li>
+<li>some of your chosen training providers are not available through Apply for teacher training and you don’t want to use 2 different services</li>
+</ul>
     </div>
   </div>
 </div>
