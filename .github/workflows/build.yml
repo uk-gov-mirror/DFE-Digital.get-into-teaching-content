@@ -113,7 +113,7 @@ jobs:
             ${{env.DOCKERHUB_REPOSITORY}}:sha-${{ steps.sha.outputs.short }} \
             rspec --format documentation spec/features/content_pages_spec.rb
 
-      - uses: hashicorp/setup-terraform@v1
+      - uses: hashicorp/setup-terraform@v1.2.1
         with:
            terraform_version: 0.13.4
 
