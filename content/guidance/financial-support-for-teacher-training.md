@@ -33,10 +33,6 @@ depending on your eligibility:
   - extra financial support if you're a parent, a carer, or you have a
     disability
 
-For advice about bursaries or scholarships, you can [chat
-online](https://beta-getintoteaching.education.gov.uk/#talk-to-us) or
-call Freephone 0800 389 2501 between 8.30am and 5pm, Monday to Friday.
-
 Please note that alternative funding is in place to train as an Early
 Years teacher, which leads to achieving Early Years Teacher Status
 (EYTS).
@@ -75,6 +71,13 @@ You don’t need to apply for a bursary. If you’re enrolled on a
 non-salaried postgraduate course and meet the eligibility criteria, you
 will begin receiving payments from your chosen teacher training provider
 when you begin your course.
+
+For advice about bursaries or scholarships, you can:
+
+<p>For advice about bursaries, you can:</p>
+
+<p><a class="govuk-button govuk-button--secondary" data-module="govuk-button" href="https://beta-getintoteaching.education.gov.uk/#talk-to-us">Chat online</a></p>
+<p>Alternatively call Freephone 0800 389 2501 between 8.30am and 5pm, Monday to Friday.</p>
 
 How you’re paid will depend on the amount of financial support you
 receive. If you’re awarded a bursary, you’ll receive this in 10 equal
@@ -155,6 +158,12 @@ instalments from October to July.
 You are advised to confirm payment schedules with your training
 provider.
 
+For advice about scholarships, you can:
+
+<a class="govuk-button govuk-button--secondary" data-module="govuk-button" href="https://beta-getintoteaching.education.gov.uk/#talk-to-us">Chat online</a>
+
+Alternatively, you can call Freephone 0800 389 2501 between 8.30am and 5pm, Monday to Friday.
+
 ## Tuition fee and maintenance loans
 
 You can take out a loan with [student
@@ -210,11 +219,8 @@ into teaching.
 
 ## Contact and support
 
-Contact Get into Teaching’s live [online chat service](/#talk-to-us)
-between 8.30am and 5pm, Monday to Friday.
+<a class="govuk-button govuk-button--secondary" data-module="govuk-button" href="https://beta-getintoteaching.education.gov.uk/#talk-to-us">Chat online</a>
 
-Call us about teaching or teacher training on Freephone
-[0800 389 2501](tel:08003892501) between 8.30am and 5pm, Monday to
-Friday.
+To talk to us about teaching or teacher training, call Freephone 0800 389 2501 between 8.30am and 5pm, Monday to Friday.
 
 Send an email to: <getintoteaching.helpdesk@education.gov.uk>.

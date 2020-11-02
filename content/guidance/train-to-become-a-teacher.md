@@ -47,6 +47,9 @@ NQTs do a further 'induction programme' in school as a paid and
 qualified teacher, which allows them to build on their initial teacher
 training.
 
+[Find undergraduate teacher training courses](https://www.ucas.com/teaching-option/undergraduate-initial-teacher-training)
+[Find postgraduate teacher training courses](https://www.gov.uk/find-postgraduate-teacher-training-courses)
+
 ### Assessment only (candidates already working in school)
 
 If you’re an unqualified teacher with 2 years’ experience, you can be
@@ -399,7 +402,7 @@ advice on adjustments for disabled students while studying.
 [Teach First](https://www.teachfirst.org.uk/) is a charity which runs
 the government-funded High Potential Initial Teacher Training programme
 (ITT). You’ll need to have a 2:1 degree or higher to apply for a
-place on the programme, currently delivered by Teach First. You’ll
+place on the programme, currently delivered by Teach First. You’ll
 train over 2 years by learning on the job, paid as an unqualified
 teacher and you will not pay tuition fees.
 
@@ -500,12 +503,12 @@ location, subject, job title and salary and set up job alerts.
 
 ## Contact and support
 
-### Chat online
+<h3>
+  <a class="govuk-button govuk-button--secondary" data-module="govuk-button" href="/#talk-to-us">Chat online</a>
+</h3>
 
-Contact Get into Teaching’s live [online chat service](/#talk-to-us)
-between 8.30am and 5pm, Monday to Friday.
-
-### Speak on the phone
+Contact Get into Teaching’s live online chat service between 8.30am and 5pm,
+Monday to Friday.
 
 You can call us about teaching or teacher training on Freephone
 [0800 389 2501](tel:08003892501) between 8.30am and 5pm, Monday to
