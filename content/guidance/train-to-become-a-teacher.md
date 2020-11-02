@@ -137,9 +137,8 @@ Although the type of institution (school or university) running the
 course will differ, the content of the course will meet national
 guidelines on teacher training.
 
-The primary and secondary teacher training courses listed on [Find
-postgraduate teacher
-training](https://www.gov.uk/find-postgraduate-teacher-training-courses)
+The primary and secondary teacher training courses listed on
+[Find postgraduate teacher training](https://www.gov.uk/find-postgraduate-teacher-training-courses)
 all lead to QTS or PGCE/PGDE plus QTS.
 
 The majority of postgraduate teacher training courses are made up of:
@@ -155,8 +154,7 @@ usually take place:
 
 Details of course structure and location will vary between training
 providers – you can research specific courses on [Find postgraduate
-teacher
-training](https://www.gov.uk/find-postgraduate-teacher-training-courses).
+teacher training](https://www.gov.uk/find-postgraduate-teacher-training-courses).
 
 When you’re researching training providers, bear in mind:
 
@@ -166,8 +164,7 @@ When you’re researching training providers, bear in mind:
     more detail
   - competition for entry – some providers are tougher than others
   - special academic requirements for entry – check the training
-    provider listing in [Find postgraduate teacher
-    training](https://www.gov.uk/find-postgraduate-teacher-training-courses)
+    provider listing in [Find postgraduate teacher training](https://www.gov.uk/find-postgraduate-teacher-training-courses)
     to see what class of degree, for example, the provider asks for
   - size of institution – would you be happier in a large university
     campus, or in a smaller local school setting?
@@ -191,12 +188,10 @@ You can train to teach:
     subject)
   - further education (14 to adult)
 
-Use [Find postgraduate teacher
-training](https://www.find-postgraduate-teacher-training.service.gov.uk/start/subject?l=2)
+Use [Find postgraduate teacher training](https://www.find-postgraduate-teacher-training.service.gov.uk/start/subject?l=2)
 to see the full list of options.
 
-Or you could arrange to spend time in school to [get experience of
-different age groups.](https://schoolexperience.education.gov.uk/)
+Or you could arrange to spend time in school to [get experience of different age groups.](https://schoolexperience.education.gov.uk/)
 
 ### Teaching under-fives
 
@@ -208,9 +203,9 @@ At the end of the course, you’ll gain Early Years Teacher Status and
 will be qualified to teach under-fives only.
 
 <div class="application-notice info-notice" role="note" aria-label="Information">
-
-Please note these courses do not lead to Qualified Teacher Status (QTS).
-
+  <p>
+    Please note these courses do not lead to Qualified Teacher Status (QTS).
+  </p>
 </div>
 
 [Browse a list of training providers offering Early Years Teacher
@@ -223,8 +218,7 @@ Undergraduate courses:
 
   - take 3 to 4 years of full-time study and lead to a degree in an
     early
-  - have tuition fee loans available from [Student Finance England
-    (SFE)](https://www.gov.uk/student-finance).
+  - have tuition fee loans available from [Student Finance England (SFE)](https://www.gov.uk/student-finance).
 
 Graduate entry courses:
 
@@ -288,22 +282,28 @@ SKE courses can also be helpful if it’s been a while since you studied
 for your degree.
 
 <div class="application-notice info-notice" role="note" aria-label="Information">
+  <p>
+    Please note that SKE courses for candidates starting Initial Teacher
+    Training (ITT) in 2021/22 will not be available at the start of the
+    recruitment cycle from 1 October 2020.
+  </p>
 
-Please note that SKE courses for candidates starting Initial Teacher
-Training (ITT) in 2021/22 will not be available at the start of the
-recruitment cycle from 1 October 2020.
+  <p>
+    We will confirm the approach to SKEs following completion of the
+    government's Spending Review.
+  </p>
 
-We will confirm the approach to SKEs following completion of the
-government's Spending Review.
+  <p>
+    ITT providers will be able to offer a teacher training place under the
+    condition of completing an SKE course, but you won't be able to start
+    one until funding and eligibility are confirmed after the Spending
+    Review has been completed.
+  </p>
 
-ITT providers will be able to offer a teacher training place under the
-condition of completing an SKE course, but you won't be able to start
-one until funding and eligibility are confirmed after the Spending
-Review has been completed.
-
-You should note that a conditional offer does not guarantee a funded SKE
-course will be available in your chosen subject.
-
+  <p>
+    You should note that a conditional offer does not guarantee a funded SKE
+    course will be available in your chosen subject.
+  </p>
 </div>
 
 You won't have to pay for your SKE course and you may be eligible for a
@@ -403,8 +403,6 @@ place on the programme, currently delivered by Teach First. You’ll
 train over 2 years by learning on the job, paid as an unqualified
 teacher and you will not pay tuition fees.
 
- 
-
 You’ll be placed into a school straight away and gain QTS in your first
 year and complete your Newly Qualified Teacher placement in year 2.
 You’ll also receive leadership training, which includes a fully-funded
@@ -426,11 +424,11 @@ Career changers can add value to teaching with:
   - industry knowledge
   - wider perspectives into teaching practice and school policies
 
-[Now Teach (NT)](https://nowteach.org.uk/) and [Transition to Teach
-(TT)](https://www.transitiontoteach.co.uk/) are bespoke teacher
-recruitment and retention programmes developed exclusively to support
-career changers, providing transitional support and additional mentoring
-so that successful career changers can get the most out of their
+[Now Teach (NT)](https://nowteach.org.uk/) and
+[Transition to Teach (TT)](https://www.transitiontoteach.co.uk/) are
+bespoke teacher recruitment and retention programmes developed exclusively to
+support career changers, providing transitional support and additional
+mentoring so that successful career changers can get the most out of their
 transition to teaching.
 
 ### Researchers in Schools (candidates with a doctorate)

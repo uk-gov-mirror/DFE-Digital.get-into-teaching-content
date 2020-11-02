@@ -43,8 +43,6 @@ You’ll also be able to sign up for events, ask questions using online
 chat or phone and get personalised support from a teacher training
 adviser.
 
-Back to top
-
 ## What you’ll need to start teacher training
 
 ### Qualifications
@@ -310,10 +308,8 @@ childcare costs. The maximum you’ll get is:
 
 ### Adult Dependants’ Grant
 
-If an adult depends on you financially, you can apply for an [Adult
-Dependants’
-Grant](https://www.gov.uk/adult-dependants-grant)<span style="text-decoration:underline;">
-</span>of up to £3,094.
+If an adult depends on you financially, you can apply for an [Adult Dependants’
+Grant](https://www.gov.uk/adult-dependants-grant) of up to £3,094.
 
 ### Disabled Students’ Allowances (DSAs)
 
@@ -328,14 +324,11 @@ If you’re applying for teacher training in England but live in Wales,
 Scotland or Northern Ireland, you’ll need to contact your country’s
 student finance body.
 
-<span style="text-decoration:underline;">[Student Finance
-Wales](https://www.studentfinancewales.co.uk/)</span>
+[Student Finance Wales](https://www.studentfinancewales.co.uk/)
 
-<span style="text-decoration:underline;">[Student Awards Agency
-Scotland](https://www.saas.gov.uk/)</span>
+[Student Awards Agency Scotland](https://www.saas.gov.uk/)
 
-<span style="text-decoration:underline;">[Student Finance
-NI](https://www.studentfinanceni.co.uk/)</span>
+[Student Finance NI](https://www.studentfinanceni.co.uk/)
 
 Back to top
 
@@ -446,8 +439,8 @@ Use [Find postgraduate teacher
 training](https://www.find-postgraduate-teacher-training.service.gov.uk/start/subject?l=2)
 to see the full list of options.
 
-Or you could arrange to spend time in school to [get experience of
-different age groups.](https://schoolexperience.education.gov.uk/)
+Or you could arrange to spend time in school to
+[get experience of different age groups.](https://schoolexperience.education.gov.uk/).
 
 ### Teaching under-fives
 
@@ -459,9 +452,7 @@ At the end of the course, you’ll gain Early Years Teacher Status and
 will be qualified to teach under-fives only.
 
 <div class="application-notice info-notice" role="note" aria-label="Information">
-
-Please note these courses do not lead to Qualified Teacher Status (QTS).
-
+  Please note these courses do not lead to Qualified Teacher Status (QTS).
 </div>
 
 [Browse a list of training providers offering Early Years Teacher
@@ -474,8 +465,7 @@ Undergraduate courses:
 
   - take 3 to 4 years of full-time study and lead to a degree in an
     early
-  - have tuition fee loans available from [Student Finance England
-    (SFE)](https://www.gov.uk/student-finance).
+  - have tuition fee loans available from [Student Finance England (SFE)](https://www.gov.uk/student-finance).
 
 Graduate entry courses:
 
@@ -523,30 +513,28 @@ Subject knowledge enhancement (SKE) courses are usually available if:
   - your degree wasn't in your chosen subject
 
 <div class="application-notice info-notice" role="note" aria-label="Information">
+  <p>
+    Please note that SKE courses for candidates starting ITT in 2021/22 will
+    not be available at the start of the recruitment cycle from 1 October
+    2020.
+  </p>
 
-<p>
-Please note that SKE courses for candidates starting ITT in 2021/22 will
-not be available at the start of the recruitment cycle from 1 October
-2020.
-</p>
+  <p>
+    We will confirm the approach to SKEs following completion of the
+    government's Spending Review.
+  </p>
 
-<p>
-We will confirm the approach to SKEs following completion of the
-government's Spending Review.
-</p>
+  <p>
+    Initial Teacher Training providers will be able to offer a teacher
+    training place under the condition of completing an SKE course, but you
+    won't be able to start one until funding and eligibility are confirmed
+    after the Spending Review has been completed.
+  </p>
 
-<p>
-Initial Teacher Training providers will be able to offer a teacher
-training place under the condition of completing an SKE course, but you
-won't be able to start one until funding and eligibility are confirmed
-after the Spending Review has been completed.
-</p>
-
-<p>
-You should note that a conditional offer does not guarantee a funded SKE
-course will be available in your chosen subject.
-</p>
-
+  <p>
+    You should note that a conditional offer does not guarantee a funded SKE
+    course will be available in your chosen subject.
+  </p>
 </div>
 
 If you’re applying to teach a subject different from that of your
@@ -1046,15 +1034,14 @@ Back to top
 
 ### Chat online
 
-<span style="text-decoration:underline;"></span>Contact Get into
+Contact Get into
 Teaching’s live online chat service between 8.30am and 5pm, Monday to
 Friday.
 
 ### Speak on the phone
 
-Speak to a teacher training adviser on the phone by calling freephone
-<span style="text-decoration:underline;">0800 389 2501 </span>between
-8.30am and 5pm, Monday to Friday.
+Speak to a teacher training adviser on the phone by calling freephone 0800 389
+2501 between 8.30am and 5pm, Monday to Friday.
 
 ### Find an event near you
 

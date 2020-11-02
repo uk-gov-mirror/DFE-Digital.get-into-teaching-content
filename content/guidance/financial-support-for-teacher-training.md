@@ -113,8 +113,7 @@ To be eligible for the bursary, you must:
   - have left full-time employment with the British Army, Royal Air
     Force or Royal Navy no more than 5 years before the start of the
     course
-  - be entitled to support under the [Student Finance
-    England](https://www.gov.uk/student-finance/who-qualifies)
+  - be entitled to support under the [Student Finance England](https://www.gov.uk/student-finance/who-qualifies)
     eligibility criteria
 
 You can also apply for a tuition fee and maintenance loan for the
@@ -172,9 +171,8 @@ If you already have an undergraduate student loan, or have been awarded
 a bursary or scholarship, you can still apply for both a tuition fee and
 a maintenance loan.
 
-Use the [student finance
-calculator](https://www.gov.uk/student-finance-calculator) to find out
-how much you can get.
+Use the [student finance calculator](https://www.gov.uk/student-finance-calculator)
+to find out how much you can get.
 
 ### If you already have a student loan
 
@@ -201,8 +199,8 @@ You do not need to pay back these kinds of financial support.
 ## Disabled students - extra financial support
 
 If you have additional needs due to a mental health condition, long-term
-illness or disability you can apply for [Disabled Students’ Allowances
-(DSAs)](https://www.gov.uk/disabled-students-allowances-dsas/how-to-claim).
+illness or disability you can apply for
+[Disabled Students’ Allowances (DSAs)](https://www.gov.uk/disabled-students-allowances-dsas/how-to-claim).
 
 ## Find a Train To Teach event near you
 
@@ -220,9 +218,3 @@ Call us about teaching or teacher training on Freephone
 Friday.
 
 Send an email to: <getintoteaching.helpdesk@education.gov.uk>.
-
-<div class="responsive-bottom-margin">
-  <div class="app-c-published-dates" lang="en">
-    Published 2 October 2020
-  </div>
-</div>
