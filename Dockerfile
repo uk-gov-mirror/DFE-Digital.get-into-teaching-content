@@ -1,6 +1,6 @@
 FROM dfedigital/get-into-teaching-web:sha-6989471
 
-COPY config/frontmatter.yml config
+COPY config/*.yml config
 COPY content app/views/content
 COPY assets public/assets
 
