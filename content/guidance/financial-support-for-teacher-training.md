@@ -72,19 +72,22 @@ non-salaried postgraduate course and meet the eligibility criteria, you
 will begin receiving payments from your chosen teacher training provider
 when you begin your course.
 
-For advice about bursaries or scholarships, you can:
-
-<p>For advice about bursaries, you can:</p>
-
-<p><a class="govuk-button govuk-button--secondary" data-module="govuk-button" href="https://beta-getintoteaching.education.gov.uk/#talk-to-us">Chat online</a></p>
-<p>Alternatively call Freephone 0800 389 2501 between 8.30am and 5pm, Monday to Friday.</p>
-
 How you’re paid will depend on the amount of financial support you
 receive. If you’re awarded a bursary, you’ll receive this in 10 equal
 monthly instalments from October to July.
 
 You are advised to confirm payment schedules with your training
 provider.
+
+<div class="call-to-action">
+
+<p>Talk to us between 8.30am and 5pm, Monday to Friday if you have questions or need advice about bursaries.  </p>
+
+<p><a class="govuk-button" data-module="govuk-button" href="https://beta-getintoteaching.education.gov.uk/#talk-to-us">Chat online</a></p>
+
+<p>Alternatively, call Freephone 0800 389 2501 .</p>
+
+</div>
 
 ### Undergraduate bursary
 
@@ -122,10 +125,12 @@ To be eligible for the bursary, you must:
 You can also apply for a tuition fee and maintenance loan for the
 duration of the course.
 
+<div class="call-to-action">
 For more information and to search for undergraduate teacher training
 courses visit [UCAS](https://www.ucas.com). When you’ve chosen some
 potential training providers for this programme, you should contact them
 for more details about eligibility and bursary payments.
+</div>
 
 ## Scholarships
 
@@ -160,9 +165,15 @@ provider.
 
 For advice about scholarships, you can:
 
-<a class="govuk-button govuk-button--secondary" data-module="govuk-button" href="https://beta-getintoteaching.education.gov.uk/#talk-to-us">Chat online</a>
+<div class="call-to-action">
 
-Alternatively, you can call Freephone 0800 389 2501 between 8.30am and 5pm, Monday to Friday.
+<p>Talk to us between 8.30am and 5pm, Monday to Friday if you have questions or need advice about bursaries.  </p>
+
+<p><a class="govuk-button" data-module="govuk-button" href="https://beta-getintoteaching.education.gov.uk/#talk-to-us">Chat online</a></p>
+
+<p>Alternatively, call Freephone 0800 389 2501 .</p>
+
+</div>
 
 ## Tuition fee and maintenance loans
 
@@ -219,8 +230,14 @@ into teaching.
 
 ## Contact and support
 
-<a class="govuk-button govuk-button--secondary" data-module="govuk-button" href="https://beta-getintoteaching.education.gov.uk/#talk-to-us">Chat online</a>
+<div class="call-to-action">
 
-To talk to us about teaching or teacher training, call Freephone 0800 389 2501 between 8.30am and 5pm, Monday to Friday.
+<p>Talk to us between 8.30am and 5pm, Monday to Friday about teaching or teacher training.  </p>
 
-Send an email to: <getintoteaching.helpdesk@education.gov.uk>.
+<p><a class="govuk-button" data-module="govuk-button" href="https://beta-getintoteaching.education.gov.uk/#talk-to-us">Chat online</a></p>
+
+<p>Alternatively, call Freephone 0800 389 2501 or email:<a href="mailto:getintoteaching.helpdesk@education.gov.uk"></p>
+
+</div>
+
+
