@@ -9,8 +9,8 @@ backlink: "../"
     <h2 class="link-block__header">Related Content:</h2>
     <ul class="link-block__list">
       <li><span><a href="school-experience">School experience</a></span></li> 
-     <li><span><a href="../guidance#5"  target="_blank" rel="noopener noreferrer">Ways to train</a></span></li>
-     <li><span><a href="../guidance#teaching-children-with-special-educational-needs-and-or-disabilities-SEND"  target="_blank" rel="noopener noreferrer">Teaching children with special education needs and/or disabilities (SEND)</a></span></li>
+      <li><span><a href="/guidance/become-a-teacher-in-england/#ways-to-train"  target="_blank" rel="noopener noreferrer">Ways to train</a></span></li>
+      <li><span><a href="/guidance/become-a-teacher-in-england#teaching-children-with-special-educational-needs-andor-disabilities-send" target="_blank" rel="noopener noreferrer">Teaching children with special education needs and/or disabilities (SEND)</a></span></li>
     </ul>
   </div>
 </div>
