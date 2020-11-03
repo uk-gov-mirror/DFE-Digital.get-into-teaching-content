@@ -47,8 +47,15 @@ NQTs do a further 'induction programme' in school as a paid and
 qualified teacher, which allows them to build on their initial teacher
 training.
 
-[Find undergraduate teacher training courses](https://www.ucas.com/teaching-option/undergraduate-initial-teacher-training)
-[Find postgraduate teacher training courses](https://www.gov.uk/find-postgraduate-teacher-training-courses)
+<div class="call-to-action">
+
+<p>Find <a href="https://www.ucas.com/teaching-option/undergraduate-initial-teacher-training">undergraduate teacher training courses</a>.</p>
+
+<p>Find <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses">postgraduate teacher training courses</a>.</p>
+
+</div>
+
+
 
 ### Assessment only (candidates already working in school)
 
@@ -503,16 +510,15 @@ location, subject, job title and salary and set up job alerts.
 
 ## Contact and support
 
-<h3>
-  <a class="govuk-button govuk-button--secondary" data-module="govuk-button" href="/#talk-to-us">Chat online</a>
-</h3>
+<div class="call-to-action">
 
-Contact Get into Teaching’s live online chat service between 8.30am and 5pm,
-Monday to Friday.
+<p>Talk to us between 8.30am and 5pm, Monday to Friday about teaching or teacher training.  </p>
 
-You can call us about teaching or teacher training on Freephone
-[0800 389 2501](tel:08003892501) between 8.30am and 5pm, Monday to
-Friday.
+<p><a class="govuk-button" data-module="govuk-button" href="https://beta-getintoteaching.education.gov.uk/#talk-to-us">Chat online</a></p>
+
+<p>Alternatively, call Freephone 0800 389 2501 or email:<a href="mailto:getintoteaching.helpdesk@education.gov.uk"></p>
+
+</div>
 
 ### Find an event near you
 
@@ -520,7 +526,4 @@ Friday.
 opportunities for you to get free expert advice about your next steps
 into teaching.
 
-## Further support and information
 
-Send an email to: <getintoteaching.helpdesk@education.gov.uk> or call
-Freephone 0800 389 2501.
