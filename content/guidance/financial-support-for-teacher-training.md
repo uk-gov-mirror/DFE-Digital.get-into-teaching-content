@@ -236,7 +236,7 @@ into teaching.
 
 <p><a class="govuk-button" data-module="govuk-button" href="https://beta-getintoteaching.education.gov.uk/#talk-to-us">Chat online</a></p>
 
-<p>Alternatively, call Freephone 0800 389 2501 or email:<a href="mailto:getintoteaching.helpdesk@education.gov.uk"></p>
+<p>Alternatively, call Freephone 0800 389 2501 or email:<a href="mailto:getintoteaching.helpdesk@education.gov.uk">getintoteaching.helpdesk@education.gov.uk</a></p>
 
 </div>
 
