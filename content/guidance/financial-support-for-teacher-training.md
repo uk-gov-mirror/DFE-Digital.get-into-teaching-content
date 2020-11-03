@@ -126,10 +126,10 @@ You can also apply for a tuition fee and maintenance loan for the
 duration of the course.
 
 <div class="call-to-action">
-For more information and to search for undergraduate teacher training
-courses visit [UCAS](https://www.ucas.com). When you’ve chosen some
+<p>For more information and to search for undergraduate teacher training
+courses visit UCAS(https://www.ucas.com). When you’ve chosen some
 potential training providers for this programme, you should contact them
-for more details about eligibility and bursary payments.
+  for more details about eligibility and bursary payments.</p>
 </div>
 
 ## Scholarships
@@ -163,11 +163,11 @@ instalments from October to July.
 You are advised to confirm payment schedules with your training
 provider.
 
-For advice about scholarships, you can:
+
 
 <div class="call-to-action">
 
-<p>Talk to us between 8.30am and 5pm, Monday to Friday if you have questions or need advice about bursaries.  </p>
+<p>Talk to us between 8.30am and 5pm, Monday to Friday if you have questions or need advice about scholarships.  </p>
 
 <p><a class="govuk-button" data-module="govuk-button" href="https://beta-getintoteaching.education.gov.uk/#talk-to-us">Chat online</a></p>
 
