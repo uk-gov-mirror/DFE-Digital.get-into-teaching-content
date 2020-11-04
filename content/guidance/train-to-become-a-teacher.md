@@ -514,7 +514,7 @@ location, subject, job title and salary and set up job alerts.
 
 <p>Talk to us between 8.30am and 5pm, Monday to Friday about teaching or teacher training.  </p>
 
-<p><a class="govuk-button" data-module="govuk-button" href="https://beta-getintoteaching.education.gov.uk/#talk-to-us">Chat online</a></p>
+<p><a class="gem-c-button govuk-button" data-module="govuk-button" href="https://beta-getintoteaching.education.gov.uk/#talk-to-us">Chat online</a></p>
 
 <p>Alternatively, call Freephone 0800 389 2501 or email:<a href="mailto:getintoteaching.helpdesk@education.gov.uk"></p>
 

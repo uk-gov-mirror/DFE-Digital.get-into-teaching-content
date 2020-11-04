@@ -83,7 +83,7 @@ provider.
 
 <p>Talk to us between 8.30am and 5pm, Monday to Friday if you have questions or need advice about bursaries.  </p>
 
-<p><a class="govuk-button" data-module="govuk-button" href="https://beta-getintoteaching.education.gov.uk/#talk-to-us">Chat online</a></p>
+<p><a class="gem-c-button govuk-button" data-module="govuk-button" href="https://beta-getintoteaching.education.gov.uk/#talk-to-us">Chat online</a></p>
 
 <p>Alternatively, call Freephone 0800 389 2501 .</p>
 
@@ -169,7 +169,7 @@ provider.
 
 <p>Talk to us between 8.30am and 5pm, Monday to Friday if you have questions or need advice about scholarships.  </p>
 
-<p><a class="govuk-button" data-module="govuk-button" href="https://beta-getintoteaching.education.gov.uk/#talk-to-us">Chat online</a></p>
+<p><a class="gem-c-button govuk-button" data-module="govuk-button" href="https://beta-getintoteaching.education.gov.uk/#talk-to-us">Chat online</a></p>
 
 <p>Alternatively, call Freephone 0800 389 2501 .</p>
 
@@ -234,7 +234,7 @@ into teaching.
 
 <p>Talk to us between 8.30am and 5pm, Monday to Friday about teaching or teacher training.  </p>
 
-<p><a class="govuk-button" data-module="govuk-button" href="https://beta-getintoteaching.education.gov.uk/#talk-to-us">Chat online</a></p>
+<p><a class="gem-c-button govuk-button" data-module="govuk-button" href="https://beta-getintoteaching.education.gov.uk/#talk-to-us">Chat online</a></p>
 
 <p>Alternatively, call Freephone 0800 389 2501 or email:<a href="mailto:getintoteaching.helpdesk@education.gov.uk">getintoteaching.helpdesk@education.gov.uk</a></p>
 
