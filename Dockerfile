@@ -1,4 +1,4 @@
-FROM dfedigital/get-into-teaching-web:sha-a7ae995
+FROM dfedigital/get-into-teaching-web:sha-31999c3
 
 COPY config/*.yml config
 COPY content app/views/content
