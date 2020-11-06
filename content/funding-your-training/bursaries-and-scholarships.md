@@ -4,156 +4,65 @@ image: "/assets/images/funding-header.jpg"
 backlink: "../../"
 ---
 
-<div class="content__left">
+You may be able to get a bursary or scholarship. This is a tax-free amount of money to help you while you train. You don’t need to pay this back.
 
+They are only available in subjects where there is a shortage of teachers. You’ll need a first, 2:1, 2:2 degree or a PhD or Master's to be eligible.
 
-<p>You may be able to get a bursary or scholarship. This is a tax-free amount of money to help you while you train. You don’t need to pay this back.</p>
+## Get a bursary
 
-<p>They are only available in subjects where there is a shortage of teachers. You’ll need a first, 2:1, 2:2 degree or a PhD or Master's to be eligible.</p>
+You could get a bursary of up to £26,000. If the subject you want to teach is eligible for a bursary, you’ll get one when you start your course. You do not need to apply for a bursary.
 
-<h2>Get a bursary</h2>
+## Apply for a scholarship
 
-<p>You could get a bursary of up to £26,000. If the subject you want to teach is eligible for a bursary, you’ll get one when you start your course. You do not need to apply for a bursary.</p>
+You can apply for a scholarship of up to £28,000. You’d get this instead of a bursary. There’s a lot of competition for scholarships. Whether you get one will depend on the subject you want to teach and the grades you’ve got.
 
-<h2>Apply for a scholarship</h2>
+## Check which subjects have bursaries and scholarships
 
-<p>You can apply for a scholarship of up to £28,000. You’d get this instead of a bursary. There’s a lot of competition for scholarships. Whether you get one will depend on the subject you want to teach and the grades you’ve got.</p>
+If your subject is not listed, there is not a bursary or scholarship available. Primary teacher training bursaries are only available if you specialise in maths.
 
-<h2>Check which subjects have bursaries and scholarships</h2>
+If you have an unrelated degree, but you studied the subject you want to teach at A level (or you have got professional experience in it) you could get a bursary for a subject knowledge enhancement course.
 
-<p>If your subject is not listed, there is not a bursary or scholarship available. Primary teacher training bursaries are only available if you specialise in maths.</p>
+| Subject                                                                 | Bursary | Scholarship |
+| -------                                                                 | -----   | -----       |
+| Chemistry                                                               | £26,000 | £28,000     |
+| Languages - French, German or Spanish                                   | £26,000 | £28,000     |
+| Maths                                                                   | £26,000 | £28,000     |
+| Physics                                                                 | £26,000 | £28,000     |
+| Computer science                                                        | £26,000 | £28,000     |
+| Biology                                                                 | £26,000 | -           |
+| Classics (if the course is in Latin or Ancient Greek)                   | £26,000 | -           |
+| Geography                                                               | £15,000 | £17,000     |
+| Design and technology                                                   | £15,000 | -           |
+| English                                                                 | £12,000 | -           |
+| History, RE, business studies                                           | £9,000  | -           |
+| Art and design, music                                                   | £9,000  | -           |
+| Primary with maths (if you have maths A level at grade B or equivalent) | £6,000  | -           |
 
-<p>If you have an unrelated degree, but you studied the subject you want to teach at A level (or you have got professional experience in it) you could get a bursary for a subject knowledge enhancement course.</p>
+## Get help to apply for a scholarship
 
-<!--<div class="funding-table" markdown="1">-->
+You can get help to apply for a scholarship by using our Teacher Training Adviser Service. You can also contact the awarding body for your subject to find out more.
+Scholarship awarding bodies by subject
 
+### Computer science
 
-<table>
-  <tr>
-    <th>Subject</th>
-    <th>Bursary</th>
-    <th>Scholarship</th>
-  </tr>
-  
-  <tr>
-      <td>Chemistry</td>
-      <td>£26,000</td>
-      <td>£28,000</td>
-  </tr>
-  
-  <tr>
-      <td>Languages - French, German or Spanish</td>
-      <td>£26,000</td>
-      <td>£28,000</td>
-  </tr>
-  
-   <tr>
-      <td>Maths</td>
-      <td>£26,000</td>
-      <td>£28,000</td>
-  </tr>
+BCS The Chartered Institute for IT
 
- <tr>
-      <td>Physics</td>
-      <td>£26,000</td>
-      <td>£28,000</td>
-  </tr>
+### Chemistry
 
- <tr>
-      <td>Computer science</td>
-      <td>£26,000</td>
-      <td>£28,000</td>
-  </tr>
+RSC The Royal Society of Chemistry
 
- <tr>
-      <td>Biology</td>
-      <td>£26,000</td>
-      <td> - </td>
-  </tr>
+### Geography
 
- <tr>
-      <td>Classics (if the course is in Latin or Ancient Greek)</td>
-      <td>£26,000</td>
-      <td> - </td>
-  </tr>
-  
-  <tr>
-      <td>Geography</td>
-      <td>£15,000</td>
-      <td>£17,000</td>
-  </tr>
-  
-   <tr>
-      <td>Design and technology</td>
-      <td>£15,000</td>
-      <td> - </td>
-  </tr>
-  
-  <tr>
-      <td>English</td>
-      <td>£12,000</td>
-      <td> - </td>
-  </tr>
+The Royal Geographical Society (with IBG)
 
-  <tr>
-      <td>History, RE, business studies</td>
-      <td>£9,000</td>
-      <td> - </td>
-  </tr>
-  
-  <tr>
-      <td>Art and design, music</td>
-      <td>£9,000</td>
-      <td> - </td>
-  </tr>
-  
-  <tr>
-      <td>Primary with maths (if you have maths A level at grade B or equivalent)</td>
-      <td>£6,000</td>
-      <td> - </td>
-  </tr>
-  
-  </table>
+### Languages
 
-<!--</div>-->
+The British Council
 
-<h2>Get help to apply for a scholarship</h2>
+### Maths
 
-<p>You can get help to apply for a scholarship by using our Teacher Training Adviser Service.  You can also contact the awarding body for your subject to find out more.</p>
+Mathematics Teacher Training Scholarships
 
-<h2>Scholarship awarding bodies by subject</h2>
+### Physics
 
-<ul>
-<li><span>
-  <h3>Computer science</h3> 
-  <p>BCS The Chartered Institute for IT</p>
-</span></li>
-
-<li><span>
-    <h3>Chemistry</h3> 
-    <p>RSC The Royal Society of Chemistry</p>
-</span></li>
-
-<li><span>
-    <h3>Geography</h3> 
-    <p>The Royal Geographical Society (with IBG)</p>
-</span></li>
-
-<li><span>
-     <h3>Languages</h3>
-     <p>The British Council</p>
-</span></li>
-
-<li><span>
-     <h3>Maths</h3> 
-     <p>Mathematics Teacher Training Scholarships</p>
-</span></li>
-
-<li><span>
-     <h3>Physics</h3> 
-     <p>Insitute of Physics</p>
-</span></li>
-</ul>
-
-</div>
-
+Insitute of Physics
