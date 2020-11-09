@@ -3,8 +3,8 @@ title: "Returning to teaching"
 image: "/assets/images/return-to-teaching-dt.jpg"
 backlink: "../../"
 jump_links:
-  Modern languages, maths or physics: "#modern-languages-maths-or-physics"
   Finding a role: "#finding-a-role"
+  Modern languages, maths or physics: "#modern-languages-maths-or-physics"
   Get up to date with best practice: "#get-up-to-date-with-best-practice"
   Improving the lives of teachers: "#improving-the-lives-of-teachers"
   Additional information for teachers who trained in England returning from overseas: "#additional-information-for-teachers-who-trained-in-england-returning-from-overseas"
@@ -13,6 +13,47 @@ jump_links:
 You’re considering a return to teaching. You may have been inspired by home schooling children during lockdown, or you might want to pass on your professional skills and experience to the next generation.
 
 Whatever your reasons, you can get access to support and advice if you’re interested in coming back to teaching.
+
+## Get up to date with best practice
+
+If you’ve been out of teaching for a while, you may want to:
+
+* review the latest [Teachers’ Standards](https://www.gov.uk/government/publications/teachers-standards)
+* catch up on changes to the [national curriculum and qualifications](https://www.gov.uk/topic/schools-colleges-childrens-services/curriculum-qualifications)
+* read through current behaviour management guidelines – see the Department for Education’s [advice](https://www.gov.uk/government/publications/behaviour-and-discipline-in-schools)
+
+### Information technology
+
+You can find out how up to date your information and communication technologies (ICT) skills are by completing an [ICT skills audit (PDF, 158KB)](https://beta-getintoteaching.education.gov.uk/assets/documents/ICT_skills_audit_returners.pdf).
+
+### Useful resources
+
+* Technology Pedagogy and Education Association(Link opens in new window)
+* learndirect(Link opens in new window) offers courses in basic ICT skills
+* some city learning centres offer ICT courses for teachers – check your local council(Link opens in new window) for more details.
+
+### Further information and support
+
+* if you’re returning to teach maths or physics in a state-funded school in certain areas, [you could be eligible for a £2,000 payment after tax](https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/claim-a-payment-for-teaching-maths-or-physics-eligibility-and-payment-details)
+* returning science, languages and computing teachers in 25 local authorities may also be eligible to [claim back student loan repayments](https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/teachers-claim-back-your-student-loan-repayments-eligibility-and-payment-details)
+* if you’re returning to teach secondary maths, core maths, physics or languages and want to refresh your knowledge, you may be eligible for a [free subject specialist training course](https://www.gov.uk/guidance/teacher-subject-specialism-training-courses)
+
+Support for returners identifying with protected characteristics
+
+Support for returners (such as coaching opportunities) may be available if you identify with one or more of the protected characteristics as defined by the Equality Act 2010.
+
+Details of organisations which represent certain characteristics are listed below:
+
+* [WomenEd](https://www.womened.org/)
+* [BAMEed](https://www.bameednetwork.com/)
+* [LGBTed](http://lgbted.uk/)
+* [DisabilityEd (Twitter account)](https://beta-getintoteaching.education.gov.uk/twitter.com/disability_ed)
+
+### Career progression
+
+If you want to progress in your career in England, you may wish to apply for a [National Professional Qualification (NPQ)](https://www.gov.uk/government/publications/national-professional-qualifications-frameworks).
+
+NPQs can help you get into leadership positions such as head of department, deputy headteacher or headteacher.
 
 ## Modern languages, maths or physics
 
@@ -57,46 +98,6 @@ This provides two different options to return to a school environment without ta
 
 Find out [how to apply and get more information about 'Tuition Partners' and 'Academic Mentor' pillars of the National Tutoring Programme](https://nationaltutoring.org.uk/).
 
-## Get up to date with best practice
-
-If you’ve been out of teaching for a while, you may want to:
-
-* review the latest [Teachers’ Standards](https://www.gov.uk/government/publications/teachers-standards)
-* catch up on changes to the [national curriculum and qualifications](https://www.gov.uk/topic/schools-colleges-childrens-services/curriculum-qualifications)
-* read through current behaviour management guidelines – see the Department for Education’s [advice](https://www.gov.uk/government/publications/behaviour-and-discipline-in-schools)
-
-### Information technology
-
-You can find out how up to date your information and communication technologies (ICT) skills are by completing an [ICT skills audit (PDF, 158KB)](https://beta-getintoteaching.education.gov.uk/assets/documents/ICT_skills_audit_returners.pdf).
-
-### Useful resources
-
-* Technology Pedagogy and Education Association(Link opens in new window)
-* learndirect(Link opens in new window) offers courses in basic ICT skills
-* some city learning centres offer ICT courses for teachers – check your local council(Link opens in new window) for more details.
-
-### Further information and support
-
-* if you’re returning to teach maths or physics in a state-funded school in certain areas, [you could be eligible for a £2,000 payment after tax](https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/claim-a-payment-for-teaching-maths-or-physics-eligibility-and-payment-details)
-* returning science, languages and computing teachers in 25 local authorities may also be eligible to [claim back student loan repayments](https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/teachers-claim-back-your-student-loan-repayments-eligibility-and-payment-details)
-* if you’re returning to teach secondary maths, core maths, physics or languages and want to refresh your knowledge, you may be eligible for a [free subject specialist training course](https://www.gov.uk/guidance/teacher-subject-specialism-training-courses)
-
-Support for returners identifying with protected characteristics
-
-Support for returners (such as coaching opportunities) may be available if you identify with one or more of the protected characteristics as defined by the Equality Act 2010.
-
-Details of organisations which represent certain characteristics are listed below:
-
-* [WomenEd](https://www.womened.org/)
-* [BAMEed](https://www.bameednetwork.com/)
-* [LGBTed](http://lgbted.uk/)
-* [DisabilityEd (Twitter account)](https://beta-getintoteaching.education.gov.uk/twitter.com/disability_ed)
-
-### Career progression
-
-If you want to progress in your career in England, you may wish to apply for a [National Professional Qualification (NPQ)](https://www.gov.uk/government/publications/national-professional-qualifications-frameworks).
-
-NPQs can help you get into leadership positions such as head of department, deputy headteacher or headteacher.
 
 ## Improving the lives of teachers
 
