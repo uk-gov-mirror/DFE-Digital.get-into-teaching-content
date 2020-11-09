@@ -2,45 +2,27 @@
 title: "Get school experience"
 image: "/assets/images/steps-to-teacher-header.jpg"
 backlink: "../"
+alert: |-
+  You’ll find it useful to get some classroom experience, although it’s not
+  compulsory. You’ll see teaching in action and it can help you make a decision
+  whether or not teaching is right for you. 
+related_content:
+  School experience: /steps-to-become-a-teacher/school-experience
+  Ways to train: /guidance/become-a-teacher-in-england/#ways-to-train
+  Teaching children with special educational needs and/or disabilities (SEND): /steps-to-become-a-teacher/choose-a-course-with-a-send-specialism
 ---
 
- <div class="content__right">
-  <div class="link-block link-block--related">
-    <h2 class="link-block__header">Related Content:</h2>
-    <ul class="link-block__list">
-      <li><span><a href="school-experience">School experience</a></span></li>
-      <li><span><a href="/guidance/become-a-teacher-in-england/#ways-to-train"  target="_blank" rel="noopener noreferrer">Ways to train</a></span></li>
-      <li><span><a href="/guidance/become-a-teacher-in-england#teaching-children-with-special-educational-needs-andor-disabilities-send" target="_blank" rel="noopener noreferrer">Teaching children with special education needs and/or disabilities (SEND)</a></span></li>
-    </ul>
-  </div>
-</div>
+Spending time in a school will also help you understand some of the skills and qualities teachers have.
 
-<div class="content__left">
-  
-  <p class="content-alert">
-      You’ll find it useful to get some classroom experience, although it’s not compulsory. You’ll see teaching in action and it can help you make a decision whether or not teaching is right for you. <!--get a taste of school life--></p>
-      
-   <p>Spending time in a school will also help you understand some of the skills and qualities teachers have.</p>
-      
-  <p>Teachers need the ability to:</p>
-    <ul>
-      <li><span>relate to pupils and their parents</span></li>
-      <li><span>be creative to inspire and motivate pupils</span></li>
-      <li><span>deal with conflict and remain calm in stressful situations</span></li>
-      <li><span>constantly learn and improve</span></li>
-    </ul>
-    <p>
-      Your experience can help you decide whether teaching is right for you.
-    </p>
-    <p>
-      Use the <a href="https://schoolexperience.education.gov.uk"  target="_blank" rel="noopener noreferrer">Get school experience<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a> service.
-    </p>
-    <p>
-      Do a <a href="https://www.gov.uk/guidance/paid-internships-for-teaching"  target="_blank" rel="noopener noreferrer">teaching internship<span class="govuk-visually-hidden">(Link opens in new window)</span><i class="icon icon-external"></i></a> if you’re a STEM-related degree student.
-    </p>
-    <p>
-      * STEM stands for science, technology, engineering and mathematics and refers to any subjects that come under these four areas.
-    </p>
-    
-   </div>
-    
+Teachers need the ability to:
+
+* relate to pupils and their parents
+* be creative to inspire and motivate pupils
+* deal with conflict and remain calm in stressful situations
+* constantly learn and improve
+
+Your experience can help you decide whether teaching is right for you.
+
+Use the [Get school experience](https://schoolexperience.education.gov.uk/) service.
+
+Do a [teaching internship](https://www.gov.uk/guidance/paid-internships-for-teaching) if you’re a STEM-related degree student. STEM stands for science, technology, engineering and mathematics and refers to any subjects that come under these four areas.
