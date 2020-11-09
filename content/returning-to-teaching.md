@@ -2,7 +2,7 @@
 title: "Returning to teaching"
 image: "/assets/images/return-to-teaching-dt.jpg"
 backlink: "../../"
-on_this_page:
+jump_links:
   Modern languages, maths or physics: "#modern-languages-maths-or-physics"
   Finding a role: "#finding-a-role"
   Get up to date with best practice: "#get-up-to-date-with-best-practice"

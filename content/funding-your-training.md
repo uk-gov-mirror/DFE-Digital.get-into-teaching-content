@@ -8,7 +8,7 @@ alert: |-
   You can apply for a tuition fee loan to pay for your training so you don't
   need to pay anything upfront. You can also apply for a maintenance loan to
   help with living costs and you may be able to get a bursary or a scholarship.
-on_this_page:
+jump_links:
   Bursaries and scholarships: "#bursaries-and-scholarships"
   Tuition fee and maintenance loans: "#tuition-fee-and-maintenance-loans"
   Get extra funding if you’re a parent, a carer or you have a disability: "#get-extra-financial-support-if-youre-a-parent-a-carer-or-you-have-a-disability"

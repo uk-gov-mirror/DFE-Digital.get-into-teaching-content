@@ -2,7 +2,7 @@
 title: "Your pathway into teaching: qualifications and subjects"
 image: "/assets/images/steps-to-teacher-header.jpg"
 backlink: "../../"
-on_this_page:
+jump_links:
   If you don't have a degree: "#if-you-dont-have-a-degree"
   Increase your knowledge of the subject you want to teach: "#increase-your-knowledge-of-the-subject-you-want-to-teach"
   Specialist ways to get into teaching: "#specialist-ways-to-get-into-teaching"
