@@ -7,71 +7,20 @@ backlink: "../../"
   <div class="link-block link-block--jump">
     <h2 id="top" class="link-block__header">On this page:</h2>
     <ul class="link-block__list">
-       <li><a href="#modern-languages-maths-physics">Modern languages, maths or physics</a></li>
-       <li><a href="#finding-a-role">Finding a role</a></li>
        <li><a href="#get-up-to-date-with-best-practice">Get up to date with best practice</a></li>
+       <li><a href="#finding-a-role">Finding a role</a></li>
+       <li><a href="#modern-languages-maths-physics">Modern languages, maths or physics</a></li>
        <li><a href="#improving-life-for-teachers">Improving the lives of teachers</a></li>
        <li><a href="#for-teachers-trained-in-england">For teachers who trained in England returning from overseas</a></li>
        <li><a href="#stories-about-returning-to-teaching">Stories about returning to teaching in England</a></li>
     </ul>
   </div>
 </div>
-
 <div class="content__left">
-  
- 
-
   <p>You’re considering a return to teaching. You may have been inspired by home schooling children during lockdown, or you might want to pass on your professional skills and experience to the next generation.</p>
   <p>Whatever your reasons, you can get access to support and advice if you’re interested in coming back to teaching.</p>
-  
-   <h2 id="modern-languages-maths-physics">Modern languages, maths or physics</h2>
- 
 
-  <p>If you're a returning teacher of secondary modern foreign languages, maths or physics, the Department for Education offers:</p>
-<ul>
-  <li>one-to-one support from a return to teaching adviser</li>
-  <li>help with arranging school experience</li>
-  <li>a review of your subject and pedagogical knowledge</li>
-  <li>access to a subject specialist training course to refresh your knowledge</li>
-  <li>information on vacancies in your local area</li>
-  <li>help with your application and interview tips</li>
-  </ul> 
-  
-<p>For advice on returning to teaching, speak to a return to teaching adviser by using the <a href="/tta-service">Get an adviser</a> service.</p>
-
-<h3>Specialist help for returning physics teachers</h3>
-
-<p>The <a href="https://www.iop.org/education"  target="_blank" rel="noopener noreferrer">Institute of Physics<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> offers teaching resources.</p>
-<p>Visit the <a href="https://spark.iop.org/practical-physics"  target="_blank" rel="noopener noreferrer">Nuffield Foundation<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> for demonstrations of experiments for pupils up to the age of 19.</p>
-<p>If you’d like more information on what it’s like to teach physics today, you can also talk to other physics teachers at <a href="https://www.talkphysics.org/"  target="_blank" rel="noopener noreferrer">TalkPhysics<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>, or follow them on Twitter via <a href="https://twitter.com/takeonphysics"  target="_blank" rel="noopener noreferrer">@TakeOnPhysics<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>.</p>
-
-<h3>Specialist help for returning maths teachers</h3>
-<p>The <a href="https://www.ncetm.org.uk/news-features/" target="_blank" rel="noopener noreferrer">National Centre for the Excellence in the Teaching of Mathematics (NCETM)</a> offers <a href="https://www.ncetm.org.uk/in-the-classroom/"  target="_blank" rel="noopener noreferrer"> teaching resources<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> around the maths you will be teaching.</p>
-
-<h2 id="finding-a-role">Finding a role</h2>
-
-<p><a href="https://teaching-vacancies.service.gov.uk/"  target="_blank" rel="noopener noreferrer">Search for a teaching role in England<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>. You can set up job alerts so that you do not miss out on any opportunities.</p>
-<p>Take a look at the different <a href="https://www.gov.uk/types-of-school"  target="_blank" rel="noopener noreferrer">types of schools and staff roles<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> to find the best opportunity for you.</p>
-<p>We can give you one-to-one support if you’re returning to teach modern foreign languages, maths or physics.</p> 
-<p>Our return to teaching advisers can help with finding vacancies, reviewing your subject and pedagogical knowledge, application support, and interview preparation.</p>
-<p>For advice on returning to teaching, speak to a return to teaching adviser by using the <a href="/tta-service"  target="_blank" rel="noopener noreferrer">Get an adviser<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> service.</p>
-
-<h3>National Tutoring Programme</h3>
-
-<p>This provides two different options to return to a school environment without taking on a full-time or part-time classroom role.</p>
-<p>Find out <a href="https://nationaltutoring.org.uk/"  target="_blank" rel="noopener noreferrer">how to apply and get more information about 'Tuition Partners' and 'Academic Mentor' pillars of the National Tutoring Programme<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>.</p>
-
-
-<h2 id="get-up-to-date-with-best-practice">Get up to date with best practice</h2>
+  <h2 id="get-up-to-date-with-best-practice">Get up to date with best practice</h2>
 
 <p>If you’ve been out of teaching for a while, you may want to:</p>
 <ul>
@@ -132,6 +81,51 @@ window)</span><i class="icon icon-external"></i></a></li>
 window)</span><i class="icon icon-external"></i></a>.</p>
 <p>NPQs can help you get into leadership positions such as head of department, deputy headteacher or headteacher.</p>
 
+<h2 id="finding-a-role">Finding a role</h2>
+
+<p><a href="https://teaching-vacancies.service.gov.uk/"  target="_blank" rel="noopener noreferrer">Search for a teaching role in England<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>. You can set up job alerts so that you do not miss out on any opportunities.</p>
+<p>Take a look at the different <a href="https://www.gov.uk/types-of-school"  target="_blank" rel="noopener noreferrer">types of schools and staff roles<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> to find the best opportunity for you.</p>
+<p>We can give you one-to-one support if you’re returning to teach modern foreign languages, maths or physics.</p> 
+<p>Our return to teaching advisers can help with finding vacancies, reviewing your subject and pedagogical knowledge, application support, and interview preparation.</p>
+<p>For advice on returning to teaching, speak to a return to teaching adviser by using the <a href="/tta-service"  target="_blank" rel="noopener noreferrer">Get an adviser<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> service.</p>
+
+<h3>National Tutoring Programme</h3>
+
+<p>This provides two different options to return to a school environment without taking on a full-time or part-time classroom role.</p>
+<p>Find out <a href="https://nationaltutoring.org.uk/"  target="_blank" rel="noopener noreferrer">how to apply and get more information about 'Tuition Partners' and 'Academic Mentor' pillars of the National Tutoring Programme<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>.</p>
+
+   <h2 id="modern-languages-maths-physics">Modern languages, maths or physics</h2>
+ 
+
+  <p>If you're a returning teacher of secondary modern foreign languages, maths or physics, the Department for Education offers:</p>
+<ul>
+  <li>one-to-one support from a return to teaching adviser</li>
+  <li>help with arranging school experience</li>
+  <li>a review of your subject and pedagogical knowledge</li>
+  <li>access to a subject specialist training course to refresh your knowledge</li>
+  <li>information on vacancies in your local area</li>
+  <li>help with your application and interview tips</li>
+  </ul> 
+  
+<p>For advice on returning to teaching, speak to a return to teaching adviser by using the <a href="/tta-service">Get an adviser</a> service.</p>
+
+<h3>Specialist help for returning physics teachers</h3>
+
+<p>The <a href="https://www.iop.org/education"  target="_blank" rel="noopener noreferrer">Institute of Physics<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> offers teaching resources.</p>
+<p>Visit the <a href="https://spark.iop.org/practical-physics"  target="_blank" rel="noopener noreferrer">Nuffield Foundation<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> for demonstrations of experiments for pupils up to the age of 19.</p>
+<p>If you’d like more information on what it’s like to teach physics today, you can also talk to other physics teachers at <a href="https://www.talkphysics.org/"  target="_blank" rel="noopener noreferrer">TalkPhysics<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>, or follow them on Twitter via <a href="https://twitter.com/takeonphysics"  target="_blank" rel="noopener noreferrer">@TakeOnPhysics<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a>.</p>
+
+<h3>Specialist help for returning maths teachers</h3>
+<p>The <a href="https://www.ncetm.org.uk/news-features/" target="_blank" rel="noopener noreferrer">National Centre for the Excellence in the Teaching of Mathematics (NCETM)</a> offers <a href="https://www.ncetm.org.uk/in-the-classroom/"  target="_blank" rel="noopener noreferrer"> teaching resources<span class="govuk-visually-hidden">(Link opens in new
+window)</span><i class="icon icon-external"></i></a> around the maths you will be teaching.</p>
 
 <h2 id="improving-life-for-teachers">Improving the lives of teachers</h2>
   

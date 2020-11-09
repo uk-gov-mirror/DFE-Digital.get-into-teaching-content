@@ -8,7 +8,13 @@ navigation: 30
 
 <div class="content__left">
 
-  <p class="content-alert">Teaching will give you the chance to use your skills to inspire young people and make sure every pupil gets the same access to a quality education.  It’s a career that offers varied opportunities, where no day is ever the same.</p>
+  <p>Teaching will give you the chance to use your skills to inspire young people and make sure every pupil gets the same access to a quality education.  It’s a career that offers varied opportunities, where no day is ever the same.</p>
+
+  <div class="content-cta">
+    <h2>Do you want to return to teaching?</h2>
+    <p>Find out what's new and how to apply.</p>
+    <a href="#" class="call-to-action-button">Returning to <span>teaching</span></a>
+  </div>
 
 
   <h2>Inspire the next generation</h2>
