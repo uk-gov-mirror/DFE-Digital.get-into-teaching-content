@@ -7,4 +7,4 @@ These may vary, depending on:
 * whether you can get a scholarship
 * if you qualify for a bursary
 
-Find out more about funding you could get.
+[Find out more about funding](/funding-your-training) you could get.

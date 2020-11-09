@@ -25,7 +25,7 @@ For a scholarship, each professional scholarship body sets its own criteria.
 
 You could get a bursary of up to £24,000 or apply for a scholarship of up to £26,000.
 
-[Find out more about bursaries and scholarships(Link opens in new window)](/guidance/financial-support-for-teacher-training#introduction)
+[Find out more about bursaries and scholarships](/guidance/financial-support-for-teacher-training#introduction).
 
 ## Tuition fee and maintenance loans
 
@@ -35,7 +35,7 @@ You can apply for a tuition fee loan of up to £9,250 to cover the full cost of 
 
 You will only have to make repayments when you're earning. Your repayments will not increase if you already have a student loan and take a loan out for teacher training.
 
-[Find out more about tuition fee and maintenance loans(Link opens in new window)](https://beta-getintoteaching.education.gov.uk/guidance/financial-support-for-teacher-training#tuition-fee-and-maintenance-loans).
+[Find out more about tuition fee and maintenance loans](https://beta-getintoteaching.education.gov.uk/guidance/financial-support-for-teacher-training#tuition-fee-and-maintenance-loans).
 
 Use the [student finance calculator on GOV.UK](https://www.gov.uk/student-finance-calculator) to find out how much you can get.
 
