@@ -28,9 +28,9 @@ You can find out how up to date your information and communication technologies 
 
 ### Useful resources
 
-* Technology Pedagogy and Education Association(Link opens in new window)
-* learndirect(Link opens in new window) offers courses in basic ICT skills
-* some city learning centres offer ICT courses for teachers – check your local council(Link opens in new window) for more details.
+* [Technology Pedagogy and Education Association](https://tpea.ac.uk/)
+* [learndirect](https://www.learndirect.com/) offers courses in basic ICT skills
+* some city learning centres offer ICT courses for teachers – [check your local council](https://www.gov.uk/find-local-council) for more details.
 
 ### Further information and support
 
