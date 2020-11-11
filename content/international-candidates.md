@@ -3,377 +3,227 @@ title: "International teachers and trainees"
 image: "/assets/images/international-dt.jpg"
 backlink: "../../"
 ---
-<!--<div class="content__right">
-  <div class="link-block link-block--jump">
-    <h2 id="top" class="link-block__header">On this page:</h2>
-    <ul class="link-block__list">
-      <li><a href="#your-eligibility-to-teach">Your eligibility to teach</a></li>
-      <li><a href="#international-teacher-training-applicants">International teacher training applicants</a></li>
-      <li><a href="#international-qualified-teachers">International qualified teachers</a></li>
-       <li><a href="#dfe-funded-international-teacher-recruitment-programme">DfE-funded International Teacher Recruitment Programme (ITRP)</a></li>
-        <li><a href="#how-coronavirus-is-affecting-the-ITRP">How coronavirus (Covid-19) is affecting the ITRP</a></li>
-        <li><a href="#visas">Visas</a></li>
-        <li><a href="#travelling-to-the-uk">Travelling to the UK</a></li>
-        <li><a href="#funding">Funding</a></li>
-    </ul>
-  </div>
-</div>-->
-
-<div class="content__left">
-  <h2>Teaching or training to teach in England</h2>
-  
-  <p>Your route to working or training as a teacher in England and the financial support you might get depends on:</p>
-  
-  <ul>
-    <li><span>your nationality or residency status</span></li>
-    <li><span>what you want to teach</span></li>
-    <li><span>your current level of qualification</span></li>
-  
-  </ul>
-  
-  
- <h2>How to apply for teaching jobs in England</h2>
-  
-  <h3 id="qts">Qualified teacher status (QTS)</h3>
-  
-  <p>In many schools funded by the UK government in England ('<a href="https://www.gov.uk/types-of-school"  target="_blank" rel="noopener noreferrer">state schools <span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>'), teachers must have 'qualified teacher status' (QTS).</p>
-  
-  <p>International qualified teachers are allowed to work as a teacher in England for up to 4 years without QTS.</p>
-  
-  <p>Learn more about the ‘<a href="https://www.gov.uk/guidance/recruit-teachers-from-overseas#employing-overseas-teachers-without-qts-the-4-year-rule"  target="_blank" rel="noopener noreferrer">4 year rule<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>’.</p>
-
-<p>However, you’ll strengthen your application for teaching jobs in the UK in both the state sector and <a href="https://www.gov.uk/types-of-school/private-schools" target="_blank" rel="noopener noreferrer">private sector<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> if you have QTS.</p>
-
-<h4>Schools which do not require QTS</h4>
-
-<p>Within the UK state school sector, <a href="https://www.gov.uk/types-of-school/academies" target="_blank" rel="noopener noreferrer">academy schools<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> and <a href="https://www.gov.uk/types-of-school/free-schools" target="_blank" rel="noopener noreferrer">free schools<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> do not require QTS.</p> 
-
-<p>Outside the UK state school sector, ‘private schools’ or ‘independent schools’ do not require QTS. 
-<a href="http://www.iscteachertraining.co.uk/for-trainees/faqs/" target="_blank" rel="noopener noreferrer">Learn more about teaching and training to teach in a private or independent school in the UK.<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a></p>
-  
-  
-  <!--<p><a href="#top">Back to top</a></p>-->
-  
-<h2 id="how-to-apply-for-qts">How to apply for QTS</h2>
-
-<h3>Fast-track application for teachers who qualified in the following countries</h3>
-<ul>
-  <li>the <a href="https://www.gov.uk/eu-eea" target="_blank" rel="noopener noreferrer">European Economic Area <span class="govuk-visually-hidden">(Link opens in new
-    window)</span><i class="icon icon-external"></i></a> (EEA)</li>
-  <li>Australia</li>
-  <li>Canada</li>
-  <li>New Zealand</li>
-  <li>Switzerland</li>
-  <li>USA</li>
-  </ul>
-  
-<p>If you are qualified to teach in one of these countries, you can apply to the UK’s Teaching Regulation Agency for QTS.</p> 
-
-<p>Your application may take up to 4 months to process, but you will not need to do any further teacher training to get QTS.</p> 
-
-<p>(Different rules apply if you are a national of one of the countries listed here, but have teaching qualifications from another country. <a href="https://www.gov.uk/guidance/qualified-teacher-status-qts#teachers-from-the-eu-iceland-liechtenstein-norway-or-switzerland" target="_blank" rel="noopener noreferrer">Learn more<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>.)</p> 
-
-<p>Apply to the <a href="https://teacherservices.education.gov.uk/MutualRecognition/?_ga=2.90730579.839284417.1600083937-933951467.1578240893" target="_blank" rel="noopener noreferrer">Teaching Regulation Agency for QTS<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a></p>
-
-<h3>Assessment only (AO) QTS for teachers who qualified in other countries</h3>
-<br/>
-<p>Teachers from outside <a href="https://www.gov.uk/eu-eea" target="_blank" rel="noopener noreferrer">the EEA <span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>, Australia, Canada, New Zealand, Switzerland and the USA can apply for <a href="https://www.gov.uk/government/publications/the-assessment-only-route-to-qts/assessment-only-route-to-qts-criteria-and-supporting-advice" target="_blank" rel="noopener noreferrer">assessment only QTS<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>.</p>
 
+## Teaching or training to teach in England
 
-<p><a href="https://www.gov.uk/guidance/qualified-teacher-status-qts" target="_blank" rel="noopener noreferrer">Learn how to apply for QTS if you trained outside the UK<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>.</p>
+Your route to working or training as a teacher in England and the financial support you might get depends on:
 
-<h3>Applying for the right visa</h3>
-<br/>
-<p>You should <a href="#work-visas" target="_blank" rel="noopener noreferrer">check to see if you need a visa to work in the UK</a>. This will probably be a skilled worker visa, although you may be eligible for <a href="#other-visas" target="_blank" rel="noopener noreferrer">other visas</a>.</p> 
+* your nationality or residency status
+* what you want to teach
+* your current level of qualification
 
+## How to apply for teaching jobs in England
 
-<h3>Search and apply for teaching jobs</h3> 
- 
-<p>You can browse available teaching jobs in England using the UK government’s <a href="https://teaching-vacancies.service.gov.uk/" target="_blank" rel="noopener noreferrer">Teaching vacancies service<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>.</p>
+### Qualified teacher status (QTS)
 
+In many schools funded by the UK government in England ('[state schools](https://www.gov.uk/types-of-school)'), teachers must have 'qualified teacher status' (QTS).
 
-<h3>Check if you’re eligible for extra support</h3>
+International qualified teachers are allowed to work as a teacher in England for up to 4 years without QTS.
 
-<p>If you qualified as a teacher of maths, physics, computer science, general science or modern foreign languages in Australia, Canada, France, Germany, Jamaica, New Zealand, South Africa, Spain or the USA, you are eligible for extra help from DfE, including:</p>
+Learn more about the ‘[4 year rule](https://www.gov.uk/guidance/recruit-teachers-from-overseas#employing-overseas-teachers-without-qts-the-4-year-rule)’.
 
-<ul>
-  <li>guidance on work visas and permits</li>
-  <li>support finding a job in England</li>
-  <li>help settling in to the English education system</li>
-  <li>continuing professional development</li>
-  </ul>
+However, you’ll strengthen your application for teaching jobs in the UK in both the state sector and [private sector](https://www.gov.uk/types-of-school/private-schools) if you have QTS.
 
-<p>Contact one of these UK-government approved teaching recruitment agencies for more details:</p>
+### Schools which do not require QTS
 
+Within the UK state school sector, academy schools    and free schools    do not require QTS.
 
-<ul>
-<li><span><a href="https://www.pointtopointeducation.com/department-for-education-endorsement/"  target="_blank" rel="noopener noreferrer">Point to Point Education<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a></span></li>
-<li><span><a href="https://prosperoteaching.com/campaigns/teachuk/"  target="_blank" rel="noopener noreferrer">Prospero Teaching<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a></span></li>
-<li><span><a href="https://www.quantum-scholars.co.uk/"  target="_blank" rel="noopener noreferrer">Quantum Scholars<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a></span></li>
-<li><span><a href="https://www.randstad.co.uk/job-seeker/areas-of-expertise/education/stem-registration/?utm_source=DfE%20website&utm_medium=STEM%20candidate%20page&utm_campaign=DfE%20website"  target="_blank" rel="noopener noreferrer">Randstad Education<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a></span></li>
-</ul>
-<br/>
+Outside the state school sector, ‘private schools’ or ‘independent schools’ do not require QTS. [Learn more about teaching and training to teach in a private or independent school in the UK](https://www.gov.uk/types-of-school/private-schools).
 
-<h2>How to apply to train to teach in England</h2>
+## How to apply for QTS
 
-<h3>Funding</h3>
+### Fast-track application for teachers who qualified in the following countries
 
-<p>If you’re an EU national starting a teacher training course in the academic year 2021/22, you may get a bursary or scholarship, and student finance on a similar basis to domestic students if you have settled or pre-settled status under the <a href="https://www.gov.uk/settled-status-eu-citizens-families" target="_blank" rel="noopener noreferrer">EU Settlement Scheme<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>, and meet the usual residence requirements.</p>  
+* the [European Economic Area](https://www.gov.uk/eu-eea) (EEA)
+* Australia
+* Canada
+* New Zealand
+* Switzerland
+* USA
 
-<h3>What you’ll need</h3>
+If you are qualified to teach in one of these countries, you can apply to the UK's Teaching Regulation Agency for QTS.
 
-<p>To apply for a place on a teacher training course in England, you need to have:</p>
+Your application may take up to 4 months to process, but you will not need to do any further teacher training to get QTS.
 
+[Different rules apply if you are a national of one of the countries listed here, but have teaching qualifications from another country](https://www.gov.uk/guidance/qualified-teacher-status-qts#teachers-from-the-eu-iceland-liechtenstein-norway-or-switzerland).
 
-<ul>
-<li>achieved a standard equivalent to a grade 4 in GCSE English and mathematics</li>
-<li>a university degree</li>
-</ul>
+Apply to the Teaching Regulation Agency for QTS
 
-<p>To teach children aged 3 to 11, you also need to have achieved a standard equivalent to a grade 4 in a GCSE science subject.</p>
+### Assessment only QTS for teachers who qualified in other countries
 
-<p>For help understanding these UK qualifications and their international equivalents, call Get Into Teaching on Freephone 0800 389 2501. You may be able to get a free statement of comparability (this usually costs £49.50 plus VAT) from <a href="https://www.naric.org.uk/Qualifications/SOC/Default.aspx"  target="_blank" rel="noopener noreferrer">National Recognition Information Centre for the United Kingdom <span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> (UK NARIC), after you've submitted your application and if required by your training provider.</p>
+Teachers from outside [the EEA](https://www.gov.uk/eu-eea), Australia, Canada, New Zealand, Switzerland and the USA can apply for assessment only QTS.
 
-<p>You will also need to:</p>
-<ul>
-<li>have the health and physical capacity to teach</li>
-<li>undergo a UK safeguarding check (a <a href="https://www.gov.uk/government/organisations/disclosure-and-barring-service"  target="_blank" rel="noopener noreferrer">Disclosure and Barring Service <span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> (DBS) check)</li>
-  </ul>
+[Learn how to apply for QTS if you trained outside the](https://www.gov.uk/guidance/qualified-teacher-status-qts).
 
-<h3>If you don’t have a degree</h3>
+#### Applying for the right visa
 
-<p>If you don’t have a university degree, you can <a href="https://www.ucas.com/postgraduate/teacher-training/train-teach-england/undergraduate-teacher-training-england" target="_blank" rel="noopener noreferrer">apply to study an undergraduate course in the UK which combines a degree with QTS<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>. When you complete your studies, you’ll be able to apply for jobs as a teacher in England.</p>
+You should [check to see if you need a visa to work in the UK](https://beta-getintoteaching.education.gov.uk/international-candidates#work-visas). This will probably be a skilled worker visa, although you may be eligible for [other visas](https://beta-getintoteaching.education.gov.uk/international-candidates#other-visas).
 
-<h3>If you are a PhD student</h3>
+#### Search and apply for teaching jobs
 
-<p>International PhD students in Physics, Mathematics, English, Biology, Computer Science, Modern Languages, Chemistry, Geography, Classics (Latin/Greek) and History can apply for the UK government’s <a href="https://thebrilliantclub.org/researchers-in-schools/" target="_blank" rel="noopener noreferrer">Researchers in Schools<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> programme.</p>  
+You can browse available teaching jobs in England using the UK government’s [Teaching vacancies service](https://teaching-vacancies.service.gov.uk/).
 
+#### Check if you’re eligible for extra support
 
-<h3>Applying for the right visa</h3>
+If you qualified as a teacher of maths, physics, computer science, general science or modern foreign languages in Australia, Canada, France, Germany, Jamaica, New Zealand, South Africa, Spain or the USA, you are eligible for extra help from DfE, including:
 
-<p><a href="#work-visas" target="_blank" rel="noopener noreferrer">You should check to see if you need a visa to study in the UK</a>. This will probably be a student visa, although you may be eligible for other visas.</p>  
+* guidance on work visas and permits
+* support finding a job in England
+* help settling in to the English education system
+* continuing professional development
 
-<h3>Get help</h3>
+Contact one of these UK-government approved teaching recruitment agencies for more details:
 
-<p><a href="#talk-to-us">Contact us</a> to get help and support about training to teach by phone or online chat.</p>
+* [Point to Point Education](https://www.pointtopointeducation.com/department-for-education-endorsement/)
+* [Prospero Teaching](https://prosperoteaching.com/campaigns/teachuk/)
+* [Quantum Scholars](https://www.quantum-scholars.co.uk/)
+* [Randstad Education](https://www.randstad.co.uk/job-seeker/areas-of-expertise/education/)
 
-<h3>Research teacher training courses</h3>
+## How to apply to train to teach in England
 
-<p>Visit <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses" target="_blank" rel="noopener noreferrer">Find postgraduate teacher training<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> to search for UK government-approved teacher training courses by location, teaching subject and age group.</p> 
+### Funding
 
-<p>Not all training providers can accept international candidates. You should contact your chosen teacher training providers directly, before you apply online, to get their advice about your eligibility and the application process.</p> 
+If you’re an EU national starting a teacher training course in the academic year 2021/22, you may get a bursary or scholarship, and student finance on a similar basis to domestic students if you have settled or pre-settled status under the [EU Settlement Scheme](https://www.gov.uk/settled-status-eu-citizens-families), and meet the usual residence requirements.
 
+### What you’ll need
 
-<h2 id="work-visas">How to apply for a visa which allows you to work or study in the UK</h2>
+To apply for a place on a teacher training course in England, you need to have:
 
-<p>From 1 January 2021, the UK is introducing a <a href="https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know" target="_blank" rel="noopener noreferrer">new points-based immigration system<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>.</p> 
+* achieved a standard equivalent to a grade 4 in GCSE English and mathematics
+* a university degree
 
-<p>If you are a non-UK citizen from a country outside the <a href="https://www.gov.uk/eu-eea#:~:text=The%20EEA%20includes%20EU%20countries,UK%20as%20other%20EEA%20nationals." target="_blank" rel="noopener noreferrer">European Economic Area<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> (EEA) and Switzerland, you may already need a visa to study or work in the UK. <a href="https://www.gov.uk/check-uk-visa" target="_blank" rel="noopener noreferrer">Check if you need a visa under the current immigration system<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>.</p>
+To teach children aged 3 to 11, you also need to have achieved a standard equivalent to a grade 4 in a GCSE science subject.
 
-<h3>EU Settlement Scheme</h3>
+For help understanding these UK qualifications and their international equivalents, call Get Into Teaching on Freephone 0800 389 2501. You may be able to get a free statement of comparability (this usually costs £49.50 plus VAT) from [National Recognition Information Centre for the United Kingdom](https://www.naric.org.uk/Qualifications/SOC/Default.aspx) (UK NARIC), after you've submitted your application and if required by your training provider.
 
-<p>If you are a citizen of a country inside the <a href="https://www.gov.uk/eu-eea" target="_blank" rel="noopener noreferrer">European Economic Area<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> (EEA) or Switzerland, living in the UK by 31 December 2020, you can apply to the <a href="https://www.gov.uk/settled-status-eu-citizens-families" target="_blank" rel="noopener noreferrer">EU Settlement Scheme<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>.</p> 
+You will also need to:
 
-<p>If your application is successful, you can continue to live, work and study in the UK after 30 June 2021. You will not need to use the points-based immigration system explained here.</p>
+* have the health and physical capacity to teach
+* undergo a UK safeguarding check (a [Disclosure and Barring Service](https://www.gov.uk/government/organisations/disclosure-and-barring-service) (DBS) check)
 
-<h3>Changes to the UK’s immigration system</h3> 
+### If you don’t have a degree
 
-<p>The new points-based immigration system will apply to all non-UK citizens arriving in the UK from 1 January 2021, including those from the EEA or Switzerland.</p> 
+If you don’t have a university degree, you can [apply to study an undergraduate course in the which combines a degree with QTS](https://www.ucas.com/postgraduate/teacher-training/train-teach-england/undergraduate-teacher-training-england). When you complete your studies, you’ll be able to apply for jobs as a teacher in England.
 
-<p>You can now apply for a <a href="https://www.gov.uk/student-visa" target="_blank" rel="noopener noreferrer">student visa<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> under the new system; other immigration routes to live and work in the UK will open over the course of 2020.</p>
+### If you are a PhD student
 
-<h3>Irish citizens</h3>
+International PhD students in Physics, Mathematics, English, Biology, Computer Science, Modern Languages, Chemistry, Geography, Classics (Latin/Greek) and History can apply for the UK government’s Researchers in Schools    programme.
+Applying for the right visa
 
-<p>Irish citizens will continue to be able to enter, work and study in the UK as they do now.</p>
+[You should check to see if you need a visa to study in the UK](https://beta-getintoteaching.education.gov.uk/international-candidates#work-visas). This will probably be a student visa, although you may be eligible for other visas.
 
-<h2>Choosing the correct visa for your teaching job or teacher training course</h2>
+### Get help
 
-<p>For teaching jobs in England, the main visa route  is the ‘<a href="https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#skilled-workers" target="_blank" rel="noopener noreferrer">skilled worker visa<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>’.</p>
+[Contact us](https://beta-getintoteaching.education.gov.uk/international-candidates#talk-to-us) to get help and support about training to teach by phone or online chat.
 
-<p>For teacher training in England, the main routes are either the ‘<a href="https://www.gov.uk/student-visa" target="_blank" rel="noopener noreferrer">student visa<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>’ or the ‘<a href="https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#skilled-workers" target="_blank" rel="noopener noreferrer">skilled worker visa<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>’.</p>
+### Research teacher training courses
 
-<p>Depending on your personal circumstances, you may be eligible for <a href="#other-visas" target="_blank" rel="noopener noreferrer">other visas<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> which allow you to work or study in the UK.</p> 
+Visit [Find postgraduate teacher training](https://www.gov.uk/find-postgraduate-teacher-training-courses) to search for UK government-approved teacher training courses by location, teaching subject and age group.
 
-<h3>Teacher training: skilled worker or student visa?</h3>
+Not all training providers can accept international candidates. You should contact your chosen teacher training providers directly, before you apply online, to get their advice about your eligibility and the application process.
 
-<p>The type of visa you need will depend on whether you are on a salaried or unsalaried teacher training course. (See also our <a href="#other-visas" target="_blank" rel="noopener noreferrer">guidance on other visas<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> you may be eligible for.)</p>
+## How to apply for a visa which allows you to work or study in the UK
 
-<p>A ‘salaried’ teacher training course means you are paid to work in a school while you learn to teach.</p> 
+From 1 January 2021, the UK is introducing a new [points-based immigration system](https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know).
 
-<p>An ‘unsalaried’ teacher training course means you pay a fee to study as a teacher.</p>  
+If you are a non-UK citizen from a country outside the European Economic Area    (EEA) and Switzerland, you may already need a visa to study or work in the UK. [Check if you need a visa under the current immigration system](https://www.gov.uk/check-uk-visa).
 
+### EU Settlement Scheme
 
-<p>Learn more about salaried courses</p>
-<ul>
-  <li>salaried includes the School Direct salaried programme, the Teach First Leadership Development programme and postgraduate teaching apprenticeships</li>
-  </ul>
-  
-<p>Learn more about unsalaried courses</p>
-<ul>
-  <li>unsalaried includes higher education institution programmes, school-centred initial teacher training (SCITT) programmes and the School Direct fee-funded programme</li>
-  </ul>
+If you are a citizen of a country inside the [European Economic Area](https://www.gov.uk/eu-eea) (EEA) or Switzerland, living in the UK by 31 December 2020, you can apply to the EU Settlement Scheme.
 
-<p><a href="https://beta-getintoteaching.education.gov.uk/train-to-become-a-teacher" target="_blank" rel="noopener noreferrer">Learn more about ways to train in England<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a></p>
+If your application is successful, you can continue to live, work and study in the UK after 30 June 2021. You will not need to use the points-based immigration system explained here.
 
+### Changes to the UK’s immigration system
 
-<h3>Applying for a student visa for an unsalaried teacher training course</h3>
+The new points-based immigration system will apply to all non-UK citizens arriving in the UK from 1 January 2021, including those from the EEA or Switzerland.
 
-<p>For an unsalaried teacher training course, you will need a <a href="https://www.gov.uk/student-visa" target="_blank" rel="noopener noreferrer">student visa<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>. Student visas must be sponsored by a Home Office licensed student sponsor.</p> 
+You can now apply for a [student visa](https://www.gov.uk/student-visa) under the new system; other immigration routes to live and work in the UK will open over the course of 2020.
 
-<p>First, choose your teaching training provider using <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses" target="_blank" rel="noopener noreferrer">Find postgraduate teacher training<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>.</p>
+### Irish citizens
 
-<p>Then, contact your chosen teacher training provider to check they are a Home Office licensed student sponsor – sponsors can help you apply for your visa.</p>
+Irish citizens will continue to be able to enter, work and study in the UK as they do now.
 
+## Choosing the correct visa for your teaching job or teacher training course
 
-<p>You’ll be able to apply for your visa if you:</p>
+For teaching jobs in England, the main visa route is the ‘[skilled worker visa](https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#skilled-workers)’.
 
-<ul>
-  <li>have an unconditional offer of a place on a course with a Home Office licensed student sponsor teacher training provider</li>
-<li>have a reference number, called a confirmation of acceptance for studies (CAS), which your training provider will give you</li> 
-  <li>have enough money to support yourself and pay for your course</li>
-  <li><a href="https://www.gov.uk/student-visa/knowledge-of-english" target="_blank" rel="noopener noreferrer">can speak, read, write, and understand English<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a></li>
-  </ul>
+For teacher training in England, the main routes are either the ‘[student visa](https://www.gov.uk/student-visa)’ or the ‘[skilled worker visa](https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#skilled-workers)’.
 
+Depending on your personal circumstances, you may be eligible for [other visas](https://beta-getintoteaching.education.gov.uk/international-candidates#other-visas) which allow you to work or study in the UK.
 
-<h3>Applying for a skilled worker visa for a salaried teacher training course, or to work as a teacher</h3>
+### Teacher training: skilled worker or student visa?
 
-<p>For a salaried teacher training course or to work as a teacher, you will need a <a href="https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#skilled-workers" target="_blank" rel="noopener noreferrer">skilled worker visa<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>. Skilled worker visas are sponsored by Home Office licensed employers.</p> 
+The type of visa you need will depend on whether you are on a salaried or unsalaried teacher training course. (See also our [guidance on other visas](https://beta-getintoteaching.education.gov.uk/international-candidates#other-visas) you may be eligible for.)
 
-<h3>For salaried teacher training</h3>
+A ‘salaried’ teacher training course means you are paid to work in a school while you learn to teach.
 
-<p>First, choose your teaching training provider using <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses" target="_blank" rel="noopener noreferrer">Find postgraduate teacher training<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>.</p>
+An ‘unsalaried’ teacher training course means you pay a fee to study as a teacher.
 
-<p>Then, contact your chosen teacher training provider to ask about the school where you’ll be employed during your training. The school must be a Home Office licensed employer sponsor – sponsors can help you apply for your visa.</p> 
+Learn more about salaried courses
 
-<h3>To work as a teacher</h3>
+* salaried includes the School Direct salaried programme, the Teach First Leadership Development programme and postgraduate teaching apprenticeships
 
-<p>First, search for teaching jobs using <a href="https://teaching-vacancies.service.gov.uk/" target="_blank" rel="noopener noreferrer">Teaching Vacancies<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>.</p>
+Learn more about unsalaried courses
 
-<p>Before you apply for a teaching job, contact the school to check they are a Home Office licensed employer sponsor – sponsors can help you apply for your visa.
+* unsalaried includes higher education institution programmes, school-centred initial teacher training (SCITT) programmes and the School Direct fee-funded programme
 
-<h3>You’ll be able to apply for your skilled worker visa if:</h3>
+[Learn more about ways to train in England](https://beta-getintoteaching.education.gov.uk/train-to-become-a-teacher).
 
-<ul>
-  <li>you have an offer for a salaried training place or a teaching job with a school that is a licensed Home Office employer sponsor</li>
-  <li>you can speak, read, write, and understand English</li>
-  <li>your role pays at least: i) £20,480; or ii) the relevant minimum rate for teachers in the region of England where you are working or training – whichever is higher. Pro-rata rates will apply if you work part-time as long as you earn at least £20,480 per annum</li>
-  </ul>
+### Applying for a student visa for an unsalaried teacher training course
 
-<p><a href="https://beta-getintoteaching.education.gov.uk/life-as-a-teacher/teachers-salaries-and-benefits" target="_blank" rel="noopener noreferrer">Check minimum rates for teachers by region in England</a></p>
+For an unsalaried teacher training course, you will need a [student visa](https://www.gov.uk/student-visa). Student visas must be sponsored by a Home Office licensed student sponsor.
 
- <h2 id="other-visas">Ways to train or work as a teacher in the UK without a skilled worker visa or a student visa</h2>
+First, choose your teaching training provider using [Find postgraduate teacher training](https://www.gov.uk/find-postgraduate-teacher-training-courses).
 
+Then, contact your chosen teacher training provider to check they are a Home Office licensed student sponsor – sponsors can help you apply for your visa.
 
-<h3>Graduate visa</h3>
+You’ll be able to apply for your visa if you:
 
-<p>If you are already an international student in the UK, you can apply for a <a href="https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#international-students-and-graduates" target="_blank" rel="noopener noreferrer">graduate visa<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> on successful completion of your degree. This visa will be available from summer 2021 and you will need to have been sponsored by a Home Office licensed student sponsor to apply.</p>
+* have an unconditional offer of a place on a course with a Home Office licensed student sponsor teacher training provider
+* have a reference number, called a confirmation of acceptance for studies (CAS), which your training provider will give you
+* have enough money to support yourself and pay for your course
+* [can speak, read, write, and understand English](https://www.gov.uk/student-visa/knowledge-of-english)
 
-<p>The graduate visa will allow you to study, work, or look for work in the UK for up to 2 years after completing your studies (3 years for PhD students), without a sponsor. This includes training as a teacher on a salaried or unsalaried initial teacher training course.</p>
+Applying for a [skilled worker visa](https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#skilled-workers) for a salaried teacher training course, or to work as a teacher
 
-<p>You will be able to switch from a graduate visa to another visa (such as the <a href="https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#skilled-workers" target="_blank" rel="noopener noreferrer">skilled worker visa<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>) without having to leave the UK, if you meet the requirements for the new visa.</p>
+For a salaried teacher training course or to work as a teacher, you will need a skilled worker visa. Skilled worker visas are sponsored by Home Office licensed employers.
+For salaried teacher training
 
-<h3>The Youth Mobility Scheme visa</h3> 
+First, choose your teaching training provider using [Find postgraduate teacher training](https://www.gov.uk/find-postgraduate-teacher-training-courses).
 
-<p>The <a href="https://www.gov.uk/tier-5-youth-mobility" target="_blank" rel="noopener noreferrer">Youth Mobility Scheme<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> allows young people from Australia,  Canada, Japan, Monaco, New Zealand, Hong Kong, Republic of Korea and Taiwan to come to the UK.</p> 
+Then, contact your chosen teacher training provider to ask about the school where you’ll be employed during your training. The school must be a Home Office licensed employer sponsor – sponsors can help you apply for your visa.
+To work as a teacher
 
-<p>You must be 18 to 30 years old to apply. If you are successful, you’ll be able to  study or work in the UK without a sponsor. This includes working as a teacher or training as a teacher via either a salaried or unsalaried initial teacher training course.</p>
+First, search for teaching jobs using [Teaching Vacancies](https://teaching-vacancies.service.gov.uk/).
 
-<p>A Youth Mobility Scheme visa lasts up to 2 years. You may be able to switch from a Youth Mobility Scheme visa to another visa route (for example the <a href="https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#skilled-workers" target="_blank" rel="noopener noreferrer">skilled worker visa<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>) without having to leave the UK. You’ll need to meet the requirements for the other visa route.</p>
+Before you apply for a teaching job, contact the school to check they are a Home Office licensed employer sponsor – sponsors can help you apply for your visa.
+You’ll be able to apply for your skilled worker visa if:
 
-<h3>Other visas</h3>
+* you have an offer for a salaried training place or a teaching job with a school that is a licensed Home Office employer sponsor
+* you can speak, read, write, and understand English
+* your role pays at least: i) £20,480; or ii) the relevant minimum rate for teachers in the region of England where you are working or training – whichever is higher. Pro-rata rates will apply if you work part-time as long as you earn at least £20,480 per annum
 
-<p>Depending on your personal circumstances, you may be able to work or study in the UK on alternative visas – for example, the <a href="https://www.gov.uk/uk-family-visa" target="_blank" rel="noopener noreferrer">Family visa<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> or <a href="https://www.gov.uk/ancestry-visa" target="_blank" rel="noopener noreferrer">UK Ancestry visa<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a>.  Use this <a href="https://www.gov.uk/check-uk-visa" target="_blank" rel="noopener noreferrer">UK government service<span class="govuk-visually-hidden">(Link opens in new
-window)</span><i class="icon icon-external"></i></a> to check.</p> 
+[Check minimum rates for teachers by region in England](https://beta-getintoteaching.education.gov.uk/life-as-a-teacher/teachers-salaries-and-benefits).
 
+## Ways to train or work as a teacher in the UK without a skilled worker visa or a student visa
 
+### Graduate visa
 
-<p><a href="#top">Back to top</a></p>
+If you are already an international student in the UK, you can apply for a [graduate visa](https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#international-students-and-graduates) on successful completion of your degree. This visa will be available from summer 2021 and you will need to have been sponsored by a Home Office licensed student sponsor to apply.
 
+The graduate visa will allow you to study, work, or look for work in the UK for up to 2 years after completing your studies (3 years for PhD students), without a sponsor. This includes training as a teacher on a salaried or unsalaried initial teacher training course.
 
-<!--<h2>Stories from international teachers</h2> 
-<div class="stories-inline">
-    <div class="stories-inline__block">
-      <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience">
-        <div class="stories-inline__block__thumb" style="background-image:url('/assets/images/stories/stories-katie.png')"></div>
-      </a>
-      <div class="stories-inline__block__content">
-        <p>Katie's story of getting back into the classroom</p>
-        <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience">Read Katie's story</a>
-      </div>
-    </div>
-    <div class="stories-inline__block">
-      <a href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-support-from-an-adviser">
-        <div class="stories-inline__block__thumb" style="background-image:url('/assets/images/stories/stories-shaun.jpg')"></div>
-      </a>
-      <div class="stories-inline__block__content">
-        <p>Top tips for returning teachers</p>
-        <a class="git-link" href="/life-as-a-teacher/my-story-into-teaching/international-career-changers/returning-to-teaching-with-support-from-an-adviser">
-        <br/>
-        Read Shaun's story</a>
-      </div>
-    </div>
-  </div>
-</div>-->
-  
+You will be able to switch from a graduate visa to another visa (such as the [skilled worker visa](https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#skilled-workers)) without having to leave the UK, if you meet the requirements for the new visa.
 
+### The Youth Mobility Scheme visa
 
+The Youth Mobility Scheme    allows young people from Australia, Canada, Japan, Monaco, New Zealand, Hong Kong, Republic of Korea and Taiwan to come to the UK.
 
+You must be 18 to 30 years old to apply. If you are successful, you’ll be able to study or work in the UK without a sponsor. This includes working as a teacher or training as a teacher via either a salaried or unsalaried initial teacher training course.
 
+A Youth Mobility Scheme visa lasts up to 2 years. You may be able to switch from a Youth Mobility Scheme visa to another visa route (for example the skilled worker visa   ) without having to leave the UK. You’ll need to meet the requirements for the other visa route.
 
+### Other visas
 
-
-
-  
-  
-
-
-
-
-
-
+Depending on your personal circumstances, you may be able to work or study in the UK on alternative visas – for example, the [Family visa](https://www.gov.uk/uk-family-visa) or [UK Ancestry visa](https://www.gov.uk/ancestry-visa). Use this [UK government service](https://www.gov.uk/check-uk-visa) to check.
