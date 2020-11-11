@@ -4,7 +4,7 @@ image: /assets/images/stories/stories-peter.jpg
 backlink: "./"
 backlink_text: Career changers' stories
 story:
-  teacher: Peter Bassett,
+  teacher: Peter Bassett
   position: Maths teacher
 more_stories:
   - name: Zainab
