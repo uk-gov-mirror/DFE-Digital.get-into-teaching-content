@@ -3,9 +3,9 @@ title: "Returning to teaching"
 image: "/assets/images/return-to-teaching-dt.jpg"
 backlink: "../../"
 jump_links:
-  Finding a role: "#finding-a-role"
-  Modern languages, maths or physics: "#modern-languages-maths-or-physics"
   Get up to date with best practice: "#get-up-to-date-with-best-practice"
+  Finding a role: "#finding-a-role"
+  Subject specific support: "#subject-specific-support"
   Improving the lives of teachers: "#improving-the-lives-of-teachers"
   Additional information for teachers who trained in England returning from overseas: "#additional-information-for-teachers-who-trained-in-england-returning-from-overseas"
 ---
@@ -55,7 +55,27 @@ If you want to progress in your career in England, you may wish to apply for a [
 
 NPQs can help you get into leadership positions such as head of department, deputy headteacher or headteacher.
 
-## Modern languages, maths or physics
+## Finding a role
+
+[Search for a teaching role in England](https://teaching-vacancies.service.gov.uk/). You can set up job alerts so that you do not miss out on any opportunities.
+
+Take a look at the different [types of schools and staff roles](https://www.gov.uk/types-of-school) to find the best opportunity for you.
+
+We can give you one-to-one support if you’re returning to teach modern foreign languages, maths or physics.
+
+Our return to teaching advisers can help with finding vacancies, reviewing your subject and pedagogical knowledge, application support, and interview preparation.
+
+For advice on returning to teaching, speak to a return to teaching adviser by using the [Get an adviser](https://beta-getintoteaching.education.gov.uk/tta-service) service.
+
+### National Tutoring Programme
+
+This provides two different options to return to a school environment without taking on a full-time or part-time classroom role.
+
+Find out [how to apply and get more information about 'Tuition Partners' and 'Academic Mentor' pillars of the National Tutoring Programme](https://nationaltutoring.org.uk/).
+
+## Subject specific support
+
+### Modern languages, maths or physics
 
 If you're a returning teacher of secondary modern foreign languages, maths or physics, the Department for Education offers:
 
@@ -79,25 +99,6 @@ If you’d like more information on what it’s like to teach physics today, you
 ### Specialist help for returning maths teachers
 
 The [National Centre for the Excellence in the Teaching of Mathematics (NCETM)](https://www.ncetm.org.uk/news-features/) offers [teaching resources](https://www.ncetm.org.uk/in-the-classroom/) around the maths you will be teaching.
-
-## Finding a role
-
-[Search for a teaching role in England](https://teaching-vacancies.service.gov.uk/). You can set up job alerts so that you do not miss out on any opportunities.
-
-Take a look at the different [types of schools and staff roles](https://www.gov.uk/types-of-school) to find the best opportunity for you.
-
-We can give you one-to-one support if you’re returning to teach modern foreign languages, maths or physics.
-
-Our return to teaching advisers can help with finding vacancies, reviewing your subject and pedagogical knowledge, application support, and interview preparation.
-
-For advice on returning to teaching, speak to a return to teaching adviser by using the [Get an adviser](https://beta-getintoteaching.education.gov.uk/tta-service) service.
-
-### National Tutoring Programme
-
-This provides two different options to return to a school environment without taking on a full-time or part-time classroom role.
-
-Find out [how to apply and get more information about 'Tuition Partners' and 'Academic Mentor' pillars of the National Tutoring Programme](https://nationaltutoring.org.uk/).
-
 
 ## Improving the lives of teachers
 
