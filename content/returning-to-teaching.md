@@ -47,7 +47,7 @@ Details of organisations which represent certain characteristics are listed belo
 * [WomenEd](https://www.womened.org/)
 * [BAMEed](https://www.bameednetwork.com/)
 * [LGBTed](http://lgbted.uk/)
-* [DisabilityEd (Twitter account)](https://beta-getintoteaching.education.gov.uk/twitter.com/disability_ed)
+* [DisabilityEd (Twitter account)](https://www.twitter.com/disability_ed)
 
 ### Career progression
 
