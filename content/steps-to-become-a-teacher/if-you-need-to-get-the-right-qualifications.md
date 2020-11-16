@@ -61,6 +61,6 @@ If you’re a teaching assistant or unqualified teacher with two years’ experi
 
 ### Postgraduate Early Years Initial Teacher Training (EYITT)
 
-A number of postgraduate Early Years Initial Teacher Training (EYITT) courses are available at university or via a school-led route – all lead to Early Years Teacher Status (EYTS)(Link opens in new window) on successful completion. EYTS is different to QTS in that you specialise in working with children up to five years old only.
+A number of postgraduate Early Years Initial Teacher Training (EYITT) courses are available at university or via a school-led route – all lead to [Early Years Teacher Status (EYTS)](/guidance/train-to-become-a-teacher#teaching-under-fives) on successful completion. EYTS is different to QTS in that you specialise in working with children up to five years old only.
 
 [Find a school-led teacher training course](https://www.gov.uk/find-postgraduate-teacher-training-courses)

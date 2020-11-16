@@ -55,8 +55,8 @@ Further information is available if you are affected by [changes to UK immigrati
 
 ---
 
-For more information about the government response to coronavirus (COVID-19), please visit GOV.UK(Link opens in new window).
+For more information about the government response to coronavirus (COVID-19), please visit GOV.UK(https://www.gov.uk/coronavirus).
 
-If you have another question, not covered here, please get in touch(Link opens in new window).
+If you have another question, not covered here, please [get in touch](#talk-to-us).
 
-We have been working closely across government to develop guidance on COVID-19(Link opens in new window) and its impact on Initial Teacher Training, and the amended ITT criteria(Link opens in new window).
+We have been working closely across government to [develop guidance on COVID-19](https://www.gov.uk/government/publications/coronavirus-covid-19-initial-teacher-training-itt) and its impact on Initial Teacher Training, and [the amended ITT criteria](https://www.gov.uk/government/publications/initial-teacher-training-criteria).

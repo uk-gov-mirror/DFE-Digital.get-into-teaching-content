@@ -129,7 +129,7 @@ You may wish to:
 
 * join the [Chartered College of Teaching](https://chartered.college/), the professional body for teachers
 * join a [teaching union](https://www.tes.com/jobs/careers-advice/pay-and-conditions/which-teachers-union)
-* read up on [teaching interview tips](Link opens in new window) if it’s been a while since your last interview, as well as specific [pointers for remote interviewing](https://www.tes.com/news/coronavirus-10-tips-acing-remote-job-interview)
+* read up on [teaching interview tips](https://www.teachertoolkit.co.uk/2019/04/04/job-interviews) if it’s been a while since your last interview, as well as specific [pointers for remote interviewing](https://www.tes.com/news/coronavirus-10-tips-acing-remote-job-interview)
 * ensure your [pension is up to date](https://www.teacherspensions.co.uk/members/working-life/life-events/moving-abroad.aspx)
 * check the [FCO’s travel advice](https://www.gov.uk/foreign-travel-advice)
 
@@ -139,8 +139,8 @@ If you taught overseas as an unqualified teacher, you'll need [qualified teacher
 
 If you're experienced and have a degree, you may be able to get QTS through the [assessment only](https://beta-getintoteaching.education.gov.uk/guidance#assessment-only) route without any further training.
 
-If you have fewer than 2 years of teaching experience, you can get qualified on a teacher training course(Link opens in new window).
+If you have fewer than 2 years of teaching experience, you can get qualified on a teacher training course(https://www.find-postgraduate-teacher-training.service.gov.uk).
 
-[If you qualified overseas in the , Switzerland, Australia, Canada or New Zealand, you can apply for QTS(Link opens in new window)](https://www.gov.uk/guidance/qualified-teacher-status-qts#teachers-qualified-in-australia-canada-new-zealand-and-the-usa)
+[If you qualified overseas in the , Switzerland, Australia, Canada or New Zealand, you can apply for QTS](https://www.gov.uk/guidance/qualified-teacher-status-qts#teachers-qualified-in-australia-canada-new-zealand-and-the-usa)
 
 You can teach as an unqualified teacher in academies and free schools.
