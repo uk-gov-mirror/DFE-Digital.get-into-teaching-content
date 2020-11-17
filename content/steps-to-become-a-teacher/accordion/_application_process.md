@@ -13,7 +13,7 @@ Use Apply for teacher training if:
 
 View a list of [training providers and courses available](https://www.apply-for-teacher-training.service.gov.uk/candidate/providers) through the new GOV.UK service.
 
-You can get help preparing your application by signing up to the [Get an adviser](https://beta-adviser-getintoteaching.education.gov.uk/) service.
+You can get help preparing your application by signing up to the [Get an adviser](/tta-service) service.
 
 Use UCAS Teacher Training if:
 

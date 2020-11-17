@@ -24,7 +24,7 @@ If you’ve been out of teaching for a while, you may want to:
 
 ### Information technology
 
-You can find out how up to date your information and communication technologies (ICT) skills are by completing an [ICT skills audit (PDF, 158KB)](https://beta-getintoteaching.education.gov.uk/assets/documents/ICT_skills_audit_returners.pdf).
+You can find out how up to date your information and communication technologies (ICT) skills are by completing an [ICT skills audit (PDF, 158KB)](/assets/documents/ICT_skills_audit_returners.pdf).
 
 ### Useful resources
 
@@ -65,7 +65,7 @@ We can give you one-to-one support if you’re returning to teach modern foreign
 
 Our return to teaching advisers can help with finding vacancies, reviewing your subject and pedagogical knowledge, application support, and interview preparation.
 
-For advice on returning to teaching, speak to a return to teaching adviser by using the [Get an adviser](https://beta-getintoteaching.education.gov.uk/tta-service) service.
+For advice on returning to teaching, speak to a return to teaching adviser by using the [Get an adviser](/tta-service) service.
 
 ### National Tutoring Programme
 
@@ -137,7 +137,7 @@ You may wish to:
 
 If you taught overseas as an unqualified teacher, you'll need [qualified teacher status (QTS)](https://www.gov.uk/guidance/qualified-teacher-status-qts) to teach in a maintained school in England.
 
-If you're experienced and have a degree, you may be able to get QTS through the [assessment only](https://beta-getintoteaching.education.gov.uk/guidance#assessment-only) route without any further training.
+If you're experienced and have a degree, you may be able to get QTS through the [assessment only](/guidance#assessment-only) route without any further training.
 
 If you have fewer than 2 years of teaching experience, you can get qualified on a teacher training course(https://www.find-postgraduate-teacher-training.service.gov.uk).
 

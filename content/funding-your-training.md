@@ -35,7 +35,7 @@ You can apply for a tuition fee loan of up to £9,250 to cover the full cost of 
 
 You will only have to make repayments when you're earning. Your repayments will not increase if you already have a student loan and take a loan out for teacher training.
 
-[Find out more about tuition fee and maintenance loans](https://beta-getintoteaching.education.gov.uk/guidance/financial-support-for-teacher-training#tuition-fee-and-maintenance-loans).
+[Find out more about tuition fee and maintenance loans](/guidance/financial-support-for-teacher-training#tuition-fee-and-maintenance-loans).
 
 Use the [student finance calculator on GOV.UK](https://www.gov.uk/student-finance-calculator) to find out how much you can get.
 
@@ -50,7 +50,7 @@ You could apply for:
 * Parents Learning Allowance
 * Adult Dependants’ Grant
 
-Find out more about extra financial support for [parents and carers](https://beta-getintoteaching.education.gov.uk/guidance/financial-support-for-teacher-training#parents-and-carers---extra-financial-support) and [people with disabilities](https://beta-getintoteaching.education.gov.uk/guidance/financial-support-for-teacher-training#disabled-students---extra-financial-support).
+Find out more about extra financial support for [parents and carers](/guidance/financial-support-for-teacher-training#parents-and-carers---extra-financial-support) and [people with disabilities](/guidance/financial-support-for-teacher-training#disabled-students---extra-financial-support).
 
 ## Applying for funding if you come from outside England
 
@@ -64,6 +64,6 @@ You could get a bursary or scholarship, student finance and extra funding to tra
 
 If you’re an EU national starting a teacher training course in the academic year 2021/22, you may get a bursary or scholarship, and student finance.
 
-[Read about funding for international students](https://beta-getintoteaching.education.gov.uk/international-candidates#funding).
+[Read about funding for international students](/international-candidates#funding).
 
 If you come from outside England, you can get advice about training to be a teacher by using the online chat or Freephone number at the bottom of this page.

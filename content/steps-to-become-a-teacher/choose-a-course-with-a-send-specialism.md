@@ -3,7 +3,7 @@ title: "Choose a course with a SEND specialism"
 image: "/assets/images/steps-to-teacher-header.jpg"
 backlink: "../../"
 related_content:
-  School Experience: https://beta-getintoteaching.education.gov.uk/steps-to-become-a-teacher/school-experience
+  School Experience: /steps-to-become-a-teacher/school-experience
   Your training options: /steps-to-become-a-teacher/ways-to-train
   Teaching children with special educational needs and/or disabilities (SEND): /steps-to-become-a-teacher/choose-a-course-with-a-send-specialism
 ---
