@@ -1045,8 +1045,7 @@ Speak to a teacher training adviser on the phone by calling freephone 0800 389
 
 ### Find an event near you
 
-[Get Into Teaching’s nationwide
-events](https://get-into-teaching-app-dev.london.cloudapps.digital/events)
+[Get Into Teaching’s nationwide events](/events)
 are informal opportunities for you to get free expert advice about your
 next steps into teaching.
 
