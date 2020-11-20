@@ -5,7 +5,7 @@ You’ll need to make some key decisions about teaching before you decide how to
 * which teaching qualification you want to achieve
 * how long you want to train for
 
-[Find out more about different ways to train](/train-to-become-a-teacher)
+[Find out more about different ways to train](/guidance/train-to-become-a-teacher)
 
 ### Teaching children with special educational needs and disabilities (SEND)
 
@@ -13,4 +13,4 @@ All teaching courses with QTS include training on working with pupils with .
 
 You could also specialise in supporting children with SEND.
 
-[Find out how to specialise in SEND](/train-to-become-a-teacher#teaching-children-with-special-educational-needs-and-or-disabilities-SEND)
+[Find out how to specialise in SEND](/guidance/train-to-become-a-teacher#teaching-children-with-special-educational-needs-and-or-disabilities-SEND)

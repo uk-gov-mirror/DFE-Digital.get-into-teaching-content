@@ -14,7 +14,7 @@ To study for ITT, you’ll need these qualifications or their equivalents:
 
 If you do not have the required GCSEs, you’ll need to show that you have an equivalent level of education.
 
-If your degree is not in the subject you want to teach, or it's been a while since you studied, you may be able to take a [subject knowledge enhancement (SKE) course](/train-to-become-a-teacher#subject-knowledge-enhancement-courses).
+If your degree is not in the subject you want to teach, or it's been a while since you studied, you may be able to take a [subject knowledge enhancement (SKE) course](/guidance/train-to-become-a-teacher#subject-knowledge-enhancement-courses).
 
 Here's what you need to do if you:
 
