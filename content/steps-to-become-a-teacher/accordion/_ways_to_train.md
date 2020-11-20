@@ -5,7 +5,7 @@ You’ll need to make some key decisions about teaching before you decide how to
 * which teaching qualification you want to achieve
 * how long you want to train for
 
-[Find out more about different ways to train](https://beta-getintoteaching.education.gov.uk/train-to-become-a-teacher)
+[Find out more about different ways to train](/train-to-become-a-teacher)
 
 ### Teaching children with special educational needs and disabilities (SEND)
 

@@ -57,7 +57,7 @@ Teachers from outside [the EEA](https://www.gov.uk/eu-eea), Australia, Canada, N
 
 #### Applying for the right visa
 
-You should [check to see if you need a visa to work in the UK](https://beta-getintoteaching.education.gov.uk/international-candidates#work-visas). This will probably be a skilled worker visa, although you may be eligible for [other visas](https://beta-getintoteaching.education.gov.uk/international-candidates#other-visas).
+You should [check to see if you need a visa to work in the UK](/international-candidates#work-visas). This will probably be a skilled worker visa, although you may be eligible for [other visas](/international-candidates#other-visas).
 
 #### Search and apply for teaching jobs
 
@@ -110,11 +110,11 @@ If you don’t have a university degree, you can [apply to study an undergraduat
 International PhD students in Physics, Mathematics, English, Biology, Computer Science, Modern Languages, Chemistry, Geography, Classics (Latin/Greek) and History can apply for the UK government’s Researchers in Schools    programme.
 Applying for the right visa
 
-[You should check to see if you need a visa to study in the UK](https://beta-getintoteaching.education.gov.uk/international-candidates#work-visas). This will probably be a student visa, although you may be eligible for other visas.
+[You should check to see if you need a visa to study in the UK](/international-candidates#work-visas). This will probably be a student visa, although you may be eligible for other visas.
 
 ### Get help
 
-[Contact us](https://beta-getintoteaching.education.gov.uk/international-candidates#talk-to-us) to get help and support about training to teach by phone or online chat.
+[Contact us](/international-candidates#talk-to-us) to get help and support about training to teach by phone or online chat.
 
 ### Research teacher training courses
 
@@ -150,11 +150,11 @@ For teaching jobs in England, the main visa route is the ‘[skilled worker visa
 
 For teacher training in England, the main routes are either the ‘[student visa](https://www.gov.uk/student-visa)’ or the ‘[skilled worker visa](https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#skilled-workers)’.
 
-Depending on your personal circumstances, you may be eligible for [other visas](https://beta-getintoteaching.education.gov.uk/international-candidates#other-visas) which allow you to work or study in the UK.
+Depending on your personal circumstances, you may be eligible for [other visas](/international-candidates#other-visas) which allow you to work or study in the UK.
 
 ### Teacher training: skilled worker or student visa?
 
-The type of visa you need will depend on whether you are on a salaried or unsalaried teacher training course. (See also our [guidance on other visas](https://beta-getintoteaching.education.gov.uk/international-candidates#other-visas) you may be eligible for.)
+The type of visa you need will depend on whether you are on a salaried or unsalaried teacher training course. (See also our [guidance on other visas](/international-candidates#other-visas) you may be eligible for.)
 
 A ‘salaried’ teacher training course means you are paid to work in a school while you learn to teach.
 
@@ -168,7 +168,7 @@ Learn more about unsalaried courses
 
 * unsalaried includes higher education institution programmes, school-centred initial teacher training (SCITT) programmes and the School Direct fee-funded programme
 
-[Learn more about ways to train in England](https://beta-getintoteaching.education.gov.uk/train-to-become-a-teacher).
+[Learn more about ways to train in England](/train-to-become-a-teacher).
 
 ### Applying for a student visa for an unsalaried teacher training course
 
@@ -204,7 +204,7 @@ You’ll be able to apply for your skilled worker visa if:
 * you can speak, read, write, and understand English
 * your role pays at least: i) £20,480; or ii) the relevant minimum rate for teachers in the region of England where you are working or training – whichever is higher. Pro-rata rates will apply if you work part-time as long as you earn at least £20,480 per annum
 
-[Check minimum rates for teachers by region in England](https://beta-getintoteaching.education.gov.uk/life-as-a-teacher/teachers-salaries-and-benefits).
+[Check minimum rates for teachers by region in England](/life-as-a-teacher/teachers-salaries-and-benefits).
 
 ## Ways to train or work as a teacher in the UK without a skilled worker visa or a student visa
 

@@ -9,7 +9,7 @@ alert: |-
 
 For more information about the government response to coronavirus (COVID-19), please visit [GOV.UK](https://www.gov.uk/coronavirus).
 
-If you have another question, not covered here, [please get in touch](https://beta-getintoteaching.education.gov.uk/#talk-to-us).
+If you have another question, not covered here, [please get in touch](#talk-to-us).
 
 If you are an ITT provider, and have further urgent questions, please [email our dedicated COVID-19 inbox](mailto:DfE.coronavirushelpline@education.gov.uk).
 
