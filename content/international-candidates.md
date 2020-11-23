@@ -57,7 +57,7 @@ Teachers from outside [the EEA](https://www.gov.uk/eu-eea), Australia, Canada, N
 
 #### Applying for the right visa
 
-You should [check to see if you need a visa to work in the UK](/international-candidates#work-visas). This will probably be a skilled worker visa, although you may be eligible for [other visas](/international-candidates#other-visas).
+You should [check to see if you need a visa to work in the UK](/international-candidates#choosing-the-correct-visa-for-your-teaching-job-or-teacher-training-course). This will probably be a skilled worker visa, although you may be eligible for [other visas](/international-candidates#ways-to-train-or-work-as-a-teacher-in-the-uk-without-a-skilled-worker-visa-or-a-student-visa).
 
 #### Search and apply for teaching jobs
 

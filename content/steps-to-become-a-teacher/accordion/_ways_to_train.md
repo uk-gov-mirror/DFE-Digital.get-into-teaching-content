@@ -13,4 +13,4 @@ All teaching courses with QTS include training on working with pupils with .
 
 You could also specialise in supporting children with SEND.
 
-[Find out how to specialise in SEND](/guidance/train-to-become-a-teacher#teaching-children-with-special-educational-needs-and-or-disabilities-SEND)
+[Find out how to specialise in SEND](/guidance/train-to-become-a-teacher#teaching-children-with-special-educational-needs-and-disabilities-send)
