@@ -53,11 +53,11 @@ You’ll also receive leadership training, which includes a fully-funded Postgra
 
 ### Researchers in schools
 
-You’ll need (or be about to finish) a doctorate in the [subject you want to teach](guidance/train-to-become-a-teacher#researchers-in-schools-candidates-with-a-doctorate). You’ll then train over 3 years with a bursary. If you have a lot of relevant work experience you could train and earn a salary.
+You’ll need (or be about to finish) a doctorate in the [subject you want to teach](/guidance/train-to-become-a-teacher#researchers-in-schools-candidates-with-a-doctorate). You’ll then train over 3 years with a bursary. If you have a lot of relevant work experience you could train and earn a salary.
 
 ### Assessment only (AO)
 
-If you’re a teaching assistant or unqualified teacher with two years’ experience you can be [assessed over 12 weeks to get QTS](/train-to-become-a-teacher#assessment-only-candidates-already-working-in-school). This way of getting QTS will not give you a PGCE.
+If you’re a teaching assistant or unqualified teacher with two years’ experience you can be [assessed over 12 weeks to get QTS](/guidance/train-to-become-a-teacher#assessment-only-candidates-already-working-in-school). This way of getting QTS will not give you a PGCE.
 
 ### Postgraduate Early Years Initial Teacher Training (EYITT)
 

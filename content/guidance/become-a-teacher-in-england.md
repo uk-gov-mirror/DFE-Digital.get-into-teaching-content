@@ -123,7 +123,7 @@ depending on your eligibility:
   - student finance
 
 It’s possible to train while you work as a paid teacher. Find out more
-about [salaried routes into teaching](#salaried).
+about [salaried routes into teaching](#salaried-teacher-training-courses).
 
 Please note that alternative funding is in place to train as an Early
 Years teacher, which leads to achieving Early Years Status (EYTS).
