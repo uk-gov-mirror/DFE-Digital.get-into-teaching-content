@@ -110,7 +110,7 @@ If you don’t have a university degree, you can [apply to study an undergraduat
 International PhD students in Physics, Mathematics, English, Biology, Computer Science, Modern Languages, Chemistry, Geography, Classics (Latin/Greek) and History can apply for the UK government’s Researchers in Schools    programme.
 Applying for the right visa
 
-[You should check to see if you need a visa to study in the UK](/international-candidates#work-visas). This will probably be a student visa, although you may be eligible for other visas.
+[You should check to see if you need a visa to study in the UK](https://www.gov.uk/check-uk-visa). This will probably be a student visa, although you may be eligible for other visas.
 
 ### Get help
 
@@ -168,7 +168,7 @@ Learn more about unsalaried courses
 
 * unsalaried includes higher education institution programmes, school-centred initial teacher training (SCITT) programmes and the School Direct fee-funded programme
 
-[Learn more about ways to train in England](/train-to-become-a-teacher).
+[Learn more about ways to train in England](/guidance/train-to-become-a-teacher).
 
 ### Applying for a student visa for an unsalaried teacher training course
 

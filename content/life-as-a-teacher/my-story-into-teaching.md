@@ -18,7 +18,7 @@ featured_story:
   link: /life-as-a-teacher/my-story-into-teaching/career-changers/police-officer-to-pe-teacher
 sections:
   Changing career:
-    link: my-story-into-teaching/career-changers
+    link: /life-as-a-teacher/my-story-into-teaching/career-changers
     text: >
       If you are thinking of changing your career, you’re in good company. Every
       year, many people decide to move from other careers into teaching. You can see
@@ -38,7 +38,7 @@ sections:
         image: /assets/images/stories/stories-zainab.jpg
         snippet: School experience helped me decide to switch
   International returning teachers:
-    link: my-story-into-teaching/international-career-changers
+    link: /life-as-a-teacher/my-story-into-teaching/international-career-changers
     text: >
       It’s a great time to train to teach, with a wide array of training
       options and support available. Find out what you can expect from current
@@ -53,7 +53,7 @@ sections:
         image: /assets/images/stories/stories-shaun.jpg
         snippet: Returning to teaching with support from an adviser
   Teacher training:
-    link: my-story-into-teaching/teacher-training-stories
+    link: /life-as-a-teacher/my-story-into-teaching/teacher-training-stories
     text: >
       It’s a great time to train to teach, with a wide array of training
       options and support available. Find out what you can expect from current
@@ -72,7 +72,7 @@ sections:
         image: /assets/images/stories/stories-nathan.jpg
         snippet: "Salaried teacher training: classroom learning"
   Making a difference:
-    link: my-story-into-teaching/making-a-difference
+    link: /life-as-a-teacher/my-story-into-teaching/making-a-difference
     text: >
       Teachers talk about making a real difference to pupils’ learning and
       lives - and the job satisfaction that comes with a career in teaching.
@@ -92,7 +92,7 @@ sections:
         image: /assets/images/stories/stories-gavin.jpg
         snippet: No two days are the same
   Career progression:
-    link: my-story-into-teaching/career-progression
+    link: /life-as-a-teacher/my-story-into-teaching/career-progression
     text: >
       Teachers talk about making a real difference to pupils’ learning and
       lives - and the job satisfaction that comes with a career in teaching.
@@ -112,7 +112,7 @@ sections:
         image: /assets/images/stories/stories-jon.jpg
         snippet: Leaping to head of department
   Returning to teaching:
-    link: my-story-into-teaching/returners
+    link: /life-as-a-teacher/my-story-into-teaching/returners
     text: >
       Teachers talk about making a real difference to pupils' learning and
       lives - and the job satisfaction that comes with a career in teaching.

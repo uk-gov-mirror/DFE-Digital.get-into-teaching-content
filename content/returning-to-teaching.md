@@ -137,7 +137,7 @@ You may wish to:
 
 If you taught overseas as an unqualified teacher, you'll need [qualified teacher status (QTS)](https://www.gov.uk/guidance/qualified-teacher-status-qts) to teach in a maintained school in England.
 
-If you're experienced and have a degree, you may be able to get QTS through the [assessment only](/guidance#assessment-only) route without any further training.
+If you're experienced and have a degree, you may be able to get QTS through the [assessment only](/guidance/become-a-teacher-in-england/#assessment-only-candidates-already-working-in-school) route without any further training.
 
 If you have fewer than 2 years of teaching experience, you can get qualified on a teacher training course(https://www.find-postgraduate-teacher-training.service.gov.uk).
 
