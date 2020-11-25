@@ -3,7 +3,7 @@ title: "Funding your training"
 image: "/assets/images/funding-hero-dt.jpg"
 mobileimage: "/assets/images/funding-hero-mob.jpg"
 backlink: "../"
-navigation: 10
+navigation: 20
 lid_pixel_event: "Funding"
 alert: |-
   You can apply for a tuition fee loan to pay for your training so you don't
