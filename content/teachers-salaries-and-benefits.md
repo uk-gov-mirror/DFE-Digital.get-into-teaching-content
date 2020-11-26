@@ -3,6 +3,7 @@ title: "Salaries and benefits"
 image: "/assets/images/salaries-hero-dt.jpg"
 backlink: "../../"
 navigation: 40
+lid_pixel_event: "SalaryBenefits"
 ---
 
 

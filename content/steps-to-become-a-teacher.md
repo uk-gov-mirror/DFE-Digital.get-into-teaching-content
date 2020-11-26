@@ -4,6 +4,7 @@
   mobileimage: "/assets/images/steps-hero-mob.jpg"
   backlink: "../"
   navigation: 20
+  lid_pixel_event: "Steps"
   alert: |-
     To work as a qualified teacher in a state school in England, you will need
     to have Qualified Teacher Status (QTS). There are a number of ways to gain QTS
