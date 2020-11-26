@@ -1,4 +1,5 @@
 redirects:
+  # Guidance
   "/ways-to-train-guidance": "/guidance/train-to-become-a-teacher"
   "/train-to-become-a-teacher": "/guidance/train-to-become-a-teacher"
 
@@ -6,3 +7,6 @@ redirects:
   "/financial-support-for-teacher-training": "/guidance/financial-support-for-teacher-training"
 
   "/guidance": "guidance/become-a-teacher-in-england"
+
+  # Top-level pages
+  "/life-as-a-teacher/teachers-salaries-and-benefits": "teachers-salaries-and-benefits"
