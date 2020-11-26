@@ -4,6 +4,7 @@ image: "/assets/images/funding-hero-dt.jpg"
 mobileimage: "/assets/images/funding-hero-mob.jpg"
 backlink: "../"
 navigation: 10
+lid_pixel_event: "Funding"
 alert: |-
   You can apply for a tuition fee loan to pay for your training so you don't
   need to pay anything upfront. You can also apply for a maintenance loan to

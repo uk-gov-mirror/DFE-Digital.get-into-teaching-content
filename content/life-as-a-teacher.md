@@ -4,6 +4,7 @@ image: "/assets/images/teaching-as-a-career-hero-dt.jpg"
 mobileimage: "/assets/images/teaching-as-a-career-hero-mob.jpg"
 backlink: "../"
 navigation: 30
+lid_pixel_event: "LifeAsATeacher"
 ---
 
 Teaching will give you the chance to use your skills to inspire young people and make sure every pupil gets the same access to a quality education.  It’s a career that offers varied opportunities, where no day is ever the same.
