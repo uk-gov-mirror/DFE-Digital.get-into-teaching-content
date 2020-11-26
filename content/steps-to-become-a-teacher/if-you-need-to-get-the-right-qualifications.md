@@ -6,6 +6,10 @@ jump_links:
   If you don't have a degree: "#if-you-dont-have-a-degree"
   Increase your knowledge of the subject you want to teach: "#increase-your-knowledge-of-the-subject-you-want-to-teach"
   Specialist ways to get into teaching: "#specialist-ways-to-get-into-teaching"
+
+note: |
+  This page has been earmarked for removal, it's still linked to from the steps
+  to become a teacher accordion
 ---
 
 ## If you don’t have a degree

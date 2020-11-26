@@ -121,7 +121,7 @@ If you're looking for new opportunities in England, we're here to support you an
 
 The diversity, culture, different teaching methods you've experienced and skills you've acquired will be an invaluable asset to our schools, children and young people.
 
-[Read stories about teachers with international experience who've made the move back to England.](/life-as-a-teacher/my-story-into-teaching/international-career-changers/)
+[Read stories about teachers with international experience who've made the move back to England.](/my-story-into-teaching/international-career-changers/)
 
 ### Preparing yourself for the move to England
 
