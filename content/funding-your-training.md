@@ -5,28 +5,14 @@ mobileimage: "/assets/images/funding-hero-mob.jpg"
 backlink: "../"
 navigation: 10
 lid_pixel_event: "Funding"
-alert: |-
-  You can apply for a tuition fee loan to pay for your training so you don't
-  need to pay anything upfront. You can also apply for a maintenance loan to
-  help with living costs and you may be able to get a bursary or a scholarship.
 jump_links:
-  Bursaries and scholarships: "#bursaries-and-scholarships"
   Tuition fee and maintenance loans: "#tuition-fee-and-maintenance-loans"
+  Bursaries and scholarships: "#bursaries-and-scholarships"
   Get extra funding if you’re a parent, a carer or you have a disability: "#get-extra-financial-support-if-youre-a-parent-a-carer-or-you-have-a-disability"
   Applying for funding if you come from outside England: "#applying-for-funding-if-you-come-from-outside-england"
 ---
 
-## Bursaries and scholarships
-
-Bursaries and scholarships are tax-free amounts of money to train in certain subjects. You don’t need to pay them back.
-
-You’ll need a first, 2:1, 2:2 degree or a PhD or Master's to be eligible for a bursary.
-
-For a scholarship, each professional scholarship body sets its own criteria.
-
-You could get a bursary of up to £24,000 or apply for a scholarship of up to £26,000.
-
-[Find out more about bursaries and scholarships](/guidance/financial-support-for-teacher-training#introduction).
+You can apply for a tuition fee loan to pay for your training so you don't need to pay anything upfront. You can also apply for a maintenance loan to help with living costs and you may be able to get a bursary or a scholarship.
 
 ## Tuition fee and maintenance loans
 
@@ -39,6 +25,18 @@ You will only have to make repayments when you're earning. Your repayments will 
 [Find out more about tuition fee and maintenance loans](/guidance/financial-support-for-teacher-training#tuition-fee-and-maintenance-loans).
 
 Use the [student finance calculator on GOV.UK](https://www.gov.uk/student-finance-calculator) to find out how much you can get.
+
+## Bursaries and scholarships
+
+Bursaries and scholarships are tax-free amounts of money to train in certain subjects. You don’t need to pay them back.
+
+You’ll need a first, 2:1, 2:2 degree or a PhD or Master's to be eligible for a bursary.
+
+For a scholarship, each professional scholarship body sets its own criteria.
+
+You could get a bursary of up to £24,000 or apply for a scholarship of up to £26,000.
+
+[Find out more about bursaries and scholarships](/guidance/financial-support-for-teacher-training#introduction).
 
 ## Get extra financial support if you’re a parent, a carer or you have a disability
 
