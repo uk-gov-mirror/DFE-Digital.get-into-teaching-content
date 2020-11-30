@@ -1,6 +1,6 @@
 ---
 title: "Police officer to PE teacher (primary)"
-image: "/assets/images/victoria.png"
+image: "/assets/images/victoria.jpg"
 backlink: "./"
 backlink_text: Career changers' stories
 story:

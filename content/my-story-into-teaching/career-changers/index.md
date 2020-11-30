@@ -51,7 +51,7 @@ stories:
   - name: Karen
     snippet: Swapping senior management for students
     video: https://www.youtube.com/watch?v=riY-1DUkLVk
-    image: /assets/images/stories-karen.png
+    image: /assets/images/stories-karen.jpg
     link: /my-story-into-teaching/career-changers/swapping-senior-management-for-students
   - name: Luke
     snippet: Teaching gave me purpose

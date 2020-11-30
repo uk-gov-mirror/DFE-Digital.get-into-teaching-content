@@ -1,6 +1,6 @@
 ---
 title: Why don't you teach, Miss?
-image: /assets/images/stories/stories-emma.png
+image: /assets/images/stories/stories-emma.jpg
 backlink: "./"
 backlink_text: Teacher training stories
 story:
