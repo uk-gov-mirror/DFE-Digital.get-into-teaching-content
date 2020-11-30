@@ -8,5 +8,4 @@ You can find out details such as:
 * entry requirements
 * how to apply
 
-We can help you to find a provider and apply. 
-</p>
+We can help you to find a provider and apply.
