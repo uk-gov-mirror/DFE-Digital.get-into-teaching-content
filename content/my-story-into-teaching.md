@@ -6,7 +6,7 @@ hide_page_helpful_question: true
 navigation: 35
 fullwidth: true
 featured_story:
-  image: /assets/images/victoria.png
+  image: /assets/images/victoria.jpg
   name: Victoria
   heading: Bring your professional skills to the classroom
   subheading: Victoria Barton, teacher and former police officer
@@ -61,7 +61,7 @@ sections:
     stories:
       - name: Emma
         link: /my-story-into-teaching/teacher-training-stories/why-dont-you-teach-miss
-        image: /assets/images/stories/stories-emma.png
+        image: /assets/images/stories/stories-emma.jpg
         snippet: Why don’t you teach, Miss?
       - name: Hasina
         link: /my-story-into-teaching/teacher-training-stories/teacher-training-its-worth-it
@@ -121,7 +121,7 @@ sections:
     stories:
       - name: Jill
         link: /my-story-into-teaching/returners/getting-back-into-the-classroom
-        image: /assets/images/stories/stories-jill.png
+        image: /assets/images/stories/stories-jill.jpg
         snippet: Getting back into the classroom
       - name: Helen
         link: /my-story-into-teaching/returners/top-tips-for-returning-teachers

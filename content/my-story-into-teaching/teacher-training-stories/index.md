@@ -18,7 +18,7 @@ stories:
     link: /my-story-into-teaching/teacher-training-stories/teacher-training-its-worth-it
   - name: Emma
     snippet: Why don't you teach, miss?
-    image: /assets/images/stories/stories-emma.png
+    image: /assets/images/stories/stories-emma.jpg
     link: /my-story-into-teaching/teacher-training-stories/why-dont-you-teach-miss
 
 ---
