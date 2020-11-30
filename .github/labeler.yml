@@ -1,0 +1,21 @@
+---
+
+Assets:
+  - assets/**/*
+
+Content:
+  - content/**/*
+
+Config:
+  - config/**/*
+
+Test:
+  - tests/**/*
+
+DevOps:
+  - terraform/**/*
+  - .github/**/*.yml
+
+Docker:
+  - Dockerfile 
+  - docker-run.sh
