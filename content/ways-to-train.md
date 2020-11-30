@@ -25,6 +25,8 @@
         partial: content/ways-to-train/teach_first
       Postgraduate Certificate in Education (PGCE):
         partial: content/ways-to-train/pgce
-    content_before_accordion: content/ways-to-train/content_before_accordion
-    content_after_accordion: content/ways-to-train/content_after_accordion
+    content_before_accordion:
+      partial: content/ways-to-train/content_before_accordion
+    content_after_accordion:
+      cta: next_steps
 ---
