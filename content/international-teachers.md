@@ -4,15 +4,10 @@ image: "/assets/images/international-dt.jpg"
 backlink: "../../"
 ---
 
-<<<<<<< Updated upstream
-## Teaching or training to teach in England
-
-Your route to working or training as a teacher in England and the financial support you might get depends on:
-=======
 ## Teaching in England
 
 Your route to working as a teacher in England and the financial support you might get depends on:
->>>>>>> Stashed changes
+
 
 * your nationality or residency status
 * what you want to teach
