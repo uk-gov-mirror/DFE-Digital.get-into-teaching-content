@@ -4,9 +4,15 @@ image: "/assets/images/international-dt.jpg"
 backlink: "../../"
 ---
 
+<<<<<<< Updated upstream
 ## Teaching or training to teach in England
 
 Your route to working or training as a teacher in England and the financial support you might get depends on:
+=======
+## Teaching in England
+
+Your route to working as a teacher in England and the financial support you might get depends on:
+>>>>>>> Stashed changes
 
 * your nationality or residency status
 * what you want to teach
@@ -79,6 +85,7 @@ Contact one of these UK-government approved teaching recruitment agencies for mo
 * [Quantum Scholars](https://www.quantum-scholars.co.uk/)
 * [Randstad Education](https://www.randstad.co.uk/job-seeker/areas-of-expertise/education/)
 
+<<<<<<< Updated upstream
 ## How to apply to train to teach in England
 
 ### Funding
@@ -112,6 +119,8 @@ Applying for the right visa
 
 [You should check to see if you need a visa to study in the UK](https://www.gov.uk/check-uk-visa). This will probably be a student visa, although you may be eligible for other visas.
 
+=======
+>>>>>>> Stashed changes
 ### Get help
 
 [Contact us](/international-candidates#talk-to-us) to get help and support about training to teach by phone or online chat.
@@ -122,7 +131,11 @@ Visit [Find postgraduate teacher training](https://www.gov.uk/find-postgraduate-
 
 Not all training providers can accept international candidates. You should contact your chosen teacher training providers directly, before you apply online, to get their advice about your eligibility and the application process.
 
+<<<<<<< Updated upstream
 ## How to apply for a visa which allows you to work or study in the UK
+=======
+## How to apply for a visa which allows you to work
+>>>>>>> Stashed changes
 
 From 1 January 2021, the UK is introducing a new [points-based immigration system](https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know).
 
@@ -144,7 +157,11 @@ You can now apply for a [student visa](https://www.gov.uk/student-visa) under th
 
 Irish citizens will continue to be able to enter, work and study in the UK as they do now.
 
+<<<<<<< Updated upstream
 ## Choosing the correct visa for your teaching job or teacher training course
+=======
+## Choosing the correct visa for your teaching job
+>>>>>>> Stashed changes
 
 For teaching jobs in England, the main visa route is the ‘[skilled worker visa](https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#skilled-workers)’.
 
@@ -152,6 +169,7 @@ For teacher training in England, the main routes are either the ‘[student visa
 
 Depending on your personal circumstances, you may be eligible for [other visas](/international-candidates#other-visas) which allow you to work or study in the UK.
 
+<<<<<<< Updated upstream
 ### Teacher training: skilled worker or student visa?
 
 The type of visa you need will depend on whether you are on a salaried or unsalaried teacher training course. (See also our [guidance on other visas](/international-candidates#other-visas) you may be eligible for.)
@@ -194,6 +212,9 @@ First, choose your teaching training provider using [Find postgraduate teacher t
 
 Then, contact your chosen teacher training provider to ask about the school where you’ll be employed during your training. The school must be a Home Office licensed employer sponsor – sponsors can help you apply for your visa.
 To work as a teacher
+=======
+##To work as a teacher
+>>>>>>> Stashed changes
 
 First, search for teaching jobs using [Teaching Vacancies](https://teaching-vacancies.service.gov.uk/).
 
@@ -206,6 +227,7 @@ You’ll be able to apply for your skilled worker visa if:
 
 [Check minimum rates for teachers by region in England](/teachers-salaries-and-benefits).
 
+<<<<<<< Updated upstream
 ## Ways to train or work as a teacher in the UK without a skilled worker visa or a student visa
 
 ### Graduate visa
@@ -224,6 +246,8 @@ You must be 18 to 30 years old to apply. If you are successful, you’ll be able
 
 A Youth Mobility Scheme visa lasts up to 2 years. You may be able to switch from a Youth Mobility Scheme visa to another visa route (for example the skilled worker visa   ) without having to leave the UK. You’ll need to meet the requirements for the other visa route.
 
+=======
+>>>>>>> Stashed changes
 ### Other visas
 
 Depending on your personal circumstances, you may be able to work or study in the UK on alternative visas – for example, the [Family visa](https://www.gov.uk/uk-family-visa) or [UK Ancestry visa](https://www.gov.uk/ancestry-visa). Use this [UK government service](https://www.gov.uk/check-uk-visa) to check.

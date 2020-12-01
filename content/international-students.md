@@ -4,80 +4,13 @@ image: "/assets/images/international-dt.jpg"
 backlink: "../../"
 ---
 
-## Teaching or training to teach in England
+## Training to teach in England
 
-Your route to working or training as a teacher in England and the financial support you might get depends on:
+Your route to training as a teacher in England and the financial support you might get depends on:
 
 * your nationality or residency status
 * what you want to teach
 * your current level of qualification
-
-## How to apply for teaching jobs in England
-
-### Qualified teacher status (QTS)
-
-In many schools funded by the UK government in England ('[state schools](https://www.gov.uk/types-of-school)'), teachers must have 'qualified teacher status' (QTS).
-
-International qualified teachers are allowed to work as a teacher in England for up to 4 years without QTS.
-
-Learn more about the ‘[4 year rule](https://www.gov.uk/guidance/recruit-teachers-from-overseas#employing-overseas-teachers-without-qts-the-4-year-rule)’.
-
-However, you’ll strengthen your application for teaching jobs in the UK in both the state sector and [private sector](https://www.gov.uk/types-of-school/private-schools) if you have QTS.
-
-### Schools which do not require QTS
-
-Within the UK state school sector, academy schools    and free schools    do not require QTS.
-
-Outside the state school sector, ‘private schools’ or ‘independent schools’ do not require QTS. [Learn more about teaching and training to teach in a private or independent school in the UK](https://www.gov.uk/types-of-school/private-schools).
-
-## How to apply for QTS
-
-### Fast-track application for teachers who qualified in the following countries
-
-* the [European Economic Area](https://www.gov.uk/eu-eea) (EEA)
-* Australia
-* Canada
-* New Zealand
-* Switzerland
-* USA
-
-If you are qualified to teach in one of these countries, you can apply to the UK's Teaching Regulation Agency for QTS.
-
-Your application may take up to 4 months to process, but you will not need to do any further teacher training to get QTS.
-
-[Different rules apply if you are a national of one of the countries listed here, but have teaching qualifications from another country](https://www.gov.uk/guidance/qualified-teacher-status-qts#teachers-from-the-eu-iceland-liechtenstein-norway-or-switzerland).
-
-Apply to the Teaching Regulation Agency for QTS
-
-### Assessment only QTS for teachers who qualified in other countries
-
-Teachers from outside [the EEA](https://www.gov.uk/eu-eea), Australia, Canada, New Zealand, Switzerland and the USA can apply for assessment only QTS.
-
-[Learn how to apply for QTS if you trained outside the](https://www.gov.uk/guidance/qualified-teacher-status-qts).
-
-#### Applying for the right visa
-
-You should [check to see if you need a visa to work in the UK](/international-candidates#choosing-the-correct-visa-for-your-teaching-job-or-teacher-training-course). This will probably be a skilled worker visa, although you may be eligible for [other visas](/international-candidates#ways-to-train-or-work-as-a-teacher-in-the-uk-without-a-skilled-worker-visa-or-a-student-visa).
-
-#### Search and apply for teaching jobs
-
-You can browse available teaching jobs in England using the UK government’s [Teaching vacancies service](https://teaching-vacancies.service.gov.uk/).
-
-#### Check if you’re eligible for extra support
-
-If you qualified as a teacher of maths, physics, computer science, general science or modern foreign languages in Australia, Canada, France, Germany, Jamaica, New Zealand, South Africa, Spain or the USA, you are eligible for extra help from DfE, including:
-
-* guidance on work visas and permits
-* support finding a job in England
-* help settling in to the English education system
-* continuing professional development
-
-Contact one of these UK-government approved teaching recruitment agencies for more details:
-
-* [Point to Point Education](https://www.pointtopointeducation.com/department-for-education-endorsement/)
-* [Prospero Teaching](https://prosperoteaching.com/campaigns/teachuk/)
-* [Quantum Scholars](https://www.quantum-scholars.co.uk/)
-* [Randstad Education](https://www.randstad.co.uk/job-seeker/areas-of-expertise/education/)
 
 ## How to apply to train to teach in England
 
@@ -193,7 +126,8 @@ For salaried teacher training
 First, choose your teaching training provider using [Find postgraduate teacher training](https://www.gov.uk/find-postgraduate-teacher-training-courses).
 
 Then, contact your chosen teacher training provider to ask about the school where you’ll be employed during your training. The school must be a Home Office licensed employer sponsor – sponsors can help you apply for your visa.
-To work as a teacher
+
+##To work as a teacher
 
 First, search for teaching jobs using [Teaching Vacancies](https://teaching-vacancies.service.gov.uk/).
 
@@ -206,7 +140,7 @@ You’ll be able to apply for your skilled worker visa if:
 
 [Check minimum rates for teachers by region in England](/salaries-and-benefits).
 
-## Ways to train or work as a teacher in the UK without a skilled worker visa or a student visa
+## Ways to train to become a teacher in the UK without a skilled worker visa or a student visa
 
 ### Graduate visa
 
