@@ -1,20 +1,15 @@
 ---
-title: "Returning to teaching"
+title: "Experienced Teachers"
 image: "/assets/images/return-to-teaching-dt.jpg"
 backlink: "../../"
 jump_links:
-  Get up to date with best practice: "#get-up-to-date-with-best-practice"
+  Returning to teaching: "#returning-to-teaching"
   Finding a role: "#finding-a-role"
-  Subject specific support: "#subject-specific-support"
-  Improving the lives of teachers: "#improving-the-lives-of-teachers"
-  Additional information for teachers who trained in England returning from overseas: "#additional-information-for-teachers-who-trained-in-england-returning-from-overseas"
+    Teachers who trained in England returning from overseas: "#additional-information-for-teachers-who-trained-in-england-returning-from-overseas"
+    Improving the lives of teachers: "#improving-the-lives-of-teachers"
 ---
 
-You’re considering a return to teaching. You may have been inspired by home schooling children during lockdown, or you might want to pass on your professional skills and experience to the next generation.
-
-Whatever your reasons, you can get access to support and advice if you’re interested in coming back to teaching.
-
-## Get up to date with best practice
+## Returning to teaching
 
 If you’ve been out of teaching for a while, you may want to:
 
@@ -32,50 +27,19 @@ You can find out how up to date your information and communication technologies 
 * [learndirect](https://www.learndirect.com/) offers courses in basic ICT skills
 * some city learning centres offer ICT courses for teachers – [check your local council](https://www.gov.uk/find-local-council) for more details.
 
-### Further information and support
-
-* if you’re returning to teach maths or physics in a state-funded school in certain areas, [you could be eligible for a £2,000 payment after tax](https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/claim-a-payment-for-teaching-maths-or-physics-eligibility-and-payment-details)
-* returning science, languages and computing teachers in 25 local authorities may also be eligible to [claim back student loan repayments](https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/teachers-claim-back-your-student-loan-repayments-eligibility-and-payment-details)
-* if you’re returning to teach secondary maths, core maths, physics or languages and want to refresh your knowledge, you may be eligible for a [free subject specialist training course](https://www.gov.uk/guidance/teacher-subject-specialism-training-courses)
-
-Support for returners identifying with protected characteristics
-
-Support for returners (such as coaching opportunities) may be available if you identify with one or more of the protected characteristics as defined by the Equality Act 2010.
-
-Details of organisations which represent certain characteristics are listed below:
-
-* [WomenEd](https://www.womened.org/)
-* [BAMEed](https://www.bameednetwork.com/)
-* [LGBTed](http://lgbted.uk/)
-* [DisabilityEd (Twitter account)](https://www.twitter.com/disability_ed)
-
-### Career progression
-
-If you want to progress in your career in England, you may wish to apply for a [National Professional Qualification (NPQ)](https://www.gov.uk/government/publications/national-professional-qualifications-frameworks).
-
-NPQs can help you get into leadership positions such as head of department, deputy headteacher or headteacher.
-
-## Finding a role
-
-[Search for a teaching role in England](https://teaching-vacancies.service.gov.uk/). You can set up job alerts so that you do not miss out on any opportunities.
-
-Take a look at the different [types of schools and staff roles](https://www.gov.uk/types-of-school) to find the best opportunity for you.
-
-We can give you one-to-one support if you’re returning to teach modern foreign languages, maths or physics.
-
-Our return to teaching advisers can help with finding vacancies, reviewing your subject and pedagogical knowledge, application support, and interview preparation.
-
-For advice on returning to teaching, speak to a return to teaching adviser by using the [Get an adviser](/tta-service) service.
-
 ### National Tutoring Programme
 
 This provides two different options to return to a school environment without taking on a full-time or part-time classroom role.
 
 Find out [how to apply and get more information about 'Tuition Partners' and 'Academic Mentor' pillars of the National Tutoring Programme](https://nationaltutoring.org.uk/).
 
-## Subject specific support
+### Further information and support
 
-### Modern languages, maths or physics
+* if you’re returning to teach maths or physics in a state-funded school in certain areas, [you could be eligible for a £2,000 payment after tax](https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/claim-a-payment-for-teaching-maths-or-physics-eligibility-and-payment-details)
+* returning science, languages and computing teachers in 25 local authorities may also be eligible to [claim back student loan repayments](https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/teachers-claim-back-your-student-loan-repayments-eligibility-and-payment-details)
+* if you’re returning to teach secondary maths, core maths, physics or languages and want to refresh your knowledge, you may be eligible for a [free subject specialist training course](https://www.gov.uk/guidance/teacher-subject-specialism-training-courses)
+
+## Subject specific support for Modern languages, maths or physics
 
 If you're a returning teacher of secondary modern foreign languages, maths or physics, the Department for Education offers:
 
@@ -100,20 +64,30 @@ If you’d like more information on what it’s like to teach physics today, you
 
 The [National Centre for the Excellence in the Teaching of Mathematics (NCETM)](https://www.ncetm.org.uk/news-features/) offers [teaching resources](https://www.ncetm.org.uk/in-the-classroom/) around the maths you will be teaching.
 
-## Improving the lives of teachers
+###Support for returners identifying with protected characteristics
 
-A lot has changed for teachers in England over the last few years.
+Support for returners (such as coaching opportunities) may be available if you identify with one or more of the protected characteristics as defined by the Equality Act 2010.
 
-The Department of Education has worked with schools to:
+Details of organisations which represent certain characteristics are listed below:
 
-* [reduce the hours teachers work](https://www.gov.uk/government/publications/teacher-workload-survey-2019)
-* [develop a workload reduction kit](https://www.gov.uk/guidance/school-workload-reduction-toolkit)
-* [invest £10m through Behaviour Hubs](https://www.gov.uk/guidance/behaviour-hubs) so that schools with exemplary behaviour can work closely with other schools that want and need to improve behaviour
-* increase [flexible working opportunities](https://www.gov.uk/government/collections/flexible-working-resources-for-teachers-and-schools) for teachers
+* [WomenEd](https://www.womened.org/)
+* [BAMEed](https://www.bameednetwork.com/)
+* [LGBTed](http://lgbted.uk/)
+* [DisabilityEd (Twitter account)](https://www.twitter.com/disability_ed)
 
-You can search for jobs with flexible working patterns by using [Teaching Vacancies](https://teaching-vacancies.service.gov.uk/).
+## Finding a role
 
-## Additional information for teachers who trained in England returning from overseas
+[Search for a teaching role in England](https://teaching-vacancies.service.gov.uk/). You can set up job alerts so that you do not miss out on any opportunities.
+
+Take a look at the different [types of schools and staff roles](https://www.gov.uk/types-of-school) to find the best opportunity for you.
+
+We can give you one-to-one support if you’re returning to teach modern foreign languages, maths or physics.
+
+Our return to teaching advisers can help with finding vacancies, reviewing your subject and pedagogical knowledge, application support, and interview preparation.
+
+For advice on returning to teaching, speak to a return to teaching adviser by using the [Get an adviser](/tta-service) service.
+
+## Teachers who trained in England returning from overseas
 
 This is for UK and non-UK nationals who have trained to teach in England and are interested in returning to teach here after teaching overseas.
 
@@ -133,7 +107,7 @@ You may wish to:
 * ensure your [pension is up to date](https://www.teacherspensions.co.uk/members/working-life/life-events/moving-abroad.aspx)
 * check the [FCO’s travel advice](https://www.gov.uk/foreign-travel-advice)
 
-### Getting qualified
+## Getting qualified
 
 If you taught overseas as an unqualified teacher, you'll need [qualified teacher status (QTS)](https://www.gov.uk/guidance/qualified-teacher-status-qts) to teach in a maintained school in England.
 
@@ -141,6 +115,15 @@ If you're experienced and have a degree, you may be able to get QTS through the 
 
 If you have fewer than 2 years of teaching experience, you can get qualified on a teacher training course(https://www.find-postgraduate-teacher-training.service.gov.uk).
 
-[If you qualified overseas in the , Switzerland, Australia, Canada or New Zealand, you can apply for QTS](https://www.gov.uk/guidance/qualified-teacher-status-qts#teachers-qualified-in-australia-canada-new-zealand-and-the-usa)
+## Improving the lives of teachers
 
-You can teach as an unqualified teacher in academies and free schools.
+A lot has changed for teachers in England over the last few years.
+
+The Department of Education has worked with schools to:
+
+* [reduce the hours teachers work](https://www.gov.uk/government/publications/teacher-workload-survey-2019)
+* [develop a workload reduction kit](https://www.gov.uk/guidance/school-workload-reduction-toolkit)
+* [invest £10m through Behaviour Hubs](https://www.gov.uk/guidance/behaviour-hubs) so that schools with exemplary behaviour can work closely with other schools that want and need to improve behaviour
+* increase [flexible working opportunities](https://www.gov.uk/government/collections/flexible-working-resources-for-teachers-and-schools) for teachers
+
+You can search for jobs with flexible working patterns by using [Teaching Vacancies](https://teaching-vacancies.service.gov.uk/).
