@@ -12,13 +12,12 @@
         cta:
           name: story
           arguments:
-            name: Zainab
-            heading: School experience helped me decide to switch
-            image: /assets/images/stories/stories-zainab.jpg
-            link: /my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch
+            name: Nathan
+            heading: Salaried teacher training
+            image: /assets/images/stories/stories-nathan.jpg
+            link: /my-story-into-teaching/teacher-training-stories/salaried-teacher-training-classroom-learning
             text: >
-              In addition to 2 Master’s degrees, Victoria’s career had included
-              time working as a police officer and property inspector.
+              From the outset I was working within the school, learning and training in the classroom whilst being supported by qualified teachers and mentors.
       Postgraduate teaching apprenticeships:
         partial: content/ways-to-train/postgraduate_teaching_apprenticeships
       Teach First:
