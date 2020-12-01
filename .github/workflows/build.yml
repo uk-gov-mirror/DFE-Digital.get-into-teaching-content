@@ -36,6 +36,7 @@ jobs:
            SLACK_MESSAGE: 'Content Delivery has failed. This is due to a workflow concurrency issue'
            SLACK_TITLE: 'Failure: ${{ github.workflow }}'
            SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+           SLACK_FOOTER: ${{env.APPLICATION}}
 
   build:
     name: Build 
@@ -65,9 +66,9 @@ jobs:
         run: 
           |
               echo ::set-output name=short::$(echo ${{ github.sha }} | cut -c -7)
-              echo ::set-output name=image::${{ env.APP_REPOSITORY }}:sha-$(echo "${{ github.sha }}" | cut -c -7)
-              echo ::set-output name=local::localhost:5000/${{env.APP_REPOSITORY}}:sha-$(echo "${{ github.sha }}" | cut -c -7)
-              echo ::set-output name=pr_image::${{ env.APP_REPOSITORY }}:review-$(echo "${{ github.sha }}" | cut -c -7)
+              echo ::set-output name=image::${{ env.DOCKERHUB_REPOSITORY }}:sha-$(echo "${{ github.sha }}" | cut -c -7)
+              echo ::set-output name=local::localhost:5000/${{env.DOCKERHUB_REPOSITORY}}:sha-$(echo "${{ github.sha }}" | cut -c -7)
+              echo ::set-output name=pr_image::${{ env.DOCKERHUB_REPOSITORY }}:review-$(echo "${{ github.sha }}" | cut -c -7)
 
       - name: Login to Docker Hub
         uses: docker/login-action@v1 
@@ -122,6 +123,7 @@ jobs:
            SLACK_MESSAGE: 'The Development get-into-teaching-content workflow has failed carrying out job ${{github.job}}'
            SLACK_TITLE: 'Development get-into-teaching-content Workflow Failure'
            SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+           SLACK_FOOTER: ${{env.APPLICATION}}
 
   review:
     name: Review Deployment Process
