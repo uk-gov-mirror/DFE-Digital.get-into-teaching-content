@@ -9,13 +9,13 @@ on:
 env:
   DOCKERHUB_REPOSITORY: dfedigital/get-into-teaching-frontend
   DOMAIN: london.cloudapps.digital
-  PROJECT: Get Into Teaching Application
+  APPLICATION: Get Into Teaching Application
   REVIEW_APPLICATION: review-get-into-teaching-app
-  APPLICATION_NAME:   get-into-teaching-app
+  PAAS_APPLICATION_NAME:   get-into-teaching-app
 
 jobs:
   cve:
-    name: 'CVE Test'
+    name: CVE Test
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

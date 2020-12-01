@@ -9,9 +9,9 @@ on:
 env:
   DOCKERHUB_REPOSITORY: dfedigital/get-into-teaching-frontend
   DOMAIN: london.cloudapps.digital
-  PROJECT: Get Into Teaching Application
+  APPLICATION: Get Into Teaching Application
   REVIEW_APPLICATION: review-get-into-teaching-app
-  APPLICATION_NAME:   get-into-teaching-app
+  PAAS_APPLICATION_NAME:   get-into-teaching-app
 
 jobs:
   turnstyle:
@@ -159,8 +159,8 @@ jobs:
            SLACK_TITLE:  "Review Pending for : ${{github.event.pull_request.title}}"
            SLACK_MESSAGE: |
                           Review Application can be found at https://get-into-teaching-${{github.event.number}}.${{env.DOMAIN}}
-                          Pull request can be found at https://github.com/DFE-Digital/${{env.APPLICATION_NAME}}/pull/${{ github.event.number }}
-           SLACK_FOOTER: "${{env.PROJECT}}"
+                          Pull request can be found at https://github.com/DFE-Digital/${{env.PAAS_APPLICATION_NAME}}/pull/${{ github.event.number }}
+           SLACK_FOOTER: "${{env.APPLICATION}}"
            MSG_MINIMAL: true
            SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
 
@@ -181,9 +181,9 @@ jobs:
            SLACK_COLOR: '#B90E0A'
            SLACK_ICON: https://github.com/rtCamp.png?size=48
            SLACK_TITLE: 'Failure: Preparing from Preview'
-           SLACK_MESSAGE: 'Failure with Review preperation for {{env.PROJECT}}'
+           SLACK_MESSAGE: 'Failure with Review preperation for {{env.APPLICATION}}'
            SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
-           SLACK_FOOTER: "${{env.PROJECT}}"             
+           SLACK_FOOTER: "${{env.APPLICATION}}"             
 
   development:
     name: Development Deployment
@@ -289,9 +289,9 @@ jobs:
            SLACK_COLOR: '#B90E0A'
            SLACK_ICON: https://github.com/rtCamp.png?size=48
            SLACK_TITLE: 'Failure: Failure in Post-Development Deploy'
-           SLACK_MESSAGE: 'Failure with initialising QA deployment  for ${{env.PROJECT}}'
+           SLACK_MESSAGE: 'Failure with initialising QA deployment  for ${{env.APPLICATION}}'
            SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
-           SLACK_FOOTER: "${{env.PROJECT}}"
+           SLACK_FOOTER: "${{env.APPLICATION}}"
 
   cypress:
      name: Run Cypress Tests on QA
@@ -376,7 +376,7 @@ jobs:
            SLACK_TITLE:  "Production Release"
            SLACK_MESSAGE: "Release ${{needs.development.outputs.release_tag}} has been released to production"
            SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
-           SLACK_FOOTER: "${{env.PROJECT}}"
+           SLACK_FOOTER: "${{env.APPLICATION}}"
            MSG_MINIMAL: true
 
        - name: Slack Notification
@@ -390,4 +390,4 @@ jobs:
            SLACK_TITLE: "Production Release : ${{github.event.title}}"
            SLACK_MESSAGE: 'Failure deploying Production release'
            SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
-           SLACK_FOOTER: "${{env.PROJECT}}"
+           SLACK_FOOTER: "${{env.APPLICATION}}"
