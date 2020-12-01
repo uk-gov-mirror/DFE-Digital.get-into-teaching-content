@@ -1,16 +1,9 @@
-You’ll need to make some key decisions about teaching before you decide how to train:
+There are lots of different ways to train, whether you want to train while teaching in a school or do your theory at a university and get classroom experience through placements in schools. 
 
-* which age group and subject you want to teach
-* whether you will train in a school or university
-* which teaching qualification you want to achieve
-* how long you want to train for
+Quote: Choosing your Teacher Training course provider is akin to choosing new shoes. Whatever you choose needs to be just the right fit in terms of comfort and support, but also in terms of style. Teacher Training Adviser
 
-[Find out more about different ways to train](/guidance/train-to-become-a-teacher)
+Find out more about different [ways to train](/ways_to_train)
 
-### Teaching children with special educational needs and disabilities (SEND)
+Sign up for a teacher training adviser.
 
-All teaching courses with QTS include training on working with pupils with .
-
-You could also specialise in supporting children with SEND.
-
-[Find out how to specialise in SEND](/guidance/train-to-become-a-teacher#teaching-children-with-special-educational-needs-and-disabilities-send)
+If you need to pay fees, there are a number of different ways you can get [funding to train](funding_your_training) as a teacher in England.

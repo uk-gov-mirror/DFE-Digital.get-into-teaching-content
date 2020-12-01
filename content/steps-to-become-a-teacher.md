@@ -14,12 +14,12 @@
     Check your qualifications:
       partial: content/steps-to-become-a-teacher/check_your_qualifications
       cta: chat_online
-    Find out about funding:
-      partial: content/steps-to-become-a-teacher/find_out_about_funding
+    Find out about teaching and training:
+      partial: content/steps-to-become-a-teacher/find_out_about_teaching_and_training
     Consider School Experience:
       partial: content/steps-to-become-a-teacher/consider_school_experience
     Ways to train:
       partial: content/steps-to-become-a-teacher/ways_to_train
-    Application process:
-      partial: content/steps-to-become-a-teacher/application_process
+    Find and apply for teacher training:
+      partial: content/steps-to-become-a-teacher/find_and_apply_teacher_training
 ---
