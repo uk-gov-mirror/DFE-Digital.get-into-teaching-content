@@ -38,6 +38,11 @@ jobs:
   deploy:
     name: Build and deploy
     runs-on: ubuntu-latest
+    services:
+      registry:
+        image: registry:2
+        ports: 
+          - 5000:5000
     needs: turnstyle 
     steps:
 
@@ -61,10 +66,14 @@ jobs:
       - name: Set up Docker Buildx
         id: buildx
         uses: docker/setup-buildx-action@master
+        with:
+          driver-opts: network=host
         
       - name: Get Short SHA
         id: sha
-        run: echo ::set-output name=short::$(echo $GITHUB_SHA | cut -c -7)
+        run: |
+              echo ::set-output name=short::$(echo $GITHUB_SHA | cut -c -7)
+              echo ::set-output name=local::localhost:5000/${{env.DOCKERHUB_REPOSITORY}}:sha-$(echo $GITHUB_SHA | cut -c -7)
 
       - name: Cache Docker layers
         uses: actions/cache@v2
@@ -80,7 +89,7 @@ jobs:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_PERSONAL_ACCESS_TOKEN }}
           
-      - name: Build only
+      - name: Build Locally
         uses: docker/build-push-action@v2
         if: github.ref != 'refs/heads/master'
         with:
@@ -88,8 +97,8 @@ jobs:
           cache-from: type=local,src=/tmp/.buildx-cache
           cache-to: type=local,dest=/tmp/.buildx-cache
           tags: |
-                 ${{env.DOCKERHUB_REPOSITORY}}:sha-${{ steps.sha.outputs.short }}
-          push: false
+                ${{ steps.sha.outputs.local }}
+          push: true
           build-args: |
                       CONTENT_SHA=${{ steps.sha.outputs.short }}
 
@@ -102,15 +111,15 @@ jobs:
           cache-to: type=local,dest=/tmp/.buildx-cache
           tags: |
                  ${{env.DOCKERHUB_REPOSITORY}}:sha-${{ steps.sha.outputs.short }}
+                 ${{ steps.sha.outputs.local }}
           push: true
           build-args: |
                       CONTENT_SHA=${{ steps.sha.outputs.short }}
 
       - name: Check Content pages
-        if: github.ref == 'refs/heads/master'
         run: |-
           docker run -t --rm -e RAILS_ENV=test \
-            ${{env.DOCKERHUB_REPOSITORY}}:sha-${{ steps.sha.outputs.short }} \
+            ${{ steps.sha.outputs.local }} \
             rspec --format documentation spec/features/content_pages_spec.rb
 
       - uses: hashicorp/setup-terraform@v1.2.1
