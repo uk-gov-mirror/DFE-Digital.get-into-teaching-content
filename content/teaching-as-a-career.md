@@ -23,7 +23,7 @@ In addition to the day job you can get involved in after-school activities, club
 
 <a class="content-link-secondary" href="/my-story-into-teaching">My story into <span>teaching</span></a>
 
-<a class="content-link-secondary" href="/teachers-salaries-and-benefits">Salaries and other financial <span>benefits</span></a>
+<a class="content-link-secondary" href="/salaries-and-benefits">Salaries and other financial <span>benefits</span></a>
 
 ## Career progression
 
