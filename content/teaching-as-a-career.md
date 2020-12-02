@@ -12,7 +12,7 @@ Teaching will give you the chance to use your skills to inspire young people and
 <div class="content-cta">
   <h2>Do you want to return to teaching?</h2>
   <p>Find out what's new and how to apply.</p>
-  <a href="/returning-to-teaching" class="call-to-action-button">Returning to <span>teaching</span></a>
+  <a href="/experienced-teachers" class="call-to-action-button">Returning to <span>teaching</span></a>
 </div>
 
 ## Inspire the next generation
@@ -23,7 +23,7 @@ In addition to the day job you can get involved in after-school activities, club
 
 <a class="content-link-secondary" href="/my-story-into-teaching">My story into <span>teaching</span></a>
 
-<a class="content-link-secondary" href="/teachers-salaries-and-benefits">Salaries and other financial <span>benefits</span></a>
+<a class="content-link-secondary" href="/salaries-and-benefits">Salaries and other financial <span>benefits</span></a>
 
 ## Career progression
 

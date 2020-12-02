@@ -7,5 +7,3 @@ You’ll need these qualifications:
 If you do not have the required GCSEs, you’ll need to show that you have an equivalent level of education.
 
 You’ll need to have a degree, or equivalent qualification. If you do not have a degree - you can do an [undergraduate course](ways-to-train).
-
-If you’re unsure whether your qualifications are equivalent to a degree or GCSEs, you can chat to us online.

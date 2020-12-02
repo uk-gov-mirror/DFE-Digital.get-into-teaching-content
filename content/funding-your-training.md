@@ -3,7 +3,7 @@ title: "Funding your training"
 image: "/assets/images/funding-hero-dt.jpg"
 mobileimage: "/assets/images/funding-hero-mob.jpg"
 backlink: "../"
-navigation: 10
+navigation: 20
 lid_pixel_event: "Funding"
 jump_links:
   Tuition fee and maintenance loans: "#tuition-fee-and-maintenance-loans"
