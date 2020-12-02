@@ -20,7 +20,7 @@ more_stories:
     image: /assets/images/stories/stories-craig.jpg
     link: /my-story-into-teaching/making-a-difference/broadening-horizons-through-travelling-and-teaching
 more_information:
-  link: /returning-to-teaching
+  link: /experienced-teachers
   text: Read further guidance if you're returning to teaching
 build_layout_from_frontmatter: true
 ---

@@ -3,7 +3,7 @@
   image: "/assets/images/steps-hero-dt.jpg"
   mobileimage: "/assets/images/steps-hero-mob.jpg"
   backlink: "../"
-  navigation: 20
+  navigation: 10
   lid_pixel_event: "Steps"
   alert: |-
      ##Become a qualified teacher in England
