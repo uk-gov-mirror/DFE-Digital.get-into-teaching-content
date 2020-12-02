@@ -6,6 +6,6 @@ When you apply you will need:
 * 2 references
 * GCSE (or equivalent) and Degree certificates
 
-Find a post graduate teacher training provider near you.  
+[Find a post graduate teacher training](https://www.gov.uk/find-postgraduate-teacher-training-courses) provider near you.  
 
-Sign up for a teacher training adviser for help with your application. 
+[Sign up for a teacher training adviser](https://beta-adviser-getintoteaching.education.gov.uk/) for help with your application. 
