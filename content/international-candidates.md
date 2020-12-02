@@ -204,7 +204,7 @@ You’ll be able to apply for your skilled worker visa if:
 * you can speak, read, write, and understand English
 * your role pays at least: i) £20,480; or ii) the relevant minimum rate for teachers in the region of England where you are working or training – whichever is higher. Pro-rata rates will apply if you work part-time as long as you earn at least £20,480 per annum
 
-[Check minimum rates for teachers by region in England](/teachers-salaries-and-benefits).
+[Check minimum rates for teachers by region in England](/salaries-and-benefits).
 
 ## Ways to train or work as a teacher in the UK without a skilled worker visa or a student visa
 
