@@ -5,7 +5,7 @@ backlink: "../../"
 jump_links:
   Returning to teaching: "#returning-to-teaching"
   Finding a role: "#finding-a-role"
-  Teachers who trained in England returning from overseas: "#additional-information-for-teachers-who-trained-in-england-returning-from-overseas"
+  Teachers who trained in England returning from overseas: "#teachers-who-trained-in-england-returning-from-overseas"
   Improving the lives of teachers: "#improving-the-lives-of-teachers"
 ---
 
