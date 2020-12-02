@@ -117,7 +117,6 @@ jobs:
                       CONTENT_SHA=${{ steps.sha.outputs.short }}
 
       - name: Check Content pages
-        if: github.ref == 'refs/heads/master'
         run: |-
           docker run -t --rm -e RAILS_ENV=test \
             ${{ steps.sha.outputs.local }} \
