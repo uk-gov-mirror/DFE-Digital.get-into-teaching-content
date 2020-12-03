@@ -4,22 +4,22 @@ on:
   workflow_dispatch:
     inputs:
       environment:
-        description: 'Development/Test/Production'
+        description: Development/Test/Production
         required: true
       tag:
-        description: 'Release Tag'
+        description: Release Tag
         required: true
 
 jobs:
   manual:
-    name: 'Deploy to ${{github.event.inputs.environment}}'
+    name: Deploy to ${{github.event.inputs.environment}}
     runs-on: ubuntu-latest
     defaults:
       run:
         shell: bash
     steps:
 
-       - name: 'Check Tag (${{github.event.inputs.tag}}) is a Release '
+       - name: Check Tag (${{github.event.inputs.tag}}) is a Release 
          id: tag_info
          run: |
                rval=$(curl -s -X GET https://api.github.com/repos/${{github.repository}}/releases/tags/${{ github.event.inputs.tag }} )
@@ -33,7 +33,7 @@ jobs:
                echo ::set-output name=tag::$(echo ${rval} | jq -r '.tag_name' )
                exit 0
 
-       - name: 'Trigger Deployment to ${{github.event.inputs.environment}}'
+       - name: Trigger Deployment to ${{github.event.inputs.environment}}
          uses: benc-uk/workflow-dispatch@v1.1
          with:
            workflow: Deploy to PaaS

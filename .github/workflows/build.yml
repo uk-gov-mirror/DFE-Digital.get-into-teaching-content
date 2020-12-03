@@ -33,8 +33,8 @@ jobs:
            SLACK_CHANNEL: getintoteaching_tech
            SLACK_COLOR: '#3278BD'
            SLACK_ICON: https://github.com/rtCamp.png?size=48
-           SLACK_MESSAGE: 'Content Delivery has failed. This is due to a workflow concurrency issue'
-           SLACK_TITLE: 'Failure: ${{ github.workflow }}'
+           SLACK_MESSAGE: Content Delivery has failed. This is due to a workflow concurrency issue
+           SLACK_TITLE: Failure: ${{ github.workflow }}
            SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
            SLACK_FOOTER: ${{env.APPLICATION}}
 
@@ -55,7 +55,7 @@ jobs:
       - name: Lint Dockerfile
         uses: brpaz/hadolint-action@master
         with:
-             dockerfile: "Dockerfile"
+             dockerfile: Dockerfile
 
       - name: Set up Docker Buildx
         id: buildx
@@ -123,8 +123,8 @@ jobs:
            SLACK_CHANNEL: getintoteaching_tech
            SLACK_COLOR: '#3278BD'
            SLACK_ICON: https://github.com/rtCamp.png?size=48
-           SLACK_MESSAGE: 'The Development get-into-teaching-content workflow has failed carrying out job ${{github.job}}'
-           SLACK_TITLE: 'Development get-into-teaching-content Workflow Failure'
+           SLACK_MESSAGE: The Development get-into-teaching-content workflow has failed carrying out job ${{github.job}}
+           SLACK_TITLE: Development get-into-teaching-content Workflow Failure
            SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
            SLACK_FOOTER: ${{env.APPLICATION}}
 
@@ -170,10 +170,10 @@ jobs:
            SLACK_CHANNEL: getintoteaching_tech
            SLACK_COLOR: '#B90E0A'
            SLACK_ICON: https://github.com/rtCamp.png?size=48
-           SLACK_TITLE: 'Failure: Preparing from Preview'
-           SLACK_MESSAGE: 'Failure with Review preperation for ${{env.APPLICATION}}'
+           SLACK_TITLE: Failure: Preparing from Preview
+           SLACK_MESSAGE: Failure with Review preperation for ${{env.APPLICATION}}
            SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
-           SLACK_FOOTER: "${{env.APPLICATION}}"             
+           SLACK_FOOTER: ${{env.APPLICATION}}             
 
   development:
     name: Development Deployment
@@ -190,7 +190,7 @@ jobs:
            workflow: Deploy to PaaS
            token: ${{ secrets.ACTIONS_API_ACCESS_TOKEN }}
            inputs: '{"environment": "Development", "sha": "${{ github.sha }}"}'
-           ref: "${{github.ref}}"
+           ref: ${{github.ref}}
 
        - name: Wait for Deployment to Development
          uses: fountainhead/action-wait-for-check@v1.0.0
@@ -198,7 +198,7 @@ jobs:
          with:
            token: ${{ secrets.ACTIONS_API_ACCESS_TOKEN}}
            checkName: Deploy Development
-           ref: "${{github.ref}}"
+           ref: ${{github.ref}}
 
        - name: Check if Development Deployment has returned with a failure
          if: steps.wait-for-deploy.outputs.conclusion == 'failure'
@@ -257,7 +257,7 @@ jobs:
            workflow: Deploy to PaaS
            token: ${{ secrets.ACTIONS_API_ACCESS_TOKEN }}
            inputs: '{"environment": "Test", "sha": "${{ github.sha }}" }'
-           ref: "${{github.ref}}"
+           ref: ${{github.ref}}
 
        - name: Wait for Deployment to QA
          uses: fountainhead/action-wait-for-check@v1.0.0
@@ -265,7 +265,7 @@ jobs:
          with:
            token: ${{ secrets.ACTIONS_API_ACCESS_TOKEN}}
            checkName: Deploy Test
-           ref: "${{github.ref}}"
+           ref: ${{github.ref}}
 
        - name: Check if QA Deployment has returned with a failure
          if: steps.wait-for-deploy.outputs.conclusion == 'failure'
@@ -278,10 +278,10 @@ jobs:
            SLACK_CHANNEL: getintoteaching_tech
            SLACK_COLOR: '#B90E0A'
            SLACK_ICON: https://github.com/rtCamp.png?size=48
-           SLACK_TITLE: 'Failure: Failure in Post-Development Deploy'
-           SLACK_MESSAGE: 'Failure with initialising QA deployment  for ${{env.APPLICATION}}'
+           SLACK_TITLE: Failure: Failure in Post-Development Deploy
+           SLACK_MESSAGE: Failure with initialising QA deployment for ${{env.APPLICATION}}
            SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
-           SLACK_FOOTER: "${{env.APPLICATION}}"
+           SLACK_FOOTER: ${{env.APPLICATION}}
 
   cypress:
      name: Run Cypress Tests on QA
@@ -303,7 +303,7 @@ jobs:
          id: wait-for-deploy
          with:
            token: ${{ secrets.ACTIONS_API_ACCESS_TOKEN}}
-           checkName: "${{ github.sha }}"
+           checkName: ${{ github.sha }}
            ref: refs/heads/master
            repo: get-into-teaching-frontend-tests
            intervalSeconds: 30
@@ -337,7 +337,7 @@ jobs:
            workflow: Deploy to PaaS
            token: ${{ secrets.ACTIONS_API_ACCESS_TOKEN }}
            inputs: '{"environment": "Production", "sha": "${{ github.sha }}" }'
-           ref: "${{github.ref}}"
+           ref: ${{github.ref}}
 
        - name: Wait for Deployment to Production
          uses: fountainhead/action-wait-for-check@v1.0.0
@@ -345,7 +345,7 @@ jobs:
          with:
            token: ${{ secrets.ACTIONS_API_ACCESS_TOKEN}}
            checkName: Deploy Production
-           ref: "${{github.ref}}"
+           ref: ${{github.ref}}
 
        - name: Check if Production Deployment has returned with a failure
          if: steps.wait-for-deploy.outputs.conclusion == 'failure'
@@ -359,7 +359,7 @@ jobs:
            SLACK_CHANNEL: getintoteaching_tech
            SLACK_COLOR: '#B90E0A'
            SLACK_ICON: https://github.com/rtCamp.png?size=48
-           SLACK_TITLE: "Production Release : ${{github.event.title}}"
-           SLACK_MESSAGE: 'Failure deploying Production release'
+           SLACK_TITLE: Production Release : ${{github.event.title}}
+           SLACK_MESSAGE: Failure deploying Production release
            SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
-           SLACK_FOOTER: "${{env.APPLICATION}}"
+           SLACK_FOOTER: ${{env.APPLICATION}}
