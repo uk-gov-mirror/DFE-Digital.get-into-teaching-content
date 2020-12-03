@@ -17,12 +17,11 @@ on:
         default: Teacher Training Adviser
 
 env:
-  DOCKERHUB_REPOSITORY:  dfedigital/get-teacher-training-adviser-service
-  DOMAIN:                london.cloudapps.digital
-  APPLICATION:           Teacher Training Adviser Service
-  REVIEW_APPLICATION:    review-teacher-training-adviser
-  PAAS_APPLICATION_NAME: get-teacher-training-adviser-service
-
+  DOCKERHUB_REPOSITORY:    dfedigital/get-into-teaching-frontend
+  DOMAIN:                  london.cloudapps.digital
+  APPLICATION:             Get Into Teaching Application
+  REVIEW_APPLICATION:      review-get-into-teaching-app
+  PAAS_APPLICATION_NAME:   get-into-teaching-app
 jobs:
   turnstyle:
     name: Wait for any previous deployments
