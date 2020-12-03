@@ -8,8 +8,10 @@ on:
       - master
 env:
   DOCKERHUB_REPOSITORY: dfedigital/get-into-teaching-frontend
-  CONTAINER: get-into-teaching-app
   DOMAIN: london.cloudapps.digital
+  APPLICATION: Get Into Teaching Application
+  REVIEW_APPLICATION: review-get-into-teaching-app
+  PAAS_APPLICATION_NAME:   get-into-teaching-app
 
 jobs:
   turnstyle:
@@ -31,12 +33,13 @@ jobs:
            SLACK_CHANNEL: getintoteaching_tech
            SLACK_COLOR: '#3278BD'
            SLACK_ICON: https://github.com/rtCamp.png?size=48
-           SLACK_MESSAGE: 'Content Delivery has failed. This is due to a workflow concurrency issue'
-           SLACK_TITLE: 'Failure: ${{ github.workflow }}'
+           SLACK_MESSAGE: Content Delivery has failed. This is due to a workflow concurrency issue
+           SLACK_TITLE: Turnstyle failure ${{ github.workflow }}
            SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+           SLACK_FOOTER: ${{env.APPLICATION}}
 
-  deploy:
-    name: Build and deploy
+  build:
+    name: Build 
     runs-on: ubuntu-latest
     services:
       registry:
@@ -49,19 +52,10 @@ jobs:
       - name: Check out the repo
         uses: actions/checkout@v2
 
-      - name: Start Development Deployment
-        uses: bobheadxi/deployments@v0.4.3
-        id: deployment
-        with:
-          step: start
-          token: ${{ secrets.GITHUB_TOKEN }}
-          env:  'Development'
-          ref:  ${{ github.sha }}
-        
       - name: Lint Dockerfile
         uses: brpaz/hadolint-action@master
         with:
-             dockerfile: "Dockerfile"
+             dockerfile: Dockerfile
 
       - name: Set up Docker Buildx
         id: buildx
@@ -69,48 +63,40 @@ jobs:
         with:
           driver-opts: network=host
         
-      - name: Get Short SHA
+      - name: Get Settings
         id: sha
-        run: |
-              echo ::set-output name=short::$(echo $GITHUB_SHA | cut -c -7)
-              echo ::set-output name=local::localhost:5000/${{env.DOCKERHUB_REPOSITORY}}:sha-$(echo $GITHUB_SHA | cut -c -7)
+        run: 
+          |
+              echo ::set-output name=short::$(echo ${{ github.sha }} | cut -c -7)
+              echo ::set-output name=image::${{ env.DOCKERHUB_REPOSITORY }}:sha-$(echo "${{ github.sha }}" | cut -c -7)
+              echo ::set-output name=local::localhost:5000/${{env.DOCKERHUB_REPOSITORY}}:sha-$(echo "${{ github.sha }}" | cut -c -7)
+              echo ::set-output name=pr_image::${{ env.DOCKERHUB_REPOSITORY }}:review-$(echo "${{ github.sha }}" | cut -c -7)
 
-      - name: Cache Docker layers
-        uses: actions/cache@v2
-        with:
-          path: /tmp/.buildx-cache
-          key: ${{ runner.os }}-buildx-${{ github.sha }}
-          restore-keys: |
-             ${{ runner.os }}-buildx-
-             
       - name: Login to Docker Hub
         uses: docker/login-action@v1 
         with:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_PERSONAL_ACCESS_TOKEN }}
           
-      - name: Build Locally
+      - name: Build master and push to Docker Hub
+        if: github.ref == 'refs/heads/master'
         uses: docker/build-push-action@v2
-        if: github.ref != 'refs/heads/master'
         with:
           builder: ${{ steps.buildx.outputs.name }}
-          cache-from: type=local,src=/tmp/.buildx-cache
-          cache-to: type=local,dest=/tmp/.buildx-cache
           tags: |
-                ${{ steps.sha.outputs.local }}
+                 ${{ steps.sha.outputs.image }}
+                 ${{ steps.sha.outputs.local }}
           push: true
           build-args: |
                       CONTENT_SHA=${{ steps.sha.outputs.short }}
 
-      - name: Build and push to DockerHub
+      - name: Build PR and push to Docker Hub
+        if: github.ref != 'refs/heads/master'
         uses: docker/build-push-action@v2
-        if: github.ref == 'refs/heads/master'
         with:
           builder: ${{ steps.buildx.outputs.name }}
-          cache-from: type=local,src=/tmp/.buildx-cache
-          cache-to: type=local,dest=/tmp/.buildx-cache
           tags: |
-                 ${{env.DOCKERHUB_REPOSITORY}}:sha-${{ steps.sha.outputs.short }}
+                 ${{ steps.sha.outputs.pr_image }}
                  ${{ steps.sha.outputs.local }}
           push: true
           build-args: |
@@ -122,76 +108,13 @@ jobs:
             ${{ steps.sha.outputs.local }} \
             rspec --format documentation spec/features/content_pages_spec.rb
 
-      - uses: hashicorp/setup-terraform@v1.2.1
+      - name: Trigger CVE Testing
+        if: github.ref == 'refs/heads/master'
+        uses: benc-uk/workflow-dispatch@v1.1
         with:
-           terraform_version: 0.13.4
-
-      - name: Terraform Init
-        if: github.ref == 'refs/heads/master'
-        run: |
-            cd terraform/paas && pwd
-            terraform init -backend-config=dev.bk.vars
-        env:
-              ARM_ACCESS_KEY:           "${{ secrets.DEV_ARM_ACCESS_KEY  }}"
-              TF_VAR_user:              "${{ secrets.GOVUKPAAS_USERNAME  }}"
-              TF_VAR_password:          "${{ secrets.GOVUKPAAS_PASSWORD  }}"
-
-      - name: Terraform Plan
-        if: github.ref == 'refs/heads/master'
-        run: |
-            cd terraform/paas && pwd
-            terraform plan -var-file=dev.env.tfvars -out plan
-        env:
-              TF_VAR_paas_app_docker_image: ${{env.DOCKERHUB_REPOSITORY}}:sha-${{ steps.sha.outputs.short }}
-              ARM_ACCESS_KEY:           "${{ secrets.DEV_ARM_ACCESS_KEY  }}"
-              TF_VAR_user:              "${{ secrets.GOVUKPAAS_USERNAME  }}"
-              TF_VAR_password:          "${{ secrets.GOVUKPAAS_PASSWORD  }}"
-              TF_VAR_HTTPAUTH_PASSWORD: "${{ secrets.HTTPAUTH_PASSWORD }}"
-              TF_VAR_HTTPAUTH_USERNAME: "${{ secrets.HTTPAUTH_USERNAME }}"
-              TF_VAR_RAILS_MASTER_KEY:  "${{ secrets.RAILS_MASTER_KEY_ROLLING }}"
-              TF_VAR_RAILS_ENV:         "rolling"
-              TF_VAR_docker_username:   "${{ secrets.DOCKERHUB_USERNAME }}"
-              TF_VAR_docker_password:   "${{ secrets.DOCKERHUB_PERSONAL_ACCESS_TOKEN }}"
-
-
-      - name: Terraform Apply
-        if: github.ref == 'refs/heads/master'
-        run: |
-            cd terraform/paas && pwd
-            terraform apply -auto-approve plan
-        env:
-              ARM_ACCESS_KEY:           "${{ secrets.DEV_ARM_ACCESS_KEY  }}"
-              TF_VAR_user:              "${{ secrets.GOVUKPAAS_USERNAME  }}"
-              TF_VAR_password:          "${{ secrets.GOVUKPAAS_PASSWORD  }}"
-
-      - name: Smoke tests
-        if: github.ref == 'refs/heads/master'
-        run: |
-             tests/confidence/healthcheck.sh  "get-into-teaching-app-dev" "${{ steps.sha.outputs.short }}"
-        env:
-             HTTPAUTH_PASSWORD: "${{ secrets.HTTPAUTH_PASSWORD }}"
-             HTTPAUTH_USERNAME: "${{ secrets.HTTPAUTH_USERNAME }}"
-
-      - name: Create Sentry release
-        if: success()
-        uses: getsentry/action-release@v1.1.5
-        env:
-           SENTRY_AUTH_TOKEN: ${{ secrets.SENTRY_AUTH_TOKEN }}
-           SENTRY_ORG: ${{ secrets.SENTRY_ORG }}
-           SENTRY_PROJECT: ${{ secrets.SENTRY_PROJECT }}
-        with:
-           environment: development
-
-      - name: Update Development status
-        if: always()
-        uses: bobheadxi/deployments@v0.4.3
-        with:
-          step: finish
-          token: ${{ secrets.GITHUB_TOKEN}}
-          env: 'Development'
-          status: ${{ job.status }}
-          deployment_id: ${{ steps.deployment.outputs.deployment_id }}
-          ref: ${{ github.sha }}
+           workflow: cve
+           token: ${{ secrets.ACTIONS_API_ACCESS_TOKEN }}
+           inputs: '{"image": "${{ steps.sha.outputs.image }}"}'
 
       - name: Slack Notification
         if: failure()
@@ -200,6 +123,243 @@ jobs:
            SLACK_CHANNEL: getintoteaching_tech
            SLACK_COLOR: '#3278BD'
            SLACK_ICON: https://github.com/rtCamp.png?size=48
-           SLACK_MESSAGE: 'The Development get-into-teaching-content workflow has failed carrying out job ${{github.job}}'
-           SLACK_TITLE: 'Development get-into-teaching-content Workflow Failure'
+           SLACK_MESSAGE: The Development ${{env.APPLICATION}} workflow has failed carrying out job ${{github.job}}
+           SLACK_TITLE: Development Workflow Failure
            SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+           SLACK_FOOTER: ${{env.APPLICATION}}
+
+  review:
+    name: Review Deployment Process
+    needs: build
+    if: github.ref != 'refs/heads/master' && github.event.pull_request.draft == false
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Review Deployment
+        uses: benc-uk/workflow-dispatch@v1.1
+        with:
+          workflow: Deploy to PaaS
+          token: ${{ secrets.ACTIONS_API_ACCESS_TOKEN }}
+          inputs: '{"environment": "Review", "sha": "${{ github.sha }}" , "pr": "${{github.event.number}}"  }'
+          ref: ${{ github.event.pull_request.head.ref }}
+
+      - name: Wait for Deployment to Review
+        uses: fountainhead/action-wait-for-check@v1.0.0
+        id: wait-for-review
+        with:
+          token: ${{ secrets.ACTIONS_API_ACCESS_TOKEN}}
+          checkName: Deploy Review
+          ref: ${{ github.event.pull_request.head.ref }}
+
+      - name: Check if Review Deployment has returned with a failure
+        if: steps.wait-for-review.outputs.conclusion == 'failure'
+        run: exit 1
+
+      - name: Post PR comment
+        run: |
+          curl --silent  \
+               --header "Accept: application/vnd.github.v3+json" \
+               --header "Authorization: Bearer ${{ github.token }}" \
+               --request POST \
+               --data '{"body": "Review app deployed to ${{needs.deploy.outputs.url}}"}'  \
+               https://api.github.com/repos/${{ github.repository }}/issues/${{github.event.number }}/comments
+
+      - name: Slack Notification
+        if: failure()
+        uses: rtCamp/action-slack-notify@master
+        env:
+           SLACK_CHANNEL: getintoteaching_tech
+           SLACK_COLOR: '#B90E0A'
+           SLACK_ICON: https://github.com/rtCamp.png?size=48
+           SLACK_TITLE: Failure preparing for Preview
+           SLACK_MESSAGE: Failure with Review preperation for ${{env.APPLICATION}}
+           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+           SLACK_FOOTER: ${{env.APPLICATION}}             
+
+  development:
+    name: Development Deployment
+    needs: build
+    if: github.ref == 'refs/heads/master'
+    runs-on: ubuntu-latest
+    outputs:
+      release_tag: ${{steps.tag_version.outputs.tag}}
+      release_sha: ${{steps.tag_version.outputs.sha}}
+    steps:
+       - name: Trigger Development Deployment
+         uses: benc-uk/workflow-dispatch@v1.1
+         with:
+           workflow: Deploy to PaaS
+           token: ${{ secrets.ACTIONS_API_ACCESS_TOKEN }}
+           inputs: '{"environment": "Development", "sha": "${{ github.sha }}"}'
+           ref: ${{github.ref}}
+
+       - name: Wait for Deployment to Development
+         uses: fountainhead/action-wait-for-check@v1.0.0
+         id: wait-for-deploy
+         with:
+           token: ${{ secrets.ACTIONS_API_ACCESS_TOKEN}}
+           checkName: Deploy Development
+           ref: ${{github.ref}}
+
+       - name: Check if Development Deployment has returned with a failure
+         if: steps.wait-for-deploy.outputs.conclusion == 'failure'
+         run: exit 1
+
+       - name: Trigger OWASP Testing
+         uses: benc-uk/workflow-dispatch@v1.1
+         with:
+           workflow: owasp
+           token: ${{ secrets.ACTIONS_API_ACCESS_TOKEN }}
+           inputs: '{"environment": "dev"}'
+
+       - name: Generate Tag from PR Number
+         id: tag_version
+         run: |
+           MATCH="Merge pull request #[0-9]+"
+           STRING=$(curl -s -X GET "https://api.github.com/repos/${{github.repository}}/commits/${{github.sha}}" | jq -r  ".commit.message")
+
+           if [[ ${STRING}  =~ ${MATCH} ]] ;
+           then
+              echo "Pull request merge"
+              TAG=$( echo ${STRING} | grep -oh "[0-9]\+" | head -1 )
+              echo "PR Number ${TAG}"
+              BODY=$(curl -s -X GET "https://api.github.com/repos/${{github.repository}}/pulls/${TAG}" | jq -r ".body")
+           else
+              echo "Not a pull request merge"
+              TAG="0"
+              BODY="Nothing"
+           fi
+           echo ::set-output name=tag::"PR-${TAG}"
+           echo ::set-output name=changelog::"${BODY}"
+           echo ::set-output name=sha::"${{github.sha}}"
+
+       - name: Create a GitHub Release
+         if: steps.tag_version.outputs.tag != '0'
+         uses: actions/create-release@v1
+         env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+         with:
+            tag_name: ${{ steps.tag_version.outputs.tag }}
+            release_name: Release ${{ steps.tag_version.outputs.tag }}
+            body: ${{ steps.tag_version.outputs.changelog }}
+            commitish: ${{ steps.tag_version.outputs.sha}}
+            prerelease: false
+            draft:      false
+
+  qa:
+    name: Quality Assurance Deployment
+    needs: development
+    if: github.ref == 'refs/heads/master'
+    runs-on: ubuntu-latest
+    steps:
+       - name: Trigger Deployment to QA
+         uses: benc-uk/workflow-dispatch@v1.1
+         with:
+           workflow: Deploy to PaaS
+           token: ${{ secrets.ACTIONS_API_ACCESS_TOKEN }}
+           inputs: '{"environment": "Test", "sha": "${{ github.sha }}" }'
+           ref: ${{github.ref}}
+
+       - name: Wait for Deployment to QA
+         uses: fountainhead/action-wait-for-check@v1.0.0
+         id: wait-for-deploy
+         with:
+           token: ${{ secrets.ACTIONS_API_ACCESS_TOKEN}}
+           checkName: Deploy Test
+           ref: ${{github.ref}}
+
+       - name: Check if QA Deployment has returned with a failure
+         if: steps.wait-for-deploy.outputs.conclusion == 'failure'
+         run: exit 1
+
+       - name: Slack Notification
+         if: failure()
+         uses: rtCamp/action-slack-notify@master
+         env:
+           SLACK_CHANNEL: getintoteaching_tech
+           SLACK_COLOR: '#B90E0A'
+           SLACK_ICON: https://github.com/rtCamp.png?size=48
+           SLACK_TITLE: Failure in Post-Development Deploy
+           SLACK_MESSAGE: Failure with initialising QA deployment for ${{env.APPLICATION}}
+           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+           SLACK_FOOTER: ${{env.APPLICATION}}
+
+  cypress:
+     name: Run Cypress Tests on QA
+     runs-on: ubuntu-latest
+     needs: qa
+     steps:
+
+       - name: Trigger Cypress Tests (DFE-Digital/get-into-teaching-frontend-tests )
+         uses: benc-uk/workflow-dispatch@v1.1
+         with:
+           repo: DFE-Digital/get-into-teaching-frontend-tests
+           workflow: Cypress
+           token: ${{ secrets.ACTIONS_API_ACCESS_TOKEN }}
+           inputs: '{"application": "APP" , "reference": "${{ github.sha }}" }'
+           ref:  refs/heads/master
+
+       - name: Wait for Cypress Tests
+         uses: fountainhead/action-wait-for-check@v1.0.0
+         id: wait-for-deploy
+         with:
+           token: ${{ secrets.ACTIONS_API_ACCESS_TOKEN}}
+           checkName: ${{ github.sha }}
+           ref: refs/heads/master
+           repo: get-into-teaching-frontend-tests
+           intervalSeconds: 30
+           timeoutSeconds: 1800
+
+       - name: Check for test failure
+         if: steps.wait-for-build.outputs.conclusion == 'failure'
+         run: exit 1
+
+  production:
+     name: Production Deployment
+     runs-on: ubuntu-latest
+     needs: [ cypress , development ]
+     steps:
+       - name: Get Release Id from Tag
+         id:   tag_id
+         run: |
+              ID=$(curl -s -X GET "https://api.github.com/repos/${{github.repository}}/releases/tags/${{needs.development.outputs.release_tag}}" | jq -r .id )
+              echo ::set-output name=tag_id::"${ID}"
+
+       - name: Publish Release
+         uses: eregon/publish-release@v1
+         env:
+           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+         with:
+           release_id: ${{steps.tag_id.outputs.tag_id}}
+
+       - name: Trigger Deployment to Production
+         uses: benc-uk/workflow-dispatch@v1.1
+         with:
+           workflow: Deploy to PaaS
+           token: ${{ secrets.ACTIONS_API_ACCESS_TOKEN }}
+           inputs: '{"environment": "Production", "sha": "${{ github.sha }}" }'
+           ref: ${{github.ref}}
+
+       - name: Wait for Deployment to Production
+         uses: fountainhead/action-wait-for-check@v1.0.0
+         id: wait-for-deploy
+         with:
+           token: ${{ secrets.ACTIONS_API_ACCESS_TOKEN}}
+           checkName: Deploy Production
+           ref: ${{github.ref}}
+
+       - name: Check if Production Deployment has returned with a failure
+         if: steps.wait-for-deploy.outputs.conclusion == 'failure'
+         run: exit 1
+
+       - name: Slack Notification
+         if: failure()
+         uses: rtCamp/action-slack-notify@master
+         env:
+           SLACK_USERNAME: GiT Deployment
+           SLACK_CHANNEL: getintoteaching_tech
+           SLACK_COLOR: '#B90E0A'
+           SLACK_ICON: https://github.com/rtCamp.png?size=48
+           SLACK_TITLE: Production Release ${{github.event.title}}
+           SLACK_MESSAGE: Failure deploying Production release
+           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+           SLACK_FOOTER: ${{env.APPLICATION}}
