@@ -63,6 +63,6 @@ You could get a bursary or scholarship, student finance and extra funding to tra
 
 If you’re an EU national starting a teacher training course in the academic year 2021/22, you may get a bursary or scholarship, and student finance.
 
-[Read about funding for international students](/international-candidates#funding).
+[Read about funding for international students](/international-students#funding).
 
 If you come from outside England, you can get advice about training to be a teacher by using the online chat or Freephone number at the bottom of this page.

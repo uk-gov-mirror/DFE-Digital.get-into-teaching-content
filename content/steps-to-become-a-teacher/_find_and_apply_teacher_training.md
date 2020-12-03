@@ -8,4 +8,4 @@ When you apply you will need:
 
 [Find a post graduate teacher training](https://www.gov.uk/find-postgraduate-teacher-training-courses) provider near you.  
 
-[Sign up for a teacher training adviser](https://beta-adviser-getintoteaching.education.gov.uk/) for help with your application. 
+[Sign up for a teacher training adviser](/tta-service) for help with your application. 

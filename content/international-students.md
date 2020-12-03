@@ -47,7 +47,7 @@ Applying for the right visa
 
 ### Get help
 
-[Contact us](/international-candidates#talk-to-us) to get help and support about training to teach by phone or online chat.
+[Contact us](#talk-to-us) to get help and support about training to teach by phone or online chat.
 
 ### Research teacher training courses
 
@@ -83,11 +83,11 @@ For teaching jobs in England, the main visa route is the ‘[skilled worker visa
 
 For teacher training in England, the main routes are either the ‘[student visa](https://www.gov.uk/student-visa)’ or the ‘[skilled worker visa](https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#skilled-workers)’.
 
-Depending on your personal circumstances, you may be eligible for [other visas](/international-candidates#other-visas) which allow you to work or study in the UK.
+Depending on your personal circumstances, you may be eligible for [other visas](#other-visas) which allow you to work or study in the UK.
 
 ### Teacher training: skilled worker or student visa?
 
-The type of visa you need will depend on whether you are on a salaried or unsalaried teacher training course. (See also our [guidance on other visas](/international-candidates#other-visas) you may be eligible for.)
+The type of visa you need will depend on whether you are on a salaried or unsalaried teacher training course. (See also our [guidance on other visas](/international-students#other-visas) you may be eligible for.)
 
 A ‘salaried’ teacher training course means you are paid to work in a school while you learn to teach.
 

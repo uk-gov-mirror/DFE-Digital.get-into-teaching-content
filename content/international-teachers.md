@@ -68,11 +68,11 @@ You’ll be able to apply for your skilled worker visa if:
 * you can speak, read, write, and understand English
 * your role pays at least: i) £20,480; or ii) the relevant minimum rate for teachers in the region of England where you are working or training – whichever is higher. Pro-rata rates will apply if you work part-time as long as you earn at least £20,480 per annum
 
-[Check minimum rates for teachers by region in England](/teachers-salaries-and-benefits).
+[Check minimum rates for teachers by region in England](/salaries-and-benefits).
 
 #### Applying for the right visa
 
-You should [check to see if you need a visa to work in the UK](/international-candidates#choosing-the-correct-visa-for-your-teaching-job-or-teacher-training-course). This will probably be a skilled worker visa, although you may be eligible for [other visas](/international-candidates#ways-to-train-or-work-as-a-teacher-in-the-uk-without-a-skilled-worker-visa-or-a-student-visa).
+You-should-[check-to-see-if-you-need-a-visa-to-work-in-the-UK](/international-students#choosing-the-correct-visa-for-your-teaching-job-or-teacher-training-course).-This-will-probably-be-a-skilled-worker-visa,-although-you-may-be-eligible-for-[other-visas](/international-students#ways-to-train-to-become-a-teacher-in-the-uk-without-a-skilled-worker-visa-or-a-student-visa).
 
 #### Search and apply for teaching jobs
 
@@ -97,7 +97,7 @@ Contact one of these UK-government approved teaching recruitment agencies for mo
 
 ### Get help
 
-[Contact us](/international-candidates#talk-to-us) to get help and support about training to teach by phone or online chat.
+[Contact us](#talk-to-us) to get help and support about training to teach by phone or online chat.
 
 ### Research teacher training courses
 
@@ -134,7 +134,7 @@ For teaching jobs in England, the main visa route is the ‘[skilled worker visa
 
 For teacher training in England, the main routes are either the ‘[student visa](https://www.gov.uk/student-visa)’ or the ‘[skilled worker visa](https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#skilled-workers)’.
 
-Depending on your personal circumstances, you may be eligible for [other visas](/international-candidates#other-visas) which allow you to work or study in the UK.
+Depending on your personal circumstances, you may be eligible for [other visas](#other-visas) which allow you to work or study in the UK.
 
 ### Other visas
 
