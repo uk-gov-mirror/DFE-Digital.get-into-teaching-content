@@ -5,8 +5,8 @@ backlink: "../../"
 jump_links:
   Returning to teaching: "#returning-to-teaching"
   Finding a role: "#finding-a-role"
-  Subject specific support: "#Subject-specific-support-for-Modern-foreign-languages-maths-or-physics"
-  Teachers who trained in England returning from overseas: "#Teachers-who-trained-in-England-returning-from-overseas"
+  Subject specific support: "#subject-specific-support-for-modern-foreign-languages-maths-or-physics"
+  Teachers who trained in England returning from overseas: "#teachers-who-trained-in-england-returning-from-overseas"
   Improving the lives of teachers: "#improving-the-lives-of-teachers"
 ---
 
