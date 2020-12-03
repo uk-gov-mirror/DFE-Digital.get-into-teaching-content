@@ -44,5 +44,5 @@ jobs:
            SLACK_ICON: https://github.com/rtCamp.png?size=48
            SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
            SLACK_MESSAGE: Pipeline Failure carrying out CVE Testing on ${{ github.event.inputs.image }}
-           SLACK_TITLE: Failure: CVE Testing has failed
+           SLACK_TITLE: CVE Testing has failed
            SLACK_FOOTER: ${{env.APPLICATION}}

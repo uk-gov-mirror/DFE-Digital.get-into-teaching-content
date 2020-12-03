@@ -69,7 +69,7 @@ jobs:
            SLACK_CHANNEL: getintoteaching_tech
            SLACK_COLOR: '#B90E0A'
            SLACK_ICON: https://github.com/rtCamp.png?size=48
-           SLACK_TITLE: Failure:  Closing Review
-           SLACK_MESSAGE: Failure with  Closing ${{env.APPLICATION}} Review
+           SLACK_TITLE: Failure Closing Review
+           SLACK_MESSAGE: Failure closing ${{env.APPLICATION}} review
            SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
            SLACK_FOOTER: ${{env.APPLICATION}}
