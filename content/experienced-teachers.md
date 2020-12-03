@@ -78,7 +78,7 @@ If you’d like more information on what it’s like to teach physics today, you
 
 The [National Centre for the Excellence in the Teaching of Mathematics (NCETM)](https://www.ncetm.org.uk/news-features/) offers [teaching resources](https://www.ncetm.org.uk/in-the-classroom/) around the maths you will be teaching.
 
-##Support for returners identifying with protected characteristics
+## Support for returners identifying with protected characteristics
 
 Support for returners (such as coaching opportunities) may be available if you identify with one or more of the protected characteristics as defined by the Equality Act 2010.
 
