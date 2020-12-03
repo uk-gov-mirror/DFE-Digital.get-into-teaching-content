@@ -60,7 +60,7 @@ To teach at primary school level, you will also need:
 
 If you want to teach in England and you studied overseas you can find
 out [how to check your qualifications on Get Into
-Teaching](international-candidates).
+Teaching](/international-students).
 
 ### If you do not have a degree
 
