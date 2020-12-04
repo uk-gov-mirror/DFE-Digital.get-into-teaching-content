@@ -1,4 +1,4 @@
-You can find and apply for a course, once you have decided on the best route for you. 
+You can find and apply for a course, once you have decided on the best route for you and what you want to teach.
 
 When you apply you will need:
 
