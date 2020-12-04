@@ -4,7 +4,7 @@ When you apply you will need:
 
 * a written personal statement
 * 2 references
-* GCSE (or equivalent) and Degree certificates
+* GCSE (or evidence of equivalent standard) and Degree certificates
 
 [Find a post graduate teacher training](https://www.gov.uk/find-postgraduate-teacher-training-courses) provider near you.  
 
