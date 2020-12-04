@@ -72,6 +72,5 @@ course with QTS included.
 
 This is not for:
 
-* [international teachers](/international-teachers)
-* [international students](/international-students)
+* [international candidates](/international-candidates)
 * [experienced teachers](/experienced-teachers)
