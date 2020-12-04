@@ -13,13 +13,55 @@
         cta: chat_online
       Find out about teaching and training:
         partial: content/steps-to-become-a-teacher/find_out_about_teaching_and_training
+        cta:
+          name: simple
+          arguments:
+            title: Online events
+            text: |
+              There are lots of events that you can take part in online to help you to prepare to train to become a teacher.
+            link_text: "Find an event"
+            link_target: "/events"
+            icon: "icon-calendar"
+
       Consider School Experience:
         partial: content/steps-to-become-a-teacher/consider_school_experience
+        cta:
+          name: simple
+          arguments:
+            title: Get school experience
+            text: Get a taste of school life, search for school experience near you or online.
+            icon: "arrow-icon"
+            link_text: Search for school experience
+            link_target: https://schoolexperience.education.gov.uk/
       Ways to train:
         partial: content/steps-to-become-a-teacher/ways_to_train
+        cta:
+          name: simple
+          arguments:
+            title: Ways to train
+            text: |
+              There are 2 main ways to train: on the job as an unqualified
+              teacher or as a student.
+            icon: "arrow-icon"
+            link_text: Find out more
+            link_target: /ways-to-train
       Find and apply for teacher training:
         partial: content/steps-to-become-a-teacher/find_and_apply_teacher_training
+        cta:
+          name: simple
+          arguments:
+            title: Find postgraduate teacher training
+            text: |
+              Find postgraduate teaching courses in England if you want to
+              teach in a state primary or secondary school, or in further
+              education.
+            icon: "arrow-icon"
+            link_text: Search for postgraduate teacher training
+            link_target: https://www.gov.uk/find-postgraduate-teacher-training-courses
+    content_after_accordion:
+      cta: next_steps
 ---
+
 ## Becoming a qualified teacher in England
 
 These steps are for people wanting to become qualified teachers in England.
