@@ -70,7 +70,9 @@ have Qualified Teacher Status (QTS). There are a number of ways to gain QTS
 such as completion of postgraduate initial teacher training (ITT) or a degree
 course with QTS included.
 
-This is not for:
+This information is for people living in the UK wanting to train to become a teacher in England.
+
+We also have information for:
 
 * [international candidates](/international-candidates)
-* [experienced teachers](/experienced-teachers)
+* [those returning to teaching](/returning-to-teaching)
