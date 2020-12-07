@@ -1,16 +1,13 @@
 ---
-title: "Experienced Teachers"
+title: "Returning to teaching"
 image: "/assets/images/return-to-teaching-dt.jpg"
 backlink: "../../"
 jump_links:
-  Returning to teaching: "#returning-to-teaching"
   Finding a role: "#finding-a-role"
   Subject specific support: "#subject-specific-support-for-modern-foreign-languages-maths-or-physics"
   Teachers who trained in England returning from overseas: "#teachers-who-trained-in-england-returning-from-overseas"
   Improving the lives of teachers: "#improving-the-lives-of-teachers"
 ---
-
-## Returning to teaching
 
 If you’ve been out of teaching for a while, you may want to:
 
