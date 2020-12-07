@@ -103,7 +103,7 @@ sections:
         link: /my-story-into-teaching/career-progression/grasp-every-opportunity
         image: /assets/images/stories/stories-paul.jpg
         snippet: Grasp every opportunity
-      - name: Paul
+      - name: Sarah
         link: /my-story-into-teaching/career-progression/nqt-to-head-of-biology
         image: /assets/images/stories/stories-sarah-f.jpg
         snippet: NQT to head of biology in 2 years
