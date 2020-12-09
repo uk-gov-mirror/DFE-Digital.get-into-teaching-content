@@ -3,7 +3,7 @@
   image: "/assets/images/steps-hero-dt.jpg"
   mobileimage: "/assets/images/steps-hero-mob.jpg"
   backlink: "../"
-  navigation: 25
+  navigation: 20
   lid_pixel_event: "WaysToTrain"
   accordion:
     steps:
