@@ -1,6 +1,6 @@
 Whichever subject you are looking to teach, we’re here to help. Our wide range of services are completely free and designed to give you tailored advice on a career in teaching.
 
-## Teacher training events
+## Teaching events
 
 Events offer a brilliant opportunity to find out more about teacher training and what a career in teaching has to offer. They’re a great way for you to meet the schools and universities that offer teacher training from around the country. You can also get advice, one-to-one, on every aspect of getting into teaching. 
 
@@ -30,10 +30,10 @@ All our teacher training advisers are experienced teachers who provide you with 
 
 Your Teacher Training Adviser will:
 
-choosing the right training for you
-give you practical advice and guidance at each stage of your application
-offer support when you write your personal statement and to prepare for interviews 
-help you find out about and apply for financial support
+* choosing the right training for you
+* give you practical advice and guidance at each stage of your application
+* offer support when you write your personal statement and to prepare for interviews 
+* help you find out about and apply for financial support
 
 Whatever support you need, your adviser will be just a phone call, text or email away. Find out how recent trainees benefited from using our personalised adviser service.
 

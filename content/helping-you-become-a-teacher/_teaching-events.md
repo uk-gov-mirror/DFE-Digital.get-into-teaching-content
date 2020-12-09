@@ -1,0 +1,1 @@
+Events offer a brilliant opportunity to find out more about teacher training and what a career in teaching has to offer. They’re a great way for you to meet the schools and universities that offer teacher training from around the country. You can also get advice, one-to-one, on every aspect of getting into teaching. 
