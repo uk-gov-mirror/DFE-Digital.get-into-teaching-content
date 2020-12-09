@@ -107,10 +107,11 @@ If you don’t have a university degree, you can [apply to study an undergraduat
 
 ### If you are a PhD student
 
-International PhD students in Physics, Mathematics, English, Biology, Computer Science, Modern Languages, Chemistry, Geography, Classics (Latin/Greek) and History can apply for the UK government’s Researchers in Schools    programme.
-Applying for the right visa
+International PhD students in Physics, Mathematics, English, Biology, Computer Science, Modern Languages, Chemistry, Geography, Classics (Latin/Greek) and History can apply for the UK government’s Researchers in Schools programme.
 
-[You should check to see if you need a visa to study in the UK](https://www.gov.uk/check-uk-visa). This will probably be a student visa, although you may be eligible for other visas.
+### Applying for the right visa
+
+[You should check to see if you need a visa to study in the UK](https://www.gov.uk/check-uk-visa). This will probably be a [student visa](/internationa-cnadidates#Choosing-the-correct-visa-for-your-teaching-job-or-teacher-training-course), although you may be eligible for other visas.
 
 ### Get help
 
@@ -126,19 +127,15 @@ Not all training providers can accept international candidates. You should conta
 
 From 1 January 2021, the UK is introducing a new [points-based immigration system](https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know).
 
-If you are a non-UK citizen from a country outside the European Economic Area    (EEA) and Switzerland, you may already need a visa to study or work in the UK. [Check if you need a visa under the current immigration system](https://www.gov.uk/check-uk-visa).
-
 ### EU Settlement Scheme
 
-If you are a citizen of a country inside the [European Economic Area](https://www.gov.uk/eu-eea) (EEA) or Switzerland, living in the UK by 31 December 2020, you can apply to the EU Settlement Scheme.
+If you are a citizen of a country inside the [European Economic Area](https://www.gov.uk/eu-eea) (EEA) or Switzerland, living in the UK by 31 December 2020, you can apply to the [EU Settlement Scheme](https://www.gov.uk/settled-status-eu-citizens-families).
 
 If your application is successful, you can continue to live, work and study in the UK after 30 June 2021. You will not need to use the points-based immigration system explained here.
 
 ### Changes to the UK’s immigration system
 
-The new points-based immigration system will apply to all non-UK citizens arriving in the UK from 1 January 2021, including those from the EEA or Switzerland.
-
-You can now apply for a [student visa](https://www.gov.uk/student-visa) under the new system; other immigration routes to live and work in the UK will open over the course of 2020.
+The new points-based immigration system will apply to all non-UK citizens arriving in the UK from 1 January 2021, including those from the EEA or Switzerland. Most of the new immigration routes are now open for applications.
 
 ### Irish citizens
 
@@ -146,9 +143,9 @@ Irish citizens will continue to be able to enter, work and study in the UK as th
 
 ## Choosing the correct visa for your teaching job or teacher training course
 
-For teaching jobs in England, the main visa route is the ‘[skilled worker visa](https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#skilled-workers)’.
+For teaching jobs in England, the main visa route is the ‘[skilled worker visa](https://www.gov.uk/skilled-worker-visa)’.
 
-For teacher training in England, the main routes are either the ‘[student visa](https://www.gov.uk/student-visa)’ or the ‘[skilled worker visa](https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#skilled-workers)’.
+For teacher training in England, the main routes are either the ‘[student visa](https://www.gov.uk/student-visa)’ or the ‘[skilled worker visa](https://www.gov.uk/skilled-worker-visa)’.
 
 Depending on your personal circumstances, you may be eligible for [other visas](/international-candidates#other-visas) which allow you to work or study in the UK.
 
@@ -185,15 +182,17 @@ You’ll be able to apply for your visa if you:
 * have enough money to support yourself and pay for your course
 * [can speak, read, write, and understand English](https://www.gov.uk/student-visa/knowledge-of-english)
 
-Applying for a [skilled worker visa](https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#skilled-workers) for a salaried teacher training course, or to work as a teacher
+### Applying for a skilled worker visa for a salaried teacher training course, or to work as a teacher
 
-For a salaried teacher training course or to work as a teacher, you will need a skilled worker visa. Skilled worker visas are sponsored by Home Office licensed employers.
-For salaried teacher training
+For a salaried teacher training course or to work as a teacher, you will need a [skilled worker visa](https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#skilled-workers). Skilled worker visas are sponsored by Home Office licensed employers.
+
+### For salaried teacher training
 
 First, choose your teaching training provider using [Find postgraduate teacher training](https://www.gov.uk/find-postgraduate-teacher-training-courses).
 
 Then, contact your chosen teacher training provider to ask about the school where you’ll be employed during your training. The school must be a Home Office licensed employer sponsor – sponsors can help you apply for your visa.
-To work as a teacher
+
+### To work as a teacher
 
 First, search for teaching jobs using [Teaching Vacancies](https://teaching-vacancies.service.gov.uk/).
 
@@ -202,7 +201,7 @@ You’ll be able to apply for your skilled worker visa if:
 
 * you have an offer for a salaried training place or a teaching job with a school that is a licensed Home Office employer sponsor
 * you can speak, read, write, and understand English
-* your role pays at least: i) £20,480; or ii) the relevant minimum rate for teachers in the region of England where you are working or training – whichever is higher. Pro-rata rates will apply if you work part-time as long as you earn at least £20,480 per annum
+* your role pays at least: i) £20,480; or ii) the relevant minimum rate for teachers in the region of England where you are working or training – whichever is higher. If you work part-time, pro-rata rates will apply as long the salary is at least £20,480 per annum
 
 [Check minimum rates for teachers by region in England](/salaries-and-benefits).
 
@@ -214,11 +213,11 @@ If you are already an international student in the UK, you can apply for a [grad
 
 The graduate visa will allow you to study, work, or look for work in the UK for up to 2 years after completing your studies (3 years for PhD students), without a sponsor. This includes training as a teacher on a salaried or unsalaried initial teacher training course.
 
-You will be able to switch from a graduate visa to another visa (such as the [skilled worker visa](https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know#skilled-workers)) without having to leave the UK, if you meet the requirements for the new visa.
+You will be able to switch from a graduate visa to another visa (such as the [skilled worker visa](https://www.gov.uk/skilled-worker-visa) without having to leave the UK, if you meet the requirements for the new visa.
 
 ### The Youth Mobility Scheme visa
 
-The Youth Mobility Scheme    allows young people from Australia, Canada, Japan, Monaco, New Zealand, Hong Kong, Republic of Korea and Taiwan to come to the UK.
+The [Youth Mobility Scheme](https://www.gov.uk/youth-mobility) allows young people from Australia, Canada, Japan, Monaco, New Zealand, Hong Kong, Republic of Korea and Taiwan to come to the UK.
 
 You must be 18 to 30 years old to apply. If you are successful, you’ll be able to study or work in the UK without a sponsor. This includes working as a teacher or training as a teacher via either a salaried or unsalaried initial teacher training course.
 
