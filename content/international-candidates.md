@@ -111,7 +111,7 @@ International PhD students in Physics, Mathematics, English, Biology, Computer S
 
 ### Applying for the right visa
 
-[You should check to see if you need a visa to study in the UK](https://www.gov.uk/check-uk-visa). This will probably be a [student visa](/internationa-cnadidates#Choosing-the-correct-visa-for-your-teaching-job-or-teacher-training-course), although you may be eligible for other visas.
+[You should check to see if you need a visa to study in the UK](https://www.gov.uk/check-uk-visa). This will probably be a [student visa](#choosing-the-correct-visa-for-your-teaching-job-or-teacher-training-course), although you may be eligible for other visas.
 
 ### Get help
 
