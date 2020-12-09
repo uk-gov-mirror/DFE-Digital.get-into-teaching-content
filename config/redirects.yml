@@ -1,7 +1,9 @@
 redirects:
   # Guidance
-  "/ways-to-train-guidance": "/guidance/train-to-become-a-teacher"
-  "/train-to-become-a-teacher": "/guidance/train-to-become-a-teacher"
+  "/ways-to-train-guidance": "/guidance/train-to-teach-in-england"
+  "/train-to-become-a-teacher": "/guidance/train-to-teach-in-england"
+  "/guidance/become-a-teacher-in-england": "/guidance/train-to-teach-in-england"
+  "/guidance/train-to-become-a-teacher": "/guidance/train-to-teach-in-england"
 
   "/finance-guidance": "/guidance/financial-support-for-teacher-training"
   "/financial-support-for-teacher-training": "/guidance/financial-support-for-teacher-training"
