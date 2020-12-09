@@ -1,5 +1,5 @@
 ---
-title: Train to become a teacher
+title: Train to teach in England
 related_content:
   - name: "Initial teacher training (ITT): criteria and supporting advice"
     link: https://www.gov.uk/government/publications/initial-teacher-training-criteria/initial-teacher-training-itt-criteria-and-supporting-advice
