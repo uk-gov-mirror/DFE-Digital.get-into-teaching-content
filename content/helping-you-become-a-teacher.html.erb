@@ -1,53 +1,42 @@
 <% @front_matter = { title: "Helping you become a teacher", image: "/assets/images/international-dt.jpg" } %>
 
-
-<%= render "content/helping-you-become-a-teacher/intro" %>
-<%= render "content/helping-you-become-a-teacher/teaching-events" %>
-<%= render "content/helping-you-become-a-teacher/train-to-teach-events" %>
-
-<%= render CallsToAction::SimpleComponent.new(
-  title: "Train to teach events",
-  icon: "icon-calendar",
-  text: "Magnafusce posueredonec curaenam ataliquam. Potentised orcinullam. Tortorcras.",
-  link_text: "Find a Train to teach event",
-  link_target: "/events/category/train-to-teach-events",
-) %>
-
-<%= render "content/helping-you-become-a-teacher/online-events" %>
-
-<%= render CallsToAction::SimpleComponent.new(
-  title: "Online events",
-  icon: "icon-calendar",
-  text: "Magnafusce posueredonec curaenam ataliquam. Potentised orcinullam. Tortorcras.",
-  link_text: "Find an online event",
-  link_target: "/events/category/online-events",
-) %>
-
-<%= render "content/helping-you-become-a-teacher/school-and-university-events" %>
-
-<%= render CallsToAction::SimpleComponent.new(
-  icon: "icon-calendar",
-  text: "Magnafusce posueredonec curaenam ataliquam. Potentised orcinullam. Tortorcras.",
-  link_text: "Find a school or university event",
-  link_target: "/events/category/school-and-university-events",
+<%= render CallsToAction::MultipleButtonsComponent.new(
+  icon: "icon-person",
+  title: "Get support from us",
+  #text: "Whichever subject you are looking to teach, we’re here to help. Our wide range of services are completely free and designed to give you tailored advice on a career in teaching.",
+  links: {
+    "Get a teacher training adviser": "#teacher-training-advisers",
+    "Find out about events": "#teaching-events",
+    "Sign up for emails": "#email-updates",
+  }
 ) %>
 
 <%= render "content/helping-you-become-a-teacher/teacher-training-advisers" %>
 
 <%= render CallsToAction::SimpleComponent.new(
   icon: "icon-person",
-  text: "Magnafusce posueredonec curaenam ataliquam. Potentised orcinullam. Tortorcras.",
+  text: "Your personal teacher training adviser will help you become a teacher.",
   link_text: "Get an adviser",
   link_target: "/tta-service",
 ) %>
 
-<%= render "content/helping-you-become-a-teacher/coming-to-train-or-teach-in-the-uk" %>
+<%= render "content/helping-you-become-a-teacher/teaching-events" %>
+<%= render "content/helping-you-become-a-teacher/train-to-teach-events" %>
+<%= render "content/helping-you-become-a-teacher/online-events" %>
+<%= render "content/helping-you-become-a-teacher/school-and-university-events" %>
+
+<%= render CallsToAction::SimpleComponent.new(
+  icon: "icon-calendar",
+  text: "You can sign up to attend events run by schools and universities to find out what they have to offer.",
+  link_text: "Find a school or university event",
+  link_target: "/events/category/school-and-university-events",
+) %>
 
 <%= render "content/helping-you-become-a-teacher/email-updates" %>
 
 <%= render CallsToAction::SimpleComponent.new(
   icon: "arrow-icon",
-  text: "Magnafusce posueredonec curaenam ataliquam. Potentised orcinullam. Tortorcras.",
+  text: "Tell us a bit about yourself and we will send you advice on taking the next step.",
   link_text: "Get email updates",
   link_target: "/tta-service",
 ) %>
