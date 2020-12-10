@@ -1,4 +1,4 @@
-<% @front_matter = { title: "Hi" } %>
+<% @front_matter = { title: "Helping you become a teacher", image: "/assets/images/international-dt.jpg" } %>
 
 
 <%= render "content/helping-you-become-a-teacher/intro" %>
@@ -7,15 +7,32 @@
 
 <%= render "content/helping-you-become-a-teacher/train-to-teach-events" %>
 
-<p><mark>CTA: Find a Train to teach event</mark></p>
+<%= render CallsToAction::SimpleComponent.new(
+  title: "Train to teach events",
+  icon: "icon-calendar",
+  text: "Magnafusce posueredonec curaenam ataliquam. Potentised orcinullam. Tortorcras.",
+  link_text: "Find a Train to teach event",
+  link_target: "/events/category/train-to-teach-events",
+) %>
 
 <%= render "content/helping-you-become-a-teacher/online-events" %>
 
-<p><mark>CTA: Find an online event</mark></p>
+<%= render CallsToAction::SimpleComponent.new(
+  title: "Online events",
+  icon: "icon-calendar",
+  text: "Magnafusce posueredonec curaenam ataliquam. Potentised orcinullam. Tortorcras.",
+  link_text: "Find an online event",
+  link_target: "/events/category/online-events",
+) %>
 
 <%= render "content/helping-you-become-a-teacher/school-and-university-events" %>
 
-<p><mark>CTA: Find a School and university event</mark></p>
+<%= render CallsToAction::SimpleComponent.new(
+  icon: "icon-calendar",
+  text: "Magnafusce posueredonec curaenam ataliquam. Potentised orcinullam. Tortorcras.",
+  link_text: "Find a school or university event",
+  link_target: "/events/category/school-and-university-events",
+) %>
 
 <%= render "content/helping-you-become-a-teacher/teacher-training-advisers" %>
 
