@@ -508,72 +508,33 @@ Evidence can include:
 
 ### Subject knowledge enhancement courses
 
-Subject knowledge enhancement (SKE) courses are usually available if:
+If you've got the right qualities to teach but need to build up or refresh your subject knowledge, you can complete a subject knowledge enhancement (SKE) course.
 
-  - your degree wasn't in your chosen subject
+These courses are usually available if:
 
-<div class="application-notice info-notice" role="note" aria-label="Information">
-  <p>
-    Please note that SKE courses for candidates starting ITT in 2021/22 will
-    not be available at the start of the recruitment cycle from 1 October
-    2020.
-  </p>
+* your degree wasn’t in your chosen subject, but is closely related
+* you studied the subject at A level, but not at degree level 
+* you have an unrelated degree, but relevant professional knowledge in the subject
+* it's been some time since you used your degree knowledge
+* you studied for a languages degree but need a second language at an acceptable level for teaching in schools
 
-  <p>
-    We will confirm the approach to SKEs following completion of the
-    government's Spending Review.
-  </p>
+Schools or universities will identify your need for an SKE as part of their selection process, usually at interview. If they feel you need to enhance your knowledge, they'll offer you a teacher training place on the condition that you complete an SKE course.
 
-  <p>
-    Initial Teacher Training providers will be able to offer a teacher
-    training place under the condition of completing an SKE course, but you
-    won't be able to start one until funding and eligibility are confirmed
-    after the Spending Review has been completed.
-  </p>
+SKE courses are available in the following subjects:
 
-  <p>
-    You should note that a conditional offer does not guarantee a funded SKE
-    course will be available in your chosen subject.
-  </p>
-</div>
+* maths (including primary maths)
+* physics
+* chemistry
+* biology
+* computing
+* languages
+* English
+* design and technology
+* religious education
 
-If you’re applying to teach a subject different from that of your
-degree, your training provider may ask you to complete a subject
-knowledge enhancement course.
+###Delivery of SKE courses
 
-SKE courses can also be helpful if it’s been a while since you studied
-for your degree.
-
-Your training provider will ask you to complete a SKE course as a
-condition of taking up your offer of a teacher training place if they
-feel you need to enhance your subject knowledge.
-
-You won't have to pay for your SKE course and you may be eligible for a
-bursary.
-
-Your training provider will decide the course duration (between 8 and 28
-weeks). This will depend on the knowledge you need.
-
-SKE courses can be completed before or, in some cases, alongside your
-teacher training. They are available to study full-time or part-time,
-classroom-based or online.
-
-SKE courses are available in:
-
-  - biology
-  - chemistry
-  - computer studies
-  - design and technology
-  - English
-  - geography
-  - languages
-  - maths
-  - physics
-  - primary maths
-  - religious education
-
-If you’re concerned about your subject knowledge, discuss it with your
-potential training providers.
+SKE courses are usually available all over England at universities, schools, or with other organisations. They can be completed before, or alongside your teacher training and are available to study full-time or part-time, classroom-based or on-line. SKE is typically offered in ITT shortage subjects. The [SKE directory](https://www.gov.uk/government/publications/subject-knowledge-enhancement-course-directory) sets out what courses are provided.
 
 ### Teaching children with special educational needs and/or disabilities (SEND)
 
