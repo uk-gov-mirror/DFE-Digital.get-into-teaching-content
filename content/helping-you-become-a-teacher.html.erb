@@ -2,9 +2,7 @@
 
 
 <%= render "content/helping-you-become-a-teacher/intro" %>
-
 <%= render "content/helping-you-become-a-teacher/teaching-events" %>
-
 <%= render "content/helping-you-become-a-teacher/train-to-teach-events" %>
 
 <%= render CallsToAction::SimpleComponent.new(
@@ -36,10 +34,20 @@
 
 <%= render "content/helping-you-become-a-teacher/teacher-training-advisers" %>
 
-<p><mark>CTA: Get an adviser</mark></p>
+<%= render CallsToAction::SimpleComponent.new(
+  icon: "icon-person",
+  text: "Magnafusce posueredonec curaenam ataliquam. Potentised orcinullam. Tortorcras.",
+  link_text: "Get an adviser",
+  link_target: "/tta-service",
+) %>
 
 <%= render "content/helping-you-become-a-teacher/coming-to-train-or-teach-in-the-uk" %>
 
 <%= render "content/helping-you-become-a-teacher/email-updates" %>
 
-<p><mark>CTA: Email updates</mark></p>
+<%= render CallsToAction::SimpleComponent.new(
+  icon: "arrow-icon",
+  text: "Magnafusce posueredonec curaenam ataliquam. Potentised orcinullam. Tortorcras.",
+  link_text: "Get email updates",
+  link_target: "/tta-service",
+) %>
