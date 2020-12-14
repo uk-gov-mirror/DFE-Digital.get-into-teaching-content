@@ -1,20 +1,3 @@
----
-title: "Returning to teaching"
-image: "/assets/images/return-to-teaching-dt.jpg"
-backlink: "../../"
-jump_links:
-  Finding a role: "#finding-a-role"
-  Subject specific support: "#subject-specific-support-for-modern-foreign-languages-maths-or-physics"
-  Teachers who trained in England returning from overseas: "#teachers-who-trained-in-england-returning-from-overseas"
-  Improving the lives of teachers: "#improving-the-lives-of-teachers"
----
-
-If you’ve been out of teaching for a while, you may want to:
-
-* review the latest [Teachers’ Standards](https://www.gov.uk/government/publications/teachers-standards)
-* catch up on changes to the [national curriculum and qualifications](https://www.gov.uk/topic/schools-colleges-childrens-services/curriculum-qualifications)
-* read through current behaviour management guidelines – see the Department for Education’s [advice](https://www.gov.uk/government/publications/behaviour-and-discipline-in-schools)
-
 ## Finding a role
 
 [Search for a teaching role in England](https://teaching-vacancies.service.gov.uk/). You can set up job alerts so that you do not miss out on any opportunities.
@@ -27,53 +10,11 @@ Our return to teaching advisers can help with finding vacancies, reviewing your 
 
 For advice on returning to teaching, speak to a return to teaching adviser by using the [Get an adviser](/tta-service) service.
 
-### Information technology
-
-You can find out how up to date your information and communication technologies (ICT) skills are by completing an [ICT skills audit (PDF, 158KB)](/assets/documents/ICT_skills_audit_returners.pdf).
-
-### Useful resources
-
-* [Technology Pedagogy and Education Association](https://tpea.ac.uk/)
-* [learndirect](https://www.learndirect.com/) offers courses in basic ICT skills
-* some city learning centres offer ICT courses for teachers – [check your local council](https://www.gov.uk/find-local-council) for more details.
-
 ### National Tutoring Programme
 
 This provides two different options to return to a school environment without taking on a full-time or part-time classroom role.
 
 Find out [how to apply and get more information about 'Tuition Partners' and 'Academic Mentor' pillars of the National Tutoring Programme](https://nationaltutoring.org.uk/).
-
-## Subject specific support for Modern foreign languages, maths or physics
-
-If you're a returning teacher of secondary modern foreign languages, maths or physics, the Department for Education offers:
-
-* one-to-one support from a return to teaching adviser
-* help with arranging school experience
-* a review of your subject and pedagogical knowledge
-* access to a subject specialist training course to refresh your knowledge
-* information on vacancies in your local area
-* help with your application and interview tips
-
-For advice on returning to teaching, speak to a return to teaching adviser by using the [Get an adviser](/tta-service) service.
-
-### Further information and support
-
-* if you’re returning to teach maths or physics in a state-funded school in certain areas, [you could be eligible for a £2,000 payment after tax](https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/claim-a-payment-for-teaching-maths-or-physics-eligibility-and-payment-details)
-* returning science, languages and computing teachers in 25 local authorities may also be eligible to [claim back student loan repayments](https://www.gov.uk/government/publications/additional-payments-for-teaching-eligibility-and-payment-details/teachers-claim-back-your-student-loan-repayments-eligibility-and-payment-details)
-* if you’re returning to teach secondary maths, core maths, physics or languages and want to refresh your knowledge, you may be eligible for a [free subject specialist training course](https://www.gov.uk/guidance/teacher-subject-specialism-training-courses)
-
-
-### Specialist help for returning physics teachers
-
-The [Institute of Physics](https://www.iop.org/education) offers teaching resources.
-
-Visit the [Nuffield Foundation](https://spark.iop.org/practical-physics) for demonstrations of experiments for pupils up to the age of 19.
-
-If you’d like more information on what it’s like to teach physics today, you can also talk to other physics teachers at [TalkPhysics](https://www.talkphysics.org/), or follow them on Twitter via [@TakeOnPhysics](https://www.twitter.com/takeonphysics).
-
-### Specialist help for returning maths teachers
-
-The [National Centre for the Excellence in the Teaching of Mathematics (NCETM)](https://www.ncetm.org.uk/news-features/) offers [teaching resources](https://www.ncetm.org.uk/in-the-classroom/) around the maths you will be teaching.
 
 ## Support for returners identifying with protected characteristics
 
