@@ -11,6 +11,12 @@ right_column:
       link_text: "Sign up"
       link_target: "/events/advice-for-international-applicants-3"
       icon: "icon-calendar"
+    - title: Get support
+      text: |
+        Our expert advisers can offer you one-to-one support.
+      link_text: "Get an adviser today"
+      link_target: "/events/advice-for-international-applicants-3"
+      icon: "icon-person"
 ---
 
 ## Teaching or training to teach in England
