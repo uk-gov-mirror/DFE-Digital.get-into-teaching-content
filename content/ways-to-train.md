@@ -58,6 +58,20 @@
             link_target: https://www.gov.uk/find-postgraduate-teacher-training-courses
     content_before_accordion:
       partial: content/ways-to-train/content_before_accordion
-    content_after_accordion:
-      cta: next_steps
+  right_column:
+    ctas:
+      - title: Go to GOV.UK
+        text: |
+          There is more detailed guidance on GOV.UK on how to become a teacher in
+          England.
+        link_text: "Read more guidance"
+        link_target: "https://beta-getintoteaching.education.gov.uk/guidance/become-a-teacher-in-england"
+        icon: "arrow-icon"
+      - title: Get an adviser
+        text: |
+          Our teacher training advisers can help you prepare you select a
+          provider and complete your application successfully.
+        link_text: "Get an adviser today"
+        link_target: "/tta-service"
+        icon: "icon-person"
 ---
