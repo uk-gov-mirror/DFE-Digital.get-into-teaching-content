@@ -168,7 +168,7 @@ below.
 #### How to get a bursary
 
 If you're eligible for a bursary, and train in a subject where a bursary
-is available- you’ll receive it in instalments for the duration of your
+is available you’ll receive it in instalments for the duration of your
 training. You do not need to apply for a bursary.
 
 For advice about bursaries, you can chat online or talk to an adviser
