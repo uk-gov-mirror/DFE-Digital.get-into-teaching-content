@@ -157,15 +157,15 @@ below.
 
 ##### Subjects and amounts
 
-| Subject                                                                 | Bursary | Scholarship                                                         |
-| ----------------------------------------------------------------------- | ------- | ------------------------------------------------------------------- |
-| Chemistry                                                               | £24,000 | £26,000                                                             |
-| Computing                                                               | £24,000 | £26,000  |
-| Maths                                                                   | £24,000 | £26,000                                                             |
-| Physics                                                                 | £24,000 | £26,000                                                             |
-| Classics                                                       | £10,000 | N/A                                                             |
-| Languages                                                               | £10,000 | N/A                                                                 |
-| Biology                   | £7,000 | N/A                                                                 |
+| Subject       | Bursary | Scholarship     |
+| ------------- | ------- | --------------- |
+| Chemistry     | £24,000 | £26,000         |
+| Computing     | £24,000 | £26,000         |
+| Maths         | £24,000 | £26,000         |
+| Physics       | £24,000 | £26,000         |
+| Classics      | £10,000 | N/A             |
+| Languages     | £10,000 | N/A             |
+| Biology       | £7,000  | N/A             |
 
 #### How to get a bursary
 
