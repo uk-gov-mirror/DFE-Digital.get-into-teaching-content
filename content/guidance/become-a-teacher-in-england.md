@@ -141,7 +141,7 @@ For some subjects (maths, physics, chemistry and modern foreign
 languages), you’ll get [early career
 payments](https://www.gov.uk/guidance/early-career-payments-guidance-for-teachers-and-schools)
 in addition to a bursary or scholarship. You’ll receive a payment of
-£2,000 in your second, third and fourth years of teaching (£3 000 in
+£2,000 in your second, third and fourth years of teaching (£3,000 in
 some parts of England).
 
 Bursaries are worth up to £26,000 and awarded:
@@ -168,20 +168,13 @@ specialise in maths.
 
 | Subject                                                                 | Bursary | Scholarship                                                         |
 | ----------------------------------------------------------------------- | ------- | ------------------------------------------------------------------- |
-| Chemistry                                                               | £26,000 | £28,000                                                             |
-| Languages                                                               | £26,000 | £28,000 (scholarships available in French, German and Spanish only) |
-| Maths                                                                   | £26,000 | £28,000                                                             |
-| Physics                                                                 | £26,000 | £28,000                                                             |
-| Computer science                                                        | £26,000 | £28,000                                                             |
-| Biology                                                                 | £26,000 | N/A                                                                 |
-| Classics (if the course is in Latin or Ancient Greek)                   | £26,000 | N/A                                                                 |
-| Geography                                                               | £15,000 | £17,000                                                             |
-| Design and technology                                                   | £15,000 | N/A                                                                 |
-| English                                                                 | £12,000 | N/A                                                                 |
-| History, RE, business studies                                           | £9,000  | N/A                                                                 |
-| Art and design, music                                                   | £9,000  | N/A                                                                 |
-| Primary with maths (if you have maths A level at grade B or equivalent) | £6,000  | N/A                                                                 |
-
+| Chemistry                                                               | £24,000 | £26,000                                                             |
+| Computing                                                               | £24,000 | £26,000  |
+| Maths                                                                   | £24,000 | £26,000                                                             |
+| Physics                                                                 | £24,000 | £26,000                                                             |
+| Classics                                                       | £10,000 | N/A                                                             |
+| Languages                                                               | £10,000 | N/A                                                                 |
+| Biology                   | £7,000 | N/A                                                                 |
 
 #### How to get a bursary
 
@@ -440,7 +433,7 @@ training](https://www.find-postgraduate-teacher-training.service.gov.uk/start/su
 to see the full list of options.
 
 Or you could arrange to spend time in school to
-[get experience of different age groups.](https://schoolexperience.education.gov.uk/).
+[get experience of different age groups](https://schoolexperience.education.gov.uk/).
 
 ### Teaching under-fives
 
@@ -732,8 +725,6 @@ place on the programme, currently delivered by Teach First. You’ll
 train over 2 years by learning on the job, paid as an unqualified
 teacher and you will not pay tuition fees.
 
- 
-
 You’ll be placed into a school straight away and gain QTS in your first
 year and complete your Newly Qualified Teacher placement in year 2.
 You’ll also receive leadership training, which includes a fully-funded
@@ -776,8 +767,6 @@ must meet the eligibility requirements for teacher training - which
 includes a degree, and GCSEs (or a standard equivalent) in English,
 maths, and science for primary school teaching.
 
-Back to top
-
 ## Find a teacher training course
 
 ### Choose your teacher training provider
@@ -795,8 +784,6 @@ You can filter your results by:
   - age group
   - salaried or unsalaried
   - length of course
-
-Back to top
 
 ## Apply for teacher training
 
@@ -876,7 +863,7 @@ Give providers an insight into your personality by writing honestly and
 thoughtfully. Avoid cliché and write in clear, correct, concise English.
 
 To get help with personal statements from a teacher training adviser,
-[use the Get an adviser service.](/tta-service).
+[use the Get an adviser service](/tta-service).
 
 You don't have to cover everything in this list, but suggested topics
 include:
@@ -971,14 +958,9 @@ During this second round of applications, you apply to only one training
 provider at a time. However, you can apply to as many as you want,
 sequentially, until the end of the recruitment period.
 
-The recruitment period closes on 3 October 2020 for courses starting in
-2020, and re-opens a few weeks later for courses starting in 2021.
-
 So if you are unsuccessful, when recruitment reopens for the following
 year, you can start again, and apply to 3 training providers just as you
 did in the first round of applications.
-
-Back to top
 
 ## Get a job in teaching
 
@@ -989,14 +971,11 @@ service.
 The service is used by 70% of state schools in England. Search by
 location, subject, job title and salary and set up job alerts.
 
-Back to top
-
 ## Help and support
 
 ### Chat online
 
-Contact Get into
-Teaching’s live online chat service between 8.30am and 5pm, Monday to
+Contact Get into Teaching’s live online chat service between 8.30am and 5pm, Monday to
 Friday.
 
 ### Speak on the phone
@@ -1009,8 +988,6 @@ Speak to a teacher training adviser on the phone by calling freephone 0800 389
 [Get Into Teaching’s nationwide events](/events)
 are informal opportunities for you to get free expert advice about your
 next steps into teaching.
-
-Back to top
 
 ## Further support and information
 
