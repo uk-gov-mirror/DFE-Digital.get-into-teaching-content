@@ -427,7 +427,7 @@ candidates without a degree.
 
 You can train to teach:
 
-  - under-fives (also known as ‘early years’)
+  - under fives (also known as ‘early years’)
   - primary school children
   - primary school with a specialism (for example, English, modern
     languages or science)
@@ -442,14 +442,14 @@ to see the full list of options.
 Or you could arrange to spend time in school to
 [get experience of different age groups.](https://schoolexperience.education.gov.uk/).
 
-### Teaching under-fives
+### Teaching under fives
 
-If you choose to teach under-fives, you’ll need to apply for a
+If you choose to teach under fives, you’ll need to apply for a
 specialist teacher training course called Early Years Initial Teacher
 Training (EYITT).
 
 At the end of the course, you’ll gain Early Years Teacher Status and
-will be qualified to teach under-fives only.
+will be qualified to teach under fives only.
 
 <div class="application-notice info-notice" role="note" aria-label="Information">
   Please note these courses do not lead to Qualified Teacher Status (QTS).
