@@ -108,8 +108,6 @@ You’ll need an enhanced [Disclosure and Barring Service
 (DBS)](https://www.gov.uk/government/organisations/disclosure-and-barring-service)
 check if you intend to teach students under 18.
 
-Back to top
-
 ## Financial support for teacher training
 
 The level of financial support you get will depend on the subject you
@@ -313,8 +311,6 @@ student finance body.
 [Student Awards Agency Scotland](https://www.saas.gov.uk/)
 
 [Student Finance NI](https://www.studentfinanceni.co.uk/)
-
-Back to top
 
 ## Ways to train
 
