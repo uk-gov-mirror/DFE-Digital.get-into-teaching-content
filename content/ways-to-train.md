@@ -1,6 +1,6 @@
 ---
   title: "Ways to train"
-  image: "/assets/images/steps-hero-dt.jpg"
+  image: "/assets/images/international-dt.jpg"
   mobileimage: "/assets/images/steps-hero-mob.jpg"
   backlink: "../"
   navigation: 20
