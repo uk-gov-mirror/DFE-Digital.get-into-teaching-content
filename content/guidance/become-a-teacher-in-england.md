@@ -131,38 +131,29 @@ Years teacher, which leads to achieving Early Years Status (EYTS).
 ### Bursaries and scholarships
 
 Bursaries and scholarships are available for teacher training in certain
-subjects. A bursary or scholarship is a tax-free sum of money of £6,000
-to £28,000.
+subjects. A bursary or scholarship is a tax-free sum of money of £7,000
+to £26,000.
 
 If you get a bursary or are awarded a scholarship, you won’t have to pay
 it back. You can get either a bursary or a scholarship, not both.
 
-For some subjects (maths, physics, chemistry and modern foreign
-languages), you’ll get [early career
-payments](https://www.gov.uk/guidance/early-career-payments-guidance-for-teachers-and-schools)
-in addition to a bursary or scholarship. You’ll receive a payment of
-£2,000 in your second, third and fourth years of teaching (£3,000 in
-some parts of England).
-
-Bursaries are worth up to £26,000 and awarded:
+Bursaries are worth up to £24,000 and awarded:
 
   - if you meet the criteria
   - to candidates with a 2:2 or above in their undergraduate degree, a
     Masters or a PhD
   - in priority subjects
 
-Scholarships are worth up to £28,000 and awarded:
+Scholarships are worth up to £26,000 and awarded:
 
   - if your scholarship application is successful
-  - to candidates with a 2:1 or First in their undergraduate degree, a
-    Masters or a PhD
   - in priority subjects
+  - according to each of the professional bodies' own eligibility criteria
 
 #### Check which subjects have bursaries and scholarships
 
 Bursaries and scholarships are only available for the subjects listed
-below. Primary teacher training bursaries are only available if you
-specialise in maths.
+below. 
 
 ##### Subjects and amounts
 
