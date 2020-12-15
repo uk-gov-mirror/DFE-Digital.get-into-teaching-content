@@ -101,7 +101,7 @@ Learn more about unsalaried courses
 
 * unsalaried includes higher education institution programmes, school-centred initial teacher training (SCITT) programmes and the School Direct fee-funded programme
 
-[Learn more about ways to train in England](/guidance/train-to-become-a-teacher).
+[Learn more about ways to train in England](/guidance/become-a-teacher-in-england).
 
 ### Applying for a student visa for an unsalaried teacher training course
 
