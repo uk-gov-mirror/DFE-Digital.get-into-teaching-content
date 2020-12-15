@@ -73,13 +73,6 @@
 
   right_column:
     ctas:
-      - title: Become a teacher
-        text: |
-          There is more detailed guidance on GOV.UK on how to become a teacher in
-          England.
-        link_text: "Go to guidance"
-        link_target: "https://beta-getintoteaching.education.gov.uk/guidance/become-a-teacher-in-england"
-        icon: "arrow-icon"
       - title: Get an adviser
         text: |
           Our teacher training advisers can help you select a
