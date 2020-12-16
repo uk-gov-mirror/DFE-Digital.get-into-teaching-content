@@ -1,6 +1,6 @@
 ## Email updates
 
-Email updates full of important information and tips to help you:
+Email updates are full of important information and tips to help you:
 
 * make the best teacher training application
 * find out more about what teaching is like
