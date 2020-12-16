@@ -4,6 +4,8 @@ Events offer a brilliant opportunity to find out more about teacher training and
 
 ### Train to Teach events
 
+These are video conferences where you can see and speak to advisers and providers.
+
 At our free Train to Teach events you can get advice on every aspect of getting into teaching by speaking to our experts and a range of teacher training providers.
 
 You can find out everything you need to know about:
@@ -15,7 +17,7 @@ You can find out everything you need to know about:
 
 ### Online events
 
-Online teaching events are interactive sessions that offer a convenient way to engage directly with a panel of specialist advisers across a range of topics.
+In these online chatroom sessions our advisers answer questions about becoming a teacher. They are interactive and offer a convenient way to engage directly with a panel of specialist advisers across a range of topics.
 
 You can get your questions answered within minutes and see what matters to other potential trainee teachers too. Joining a conversation is easy, remember to check in regularly to see what discussions we’ve got lined up.
 
