@@ -7,19 +7,6 @@
   lid_pixel_event: "WaysToTrain"
   accordion:
     steps:
-      Postgraduate Certificate in Education (PGCE):
-        partial: content/ways-to-train/pgce
-        cta:
-          name: simple
-          arguments:
-            title: Find postgraduate teacher training
-            text: |
-              Find postgraduate teaching courses in England if you want to
-              teach in a state primary or secondary school, or in further
-              education.
-            icon: "arrow-icon"
-            link_text: Search for postgraduate teacher training
-            link_target: https://www.gov.uk/find-postgraduate-teacher-training-courses
       School Direct:
         partial: content/ways-to-train/school_direct
         cta:
@@ -56,28 +43,21 @@
             link_text: Go to Teach First
             link_target: https://www.teachfirst.org.uk/training-programme
             icon: arrow-icon
+      Postgraduate Certificate in Education (PGCE):
+        partial: content/ways-to-train/pgce
+        cta:
+          name: simple
+          arguments:
+            title: Find postgraduate teacher training
+            text: |
+              Find postgraduate teaching courses in England if you want to
+              teach in a state primary or secondary school, or in further
+              education.
+            icon: "arrow-icon"
+            link_text: Search for postgraduate teacher training
+            link_target: https://www.gov.uk/find-postgraduate-teacher-training-courses
     content_before_accordion:
       partial: content/ways-to-train/content_before_accordion
     content_after_accordion:
-      partial: content/ways-to-train/content_after_accordion
-      cta:
-        name: simple
-        arguments:
-          title: Become a teacher
-          text: |
-            There is more detailed guidance on GOV.UK on how to become a
-            teacher in England.
-          link_text: Go to guidance
-          link_target: http://localhost:3000/guidance/become-a-teacher-in-england
-          icon: arrow-icon
-
-  right_column:
-    ctas:
-      - title: Get an adviser
-        text: |
-          Our teacher training advisers can help you select a
-          provider and complete your application successfully.
-        link_text: "Get an adviser today"
-        link_target: "/tta-service"
-        icon: "icon-person"
+      cta: next_steps
 ---

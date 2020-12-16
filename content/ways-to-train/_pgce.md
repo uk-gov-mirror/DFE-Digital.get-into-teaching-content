@@ -1,4 +1,4 @@
-This is a type of qualification offered by School-centred initial teacher training (SCITT) providers and Universities. Other types of training providers, who offer salaried training options, may also offer a PGCE qualification.
+This is a type of qualification offered by School-centred initial teacher training (SCITT) providers and Universities.
 
 The majority of postgraduate teacher training courses are made up of:
 
