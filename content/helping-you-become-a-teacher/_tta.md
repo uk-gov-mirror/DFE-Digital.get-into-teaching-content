@@ -9,4 +9,4 @@ Your teacher training adviser will:
 * offer support when you write your personal statement and to prepare for interviews
 * help you find out about and apply for financial support
 
-Whatever support you need, your adviser will be just a phone call, text or email away. Find out how recent trainees benefited from using our personalised adviser service.
+Whatever support you need, your adviser will be just a phone call, text or email away.
