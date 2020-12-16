@@ -8,4 +8,4 @@ Open to all graduates and funded in a similar way to a university or SCITT led c
 
 Typically for graduates with career experience. The trainee is employed and paid as an unqualified teacher by the school. The school might receive funding to finance this The salary awarded will differ between schools. School Direct salaried courses do not offer bursaries, scholarships or student finance.
 
-Both School Direct options lead to Qualified Teacher Status.
+Both School Direct options lead to Qualified Teacher Status, most lead to a Postgraduate Certificate in Education.
