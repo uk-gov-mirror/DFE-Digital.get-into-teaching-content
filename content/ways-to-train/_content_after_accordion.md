@@ -1,11 +1,7 @@
-If you have a degree you can search for postgraduate teacher training courses using the GOV.UK service.
+### Things to consider
 
-You can find out details such as:
+There may also be a difference in the final qualification you receive depending on which school or training provider you select and the type of training they provide.
 
-* the cost
-* how the course is structured
-* financial support available
-* entry requirements
-* how to apply
+For all training options you will spend time gaining classroom experience, a minimum of 24 weeks in 2 schools. As trainee or newly qualified teacher, you’ll have support, including a mentor to build your confidence and teaching skills.
 
-We can help you to find a provider and apply.
+You may be eligible for funding to pay for course fees and support with living costs whilst in training.
