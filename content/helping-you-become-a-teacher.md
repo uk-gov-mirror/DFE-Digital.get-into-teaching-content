@@ -6,6 +6,7 @@
     Events: "#events"
     Email updates: "#email-updates"
   content:
+    - content/helping-you-become-a-teacher/intro
     - content/helping-you-become-a-teacher/tta
     - content/helping-you-become-a-teacher/tta-cta
     - content/helping-you-become-a-teacher/events
