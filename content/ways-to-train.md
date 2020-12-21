@@ -9,8 +9,8 @@
     ctas:
       - title: Get an adviser
         text: |
-          Our teacher training advisers can help you select a
-          provider and complete your application successfully.
+          Our teacher training advisers can help you find the right training
+          option and support you with your application.
         link_text: "Get an adviser today"
         link_target: "/tta-service"
         icon: "icon-person"
