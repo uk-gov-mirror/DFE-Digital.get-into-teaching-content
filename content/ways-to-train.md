@@ -5,6 +5,15 @@
   backlink: "../"
   navigation: 20
   lid_pixel_event: "WaysToTrain"
+  right_column:
+    ctas:
+      - title: Get an adviser
+        text: |
+          Our teacher training advisers can help you select a
+          provider and complete your application successfully.
+        link_text: "Get an adviser today"
+        link_target: "/tta-service"
+        icon: "icon-person"
   accordion:
     steps:
       Postgraduate Certificate in Education (PGCE):
