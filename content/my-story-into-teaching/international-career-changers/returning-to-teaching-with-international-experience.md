@@ -20,7 +20,7 @@ more_stories:
     image: /assets/images/stories/stories-helen.jpg
     link: /my-story-into-teaching/career-progression/lawyer-to-assistant-teacher
 more_information:
-  link: /international-students
+  link: /international-candidates
   text: International candidates information
 build_layout_from_frontmatter: true
 ---
