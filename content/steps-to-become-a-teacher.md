@@ -7,6 +7,7 @@
   lid_pixel_event: "Steps"
   accordion:
     numbered: true
+    active_step: 1
     steps:
       Check your qualifications:
         partial: content/steps-to-become-a-teacher/check_your_qualifications
