@@ -6,7 +6,6 @@ content:
   - content/returning-to-teaching/intro
   - content/returning-to-teaching/intro-cta
   - content/returning-to-teaching/finding-a-role
-  - content/returning-to-teaching/subject-specific-support
   - content/returning-to-teaching/support-for-returners-with-protected-characteristics
   - content/returning-to-teaching/improving-the-lives-of-teachers
 

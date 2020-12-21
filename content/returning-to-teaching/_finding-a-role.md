@@ -10,16 +10,6 @@ Our return to teaching advisers can help with finding vacancies, reviewing your 
 
 For advice on returning to teaching, speak to a return to teaching adviser by using the [Get an adviser](/tta-service) service.
 
-### Information technology
-
-You can find out how up to date your information and communication technologies (ICT) skills are by completing an [ICT skills audit (PDF, 158KB)](/assets/documents/ICT_skills_audit_returners.pdf).
-
-### Useful resources
-
-* [Technology Pedagogy and Education Association](https://tpea.ac.uk/)
-* [learndirect](https://www.learndirect.com/) offers courses in basic ICT skills
-* some city learning centres offer ICT courses for teachers – [check your local council](https://www.gov.uk/find-local-council) for more details.
-
 ### National Tutoring Programme
 
 This provides two different options to return to a school environment without taking on a full-time or part-time classroom role.
