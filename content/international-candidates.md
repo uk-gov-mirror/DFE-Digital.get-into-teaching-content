@@ -43,17 +43,13 @@ Outside the state school sector, ‘private schools’ or ‘independent schools
 
 If you are qualified to teach in one of these countries, you can apply to the UK's Teaching Regulation Agency for QTS.
 
-Your application may take up to 4 months to process, but you will not need to do any further teacher training to get QTS.
-
-[Different rules apply if you are a national of one of the countries listed here, but have teaching qualifications from another country](https://www.gov.uk/guidance/qualified-teacher-status-qts#teachers-from-the-eu-iceland-liechtenstein-norway-or-switzerland).
-
-Apply to the Teaching Regulation Agency for QTS
+Your application may take up to 4 months to process, but you will not need to do any further teacher training to get QTS. 
 
 ### Assessment only QTS for teachers who qualified in other countries
 
 Teachers from outside [the EEA](https://www.gov.uk/eu-eea), Australia, Canada, New Zealand, Switzerland and the USA can apply for assessment only QTS.
 
-[Learn how to apply for QTS if you trained outside the](https://www.gov.uk/guidance/qualified-teacher-status-qts).
+[Learn how to apply for QTS if you trained outside one of these countries](https://www.gov.uk/guidance/qualified-teacher-status-qts).
 
 #### Applying for the right visa
 
@@ -72,12 +68,7 @@ If you qualified as a teacher of maths, physics, computer science, general scien
 * help settling in to the English education system
 * continuing professional development
 
-Contact one of these UK-government approved teaching recruitment agencies for more details:
-
-* [Point to Point Education](https://www.pointtopointeducation.com/department-for-education-endorsement/)
-* [Prospero Teaching](https://prosperoteaching.com/campaigns/teachuk/)
-* [Quantum Scholars](https://www.quantum-scholars.co.uk/)
-* [Randstad Education](https://www.randstad.co.uk/job-seeker/areas-of-expertise/education/)
+Details of how to register with one of our recruitment agencies will be available soon.
 
 ## How to apply to train to teach in England
 
@@ -125,21 +116,21 @@ Not all training providers can accept international candidates. You should conta
 
 ## How to apply for a visa which allows you to work or study in the UK
 
-From 1 January 2021, the UK is introducing a new [points-based immigration system](https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know).
+The UK introduced a [points-based immigration system](https://www.gov.uk/guidance/new-immigration-system-what-you-need-to-know) on 1 January 2021.
 
 ### EU Settlement Scheme
 
-If you are a citizen of a country inside the [European Economic Area](https://www.gov.uk/eu-eea) (EEA) or Switzerland, living in the UK by 31 December 2020, you can apply to the [EU Settlement Scheme](https://www.gov.uk/settled-status-eu-citizens-families).
+If you are a citizen of a country inside the [European Economic Area](https://www.gov.uk/eu-eea) (EEA) or Switzerland, and were living in the UK before 31 December 2020, you can apply to the [EU Settlement Scheme](https://www.gov.uk/settled-status-eu-citizens-families).
 
 If your application is successful, you can continue to live, work and study in the UK after 30 June 2021. You will not need to use the points-based immigration system explained here.
 
 ### Changes to the UK’s immigration system
 
-The new points-based immigration system will apply to all non-UK citizens arriving in the UK from 1 January 2021, including those from the EEA or Switzerland. Most of the new immigration routes are now open for applications.
+The points-based immigration system applies to all non-UK citizens arriving in the UK from 1 January 2021, including those from the EEA or Switzerland. 
 
 ### Irish citizens
 
-Irish citizens will continue to be able to enter, work and study in the UK as they do now.
+Irish citizens can continue to enter, work and study in the UK under the [Commmon Travel Area](https://www.gov.uk/government/publications/common-travel-area-guidance/common-travel-area-guidance) as they did previously. 
 
 ## Choosing the correct visa for your teaching job or teacher training course
 
