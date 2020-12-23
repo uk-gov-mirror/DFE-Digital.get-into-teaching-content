@@ -43,7 +43,7 @@
               becoming a teacher.
             link_text: Sign up for an adviser
             link_target: /tta-service
-            icon: icon-arrow
+            icon: icon-person
       Teach First:
         partial: content/ways-to-train/teach_first
         cta:
