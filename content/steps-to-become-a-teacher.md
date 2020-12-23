@@ -31,7 +31,7 @@
           arguments:
             title: Get school experience
             text: Get a taste of school life, search for school experience near you or online.
-            icon: "arrow-icon"
+            icon: "icon-arrow"
             link_text: Search for school experience
             link_target: https://schoolexperience.education.gov.uk/
       Ways to train:
@@ -43,7 +43,7 @@
             text: |
               There are 2 main ways to train: on the job as an unqualified
               teacher or as a student.
-            icon: "arrow-icon"
+            icon: "icon-arrow"
             link_text: Find out more
             link_target: /ways-to-train
       Find and apply for teacher training:
@@ -56,7 +56,7 @@
               Find postgraduate teaching courses in England if you want to
               teach in a state primary or secondary school, or in further
               education.
-            icon: "arrow-icon"
+            icon: "icon-arrow"
             link_text: Search for postgraduate teacher training
             link_target: https://www.gov.uk/find-postgraduate-teacher-training-courses
     content_after_accordion:
