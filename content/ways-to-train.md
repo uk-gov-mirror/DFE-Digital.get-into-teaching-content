@@ -17,7 +17,7 @@
               Find postgraduate teaching courses in England if you want to
               teach in a state primary or secondary school, or in further
               education.
-            icon: "arrow-icon"
+            icon: "icon-arrow"
             link_text: Search for postgraduate teacher training
             link_target: https://www.gov.uk/find-postgraduate-teacher-training-courses
       School Direct:
@@ -43,7 +43,7 @@
               becoming a teacher.
             link_text: Sign up for an adviser
             link_target: /tta-service
-            icon: arrow-icon
+            icon: icon-person
       Teach First:
         partial: content/ways-to-train/teach_first
         cta:
@@ -55,7 +55,7 @@
               programme on their website.
             link_text: Go to Teach First
             link_target: https://www.teachfirst.org.uk/training-programme
-            icon: arrow-icon
+            icon: icon-arrow
     content_before_accordion:
       partial: content/ways-to-train/content_before_accordion
     content_after_accordion:
@@ -67,5 +67,5 @@
           text: Read more detailed guidance on GOV.UK on how to become a teacher in England.
           link_text: Find out more
           link_target: /guidance/become-a-teacher-in-england
-          icon: arrow-icon
+          icon: icon-arrow
 ---
