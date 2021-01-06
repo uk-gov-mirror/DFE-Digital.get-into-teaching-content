@@ -1,5 +1,7 @@
-<div class="content-cta">
-  <h2>Do you want to return to teaching?</h2>
-  <p>Find out what's new and how to apply.</p>
-  <a href="/returning-to-teaching" class="call-to-action-button">Returning to <span>teaching</span></a>
-</div>
+<%= render CallsToAction::SimpleComponent.new(
+  title: "Do you want to return to teaching?",
+  text: "Find out what's new and how to apply.",
+  link_text: "Returning to teaching",
+  link_target: "/returning-to-teaching",
+  icon: "icon-arrow"
+) %>
