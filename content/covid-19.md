@@ -17,6 +17,8 @@ If you are an ITT provider, and have further urgent questions, please [email our
 
 If you are a current trainee teacher and have questions about your course, please contact your provider. This also applies if you are on an assessment only route.
 
+ITT is covered in the [updated guidance for schools](https://www.gov.uk/government/publications/actions-for-schools-during-the-coronavirus-outbreak#school-workforce).
+
 ## Advice for applicants
 
 #### Do I need to have school experience?
