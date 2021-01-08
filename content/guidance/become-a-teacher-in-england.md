@@ -1,21 +1,15 @@
 ---
 title: Become a teacher in England
 related_content:
-  - name: "Initial teacher training (ITT): criteria and supporting advice"
-    link: https://www.gov.uk/government/publications/initial-teacher-training-criteria/initial-teacher-training-itt-criteria-and-supporting-advice
-  - name: Find postgraduate teacher training courses
-    link: https://www.gov.uk/find-postgraduate-teacher-training-courses
-  - name: Apply for teacher training in England
-    link: https://www.gov.uk/apply-for-teacher-training
-  - name: Teacher training funding
-    link: https://www.gov.uk/teacher-training-funding
-  - name: "Early years initial teacher training: 2020 to 2021 funding guidance"
-    link: https://www.gov.uk/guidance/early-years-initial-teacher-training-2020-to-2021-funding-guidance
-  - name: "Qualified teacher status (QTS): qualify to teach in England"
-    link: https://www.gov.uk/guidance/qualified-teacher-status-qts
+  "Initial teacher training (ITT): criteria and supporting advice": https://www.gov.uk/government/publications/initial-teacher-training-criteria/initial-teacher-training-itt-criteria-and-supporting-advice
+  Find postgraduate teacher training courses: https://www.gov.uk/find-postgraduate-teacher-training-courses
+  Apply for teacher training in England: https://www.gov.uk/apply-for-teacher-training
+  Teacher training funding: https://www.gov.uk/teacher-training-funding
+  "Early years initial teacher training: 2020 to 2021 funding guidance": https://www.gov.uk/guidance/early-years-initial-teacher-training-2020-to-2021-funding-guidance
+  "Qualified teacher status (QTS): qualify to teach in England": https://www.gov.uk/guidance/qualified-teacher-status-qts
 ---
 
-Contents
+## Contents
 
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
