@@ -18,6 +18,4 @@ content:
   - content/guidance/financial-support-for-teacher-training/tuition-fees-and-maintenance-loans
   - content/guidance/financial-support-for-teacher-training/parents-and-carers
   - content/guidance/financial-support-for-teacher-training/disabled-students
-  - content/guidance/financial-support-for-teacher-training/find-an-event
-  - content/guidance/financial-support-for-teacher-training/contact-and-support
 ---
