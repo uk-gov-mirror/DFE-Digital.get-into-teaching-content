@@ -9,13 +9,6 @@ related_content:
   "Qualified teacher status (QTS): qualify to teach in England": https://www.gov.uk/guidance/qualified-teacher-status-qts
 ---
 
-## Contents
-
-* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
-{:toc}
-
-## Introduction
-
 This page explains what you’ll need to become a teacher in England.
 
 The routes to teacher training in other parts of the UK are different –
@@ -23,6 +16,11 @@ learn more about teacher training in [Northern
 Ireland](https://www.education-ni.gov.uk/articles/initial-teacher-education-courses-northern-ireland),
 [Scotland](https://teachinscotland.scot/) and
 [Wales](https://www.discoverteaching.wales/routes-into-teaching/).
+
+### Contents
+
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
 
 ## Learn more about life as a teacher
 

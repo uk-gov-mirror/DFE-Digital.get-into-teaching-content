@@ -1,5 +1,3 @@
-## Introduction
-
 The level of financial support you get will depend on the subject you
 choose and the way you train to become a teacher.
 
