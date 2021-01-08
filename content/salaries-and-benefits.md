@@ -25,7 +25,9 @@ As you progress in your teaching career, it's possible to move up through these 
 
 ## Leading practitioners
 
-Leading practitioners share their skills with other teachers. In this role you could earn between £42,402 and £72,480 depending on where you teach.
+A Leading Practitioner is an excellent and highly skilled teacher who consistently demonstrates the highest standards of classroom practice. They share their skills and experience through the coaching, mentoring and induction of teachers, including trainees and newly qualified teachers (NQTs). 
+
+In this role you could earn between £42,402 and £72,480 depending on where you teach.
 
 * England and Wales (excluding London and fringes) - between £42,402 and £64,461
 * London fringe - between £43,570 and £65,631
