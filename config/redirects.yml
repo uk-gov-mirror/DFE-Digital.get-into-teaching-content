@@ -60,3 +60,6 @@ redirects:
   "/life-as-a-teacher/my-story-into-teaching/teacher-training-stories/salaried-teacher-training-classroom-learning": "/my-story-into-teaching/teacher-training-stories/salaried-teacher-training-classroom-learning"
   "/life-as-a-teacher/my-story-into-teaching/teacher-training-stories/teacher-training-its-worth-it": "/my-story-into-teaching/teacher-training-stories/teacher-training-its-worth-it"
   "/life-as-a-teacher/my-story-into-teaching/teacher-training-stories/why-dont-you-teach-miss": "/my-story-into-teaching/teacher-training-stories/why-dont-you-teach-miss"
+
+  # slides
+  "/slides": "/presentations"
