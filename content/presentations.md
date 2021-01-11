@@ -18,8 +18,9 @@ This presentation covers:
 - What do I need to train to teach?
 - Advice and support from Teacher Training Advisers
 
-<a href="/assets/documents/train-to-teach-and-support.pdf" class="call-to-action-button">
-    Train to Teach and Support <span>slides</span>
+<a href="/assets/documents/train-to-teach-and-support.pdf" class="call-to-action-icon-button">
+    Train to Teach and Support slides
+    <i class="fas fa-file-pdf"></i>
 </a>
 
 ## Ready to Apply?
@@ -31,7 +32,8 @@ This presentation covers:
 - Your application, including personal statement, work and school experience statements and references
 - Interviews
 
-<a href="/assets/documents/ready-to-apply.pdf" class="call-to-action-button">
-    Ready to Apply <span>slides</span>
+<a href="/assets/documents/ready-to-apply.pdf" class="call-to-action-icon-button">
+    Ready to Apply slides
+    <i class="fas fa-file-pdf"></i>
 </a>
 
