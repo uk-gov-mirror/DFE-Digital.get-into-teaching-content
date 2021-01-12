@@ -3,7 +3,7 @@
   image: /assets/images/international-dt.jpg
 ---
 
-### Get free one-to-one advice from a teacher training adviser
+## Get free one-to-one advice from a teacher training adviser
 
 All our teacher training advisers are experienced teachers who can provide you with support through the whole process of preparing and applying for teacher training.
 
@@ -16,15 +16,15 @@ Advisers can:
 
 Whatever you need, your adviser will be just a phone call, text, or email away.
 
-Button: Get an adviser
+<a class="call-to-action-button" href="/tta-service"><span>Get an adviser</span></a>
 
-### Speak to real teachers at a teaching event
+## Speak to real teachers at a teaching event
 
 Chat with real teachers, experts and training providers about every aspect of teaching and teacher training at an event. There are a variety of events available that cover everything from funding your training, what a career in teaching is really like, to submitting a successful application.
 
-Button: Find an event
+<a class="call-to-action-button" href="/events"><span>Find an event</span></a>
 
-### Receive personalised email updates and tips
+## Receive personalised email updates and tips
 
 Get personalised information straight to your inbox with everything you need to know about getting into teaching, including:
 
@@ -34,4 +34,4 @@ Get personalised information straight to your inbox with everything you need to 
 * how to take your next step to becoming a teacher
 * where your teaching career could take you
 
-Button: Get email updates
+<a class="call-to-action-button" href="/mailinglist/signup"><span>Get email updates</span></a>
