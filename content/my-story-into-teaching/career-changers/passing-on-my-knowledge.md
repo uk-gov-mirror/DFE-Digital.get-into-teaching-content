@@ -4,7 +4,7 @@ image: /assets/images/stories/stories-amy.jpg
 backlink: "./"
 backlink_text: Career changers' stories
 story:
-  teacher: Amy Salwey,
+  teacher: Amy Salwey
   position: career changer
 more_stories:
   - name: Zainab
