@@ -1,7 +1,6 @@
 ---
 title: Financial support for teacher training
 related_content:
-  "Initial teacher training (ITT): criteria and supporting advice": https://www.gov.uk/government/publications/initial-teacher-training-criteria/initial-teacher-training-itt-criteria-and-supporting-advice
   Find postgraduate teacher training courses: https://www.gov.uk/find-postgraduate-teacher-training-courses
   Apply for teacher training in England: https://www.gov.uk/apply-for-teacher-training
   Teacher training funding: https://www.gov.uk/teacher-training-funding

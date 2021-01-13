@@ -1,11 +1,9 @@
 ---
 title: Become a teacher in England
 related_content:
-  "Initial teacher training (ITT): criteria and supporting advice": https://www.gov.uk/government/publications/initial-teacher-training-criteria/initial-teacher-training-itt-criteria-and-supporting-advice
   Find postgraduate teacher training courses: https://www.gov.uk/find-postgraduate-teacher-training-courses
   Apply for teacher training in England: https://www.gov.uk/apply-for-teacher-training
   Teacher training funding: https://www.gov.uk/teacher-training-funding
-  "Early years initial teacher training: 2020 to 2021 funding guidance": https://www.gov.uk/guidance/early-years-initial-teacher-training-2020-to-2021-funding-guidance
   "Qualified teacher status (QTS): qualify to teach in England": https://www.gov.uk/guidance/qualified-teacher-status-qts
 ---
 
