@@ -43,6 +43,10 @@ There is no requirement for a face-to-face interview. These can take place elect
 
 Applicants should wait to be contacted by the providers for specific guidance.
 
+#### I am studying a GCSE in maths/English/science to be eligible to start ITT later in 2021, however GCSE exams have been cancelled. What should I do?
+
+Details on assessment for GCSEs in summer 2021 are due to be confirmed after consultation in the spring term. In the meantime you should speak to your chosen training provider to discuss your situation.
+
 #### Are the planned Train To Teach events going ahead?
 
 Spring events have now been confirmed, please check the [events page](/events) for more information.
