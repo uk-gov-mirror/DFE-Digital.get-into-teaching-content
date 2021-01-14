@@ -1,0 +1,1 @@
+To teach in a state school in England, you must have a degree, and gain Qualified Teacher Status (QTS). There are a number of ways to gain QTS, such as completion of postgraduate initial teacher training (ITT) or a degree course with QTS included.
