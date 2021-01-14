@@ -73,7 +73,7 @@
         name: simple
         arguments:
           title: Become a teacher
-          text: Read more detailed guidance on GOV.UK on how to become a teacher in England.
+          text: Read more detailed guidance on how to become a teacher in England.
           link_text: Find out more
           link_target: /guidance/become-a-teacher-in-england
           icon: icon-arrow
