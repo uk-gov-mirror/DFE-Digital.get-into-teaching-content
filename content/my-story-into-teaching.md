@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/landing"
 title: My story into teaching
 image: /assets/images/my-story-hero-dt.jpg
 mobileimage: /assets/images/my-story-hero-mob.jpg

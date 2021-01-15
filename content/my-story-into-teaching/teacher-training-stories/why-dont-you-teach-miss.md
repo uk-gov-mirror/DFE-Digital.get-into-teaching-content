@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: Why don't you teach, Miss?
 image: /assets/images/stories/stories-emma.jpg
 backlink: "./"

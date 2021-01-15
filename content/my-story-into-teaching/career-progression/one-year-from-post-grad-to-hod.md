@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: One year from Post Grad to head of department
 image: /assets/images/stories/stories-owen.jpg
 backlink: "./"

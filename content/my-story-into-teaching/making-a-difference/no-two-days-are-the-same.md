@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: No two days are the same
 image: /assets/images/stories/stories-gavin.jpg
 backlink: "./"

@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: Getting our 'geek' on - kids coding
 image: /assets/images/stories/stories-tarik.jpg
 backlink: "./"

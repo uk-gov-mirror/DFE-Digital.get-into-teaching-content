@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: From developing software to developing students
 image: /assets/images/stories/stories-steven.jpg
 backlink: "./"

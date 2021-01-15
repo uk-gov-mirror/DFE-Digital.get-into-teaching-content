@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: From NQT to head of biology in 2 years
 image: /assets/images/stories/stories-sarah-f.jpg
 backlink: "./"

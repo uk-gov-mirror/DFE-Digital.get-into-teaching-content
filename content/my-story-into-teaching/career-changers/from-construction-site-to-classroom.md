@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: From construction site to classroom
 image: /assets/images/stories/stories-julia.jpg
 backlink: "./"

@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: Make a difference to young people
 image: /assets/images/stories/stories-sarah.jpg
 backlink: "./"

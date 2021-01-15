@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: Going back and giving back
 image: /assets/images/stories/stories-sandra.jpg
 backlink: "./"

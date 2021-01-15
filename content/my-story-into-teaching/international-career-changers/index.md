@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/list"
 title: "International career changers"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"

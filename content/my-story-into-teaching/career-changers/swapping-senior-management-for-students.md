@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: Swapping senior management for students
 image: /assets/images/stories/stories-karen.jpg
 backlink: "./"

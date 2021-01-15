@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: Turning a tough lesson into a success
 image: /assets/images/stories/stories-danny.jpg
 backlink: "./"

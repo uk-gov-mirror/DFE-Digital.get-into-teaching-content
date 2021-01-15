@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: Natural transition from engineering to teaching physics
 image: /assets/images/stories/stories-roger.jpg
 backlink: "./"

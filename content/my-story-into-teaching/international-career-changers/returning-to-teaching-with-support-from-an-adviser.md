@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: Returning to teaching with support from an adviser
 image: /assets/images/stories/stories-shaun.jpg
 backlink: "./"

@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/list"
 title: "Making a difference"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"
