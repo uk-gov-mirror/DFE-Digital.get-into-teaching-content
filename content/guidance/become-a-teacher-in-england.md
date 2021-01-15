@@ -20,19 +20,6 @@ Ireland](https://www.education-ni.gov.uk/articles/initial-teacher-education-cour
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
 
-## Learn more about life as a teacher
-
-If you're considering a career in teaching, the Department for
-Education’s [Get into Teaching](/) offers an overview of how you can
-become a teacher.
-
-You’ll find case studies and information about career progression,
-salaries and ways to fund your teacher training.
-
-You’ll also be able to sign up for events, ask questions using online
-chat or phone and get personalised support from a teacher training
-adviser.
-
 ## What you’ll need to start teacher training
 
 ### Qualifications
@@ -947,26 +934,3 @@ service.
 
 The service is used by 70% of state schools in England. Search by
 location, subject, job title and salary and set up job alerts.
-
-## Help and support
-
-### Chat online
-
-Contact Get into Teaching’s live online chat service between 8.30am and 5pm, Monday to
-Friday.
-
-### Speak on the phone
-
-Speak to a teacher training adviser on the phone by calling freephone 0800 389
-2501 between 8.30am and 5pm, Monday to Friday.
-
-### Find an event near you
-
-[Get Into Teaching’s nationwide events](/events)
-are informal opportunities for you to get free expert advice about your
-next steps into teaching.
-
-## Further support and information
-
-Send an email to: <getintoteaching.helpdesk@education.gov.uk> or call
-Freephone 0800 389 2501.
