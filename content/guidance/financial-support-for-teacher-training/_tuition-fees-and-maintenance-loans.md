@@ -22,9 +22,8 @@ to find out how much you can get.
 You are only required to make repayments on your loan if you took it
 out:
 
-after 1 September 2012 and you are earning over £26,575
-
-before 1 September 2012 and you are earning over £19,390
+  - after 1 September 2012 and you are earning over £26,575
+  - before 1 September 2012 and you are earning over £19,390
 
 Your repayments will not increase if you take out another loan for
 teacher training.
