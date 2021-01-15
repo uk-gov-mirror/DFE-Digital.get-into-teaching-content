@@ -1,4 +1,5 @@
 ---
+  layout: "layouts/accordion"
   title: "Steps to become a teacher"
   image: "/assets/images/steps-hero-dt.jpg"
   mobileimage: "/assets/images/steps-hero-mob.jpg"

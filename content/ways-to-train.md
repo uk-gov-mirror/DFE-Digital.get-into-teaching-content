@@ -1,4 +1,5 @@
 ---
+  layout: "layouts/accordion"
   title: "Ways to train"
   image: "/assets/images/international-dt.jpg"
   mobileimage: "/assets/images/steps-hero-mob.jpg"
