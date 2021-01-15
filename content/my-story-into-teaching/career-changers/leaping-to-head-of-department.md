@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: Leaping to head of department
 image: /assets/images/stories/stories-jon.jpg
 backlink: "./"

@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: "Becoming a mum sparked my interest in teaching"
 image: /assets/images/stories/stories-claire.jpg
 backlink: "./"

@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: Returning to teaching with international experience
 image: /assets/images/stories/stories-katie.png
 backlink: "./"

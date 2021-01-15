@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: Transferring my skills to teaching
 image: /assets/images/stories/stories-will.jpg
 backlink: "./"

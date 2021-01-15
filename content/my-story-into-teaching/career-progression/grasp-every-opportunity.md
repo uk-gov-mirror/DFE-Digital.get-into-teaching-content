@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: Grasp every opportunity - you will progress
 image: /assets/images/stories/stories-paul.jpg
 backlink: "./"

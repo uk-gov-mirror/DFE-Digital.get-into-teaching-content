@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: Inspiring our young entrepreneurs
 image: /assets/images/stories/stories-laura.jpg
 backlink: "./"

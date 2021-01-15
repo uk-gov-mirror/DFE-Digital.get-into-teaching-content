@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: Royal Marine Commando to geography teacher
 image: /assets/images/stories/stories-thomas.jpg
 backlink: "./"

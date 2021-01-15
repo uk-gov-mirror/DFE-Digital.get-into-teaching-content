@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: Banker turned teacher
 image: /assets/images/stories/stories-katherine.jpg
 backlink: "./"

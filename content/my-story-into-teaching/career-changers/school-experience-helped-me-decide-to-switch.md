@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: "School experience helped me decide to switch"
 image: /assets/images/stories/stories-zainab.jpg
 backlink: "./"

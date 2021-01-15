@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: "Teacher training: it’s worth it"
 image: /assets/images/stories/stories-generic.jpg
 backlink: "./"

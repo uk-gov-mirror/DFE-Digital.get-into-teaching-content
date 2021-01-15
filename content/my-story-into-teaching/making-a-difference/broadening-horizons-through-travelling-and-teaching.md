@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: Broadening horizons through travelling and teaching
 image: /assets/images/stories/stories-craig.jpg
 backlink: "./"

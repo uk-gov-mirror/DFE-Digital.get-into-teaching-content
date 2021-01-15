@@ -1,4 +1,5 @@
 ---
+layout: "layouts/stories/story"
 title: Teaching gave me purpose
 image: /assets/images/stories/stories-luke.jpg
 backlink: "./"
