@@ -206,8 +206,6 @@ find out more. Awarding bodies are listed here:
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Computer science | [BCS The Chartered Institute for IT](https://www.bcs.org/get-qualified/certification-and-scholarships-for-teachers/bcs-computer-teacher-scholarships/) |
 | Chemistry        | [RSC The Royal Society of Chemistry](https://www.rsc.org/awards-funding/funding/teacher-training-scholarships/)                                        |
-| Geography        | [The Royal Geographical Society (with IBG)](https://getintoteaching.education.gov.uk/funding-and-salary/overview/scholarships/geography-scholarships)  |
-| Languages        | [The British Council](https://www.britishcouncil.org/education/ihe/opportunities-for-students/ltts)                                                    |
 | Maths            | [Mathematics Teacher Training Scholarships](https://ima.org.uk/support/mathematics-teacher-training-scholarship/)                                      |
 | Physics          | [Institute of Physics teacher training scholarships](https://www.iop.org/education/teach/itts/page_52632.html#gref)                                    |
 
