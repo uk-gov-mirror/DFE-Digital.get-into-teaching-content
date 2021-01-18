@@ -17,6 +17,9 @@ redirects:
   "/international-teachers": "/international-candidates"
   "/international-students": "/international-candidates"
 
+  # Campaign landing pages
+  "/helping-you-become-a-teacher": "/three-things-to-help-you-get-into-teaching"
+
   # Story lists
   "/life-as-a-teacher/my-story-into-teaching/career-changers": "/my-story-into-teaching/career-changers"
   "/life-as-a-teacher/my-story-into-teaching/career-progression": "/my-story-into-teaching/career-progression"
