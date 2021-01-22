@@ -1,5 +1,5 @@
 ---
-  title: Helping you become a teacher
+  title: Three things to help you get into teaching
   image: /assets/images/international-dt.jpg
 ---
 
