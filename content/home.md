@@ -1,5 +1,5 @@
 ---
-  layout: "layouts/home"
+  layout: "layouts/home_old"
   title: "Inspire the next generation"
   deepheader: true
   mailinglist: true
