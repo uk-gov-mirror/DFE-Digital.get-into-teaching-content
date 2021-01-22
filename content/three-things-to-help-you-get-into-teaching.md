@@ -1,9 +1,17 @@
 ---
   title: Three things to help you get into teaching
-  image: /assets/images/international-dt.jpg
+  image: /assets/images/hero-home-dt.jpg
+  layout: layouts/campaigns/landing_page_with_hero_nav
+  hero_nav:
+    Get free one-to-one advice from a teacher training adviser: "#get-free-one-to-one-advice-from-a-teacher-training-adviser"
+    Speak to real teachers at a teaching event: "#speak-to-real-teachers-at-a-teaching-event"
+    Receive personalised email updates and tips: "#receive-personalised-email-updates-and-tips"
 ---
 
-## Get free one-to-one advice from a teacher training adviser
+<div id="get-free-one-to-one-advice-from-a-teacher-training-adviser" class="numbered-heading">
+  <span class="pink-rotated-number">1</span>
+  <h2>Get free one-to-one advice from a teacher training adviser</h2>
+</div>
 
 All our teacher training advisers are experienced teachers who can provide you with support through the whole process of preparing and applying for teacher training.
 
@@ -18,13 +26,19 @@ Whatever you need, your adviser will be just a phone call, text, or email away.
 
 <a class="call-to-action-button" href="/tta-service"><span>Get an adviser</span></a>
 
-## Speak to real teachers at a teaching event
+<div id="speak-to-real-teachers-at-a-teaching-event" class="numbered-heading">
+  <span class="pink-rotated-number">2</span>
+  <h2>Speak to real teachers at a teaching event</h2>
+</div>
 
 Chat with real teachers, experts and training providers about every aspect of teaching and teacher training at an event. There are a variety of events available that cover everything from funding your training, what a career in teaching is really like, to submitting a successful application.
 
 <a class="call-to-action-button" href="/events"><span>Find an event</span></a>
 
-## Receive personalised email updates and tips
+<div id="receive-personalised-email-updates-and-tips" class="numbered-heading">
+  <span class="pink-rotated-number">3</span>
+  <h2>Receive personalised email updates and tips</h2>
+</div>
 
 Get personalised information straight to your inbox with everything you need to know about getting into teaching, including:
 
