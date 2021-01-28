@@ -21,7 +21,7 @@ stories:
     image_description: A photograph of Sandra Macfarlane, Head of RE
     link: /my-story-into-teaching/making-a-difference/going-back-and-giving-back
   - name: Laura
-    snippet: Broadening horizons through travelling and teaching
+    snippet: Inspiring our young entrepreneurs
     image: /assets/images/stories/stories-laura.jpg
     image_description: A photograph of teacher, Laura Hurn
     link: /my-story-into-teaching/making-a-difference/inspiring-our-young-entrepreneurs
