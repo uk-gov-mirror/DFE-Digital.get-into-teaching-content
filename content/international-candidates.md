@@ -68,17 +68,6 @@ You should [check to see if you need a visa to work in the UK](/international-ca
 
 You can browse available teaching jobs in England using the UK government’s [Teaching vacancies service](https://teaching-vacancies.service.gov.uk/).
 
-#### Check if you’re eligible for extra support
-
-If you qualified as a teacher of maths, physics, computer science, general science or modern foreign languages in Australia, Canada, France, Germany, Jamaica, New Zealand, South Africa, Spain or the USA, you are eligible for extra help from DfE, including:
-
-* guidance on work visas and permits
-* support finding a job in England
-* help settling in to the English education system
-* continuing professional development
-
-Details of how to register with one of our recruitment agencies will be available soon.
-
 ## How to apply to train to teach in England
 
 ### Funding
