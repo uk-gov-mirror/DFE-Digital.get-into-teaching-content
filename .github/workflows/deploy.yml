@@ -79,6 +79,7 @@ jobs:
 
              if [ "${{github.event.inputs.environment }}" == "Production" ]
              then
+                 echo ::set-output name=control::$(echo "production" )
                  echo ::set-output name=healthcheck::$(echo "${{env.PAAS_APPLICATION_NAME}}-prod" )
                  echo ::set-output name=key::"app.production.terraform"
                  echo ::set-output name=docker_image::${{env.DOCKERHUB_REPOSITORY}}:sha-${{ steps.sha.outputs.short}}
