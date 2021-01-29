@@ -11,10 +11,10 @@
     Extra financial support for parents, carers or people with disabilities: "#extra-financial-support-for-parents-carers-or-people-with-disabilities"
     Applying for funding if you come from outside England: "#applying-for-funding-if-you-come-from-outside-england"
   content:
-    - content/funding-your-training/tuition-fee-and-maintenance-loans
-    - content/funding-your-training/tuition-fee-and-maintenance-loans-cta
     - content/funding-your-training/bursaries-and-scholarships
     - content/funding-your-training/bursaries-and-scholarships-cta
+    - content/funding-your-training/tuition-fee-and-maintenance-loans
+    - content/funding-your-training/tuition-fee-and-maintenance-loans-cta
     - content/funding-your-training/get-extra-financial-support
     - content/funding-your-training/get-extra-financial-support-cta
     - content/funding-your-training/applying-for-funding-if-you-come-from-outside-england
