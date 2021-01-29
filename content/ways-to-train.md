@@ -8,6 +8,7 @@
     - content/ways-to-train/intro
     - content/ways-to-train/things_to_consider
     - content/ways-to-train/things_to_consider_cta
+    - content/ways-to-train/tta_cta_mob
     - content/ways-to-train/pgce
     - content/ways-to-train/school_direct_fee_funded
     - content/ways-to-train/school_direct_salaried
@@ -16,4 +17,12 @@
     - content/ways-to-train/assessment_only
     - content/ways-to-train/other_ways_to_train
     - content/ways-to-train/other_ways_to_train_cta
+  right_column:
+    ctas:
+      - title: Get support from a teacher training adviser
+        text: |
+         If you’re not sure which would be the best way to train for you, you can get personalised support from a teacher training adviser.
+        link_text: "Get a teaching training adviser"
+        link_target: "/tta-service"
+        icon: "icon-person"
 ---
