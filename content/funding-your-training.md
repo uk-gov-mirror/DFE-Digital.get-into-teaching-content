@@ -8,8 +8,8 @@
   jump_links:
      Bursaries and scholarships: "#bursaries-and-scholarships"
      Tuition fee and maintenance loans: "#tuition-fee-and-maintenance-loans"
-    Extra financial support for parents, carers or people with disabilities: "#extra-financial-support-for-parents-carers-or-people-with-disabilities"
-    Applying for funding if you come from outside England: "#applying-for-funding-if-you-come-from-outside-england"
+     Extra financial support for parents, carers or people with disabilities: "#extra-financial-support-for-parents-carers-or-people-with-disabilities"
+     Applying for funding if you come from outside England: "#applying-for-funding-if-you-come-from-outside-england"
   content:
     - content/funding-your-training/bursaries-and-scholarships
     - content/funding-your-training/bursaries-and-scholarships-cta
