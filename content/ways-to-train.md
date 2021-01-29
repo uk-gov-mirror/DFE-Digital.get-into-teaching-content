@@ -25,4 +25,6 @@
         link_text: "Get a teaching training adviser"
         link_target: "/tta-service"
         icon: "icon-person"
+        hide_on_mobile: Yes
+        hide_on_tablet: Yes
 ---
