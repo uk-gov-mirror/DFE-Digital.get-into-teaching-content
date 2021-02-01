@@ -14,7 +14,6 @@ content:
   - content/guidance/financial-support-for-teacher-training/bursaries-cta-2
   - content/guidance/financial-support-for-teacher-training/scholarships
   - content/guidance/financial-support-for-teacher-training/scholarships-cta
-  - content/guidance/financial-support-for-teacher-training/tuition-fees-and-maintenance-loans
   - content/guidance/financial-support-for-teacher-training/parents-and-carers
   - content/guidance/financial-support-for-teacher-training/disabled-students
 ---
