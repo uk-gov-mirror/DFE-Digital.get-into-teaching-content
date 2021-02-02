@@ -13,7 +13,7 @@
       Check your qualifications:
         partial: content/steps-to-become-a-teacher/check_your_qualifications
         cta: chat_online
-      Find out about teaching and training:
+      Explore your options:
         partial: content/steps-to-become-a-teacher/find_out_about_teaching_and_training
         cta:
           name: simple
@@ -35,8 +35,8 @@
             icon: "icon-arrow"
             link_text: Search for school experience
             link_target: https://schoolexperience.education.gov.uk/
-      Ways to train:
-        partial: content/steps-to-become-a-teacher/ways_to_train
+      Choose your training:
+        partial: content/steps-to-become-a-teacher/choose_your_training
         cta:
           name: simple
           arguments:
@@ -47,8 +47,8 @@
             icon: "icon-arrow"
             link_text: Find out more
             link_target: /ways-to-train
-      Find and apply for teacher training:
-        partial: content/steps-to-become-a-teacher/find_and_apply_teacher_training
+      Find and apply for a course:
+        partial: content/steps-to-become-a-teacher/find_and_apply_for_a_course
         cta:
           name: simple
           arguments:
@@ -66,13 +66,9 @@
 
 ## Becoming a qualified teacher in England
 
-These steps are for people wanting to become qualified teachers in England.
-To work as a qualified teacher in a state school in England, you will need to
-have Qualified Teacher Status (QTS). There are a number of ways to gain QTS
-such as completion of postgraduate initial teacher training (ITT) or a degree
-course with QTS included.
+To work as a qualified teacher in a state school in England, you will need to have Qualified Teacher Status (QTS). There are a number of ways to gain QTS such as completion of postgraduate initial teacher training (ITT) or a degree course with QTS included.
 
-This information is for people living in the UK wanting to train to become a teacher in England.
+These steps to become a teacher are for people living in the UK wanting to train to become a teacher in England.
 
 We also have information for:
 

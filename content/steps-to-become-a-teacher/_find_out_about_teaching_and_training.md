@@ -1,3 +1,0 @@
-There are many ways to find out what subject you want to teach, whether you want to teach in a primary or secondary school or even in a college. 
-
-Speaking with other teachers and finding out about different ways to train can help you find the best way for you to become a teacher. 
