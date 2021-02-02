@@ -7,19 +7,10 @@ backlink_text: Stories about returning to teaching
 story:
   teacher: Jill
   position: Returning teacher
-more_stories:
-  - name: Shaun
-    snippet: Returning to teaching with support from an adviser
-    image: /assets/images/stories/stories-shaun.jpg
-    link: /my-story-into-teaching/international-career-changers/returning-to-teaching-with-support-from-an-adviser
-  - name: Karen
-    snippet: Swapping senior management for students
-    image: /assets/images/stories/stories-karen.jpg
-    link: /my-story-into-teaching/career-changers/swapping-senior-management-for-students
-  - name: Craig
-    snippet: Broadening horizons through travelling and teaching
-    image: /assets/images/stories/stories-craig.jpg
-    link: /my-story-into-teaching/making-a-difference/broadening-horizons-through-travelling-and-teaching
+explore:
+  - card_type: find events
+  - card_type: featured story
+  - card_type: chat online
 more_information:
   link: /returning-to-teaching
   text: Read further guidance if you're returning to teaching

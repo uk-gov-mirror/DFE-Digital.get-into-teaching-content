@@ -7,19 +7,10 @@ backlink_text: Stories from international teachers
 story:
   teacher: Shaun
   position: returning teacher
-more_stories:
-  - name: Katie
-    snippet: Returning to teach with international experience
-    image: /assets/images/stories/stories-katie.png
-    link: /my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience
-  - name: Claire
-    snippet: Becoming a mum sparked my interest
-    image: /assets/images/stories/stories-claire.jpg
-    link: /my-story-into-teaching/career-changers/becoming-a-mum-sparked-my-interest-in-teaching
-  - name: Sarah
-    snippet: NQT to Head of Biology
-    image: /assets/images/stories/stories-sarah-f.jpg
-    link: /my-story-into-teaching/career-progression/nqt-to-head-of-biology
+explore:
+  - card_type: find events
+  - card_type: featured story
+  - card_type: chat online
 more_information:
   link: /international-candidates
   text: International candidates information

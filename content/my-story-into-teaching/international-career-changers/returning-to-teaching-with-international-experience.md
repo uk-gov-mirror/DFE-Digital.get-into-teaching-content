@@ -7,19 +7,10 @@ backlink_text: Stories from international teachers
 story:
   teacher: Katie Lockett
   position: Head of Faculty
-more_stories:
-  - name: Zainab
-    snippet: School experience helped me decide to switch
-    image: /assets/images/stories/stories-zainab.jpg
-    link: /my-story-into-teaching/career-changers/school-experience-helped-me-decide-to-switch
-  - name: Katie
-    snippet: Returning to teach with international experience
-    image: /assets/images/stories/stories-katie.png
-    link: /my-story-into-teaching/international-career-changers/returning-to-teaching-with-international-experience
-  - name: Helen
-    snippet: Lawyer to assistant headteacher
-    image: /assets/images/stories/stories-helen.jpg
-    link: /my-story-into-teaching/career-progression/lawyer-to-assistant-teacher
+explore:
+  - card_type: find events
+  - card_type: featured story
+  - card_type: chat online
 more_information:
   link: /international-candidates
   text: International candidates information

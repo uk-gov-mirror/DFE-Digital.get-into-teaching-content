@@ -7,19 +7,10 @@ backlink_text: Career progression stories
 story:
   teacher: Helen Winter
   position: Director of teaching school and assistant headteacher
-more_stories:
-  - name: Shaun
-    snippet: Return to teaching with support from an adviser
-    image: /assets/images/stories/stories-shaun.jpg
-    link: /my-story-into-teaching/international-career-changers/returning-to-teaching-with-support-from-an-adviser
-  - name: Victoria
-    snippet: Police officer to PE teacher
-    image: /assets/images/stories/stories-victoria.jpg
-    link: /my-story-into-teaching/career-changers/police-officer-to-pe-teacher
-  - name: Tarik
-    snippet: "Getting our 'geek' on: kids coding"
-    image: /assets/images/stories/stories-tarik.jpg
-    link: /my-story-into-teaching/making-a-difference/getting-our-geek-on-kids-coding
+explore:
+  - card_type: find events
+  - card_type: featured story
+  - card_type: chat online
 build_layout_from_frontmatter: true
 ---
 
