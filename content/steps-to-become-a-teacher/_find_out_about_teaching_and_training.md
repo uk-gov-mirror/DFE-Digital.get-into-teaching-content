@@ -28,5 +28,5 @@ Get personalised information straight to your inbox with everything you need to 
 Reading other people’s experiences can give you inspiration into what you might like to do, insight into the things they learnt along the way, and idea of what it might be like for you.
 
 <p class="call-to-action__action">
-  <a href="/my-story-into-teaching ">Read stories</a>
+  <a href="/my-story-into-teaching">Read stories</a>
 </p>  
