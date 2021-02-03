@@ -3,4 +3,3 @@ Before you commit to a teacher training course, you might want to spend some tim
 Having some school experience may strengthen your teacher training application, and give you experience to draw on in an interview. 
 
 You can approach schools and teachers yourself or search for school experience in your area using our service.
-

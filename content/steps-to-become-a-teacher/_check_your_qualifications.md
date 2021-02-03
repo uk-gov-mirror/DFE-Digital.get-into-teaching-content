@@ -11,6 +11,7 @@ If you do not have the required GCSEs or you have overseas qualifications, youâ€
 If you're unsure whether your qualifications are equivalent to what you need, you can [talk to us](#talk-to-us).
 
 Here's what you need to do if you:
+
 * [do not have a degree](/guidance/become-a-teacher-in-england#if-you-do-not-have-a-degree)
 * [have an overseas degree](/international-candidates)
 * [are returning to teach in England](/returning-to-teaching)
