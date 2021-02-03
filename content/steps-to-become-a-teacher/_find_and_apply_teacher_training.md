@@ -5,6 +5,7 @@ Once you have an idea of the courses available, you can do more research about t
 Button: Find a course
 
 To apply for a course, you will need:
+
 * a written personal statement
 * 2 references
 * GCSE (or equivalent) and Degree certificates
