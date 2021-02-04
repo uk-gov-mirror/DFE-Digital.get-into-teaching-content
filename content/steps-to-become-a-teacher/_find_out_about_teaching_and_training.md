@@ -22,7 +22,7 @@ This is a free service and your adviser will be there to support you throughout 
 Get personalised information straight to your inbox with everything you need to know about getting into teaching including: what teaching is really like, where a career in teaching could take you, and how to take your next steps. 
 
 <p class="call-to-action__action">
-  <a href="/mailinglist">Sign up for personalised updates</a>
+  <a href="/mailinglist/signup">Sign up for personalised updates</a>
 </p>  
 
 ## Read other people’s stories 
