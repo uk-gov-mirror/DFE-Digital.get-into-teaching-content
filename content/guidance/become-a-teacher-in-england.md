@@ -393,17 +393,13 @@ training](https://www.gov.uk/find-postgraduate-teacher-training-courses).
 
 When you’re researching training providers, bear in mind:
 
-  - location – you will need to be able to travel to your academic
-    learning location as well as your placement schools
-  - reputation – check Ofsted’s report on your training provider for
-    more detail
+  - location – you will need to be able to travel to your academic learning location as well as your placement schools
+  - reputation – check Ofsted’s report on your training provider for more detail
   - competition for entry – some providers are tougher than others
-  - special academic requirements for entry – check the training
-    provider listing in [Find postgraduate teacher
+  - special academic requirements for entry – check the training provider listing in [Find postgraduate teacher
     training](https://www.gov.uk/find-postgraduate-teacher-training-courses)
     to see what class of degree, for example, the provider asks for
-  - size of institution – would you be happier in a large university
-    campus, or in a smaller local school setting?
+  - size of institution – would you be happier in a large university campus, or in a smaller local school setting?
 
 You can use [Find postgraduate teacher
 training](https://www.gov.uk/find-postgraduate-teacher-training-courses)
@@ -412,8 +408,7 @@ you.
 
 ### Salaried teacher training courses
 
-Under some circumstances, you can train as a teacher ‘on the job’. On
-these courses, you will:
+Under some circumstances, you can train as a teacher ‘on the job’. On these courses, you will:
 
   - earn a salary
   - pay no student fees for training towards QTS
@@ -424,12 +419,9 @@ There are 3 options available:
   - Postgraduate teaching apprenticeships
   - High Potential Initial Teacher Training Programme
 
-On these courses you’ll be paid and taxed as an unqualified teacher. The
-salary awarded will differ between schools – you should check the salary
-with the school before you apply.
+On these courses you’ll be paid and taxed as an unqualified teacher. The salary awarded will differ between schools – you should check the salary with the school before you apply.
 
-These courses do not offer bursaries, scholarships or student finance.
-There are usually no course fees to pay.
+These courses do not offer bursaries, scholarships or student finance. There are usually no course fees to pay.
 
 Both School Direct (salaried) and postgraduate apprenticeship courses
 will lead to QTS. If you choose to do a postgraduate teaching
@@ -441,9 +433,7 @@ to find local courses.
 
 ### Career Changers
 
-The Career Changers programme aims to attract high calibre graduates who
-have had a successful professional career with significant experience in
-their field into teaching roles and schools where they are needed most.
+The Career Changers programme aims to attract high calibre graduates who have had a successful professional career with significant experience in their field into teaching roles and schools where they are needed most.
 
 It provides help and guidance with the transition from a previous career
 into teaching. Career changers can add value to teaching with:
@@ -453,25 +443,18 @@ into teaching. Career changers can add value to teaching with:
   - wider perspectives into teaching practice and school policies
 
 [Now Teach (NT)](https://nowteach.org.uk/) and [Transition to Teach
-(TT)](https://www.transitiontoteach.co.uk/) are bespoke teacher
-recruitment and retention programmes developed exclusively to support
-career changers, providing transitional support and additional mentoring
-so that successful career changers can get the most out of their
+(TT)](https://www.transitiontoteach.co.uk/) are bespoke teacher recruitment and retention programmes developed exclusively to support career changers, providing transitional support and additional mentoring so that successful career changers can get the most out of their
 transition to teaching.
 
 ### High Potential ITT
 
 [Teach First](https://www.teachfirst.org.uk/) is a charity which runs
 the government-funded High Potential Initial Teacher Training programme
-(ITT). You’ll need to have a 2:1 degree or higher to apply for a
-place on the programme, currently delivered by Teach First. You’ll
-train over 2 years by learning on the job, paid as an unqualified
-teacher and you will not pay tuition fees.
+(ITT). You’ll need to have a 2:1 degree or higher to apply for a place on the programme, currently delivered by Teach First. You’ll
+train over 2 years by learning on the job, paid as an unqualified teacher and you will not pay tuition fees.
 
-You’ll be placed into a school straight away and gain QTS in your first
-year and complete your Newly Qualified Teacher placement in year 2.
-You’ll also receive leadership training, which includes a fully-funded
-Postgraduate Diploma in Education and Leadership (PGDE), worth double
+You’ll be placed into a school straight away and gain QTS in your first year and complete your Newly Qualified Teacher placement in year 2.
+You’ll also receive leadership training, which includes a fully-funded Postgraduate Diploma in Education and Leadership (PGDE), worth double
 the credits of a PGCE.
 
 ### Researchers in schools (candidates with a doctorate)
@@ -502,213 +485,12 @@ to finish) a doctorate in one of the following subjects:
 ### Assessment only (candidates already working in school)
 
 If you’re an unqualified teacher with 2 years’ experience, you can be
-assessed over a maximum of 12 weeks to gain Qualified Teacher Status
-(QTS).
+assessed over a maximum of 12 weeks to gain Qualified Teacher Status (QTS).
 
 Although you may not need to take a formal teacher training course, you
 must meet the eligibility requirements for teacher training - which
 includes a degree, and GCSEs (or a standard equivalent) in English,
 maths, and science for primary school teaching.
-
-## Financial support for teacher training
-
-The level of financial support you get will depend on the subject you
-choose and the way you train to become a teacher.
-
-There are several types of funding that may be available to you,
-depending on your eligibility:
-
-  - a bursary
-  - a scholarship
-  - student finance
-
-It’s possible to train while you work as a paid teacher. Find out more
-about [salaried routes into teaching](#salaried-teacher-training-courses).
-
-Please note that alternative funding is in place to train as an Early
-Years teacher, which leads to achieving Early Years Status (EYTS).
-
-### Bursaries and scholarships
-
-Bursaries and scholarships are available for teacher training in certain
-subjects. A bursary or scholarship is a tax-free sum of money of £7,000
-to £26,000.
-
-If you get a bursary or are awarded a scholarship, you won’t have to pay
-it back. You can get either a bursary or a scholarship, not both.
-
-Bursaries are worth up to £24,000 and awarded:
-
-  - if you meet the criteria
-  - to candidates with a 2:2 or above in their undergraduate degree, a
-    Masters or a PhD
-  - in priority subjects
-
-Scholarships are worth up to £26,000 and awarded:
-
-  - if your scholarship application is successful
-  - in priority subjects
-  - according to each of the professional bodies' own eligibility criteria
-
-#### Check which subjects have bursaries and scholarships
-
-Bursaries and scholarships are only available for the subjects listed
-below. 
-
-##### Subjects and amounts
-
-| Subject       | Bursary | Scholarship     |
-| ------------- | ------- | --------------- |
-| Chemistry     | £24,000 | £26,000         |
-| Computing     | £24,000 | £26,000         |
-| Maths         | £24,000 | £26,000         |
-| Physics       | £24,000 | £26,000         |
-| Classics      | £10,000 | N/A             |
-| Languages     | £10,000 | N/A             |
-| Biology       | £7,000  | N/A             |
-
-#### How to get a bursary
-
-If you're eligible for a bursary, and train in a subject where a bursary
-is available you’ll receive it in instalments for the duration of your
-training. You do not need to apply for a bursary.
-
-For advice about bursaries, you can chat online or talk to an adviser
-using the [Get an adviser](/tta-service) service.
-
-#### Troops to Teachers
-
-If you're a former service personnel you may be eligible for a tax-free
-bursary of £40,000 for an undergraduate degree leading to QTS in
-England.
-
-To be eligible for the bursary, you must:
-
-  - train to teach secondary biology, physics, chemistry, computing,
-    maths or modern foreign languages
-  - not already have a undergraduate degree
-  - have left full-time employment with the British Army, Royal Air
-    Force or Royal Navy no more than 5 years before the start of the
-    course
-  - be entitled to support under the [Student Finance
-    England](https://www.gov.uk/student-finance/who-qualifies)
-    eligibility criteria
-
-You can also apply for a tuition fee and maintenance loan for the
-duration of the course.
-
-For more information and to search for undergraduate teacher training
-courses visit [UCAS](https://www.ucas.com/). When you’ve chosen some
-potential training providers for this programme, you should contact them
-for more details about eligibility and bursary payments.
-
-#### How to apply for a scholarship
-
-A scholarship is awarded if you successfully apply to one of the
-awarding bodies. It is instead of a bursary. You may be able to apply
-depending on the subject you want to teach and the grades you’ve got.
-
-For advice about bursaries or scholarships, you can chat online or talk
-to an adviser using the [Get an adviser](/tta-service) service.
-
-You can also contact the scholarship awarding body for your subject to
-find out more. Awarding bodies are listed here:
-
-| Subject          | Awarding body                                                                                                                                          |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Computer science | [BCS The Chartered Institute for IT](https://www.bcs.org/get-qualified/certification-and-scholarships-for-teachers/bcs-computer-teacher-scholarships/) |
-| Chemistry        | [RSC The Royal Society of Chemistry](https://www.rsc.org/awards-funding/funding/teacher-training-scholarships/)                                        |
-| Maths            | [Mathematics Teacher Training Scholarships](https://ima.org.uk/support/mathematics-teacher-training-scholarship/)                                      |
-| Physics          | [Institute of Physics teacher training scholarships](https://www.iop.org/education/teach/itts/page_52632.html#gref)                                    |
-
-### Student finance
-
-You can take out a loan with [student
-finance](https://www.gov.uk/teacher-training-funding) to cover your
-tuition fees and help with your living (maintenance) costs. You will
-only start to repay this when you are earning over £26,575.
-
-You can apply for a tuition fee and/or a maintenance loan even if:
-
-  - you already have an undergraduate student loan
-  - you’ve been awarded a bursary or scholarship
-
-### Apply for a tuition fee loan
-
-You can apply for a tuition fee loan of up to £9,250 to cover the full
-cost of your course fees. This means you will not need to pay course
-fees upfront.
-
-### Apply for a maintenance loan
-
-You can also apply for a maintenance loan of up to £12,010 to help with
-your living costs.
-
-### Repaying your student loans
-
-If you don’t already have a student loan, or you took one out on or
-after 1 September 2012, you are only required to make repayments when
-you are earning over £26,575.
-
-If you took out a student loan before 1 September 2012 you are only
-required to make repayments when you are earning over £19,390.
-
-In both instances, your repayments will not increase if you take out a
-loan for teacher training.
-
-Use the [student finance
-calculator](https://www.gov.uk/student-finance-calculator) to find out
-how much you can get.
-
-### Other types of financial help if you’re a parent, a carer or you have a disability
-
-You may be able to get other types of financial help if you have
-children, care for dependent adults, or have a disability. You do not
-need to pay back this kind of financial support.
-
-We’ve listed these types of support below – you can also check the
-[student finance
-calculator](https://www.gov.uk/student-finance-calculator) to find out
-what you’re eligible for.
-
-### Parents’ Learning Allowance
-
-If you have children, you may be able to get [Parents’ Learning
-Allowance](https://www.gov.uk/parents-learning-allowance) of between £50
-and £1,716 a year.
-
-### Childcare grant
-
-You can apply for a [Childcare
-Grant](https://www.gov.uk/childcare-grant) to pay for 85% of your
-childcare costs. The maximum you’ll get is:
-
-  - £174.22 a week for one child
-  - £298.69 a week for 2 or more children
-
-### Adult Dependants’ Grant
-
-If an adult depends on you financially, you can apply for an [Adult Dependants’
-Grant](https://www.gov.uk/adult-dependants-grant) of up to £3,094.
-
-### Disabled Students’ Allowances (DSAs)
-
-If you have additional needs due to a mental health condition, long-term
-illness or disability you can [apply for Disabled Students’ Allowances
-(DSAs)](https://www.gov.uk/disabled-students-allowances-dsas/how-to-claim).
-The maximum amount is £20,580.
-
-### Funding if you live in Wales, Scotland or Northern Ireland
-
-If you’re applying for teacher training in England but live in Wales,
-Scotland or Northern Ireland, you’ll need to contact your country’s
-student finance body.
-
-[Student Finance Wales](https://www.studentfinancewales.co.uk/)
-
-[Student Awards Agency Scotland](https://www.saas.gov.uk/)
-
-[Student Finance NI](https://www.studentfinanceni.co.uk/)
 
 ## Find a teacher training course
 
@@ -731,22 +513,17 @@ You can filter your results by:
 ## Apply for teacher training
 
 You can apply for a training place via [UCAS Teacher
-Training](https://www.ucas.com/postgraduate/teacher-training/ucas-teacher-training-apply-and-track),
-or by using a new GOV.UK service called [Apply for teacher
+Training](https://www.ucas.com/postgraduate/teacher-training/ucas-teacher-training-apply-and-track), or by using a new GOV.UK service called [Apply for teacher
 training](https://www.gov.uk/apply-for-teacher-training).
 
-Apply for teacher training will eventually replace
-[UCAS](https://www.ucas.com/postgraduate/teacher-training/ucas-teacher-training-apply-and-track),
-but for now, the new service is limited to certain providers.
+Apply for teacher training will eventually replace [UCAS](https://www.ucas.com/postgraduate/teacher-training/ucas-teacher-training-apply-and-track), but for now, the new service is limited to certain providers.
 
 View a list of [training providers and courses
 available](https://www.gov.uk/apply-for-teacher-training) through the
 new GOV.UK service.
 
-By October 2021, all candidates will apply to all courses and all
-providers using the new service. Until then, 2 postgraduate teacher
-training application services will run side by side (Apply for teacher
-training and UCAS Teacher Training).
+By October 2021, all candidates will apply to all courses and all providers using the new service. Until then, 2 postgraduate teacher
+training application services will run side by side (Apply for teacher training and UCAS Teacher Training).
 
 The qualifications you need for teacher training remain the same,
 whether you apply through UCAS Teacher Training or Apply for teacher
@@ -760,10 +537,7 @@ you’ll be given a choice about which service you’d like to use.
 
 ### How many training providers can I apply to?
 
-During the first round of your application, you should apply to no more
-than three courses in total, and accept only one offer. This rule
-applies whether you use UCAS Teacher Training, Apply for teacher
-training, or a combination of the two.
+During the first round of your application, you should apply to no more than three courses in total, and accept only one offer. This rule applies whether you use UCAS Teacher Training, Apply for teacher training, or a combination of the two.
 
 We suggest you use Apply for teacher training if:
 
@@ -774,67 +548,52 @@ We suggest you use Apply for teacher training if:
 We suggest you use UCAS Teacher Training if:
 
   - you’ve already started applying via UCAS
-  - some of your chosen training providers are not available through
-    Apply for teacher training and you do not want to use 2 different
-    services
+  - some of your chosen training providers are not available through Apply for teacher training and you do not want to use 2 different services
 
 ### COVID-19
 
-The impact of COVID-19 (coronavirus) means you are likely to experience
-some delays to your application, whether you use UCAS and Apply for
-teacher training.
+The impact of COVID-19 (coronavirus) means you are likely to experience some delays to your application, whether you use UCAS and Apply for teacher training.
 
 ### Preparing to apply for teacher training
 
-The Apply for teacher training service will guide you through the
-application process all the way to enrolment on your course.
+The Apply for teacher training service will guide you through the application process all the way to enrolment on your course.
 
 However there are things you could start to consider right away.
 
 #### Think about why you want to be a teacher
 
-As part of the application process, you’ll be asked to tell training
-providers why you want to be a teacher.
+As part of the application process, you’ll be asked to tell training providers why you want to be a teacher.
 
-This is one of the most important parts of your application, so it’s
-worth thinking about it in advance.
+This is one of the most important parts of your application, so it’s worth thinking about it in advance.
 
-You should use this section to showcase your motivation, commitment and
-teaching potential, backing up your answer with specific examples.
+You should use this section to showcase your motivation, commitment and teaching potential, backing up your answer with specific examples.
 
-Give providers an insight into your personality by writing honestly and
-thoughtfully. Avoid cliché and write in clear, correct, concise English.
+Give providers an insight into your personality by writing honestly and thoughtfully. Avoid cliché and write in clear, correct, concise English.
 
-To get help with personal statements from a teacher training adviser,
-[use the Get an adviser service](/tta-service).
+To get help with personal statements from a teacher training adviser, [use the Get an adviser service](/tta-service).
 
 You don't have to cover everything in this list, but suggested topics
 include:
 
   - why you want to be a teacher
-  - your passion for your subject and the age group you’ve chosen to
-    teach
+  - your passion for your subject and the age group you’ve chosen to teach
   - the welfare and education of children and/or young people
   - the demands and rewards of the profession
   - personal qualities that will make you a good teacher
   - your contribution to the life of the school outside the classroom –
     for example, running extra-curricular activities and clubs
-  - if you have school experience or have worked as a volunteer with
-    children or young people, give details of what this has taught you
+  - if you have school experience or have worked as a volunteer with children or young people, give details of what this has taught you
 
 #### What do you know about the subject you want to teach?
 
-The application form also asks for detailed evidence for the knowledge
-and interest you bring to the subject(s) you’d like to teach.
+The application form also asks for detailed evidence for the knowledge and interest you bring to the subject(s) you’d like to teach.
 
 See [choose a subject](#choose-a-subject) for more about subject
 knowledge.
 
 #### Arrange your references
 
-You'll need to supply contact details for 2 referees with your
-application form. This is a compulsory part of the application process
-and you will not be able to submit your application without them.
+You'll need to supply contact details for 2 referees with your application form. This is a compulsory part of the application process and you will not be able to submit your application without them.
 
 Choose referees who’ll endorse your:
 
@@ -851,12 +610,10 @@ Suitable referees include:
   - your university tutor or supervisor
   - a supplier or client you’ve worked with (if you’re self-employed)
 
-Referees should not be family members, partners or friends. Training
-providers will only accept character references if there’s also an
+Referees should not be family members, partners or friends. Training providers will only accept character references if there’s also an
 academic or professional reference.
 
-If you're applying for a salaried course, one of your references must be
-from an employer.
+If you're applying for a salaried course, one of your references must be from an employer.
 
 If you're struggling to find suitable referees, you can:
 
@@ -865,14 +622,11 @@ If you're struggling to find suitable referees, you can:
 
 ### Attend an interview
 
-If your application is successful, you’ll be invited for an interview by
-your training provider.
+If your application is successful, you’ll be invited for an interview by your training provider.
 
-Interviews usually last a day and include an interview and some time
-spent teaching a class of real pupils.
+Interviews usually last a day and include an interview and some time spent teaching a class of real pupils.
 
-However they vary from provider to provider – you’ll be given all the
-information you need when you’re invited to attend.
+However they vary from provider to provider – you’ll be given all the information you need when you’re invited to attend.
 
 ### Meet the conditions of your offer
 
@@ -898,18 +652,12 @@ round are unsuccessful, or you withdraw your applications, you can apply
 again.
 
 During this second round of applications, you apply to only one training
-provider at a time. However, you can apply to as many as you want,
-sequentially, until the end of the recruitment period.
+provider at a time. However, you can apply to as many as you want, sequentially, until the end of the recruitment period.
 
 So if you are unsuccessful, when recruitment reopens for the following
 year, you can start again, and apply to 3 training providers just as you
 did in the first round of applications.
 
-## Get a job in teaching
+## Further support and information
 
-You can find teaching jobs by searching the Department for Education’s
-[Teaching Vacancies](https://teaching-vacancies.service.gov.uk/)
-service.
-
-The service is used by 70% of state schools in England. Search by
-location, subject, job title and salary and set up job alerts.
+Send an email to: getintoteaching.helpdesk@education.gov.uk or call Freephone 0800 389 2501.
