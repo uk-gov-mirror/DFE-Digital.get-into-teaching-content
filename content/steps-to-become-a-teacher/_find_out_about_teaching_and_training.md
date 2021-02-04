@@ -15,7 +15,7 @@ All our teacher training advisers are experienced teachers who can support you t
 This is a free service and your adviser will be there to support you throughout the whole process of becoming a teacher. 
 
 <p class="call-to-action__action">
-  <a href="/tta-service">Get an <span>Adviser</span></a>
+  <a href="/tta-service">Get an <span>adviser</span></a>
 </p> 
 
 ## Receive personalised updates and tips 

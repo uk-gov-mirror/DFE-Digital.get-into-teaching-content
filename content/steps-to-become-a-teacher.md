@@ -33,8 +33,7 @@
           arguments:
             title: Ways to train
             text: |
-              Learn more about the main ways to train: on the job as an unqualified
-              teacher or as a student.
+              Learn more about the main ways to train.
             icon: "icon-arrow"
             link_text: Find out more
             link_target: /ways-to-train
@@ -58,12 +57,11 @@
 ## Becoming a qualified teacher in England
 
 These steps are for people wanting to become qualified teachers in England.
+
 To work as a qualified teacher in a state school in England, you will need to
 have Qualified Teacher Status (QTS). There are a number of ways to gain QTS
 such as completion of postgraduate initial teacher training (ITT) or a degree
 course with QTS included.
-
-This information is for people living in the UK wanting to train to become a teacher in England.
 
 We also have information for:
 
