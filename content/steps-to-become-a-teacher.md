@@ -15,15 +15,6 @@
         cta: chat_online
       Find out about teaching and training:
         partial: content/steps-to-become-a-teacher/find_out_about_teaching_and_training
-        cta:
-          name: simple
-          arguments:
-            title: Online events
-            text: |
-              There are lots of events that you can take part in online to help you to prepare to train to become a teacher.
-            link_text: "Find an event"
-            link_target: "/events"
-            icon: "icon-calendar"
 
       Consider School Experience:
         partial: content/steps-to-become-a-teacher/consider_school_experience
@@ -42,7 +33,7 @@
           arguments:
             title: Ways to train
             text: |
-              There are 2 main ways to train: on the job as an unqualified
+              Learn more about the main ways to train: on the job as an unqualified
               teacher or as a student.
             icon: "icon-arrow"
             link_text: Find out more

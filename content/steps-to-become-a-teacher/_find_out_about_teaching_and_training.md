@@ -6,7 +6,7 @@ Some resources you can use to help you make these decisions:
 Events give you a chance to talk to real teachers, experts, and training providers about every aspect of teaching and teacher training. They cover everything from funding your training, a day in the life of a teacher, to what you’ll need for a successful application.
 
 <p class="call-to-action__action">
-  <a href="/events">Attend an event</a>
+  <a href="/events">Attend an <span>event</span></a>
 </p> 
 
 ## Get advice from a teacher training adviser 
@@ -15,19 +15,19 @@ All our teacher training advisers are experienced teachers who can support you t
 This is a free service and your adviser will be there to support you throughout the whole process of becoming a teacher. 
 
 <p class="call-to-action__action">
-  <a href="/tta-service">Get an Adviser</a>
+  <a href="/tta-service">Get an <span>Adviser</span></a>
 </p> 
 
 ## Receive personalised updates and tips 
 Get personalised information straight to your inbox with everything you need to know about getting into teaching including: what teaching is really like, where a career in teaching could take you, and how to take your next steps. 
 
 <p class="call-to-action__action">
-  <a href="/mailinglist/signup">Sign up for personalised updates</a>
+  <a href="/mailinglist/signup">Sign up for personalised <span>updates</span></a>
 </p>  
 
 ## Read other people’s stories 
 Reading other people’s experiences can give you inspiration into what you might like to do, insight into the things they learnt along the way, and idea of what it might be like for you.
 
 <p class="call-to-action__action">
-  <a href="/my-story-into-teaching">Read stories</a>
+  <a href="/my-story-into-teaching">Read <span>stories</span></a>
 </p>  
