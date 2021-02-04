@@ -53,21 +53,16 @@ to](https://digital.ucas.com/search) Qualified Teacher Status.
 
 ### If you do not have GCSEs
 
-You can still apply for teacher training if you do not have English,
-maths or science (for primary) GCSE qualifications at the right grade.
+You can still apply for teacher training if you do not have English, maths or science (for primary) GCSE qualifications at the right grade.
 
-However, to start your training, you'll need to have demonstrated a
-standard equivalent to grade 4 (C) at GCSE in these subjects.
+However, to start your training, you'll need to have demonstrated a standard equivalent to grade 4 (C) at GCSE in these subjects.
 
-We recommend that, when you’ve chosen a training provider, you contact
-them for advice about getting the right qualification or demonstrating a
-standard equivalent in time for your course.
+We recommend that, when you’ve chosen a training provider, you contact them for advice about getting the right qualification or demonstrating a standard equivalent in time for your course.
 
 You should ask if your provider offers or accepts ‘equivalency tests’
 (which show that you've reached the same educational level and breadth
 of knowledge as an English, maths or science GCSE grade 4 (C) or above.
-Ask if they recommend you do the test or if they will accept other
-evidence of attainment.
+Ask if they recommend you do the test or if they will accept other evidence of attainment.
 
 You can also visit the [National Careers
 Service](https://nationalcareersservice.direct.gov.uk/course-directory/home)
@@ -75,217 +70,13 @@ to find GCSE courses for people who are over 16 and have left school.
 
 ### Health and fitness
 
-Before you start a teacher training course, your training provider might
-send you a health questionnaire to complete. This confirms you have the
-fitness and physical capacity to train to teach.
+Before you start a teacher training course, your training provider might send you a health questionnaire to complete. This confirms you have the fitness and physical capacity to train to teach.
 
 ### DBS check
 
 You’ll need an enhanced [Disclosure and Barring Service
 (DBS)](https://www.gov.uk/government/organisations/disclosure-and-barring-service)
 check if you intend to teach students under 18.
-
-## Financial support for teacher training
-
-The level of financial support you get will depend on the subject you
-choose and the way you train to become a teacher.
-
-There are several types of funding that may be available to you,
-depending on your eligibility:
-
-  - a bursary
-  - a scholarship
-  - student finance
-
-It’s possible to train while you work as a paid teacher. Find out more
-about [salaried routes into teaching](#salaried-teacher-training-courses).
-
-Please note that alternative funding is in place to train as an Early
-Years teacher, which leads to achieving Early Years Status (EYTS).
-
-### Bursaries and scholarships
-
-Bursaries and scholarships are available for teacher training in certain
-subjects. A bursary or scholarship is a tax-free sum of money of £7,000
-to £26,000.
-
-If you get a bursary or are awarded a scholarship, you won’t have to pay
-it back. You can get either a bursary or a scholarship, not both.
-
-Bursaries are worth up to £24,000 and awarded:
-
-  - if you meet the criteria
-  - to candidates with a 2:2 or above in their undergraduate degree, a
-    Masters or a PhD
-  - in priority subjects
-
-Scholarships are worth up to £26,000 and awarded:
-
-  - if your scholarship application is successful
-  - in priority subjects
-  - according to each of the professional bodies' own eligibility criteria
-
-#### Check which subjects have bursaries and scholarships
-
-Bursaries and scholarships are only available for the subjects listed
-below. 
-
-##### Subjects and amounts
-
-| Subject       | Bursary | Scholarship     |
-| ------------- | ------- | --------------- |
-| Chemistry     | £24,000 | £26,000         |
-| Computing     | £24,000 | £26,000         |
-| Maths         | £24,000 | £26,000         |
-| Physics       | £24,000 | £26,000         |
-| Classics      | £10,000 | N/A             |
-| Languages     | £10,000 | N/A             |
-| Biology       | £7,000  | N/A             |
-
-#### How to get a bursary
-
-If you're eligible for a bursary, and train in a subject where a bursary
-is available you’ll receive it in instalments for the duration of your
-training. You do not need to apply for a bursary.
-
-For advice about bursaries, you can chat online or talk to an adviser
-using the [Get an adviser](/tta-service) service.
-
-#### Troops to Teachers
-
-If you're a former service personnel you may be eligible for a tax-free
-bursary of £40,000 for an undergraduate degree leading to QTS in
-England.
-
-To be eligible for the bursary, you must:
-
-  - train to teach secondary biology, physics, chemistry, computing,
-    maths or modern foreign languages
-  - not already have a undergraduate degree
-  - have left full-time employment with the British Army, Royal Air
-    Force or Royal Navy no more than 5 years before the start of the
-    course
-  - be entitled to support under the [Student Finance
-    England](https://www.gov.uk/student-finance/who-qualifies)
-    eligibility criteria
-
-You can also apply for a tuition fee and maintenance loan for the
-duration of the course.
-
-For more information and to search for undergraduate teacher training
-courses visit [UCAS](https://www.ucas.com/). When you’ve chosen some
-potential training providers for this programme, you should contact them
-for more details about eligibility and bursary payments.
-
-#### How to apply for a scholarship
-
-A scholarship is awarded if you successfully apply to one of the
-awarding bodies. It is instead of a bursary. You may be able to apply
-depending on the subject you want to teach and the grades you’ve got.
-
-For advice about bursaries or scholarships, you can chat online or talk
-to an adviser using the [Get an adviser](/tta-service) service.
-
-You can also contact the scholarship awarding body for your subject to
-find out more. Awarding bodies are listed here:
-
-| Subject          | Awarding body                                                                                                                                          |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Computer science | [BCS The Chartered Institute for IT](https://www.bcs.org/get-qualified/certification-and-scholarships-for-teachers/bcs-computer-teacher-scholarships/) |
-| Chemistry        | [RSC The Royal Society of Chemistry](https://www.rsc.org/awards-funding/funding/teacher-training-scholarships/)                                        |
-| Maths            | [Mathematics Teacher Training Scholarships](https://ima.org.uk/support/mathematics-teacher-training-scholarship/)                                      |
-| Physics          | [Institute of Physics teacher training scholarships](https://www.iop.org/education/teach/itts/page_52632.html#gref)                                    |
-
-Subjects and Awarding bodies:
-
-### Student finance
-
-You can take out a loan with [student
-finance](https://www.gov.uk/teacher-training-funding) to cover your
-tuition fees and help with your living (maintenance) costs. You will
-only start to repay this when you are earning over £26,575.
-
-You can apply for a tuition fee and/or a maintenance loan even if:
-
-  - you already have an undergraduate student loan
-  - you’ve been awarded a bursary or scholarship
-
-### Apply for a tuition fee loan
-
-You can apply for a tuition fee loan of up to £9,250 to cover the full
-cost of your course fees. This means you will not need to pay course
-fees upfront.
-
-### Apply for a maintenance loan
-
-You can also apply for a maintenance loan of up to £12,010 to help with
-your living costs.
-
-### Repaying your student loans
-
-If you don’t already have a student loan, or you took one out on or
-after 1 September 2012, you are only required to make repayments when
-you are earning over £26,575.
-
-If you took out a student loan before 1 September 2012 you are only
-required to make repayments when you are earning over £19,390.
-
-In both instances, your repayments will not increase if you take out a
-loan for teacher training.
-
-Use the [student finance
-calculator](https://www.gov.uk/student-finance-calculator) to find out
-how much you can get.
-
-### Other types of financial help if you’re a parent, a carer or you have a disability
-
-You may be able to get other types of financial help if you have
-children, care for dependent adults, or have a disability. You do not
-need to pay back this kind of financial support.
-
-We’ve listed these types of support below – you can also check the
-[student finance
-calculator](https://www.gov.uk/student-finance-calculator) to find out
-what you’re eligible for.
-
-### Parents’ Learning Allowance
-
-If you have children, you may be able to get [Parents’ Learning
-Allowance](https://www.gov.uk/parents-learning-allowance) of between £50
-and £1,716 a year.
-
-### Childcare grant
-
-You can apply for a [Childcare
-Grant](https://www.gov.uk/childcare-grant) to pay for 85% of your
-childcare costs. The maximum you’ll get is:
-
-  - £174.22 a week for one child
-  - £298.69 a week for 2 or more children
-
-### Adult Dependants’ Grant
-
-If an adult depends on you financially, you can apply for an [Adult Dependants’
-Grant](https://www.gov.uk/adult-dependants-grant) of up to £3,094.
-
-### Disabled Students’ Allowances (DSAs)
-
-If you have additional needs due to a mental health condition, long-term
-illness or disability you can [apply for Disabled Students’ Allowances
-(DSAs)](https://www.gov.uk/disabled-students-allowances-dsas/how-to-claim).
-The maximum amount is £20,580.
-
-### Funding if you live in Wales, Scotland or Northern Ireland
-
-If you’re applying for teacher training in England but live in Wales,
-Scotland or Northern Ireland, you’ll need to contact your country’s
-student finance body.
-
-[Student Finance Wales](https://www.studentfinancewales.co.uk/)
-
-[Student Awards Agency Scotland](https://www.saas.gov.uk/)
-
-[Student Finance NI](https://www.studentfinanceni.co.uk/)
 
 ## Ways to train
 
@@ -296,9 +87,7 @@ Qualified Teacher Status (QTS).
 
 Undergraduate teacher training leading to QTS can take up to 4 years.
 
-Graduate teacher training leading to QTS typically takes one year of
-full-time study. Some providers offer part-time study, which typically
-take 2 years.
+Graduate teacher training leading to QTS typically takes one year of full-time study. Some providers offer part-time study, which typically take 2 years.
 
 Once you’ve gained your QTS, you can apply for jobs as a newly-qualified
 teacher (NQT).
@@ -306,6 +95,19 @@ teacher (NQT).
 NQTs do a further ‘induction programme’ in school as a paid and
 qualified teacher, which allows them to build on their initial teacher
 training.
+
+### What’s the difference between a QTS, a PGCE and PGDE?
+
+QTS allows you to teach as a qualified teacher in state-maintained
+schools and non-maintained special schools in England. It may also allow
+you to teach in other parts of the UK.
+
+There is information available about teaching in [Northern
+Ireland](https://www.education-ni.gov.uk/articles/initial-teacher-education-courses-northern-ireland),
+[Scotland](https://teachinscotland.scot/) and
+[Wales](https://www.discoverteaching.wales/routes-into-teaching/).
+
+A PGCE (postgraduate certificate in education) with QTS gives you an academic qualification as well as QTS. Many PGCE courses include credits that count towards a Master’s degree.
 
 ### Find postgraduate teacher training
 
@@ -342,16 +144,7 @@ you are still a student, you can apply for a summer teaching internship.
 For advice, and a list of schools participating in STEM internships,
 visit Get Into Teaching.
 
-### What’s the difference between a QTS, a PGCE and PGDE?
 
-QTS allows you to teach as a qualified teacher in state-maintained
-schools and non-maintained special schools in England. It may also allow
-you to teach in other parts of the UK.
-
-There is information available about teaching in [Northern
-Ireland](https://www.education-ni.gov.uk/articles/initial-teacher-education-courses-northern-ireland),
-[Scotland](https://teachinscotland.scot/) and
-[Wales](https://www.discoverteaching.wales/routes-into-teaching/).
 
 ### PGCE (or PGDE) with QTS
 
@@ -378,6 +171,8 @@ To teach further education you do not need QTS. Instead you can study
 for a PGCE or PGDE without QTS. These courses are also eligible for
 candidates without a degree.
 
+You can also search for ‘further education’ courses leading to a post-compulsory education and training qualification (PCET). You do not need a degree to apply for courses leading to a PCET.
+
 ### Choose an age group
 
 You can train to teach:
@@ -399,12 +194,10 @@ Or you could arrange to spend time in school to
 
 ### Teaching under fives
 
-If you choose to teach under fives, you’ll need to apply for a
-specialist teacher training course called Early Years Initial Teacher
+If you choose to teach under fives, you’ll need to apply for a specialist teacher training course called Early Years Initial Teacher
 Training (EYITT).
 
-At the end of the course, you’ll gain Early Years Teacher Status and
-will be qualified to teach under fives only.
+At the end of the course, you’ll gain Early Years Teacher Status and will be qualified to teach under fives only.
 
 <div class="application-notice info-notice" role="note" aria-label="Information">
   Please note these courses do not lead to Qualified Teacher Status (QTS).
@@ -441,17 +234,14 @@ Assessment Only is:
   - self-funded
   - maximum of 3 months duration
   - ideal for graduates with experience of working with children from
-    birth age to 5, who meet the Teachers’ Standards (Early Years) and
-    have no need for further training
+    birth age to 5, who meet the Teachers’ Standards (Early Years) and have no need for further training
 
 ### Choose a subject
 
 [View a list of secondary school teaching
 subjects](https://www.find-postgraduate-teacher-training.service.gov.uk/start/subject?l=2)
 
-When you apply for teacher training, you’ll be asked to give detailed
-evidence for the knowledge and interest you bring to the subject(s)
-you’d like to teach.
+When you apply for teacher training, you’ll be asked to give detailed evidence for the knowledge and interest you bring to the subject(s) you’d like to teach.
 
 Evidence can include:
 
@@ -487,18 +277,17 @@ SKE courses are available in the following subjects:
 * design and technology
 * religious education
 
-###Delivery of SKE courses
+### Delivery of SKE courses
 
 SKE courses are usually available all over England at universities, schools, or with other organisations. They can be completed before, or alongside your teacher training and are available to study full-time or part-time, classroom-based or on-line. SKE is typically offered in ITT shortage subjects. The [SKE directory](https://www.gov.uk/government/publications/subject-knowledge-enhancement-course-directory) sets out what courses are provided.
 
 ### Teaching children with special educational needs and/or disabilities (SEND)
 
+Qualified SEND teachers are eligible for an extra payment, on top of their annual salary, of between £2,209 and £4,359 a year.
+
 Use [Find postgraduate teacher
 training](https://www.gov.uk/find-postgraduate-teacher-training-courses)
 to search for training courses that involve working with SEND children.
-
-Qualified SEND teachers are eligible for an extra payment, on top of
-their annual salary, of between £2,209 and £4,359 a year.
 
 #### Teaching SEND pupils
 
@@ -516,26 +305,18 @@ impairments, you’ll need a specific qualification.
 
 #### Be a Special Educational Needs Coordinator (SENCo)
 
-As a SENCo you’ll be responsible for assessing, planning and monitoring
-the progress of children with SEND. To apply for a job as a SENCo,
-you’ll need to:
+As a SENCo you’ll be responsible for assessing, planning and monitoring the progress of children with SEND. To apply for a job as a SENCo, you’ll need to:
 
   - be a qualified teacher
-  - complete the National Award in Special Educational Needs
-    Coordination (NASENCO) when you take up the SENCO post
+  - complete the National Award in Special Educational Needs Coordination (NASENCO) when you take up the SENCO post
 
 ### Training to teach if you have a disability
 
-Teachers with disabilities make valuable contributions both to
-classrooms and the culture of schools where they work.
+Teachers with disabilities make valuable contributions both to classrooms and the culture of schools where they work.
 
 #### Your rights
 
-It is against the law for teacher training providers to discriminate
-against teacher training candidates with disabilities. Under the
-Equality Act 2010, providers must make adjustments to help you do a
-course or go to an interview, providing your requests are reasonable.
-Examples of support could be:
+It is against the law for teacher training providers to discriminate against teacher training candidates with disabilities. Under the Equality Act 2010, providers must make adjustments to help you do a course or go to an interview, providing your requests are reasonable. Examples of support could be:
 
   - organising equipment like a hearing loop or an adapted keyboard
   - putting you in touch with support staff if you have a mental health
@@ -556,12 +337,6 @@ information you give about your disability is protected under the [Data
 Protection Act
 2018](https://www.gov.uk/data-protection/the-data-protection-act).
 
-#### Completing a fitness questionnaire
-
-If you’re offered a place on a teacher training course, you may have to
-complete a fitness questionnaire before starting. Training providers
-should only ask relevant questions to make sure you’re able to teach.
-
 #### Useful resources for disabled candidates
 
 [Get funding help if you're a student with a learning difficulty, health
@@ -578,6 +353,12 @@ computers and communication technology for disabled people.
 [Disability Rights
 UK](http://www.disabilityrightsuk.org/adjustments-disabled-students) for
 advice on adjustments for disabled students while studying.
+
+#### Completing a fitness questionnaire
+
+If you’re offered a place on a teacher training course, you may have to
+complete a fitness questionnaire before starting. Training providers
+should only ask relevant questions to make sure you’re able to teach.
 
 ### Types of teacher training provider
 
@@ -728,6 +509,206 @@ Although you may not need to take a formal teacher training course, you
 must meet the eligibility requirements for teacher training - which
 includes a degree, and GCSEs (or a standard equivalent) in English,
 maths, and science for primary school teaching.
+
+## Financial support for teacher training
+
+The level of financial support you get will depend on the subject you
+choose and the way you train to become a teacher.
+
+There are several types of funding that may be available to you,
+depending on your eligibility:
+
+  - a bursary
+  - a scholarship
+  - student finance
+
+It’s possible to train while you work as a paid teacher. Find out more
+about [salaried routes into teaching](#salaried-teacher-training-courses).
+
+Please note that alternative funding is in place to train as an Early
+Years teacher, which leads to achieving Early Years Status (EYTS).
+
+### Bursaries and scholarships
+
+Bursaries and scholarships are available for teacher training in certain
+subjects. A bursary or scholarship is a tax-free sum of money of £7,000
+to £26,000.
+
+If you get a bursary or are awarded a scholarship, you won’t have to pay
+it back. You can get either a bursary or a scholarship, not both.
+
+Bursaries are worth up to £24,000 and awarded:
+
+  - if you meet the criteria
+  - to candidates with a 2:2 or above in their undergraduate degree, a
+    Masters or a PhD
+  - in priority subjects
+
+Scholarships are worth up to £26,000 and awarded:
+
+  - if your scholarship application is successful
+  - in priority subjects
+  - according to each of the professional bodies' own eligibility criteria
+
+#### Check which subjects have bursaries and scholarships
+
+Bursaries and scholarships are only available for the subjects listed
+below. 
+
+##### Subjects and amounts
+
+| Subject       | Bursary | Scholarship     |
+| ------------- | ------- | --------------- |
+| Chemistry     | £24,000 | £26,000         |
+| Computing     | £24,000 | £26,000         |
+| Maths         | £24,000 | £26,000         |
+| Physics       | £24,000 | £26,000         |
+| Classics      | £10,000 | N/A             |
+| Languages     | £10,000 | N/A             |
+| Biology       | £7,000  | N/A             |
+
+#### How to get a bursary
+
+If you're eligible for a bursary, and train in a subject where a bursary
+is available you’ll receive it in instalments for the duration of your
+training. You do not need to apply for a bursary.
+
+For advice about bursaries, you can chat online or talk to an adviser
+using the [Get an adviser](/tta-service) service.
+
+#### Troops to Teachers
+
+If you're a former service personnel you may be eligible for a tax-free
+bursary of £40,000 for an undergraduate degree leading to QTS in
+England.
+
+To be eligible for the bursary, you must:
+
+  - train to teach secondary biology, physics, chemistry, computing,
+    maths or modern foreign languages
+  - not already have a undergraduate degree
+  - have left full-time employment with the British Army, Royal Air
+    Force or Royal Navy no more than 5 years before the start of the
+    course
+  - be entitled to support under the [Student Finance
+    England](https://www.gov.uk/student-finance/who-qualifies)
+    eligibility criteria
+
+You can also apply for a tuition fee and maintenance loan for the
+duration of the course.
+
+For more information and to search for undergraduate teacher training
+courses visit [UCAS](https://www.ucas.com/). When you’ve chosen some
+potential training providers for this programme, you should contact them
+for more details about eligibility and bursary payments.
+
+#### How to apply for a scholarship
+
+A scholarship is awarded if you successfully apply to one of the
+awarding bodies. It is instead of a bursary. You may be able to apply
+depending on the subject you want to teach and the grades you’ve got.
+
+For advice about bursaries or scholarships, you can chat online or talk
+to an adviser using the [Get an adviser](/tta-service) service.
+
+You can also contact the scholarship awarding body for your subject to
+find out more. Awarding bodies are listed here:
+
+| Subject          | Awarding body                                                                                                                                          |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Computer science | [BCS The Chartered Institute for IT](https://www.bcs.org/get-qualified/certification-and-scholarships-for-teachers/bcs-computer-teacher-scholarships/) |
+| Chemistry        | [RSC The Royal Society of Chemistry](https://www.rsc.org/awards-funding/funding/teacher-training-scholarships/)                                        |
+| Maths            | [Mathematics Teacher Training Scholarships](https://ima.org.uk/support/mathematics-teacher-training-scholarship/)                                      |
+| Physics          | [Institute of Physics teacher training scholarships](https://www.iop.org/education/teach/itts/page_52632.html#gref)                                    |
+
+### Student finance
+
+You can take out a loan with [student
+finance](https://www.gov.uk/teacher-training-funding) to cover your
+tuition fees and help with your living (maintenance) costs. You will
+only start to repay this when you are earning over £26,575.
+
+You can apply for a tuition fee and/or a maintenance loan even if:
+
+  - you already have an undergraduate student loan
+  - you’ve been awarded a bursary or scholarship
+
+### Apply for a tuition fee loan
+
+You can apply for a tuition fee loan of up to £9,250 to cover the full
+cost of your course fees. This means you will not need to pay course
+fees upfront.
+
+### Apply for a maintenance loan
+
+You can also apply for a maintenance loan of up to £12,010 to help with
+your living costs.
+
+### Repaying your student loans
+
+If you don’t already have a student loan, or you took one out on or
+after 1 September 2012, you are only required to make repayments when
+you are earning over £26,575.
+
+If you took out a student loan before 1 September 2012 you are only
+required to make repayments when you are earning over £19,390.
+
+In both instances, your repayments will not increase if you take out a
+loan for teacher training.
+
+Use the [student finance
+calculator](https://www.gov.uk/student-finance-calculator) to find out
+how much you can get.
+
+### Other types of financial help if you’re a parent, a carer or you have a disability
+
+You may be able to get other types of financial help if you have
+children, care for dependent adults, or have a disability. You do not
+need to pay back this kind of financial support.
+
+We’ve listed these types of support below – you can also check the
+[student finance
+calculator](https://www.gov.uk/student-finance-calculator) to find out
+what you’re eligible for.
+
+### Parents’ Learning Allowance
+
+If you have children, you may be able to get [Parents’ Learning
+Allowance](https://www.gov.uk/parents-learning-allowance) of between £50
+and £1,716 a year.
+
+### Childcare grant
+
+You can apply for a [Childcare
+Grant](https://www.gov.uk/childcare-grant) to pay for 85% of your
+childcare costs. The maximum you’ll get is:
+
+  - £174.22 a week for one child
+  - £298.69 a week for 2 or more children
+
+### Adult Dependants’ Grant
+
+If an adult depends on you financially, you can apply for an [Adult Dependants’
+Grant](https://www.gov.uk/adult-dependants-grant) of up to £3,094.
+
+### Disabled Students’ Allowances (DSAs)
+
+If you have additional needs due to a mental health condition, long-term
+illness or disability you can [apply for Disabled Students’ Allowances
+(DSAs)](https://www.gov.uk/disabled-students-allowances-dsas/how-to-claim).
+The maximum amount is £20,580.
+
+### Funding if you live in Wales, Scotland or Northern Ireland
+
+If you’re applying for teacher training in England but live in Wales,
+Scotland or Northern Ireland, you’ll need to contact your country’s
+student finance body.
+
+[Student Finance Wales](https://www.studentfinancewales.co.uk/)
+
+[Student Awards Agency Scotland](https://www.saas.gov.uk/)
+
+[Student Finance NI](https://www.studentfinanceni.co.uk/)
 
 ## Find a teacher training course
 
