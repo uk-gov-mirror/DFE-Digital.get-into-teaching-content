@@ -78,6 +78,10 @@ You’ll need an enhanced [Disclosure and Barring Service
 (DBS)](https://www.gov.uk/government/organisations/disclosure-and-barring-service)
 check if you intend to teach students under 18.
 
+## Financial support
+
+If you need further information on financial support options, such as bursaries, scholarships and extra support for parents, carers or people with disabilities, this is available on the [financial support for teaching training guidance page](/guidance/financial-support-for-teacher-training).
+
 ## Ways to train
 
 ### What you’ll need to work as a teacher
@@ -143,8 +147,6 @@ If your undergraduate degree is in a STEM or STEM-related subject, and
 you are still a student, you can apply for a summer teaching internship.
 For advice, and a list of schools participating in STEM internships,
 visit Get Into Teaching.
-
-
 
 ### PGCE (or PGDE) with QTS
 
