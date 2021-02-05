@@ -19,6 +19,7 @@
     - content/funding-your-training/get-extra-financial-support-cta
     - content/funding-your-training/applying-for-funding-if-you-come-from-outside-england
     - content/funding-your-training/applying-for-funding-if-you-come-from-outside-england-cta
+    - content/funding-your-training/early-career-framework
   keywords:
     - Bursaries
     - Bursary
