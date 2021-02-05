@@ -8,4 +8,7 @@
   image: "media/images/hero-home-dt.jpg"
   backlink: "/"
   content:
+    - content/home/purple-box
+    - content/home/calls-to-action
+    - content/home/directory
 ---
