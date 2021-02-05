@@ -8,6 +8,7 @@
     - content/ways-to-train/intro
     - content/ways-to-train/things_to_consider
     - content/ways-to-train/things_to_consider_cta
+    -content/ways-to-train/subject-knowledge-enhancement
     - content/ways-to-train/tta_cta_mob
     - content/ways-to-train/pgce
     - content/ways-to-train/school_direct_fee_funded
