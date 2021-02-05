@@ -50,8 +50,10 @@
             icon: "icon-arrow"
             link_text: Search for postgraduate teacher training
             link_target: https://www.gov.uk/find-postgraduate-teacher-training-courses
-    content_after_accordion:
-      cta: next_steps
+      After you've applied:
+        partial: content/steps-to-become-a-teacher/after_you_apply
+        cta: next_steps
+      
 ---
 
 ## Becoming a qualified teacher in England
