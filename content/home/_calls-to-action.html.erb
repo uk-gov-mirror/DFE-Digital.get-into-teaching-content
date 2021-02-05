@@ -1,0 +1,15 @@
+<section class="homepage-feature blocks">
+  <%= render CallsToAction::SimpleComponent.new(
+    icon: "icon-calendar",
+    title: "Speak to a teacher at one of our online events.",
+    link_text: "Find events",
+    link_target: "/events")
+  %>
+
+  <%= render CallsToAction::SimpleComponent.new(
+    icon: "icon-person",
+    title: "Get started with a Teacher Training Adviser.",
+    link_text: "Get an adviser",
+    link_target: "/tta-service")
+  %>
+</section>
