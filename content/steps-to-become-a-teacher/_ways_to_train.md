@@ -1,7 +1,13 @@
-There are lots of different ways to train, whether you want to train while teaching in a school or do your theory at a university and get classroom experience through placements in schools. 
+Once you know what age or subject you want to teach, you can decide how to train. 
 
-> "Choosing your Teacher Training provider is akin to choosing new shoes. Whatever you choose needs to be just the right fit in terms of comfort and support, but also in terms of style."
->
-> Jane, [Teacher Training Adviser](/tta-service)
+There are a few ways to train to become a teacher. Each route has different eligibility criteria, end qualifications, and funding options. These will depend on which school or training provider you select and the type of training they provide.
+
+Some things you may want to think about: 
+
+* how long you want to study for
+* if the course is in a convenient location for you
+* what end qualification you would like
+* whether you meet the eligibility criteria
+* what funding you may need for any tuition fees or living expenses
 
 If you need to pay fees, there are a number of different ways you can get [funding to train](/funding-your-training) as a teacher in England.

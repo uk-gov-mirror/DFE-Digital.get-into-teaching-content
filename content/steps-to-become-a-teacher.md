@@ -15,15 +15,6 @@
         cta: chat_online
       Find out about teaching and training:
         partial: content/steps-to-become-a-teacher/find_out_about_teaching_and_training
-        cta:
-          name: simple
-          arguments:
-            title: Online events
-            text: |
-              There are lots of events that you can take part in online to help you to prepare to train to become a teacher.
-            link_text: "Find an event"
-            link_target: "/events"
-            icon: "icon-calendar"
 
       Consider School Experience:
         partial: content/steps-to-become-a-teacher/consider_school_experience
@@ -42,8 +33,7 @@
           arguments:
             title: Ways to train
             text: |
-              There are 2 main ways to train: on the job as an unqualified
-              teacher or as a student.
+              Learn more about the main ways to train.
             icon: "icon-arrow"
             link_text: Find out more
             link_target: /ways-to-train
@@ -60,19 +50,20 @@
             icon: "icon-arrow"
             link_text: Search for postgraduate teacher training
             link_target: https://www.gov.uk/find-postgraduate-teacher-training-courses
-    content_after_accordion:
-      cta: next_steps
+      After you have applied:
+        partial: content/steps-to-become-a-teacher/after_you_have_applied
+        cta: next_steps
+      
 ---
 
 ## Becoming a qualified teacher in England
 
 These steps are for people wanting to become qualified teachers in England.
+
 To work as a qualified teacher in a state school in England, you will need to
 have Qualified Teacher Status (QTS). There are a number of ways to gain QTS
 such as completion of postgraduate initial teacher training (ITT) or a degree
 course with QTS included.
-
-This information is for people living in the UK wanting to train to become a teacher in England.
 
 We also have information for:
 
