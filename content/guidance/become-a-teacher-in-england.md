@@ -333,9 +333,7 @@ help cover the costs of practical support in the workplace.
 #### Telling your training provider about your disability when you apply
 
 It’s up to you if you want to tell your training provider about your
-disability.
-
-information you give about your disability is protected under the [Data
+disability. Information you give about your disability is protected under the [Data
 Protection Act
 2018](https://www.gov.uk/data-protection/the-data-protection-act).
 
