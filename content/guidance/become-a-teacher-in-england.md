@@ -341,18 +341,15 @@ Protection Act
 
 #### Useful resources for disabled candidates
 
-[Get funding help if you're a student with a learning difficulty, health
+* [Get funding help if you're a student with a learning difficulty, health
 problem or
 disability](https://www.gov.uk/disabled-students-allowances-dsas)
-
-[The Equality and Human Rights Commission
+* [The Equality and Human Rights Commission
 (EHRC)](http://www.equalityhumanrights.com/en) for information about
 discrimination on the grounds of disablity.
-
-[AbilityNet](http://www.abilitynet.org.uk/) for advice on the use of
+* [AbilityNet](http://www.abilitynet.org.uk/) for advice on the use of
 computers and communication technology for disabled people.
-
-[Disability Rights
+* [Disability Rights
 UK](http://www.disabilityrightsuk.org/adjustments-disabled-students) for
 advice on adjustments for disabled students while studying.
 
