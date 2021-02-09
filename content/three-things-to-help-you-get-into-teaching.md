@@ -6,6 +6,14 @@
     Get free one-to-one advice from a teacher training adviser: "#get-free-one-to-one-advice-from-a-teacher-training-adviser"
     Speak to current teachers at a teaching event: "#speak-to-current-teachers-at-a-teaching-event"
     Receive personalised email updates and tips: "#receive-personalised-email-updates-and-tips"
+  keywords:
+    - Teacher Training Adviser
+    - TTA
+    - Adviser
+    - Email
+    - Updates
+    - Events
+    - Train To Teach
 ---
 
 <div id="get-free-one-to-one-advice-from-a-teacher-training-adviser" class="numbered-heading">

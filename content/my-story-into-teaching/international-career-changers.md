@@ -15,7 +15,13 @@ stories:
     image: /assets/images/stories/stories-shaun.jpg
     image_description: Photograph of international returning teacher, Shaun
     link: /my-story-into-teaching/international-career-changers/returning-to-teaching-with-support-from-an-adviser
-
+keywords:
+  - Changing career
+  - Career change
+  - International
+  - Return
+  - Returner
+  - International Returner
 ---
 
 Read stories from teachers with international experience who have returned to teaching in England.

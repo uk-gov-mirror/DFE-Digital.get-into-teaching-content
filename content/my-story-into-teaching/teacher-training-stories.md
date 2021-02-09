@@ -25,7 +25,8 @@ stories:
     image: /assets/images/stories/stories-emma.jpg
     image_description: Photograph of Science Teacher, Emma Maskell
     link: /my-story-into-teaching/teacher-training-stories/why-dont-you-teach-miss
-
+keywords:
+  - Salaried
 ---
 
 These insights from current and former trainees should help give you an idea of what you can expect during your teacher training.

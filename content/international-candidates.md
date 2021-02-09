@@ -11,6 +11,37 @@ right_column:
       link_text: "Sign up"
       link_target: "/events/advice-for-international-applicants-3"
       icon: "icon-calendar"
+keywords:
+  - Nationality
+  - Residency
+  - EEA
+  - Canada
+  - New Zealand
+  - Switzerland
+  - USA
+  - Visa
+  - Skilled worker visa
+  - EU
+  - EU Settlement Scheme
+  - NARIC
+  - UK NARIC
+  - National Recognition Information Centre for the United Kingdom 
+  - PhD
+  - Immigration
+  - Ireland
+  - Irish
+  - Common Travel Area
+  - Student Visa
+  - Home Office
+  - Graduate Visa
+  - Youth Mobility Scheme
+  - Japan
+  - Monaco
+  - Hong Kong
+  - Republic of Korea 
+  - Taiwan
+  - Family Visa
+  - UK Ancestry Visa
 ---
 
 ## Teaching or training to teach in England

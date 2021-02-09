@@ -4,6 +4,11 @@ image: false
 backlink: /
 content:
   - content/presentations-cta
+keywords:
+  - Train to Teach
+  - Event
+  - Presentation
+  - Slides
 ---
 
 Our Train to Teach events use these presentations to help guide you through 

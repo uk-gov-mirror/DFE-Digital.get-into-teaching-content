@@ -5,6 +5,11 @@ backlink: "../"
 alert: |-
   This page was updated on 05 January 2021, and will continue to be updated as
   new guidance is issued. Please check back regularly.
+keywords:
+  - coronavirus
+  - 40-day rule
+  - 40 day rule
+  - interview
 ---
 
 For more information about the government response to coronavirus (COVID-19), please visit [GOV.UK](https://www.gov.uk/coronavirus).

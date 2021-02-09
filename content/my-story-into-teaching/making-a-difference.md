@@ -35,6 +35,11 @@ stories:
     image: /assets/images/stories/stories-danny.jpg
     image_description: A photograph of Danny Holliday, PE teacher
     link: /my-story-into-teaching/making-a-difference/turning-a-tough-lesson-into-success
+keywords:
+  - coding
+  - travel
+  - entrepreneur
+  - behaviour
 ---
 
 As a teacher, you can make a real difference to young people’s lives, as well as your own. Find out how these teachers are helping pupils realise their ambitions, and enjoying every moment.

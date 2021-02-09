@@ -16,4 +16,22 @@ content:
   - content/guidance/financial-support-for-teacher-training/scholarships-cta
   - content/guidance/financial-support-for-teacher-training/parents-and-carers
   - content/guidance/financial-support-for-teacher-training/disabled-students
+keywords:
+  - Bursary
+  - Bursaries
+  - Scholarship
+  - Undergraduate
+  - Troops to Teachers
+  - Army
+  - Air Force
+  - Navy
+  - Student Finance
+  - Parent
+  - Career
+  - Parents’ Learning Allowance
+  - Childcare Grant
+  - Adult Dependants’ Grant
+  - Disability
+  - Disabled students
+  - Disabled Students’ Allowances
 ---

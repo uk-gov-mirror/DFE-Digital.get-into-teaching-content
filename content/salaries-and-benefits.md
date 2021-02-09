@@ -4,6 +4,20 @@ image: "/assets/images/salaries-hero-dt.jpg"
 backlink: "../../"
 navigation: 40
 lid_pixel_event: "SalaryBenefits"
+keywords:
+  - Salary
+  - Pay
+  - Teacher Salary
+  - Teacher Salaries
+  - Leading Practitioner
+  - Headteacher
+  - Progression
+  - Unqualified Teacher
+  - Teaching and learning responsibility
+  - TLR
+  - Holiday
+  - Annual Leave
+  - Pension
 ---
 
 

@@ -2,6 +2,12 @@
 title: "Accessibility"
 image: false
 backlink: "../"
+keywords:
+  - Accessibility
+  - Accessibility information
+  - PDF
+  - Braille
+  - Audio Recording
 ---
 
 # Accessibility information

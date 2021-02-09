@@ -128,4 +128,16 @@ sections:
         link: /my-story-into-teaching/returners/top-tips-for-returning-teachers
         image: /assets/images/stories/stories-helen.jpg
         snippet: Top tips for returning teachers
+keywords:
+  - Changing career
+  - Career change
+  - International
+  - Return
+  - Returner
+  - International Returner
+  - Teacher training
+  - Stories
+  - Make a difference
+  - Making a difference
+  - Progression
 ---

@@ -27,4 +27,26 @@
         icon: "icon-person"
         hide_on_mobile: Yes
         hide_on_tablet: Yes
+  keywords:
+    - QTS
+    - Qualified Teacher Status
+    - ITT
+    - Initial Teacher Training
+    - Postgraduate
+    - PGCE
+    - Postgraduate Certificate in Education
+    - School Direct
+    - School-centred initial teacher training
+    - SCITT
+    - Postgraduate Teaching Apprenticeship
+    - Teaching Apprenticeship
+    - Apprentice
+    - Apprenticeship
+    - Teach First
+    - PGDE
+    - Postgraduate Diploma in Education
+    - Assessment only
+    - Assessment-only
+    - AO
+    - Providers
 ---
