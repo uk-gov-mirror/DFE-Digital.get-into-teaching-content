@@ -35,6 +35,8 @@ stories:
     image: /assets/images/stories/stories-owen.jpg
     image_description: Photograph of leader of teaching standards, Dr Owen Mather
     link: /my-story-into-teaching/career-progression/one-year-from-post-grad-to-hod
+keywords:
+  - Leadership
 ---
 
 The opportunities for career progression as a teacher are plentiful. This includes the possibility of rapid progression into a leadership role and as your career progresses.  Read stories from teachers who’ve taken advantage of the many progression possibilities the career has to offer.

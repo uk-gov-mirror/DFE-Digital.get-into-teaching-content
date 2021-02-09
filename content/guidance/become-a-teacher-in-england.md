@@ -5,6 +5,63 @@ related_content:
   Apply for teacher training in England: https://www.gov.uk/apply-for-teacher-training
   Teacher training funding: https://www.gov.uk/teacher-training-funding
   "Qualified teacher status (QTS): qualify to teach in England": https://www.gov.uk/guidance/qualified-teacher-status-qts
+keywords:
+  - Qualifications
+  - Eligibility
+  - GCSE
+  - Qualified Teacher Status
+  - QTS
+  - National Career Service
+  - Health
+  - Fitness
+  - DBS
+  - Disclosure and Barring Service
+  - Troops to Teachers
+  - Bursary
+  - Scholarship
+  - Student Finance
+  - Student Loan
+  - Maintenance Loan
+  - Grant
+  - Childcare
+  - NQT
+  - Newly-qualified teacher
+  - STEM
+  - Science
+  - technology
+  - engineering
+  - mathematics
+  - Further Education
+  - under fives
+  - Early years
+  - Early Years Initial Teacher Training 
+  - EYITT
+  - SKE
+  - Subject Knowledge Enhancement
+  - SEND
+  - Special Educational Needs
+  - Disability
+  - sensory impairment
+  - SENCo
+  - Special Educational Needs Coordinator
+  - Equalities Act
+  - fitness questionnaire
+  - Career Changers
+  - Now Teach
+  - Transition to Teach
+  - High Potential
+  - Teach First
+  - Researchers in schools
+  - Doctorate
+  - PhD
+  - Assessment Only
+  - AO
+  - Apply
+  - References
+  - Referees
+  - Interview
+  - Jobs
+  - Teacher Vacancies
 ---
 
 This page explains what you’ll need to become a teacher in England.

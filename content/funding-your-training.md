@@ -19,4 +19,28 @@
     - content/funding-your-training/get-extra-financial-support-cta
     - content/funding-your-training/applying-for-funding-if-you-come-from-outside-england
     - content/funding-your-training/applying-for-funding-if-you-come-from-outside-england-cta
+  keywords:
+    - Bursaries
+    - Bursary
+    - Scholarship
+    - Scholarships
+    - Grant
+    - Grants
+    - Tuition Fee
+    - Maintenance Loan
+    - Student Loan
+    - Student Finance
+    - Parent
+    - Carer
+    - Disability
+    - Disabilities
+    - DSA
+    - Childcare
+    - Financial Support
+    - EU
+    - European Union
+    - Channel Islands
+    - Guernsey
+    - Jersey
+    - Isle of Man
 ---

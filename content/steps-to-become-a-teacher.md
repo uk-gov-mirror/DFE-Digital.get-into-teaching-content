@@ -53,7 +53,28 @@
       After you have applied:
         partial: content/steps-to-become-a-teacher/after_you_have_applied
         cta: next_steps
-      
+  keywords:
+    - QTS
+    - Qualified Teacher Status
+    - ITT
+    - Initial Teacher Training
+    - International
+    - Return
+    - Returning
+    - Returner
+    - Qualifications
+    - Eligibility
+    - Eligible
+    - Degree
+    - GCSE
+    - Event
+    - Updates
+    - Stories
+    - Teacher Training Adviser
+    - School Experience
+    - Schools Experience
+    - Get School Experience
+    - Ways to train
 ---
 
 ## Becoming a qualified teacher in England
