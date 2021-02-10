@@ -10,7 +10,7 @@ If you want to return to teach modern foreign languages, maths or physics at sec
 
 Our return to teaching advisers offer one-to-one support with:
 
-* arranging school experience
-* finding Teacher Subject Specialist Training (TSST) courses to enhance your subject knowledge
-* applications, writing personal statements and preparing for teaching interviews
 * how to find teaching vacancies
+* applications, writing personal statements and preparing for teaching interviews
+* finding Teacher Subject Specialist Training (TSST) courses to enhance your subject knowledge
+
