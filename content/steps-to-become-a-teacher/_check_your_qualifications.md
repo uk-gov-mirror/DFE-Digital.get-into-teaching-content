@@ -13,4 +13,3 @@ Here's what you need to do if you:
 * [do not have a degree](/guidance/become-a-teacher-in-england#if-you-do-not-have-a-degree)
 * [have an overseas degree](/international-candidates)
 * [are returning to teach in England](/returning-to-teaching)
-* [want to teach a subject that you didn't study at degree level](/guidance/become-a-teacher-in-england#subject-knowledge-enhancement-courses)
