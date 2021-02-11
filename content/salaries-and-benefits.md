@@ -81,7 +81,7 @@ There are two main ranges for these (TLR 1 and TLR 2), depending on the category
 
 You'll get more days than people in many other professions. Full-time teachers work for 195 days per year in school.
 
-###Teachers’ Pension Scheme
+### Teachers’ Pension Scheme
 
 The Teachers’ Pension Scheme gives you a regular source of income when you retire. It is:
 
