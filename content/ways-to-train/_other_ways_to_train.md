@@ -8,7 +8,7 @@ If you want a [career change and fancy becoming a teacher](/guidance/become-a-te
 
 ### Researchers in schools
 
-You’ll need (or be about to finish) a doctorate in the [subject you want to teach](/guidance/become-a-teacher-in-england#researchers-in-schools-candidates-with-a-doctorate). You’ll then train over 3 years with a bursary. If you have a lot of relevant work experience you could train and earn a salary.
+You’ll need (or be about to finish) a doctorate in the [subject you want to teach](/guidance/become-a-teacher-in-england#researchers-in-schools-candidates-with-a-doctorate). You’ll then train over 3 years with a bursary. If you have a lot of relevant work experience you could [train and earn a salary](https://thebrilliantclub.org/researchers-in-schools/ris-applicants/ris-training-routes/salary-route/).
 
 ### Postgraduate Early Years Initial Teacher Training (EYITT)
 
