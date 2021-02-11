@@ -621,7 +621,7 @@ If you're struggling to find suitable referees, you can:
 
 If your application is successful, you’ll be invited for an interview by your training provider.
 
-Interviews usually last a day and include an interview and some time spent teaching a class of real pupils.
+Interviews usually last a day and may include some time spent teaching a class of real pupils.
 
 However they vary from provider to provider – you’ll be given all the information you need when you’re invited to attend.
 
