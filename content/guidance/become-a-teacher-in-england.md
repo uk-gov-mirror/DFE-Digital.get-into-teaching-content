@@ -196,8 +196,7 @@ Or you could arrange to spend time in school to
 
 ### Teaching under fives
 
-If you choose to teach under fives, you’ll need to apply for a specialist teacher training course called Early Years Initial Teacher
-Training (EYITT).
+If you choose to teach under fives, you’ll need to apply for a specialist teacher training course called Early Years Initial Teacher Training (EYITT).
 
 At the end of the course, you’ll gain Early Years Teacher Status and will be qualified to teach under fives only.
 
