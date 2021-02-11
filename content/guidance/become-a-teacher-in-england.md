@@ -582,7 +582,7 @@ include:
 
 #### What do you know about the subject you want to teach?
 
-The application form also asks for detailed evidence for the knowledge and interest you bring to the subject(s) you’d like to teach.
+The application form also asks for detailed evidence for the knowledge and interest you bring to the subjects you’d like to teach.
 
 See [choose a subject](#choose-a-subject) for more about subject
 knowledge.
