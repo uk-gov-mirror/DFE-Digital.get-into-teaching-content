@@ -1,7 +1,7 @@
 ---
   title: "A day in the life of a teacher"
-  image: "/assets/images/funding-hero-dt.jpg"
-  mobileimage: "/assets/images/funding-hero-mob.jpg"
+  image: "/assets/images/teaching-as-a-career-hero-dt.jpg"
+  mobileimage: "/assets/images/teaching-as-a-career-hero-mob.jpg"
   backlink: "../"
   navigation: 25
   content:
