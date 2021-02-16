@@ -32,7 +32,7 @@ Advisers can:
 
 Whatever you need, your adviser will be just a phone call, text, or email away.
 
-<a class="call-to-action-button" href="/tta-service"><span>Get an adviser</span></a>
+<a class="button" href="/tta-service"><span>Get an adviser</span></a>
 
 <div id="speak-to-current-teachers-at-a-teaching-event" class="numbered-heading">
   <span class="pink-rotated-number">2</span>
@@ -41,7 +41,7 @@ Whatever you need, your adviser will be just a phone call, text, or email away.
 
 Chat with teachers, experts and training providers about every aspect of teaching and teacher training at an event. There are a variety of events available that cover everything from funding your training, what a career in teaching is really like, to submitting a successful application.
 
-<a class="call-to-action-button" href="/events"><span>Find an event</span></a>
+<a class="button" href="/events"><span>Find an event</span></a>
 
 <div id="receive-personalised-email-updates-and-tips" class="numbered-heading">
   <span class="pink-rotated-number">3</span>
@@ -56,4 +56,4 @@ Get personalised information straight to your inbox with everything you need to 
 * how to take your next step to becoming a teacher
 * where your teaching career could take you
 
-<a class="call-to-action-button" href="/mailinglist/signup"><span>Get email updates</span></a>
+<a class="button" href="/mailinglist/signup"><span>Get email updates</span></a>
