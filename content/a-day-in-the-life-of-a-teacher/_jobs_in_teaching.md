@@ -1,2 +1,5 @@
-## Jobs in teaching 
-Have a look at the teaching roles currently available using the Department of Education’s [teaching vacancies service](https://teaching-vacancies.service.gov.uk/). 
+## Next steps
+
+* Speak to a current teacher at one of our [Train to Teach events](/event-categories/train-to-teach-events)
+* Find a [postgraduate teacher training course](https://www.gov.uk/find-postgraduate-teacher-training-courses)
+* Find a [role](https://teaching-vacancies.service.gov.uk/)
