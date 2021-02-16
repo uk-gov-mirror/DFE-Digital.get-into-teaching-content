@@ -1,4 +1,5 @@
-## Next steps
+<h2 id="next-steps" style="clear: both;">Next steps</h2>
+
 
 * Speak to a current teacher at one of our [Train to Teach events](/event-categories/train-to-teach-events)
 * Find a [postgraduate teacher training course](https://www.gov.uk/find-postgraduate-teacher-training-courses)
