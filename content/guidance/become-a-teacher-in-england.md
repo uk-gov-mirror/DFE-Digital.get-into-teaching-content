@@ -35,6 +35,7 @@ keywords:
   - under fives
   - Early years
   - Early Years Initial Teacher Training 
+  - EYTT
   - EYITT
   - SKE
   - Subject Knowledge Enhancement
@@ -62,6 +63,11 @@ keywords:
   - Interview
   - Jobs
   - Teacher Vacancies
+  - Personal Statement
+  - Change career
+  - Changing career
+  - DBS
+  - Criminal Record
 ---
 
 This page explains what you’ll need to become a teacher in England.

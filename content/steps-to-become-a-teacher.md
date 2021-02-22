@@ -74,6 +74,15 @@
     - Schools Experience
     - Get School Experience
     - Ways to train
+    - Personal Statement
+    - Reference
+    - References
+    - Referee
+    - Referees
+    - Transcript
+    - Interview
+    - How to apply
+    - How to
 ---
 
 ## Becoming a qualified teacher in England
