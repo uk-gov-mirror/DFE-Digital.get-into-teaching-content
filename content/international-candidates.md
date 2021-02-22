@@ -9,7 +9,7 @@ right_column:
         Come to an online event where you can ask advice from our panel of
         teaching experts about coming to teach in England.
       link_text: "Sign up"
-      link_target: "/events/advice-for-international-applicants-3"
+      link_target: "/events/advice-for-international-applicants-4"
       icon: "icon-calendar"
 keywords:
   - Nationality
