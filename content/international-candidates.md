@@ -4,7 +4,7 @@ image: "/assets/images/international-dt.jpg"
 backlink: "../../"
 right_column:
   ctas:
-    - title: Online events
+    - title: Online Q&As
       text: |
         Come to an online event where you can ask advice from our panel of
         teaching experts about coming to teach in England.
