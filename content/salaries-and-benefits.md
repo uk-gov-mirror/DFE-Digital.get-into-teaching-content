@@ -28,7 +28,7 @@ Schools develop their own pay policies to attract and retain teachers that have 
 
 ## Qualified teachers
 
-As a newly qualified teacher you could earn between £25,714 and £32,157 depending on where you teach.
+As a newly qualified teacher you could earn between £25,714 and £50,953 depending on where you teach.
 
 As you progress in your teaching career, it's possible to move up through these pay ranges:
 
