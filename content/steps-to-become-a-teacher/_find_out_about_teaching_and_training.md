@@ -9,8 +9,8 @@ Events give you a chance to talk to real teachers, experts, and training provide
   <a href="/events" class="button">Attend an event</a>
 </p> 
 
-### Get advice from a teacher training adviser 
-All our teacher training advisers are experienced teachers who can support you through the whole process and offer you one-to-one advice. 
+### Get advice from a Teacher Training Adviser 
+All our Teacher Training Advisers are experienced teachers who can support you through the whole process and offer you one-to-one advice. 
 
 This is a free service and your adviser will be there to support you throughout the whole process of becoming a teacher. 
 

@@ -20,10 +20,10 @@
     - content/ways-to-train/other_ways_to_train_cta
   right_column:
     ctas:
-      - title: Get support from a teacher training adviser
+      - title: Get support from a Teacher Training Adviser
         text: |
-         If you’re not sure which would be the best way to train for you, you can get personalised support from a teacher training adviser.
-        link_text: "Get a teaching training adviser"
+         If you’re not sure which would be the best way to train for you, you can get personalised support from a Teacher Training Adviser.
+        link_text: "Get a Teaching Training Adviser"
         link_target: "/tta-service"
         icon: "icon-person"
         hide_on_mobile: Yes
