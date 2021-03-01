@@ -166,8 +166,8 @@ Talk to your training provider about:
 You can find more detailed information about tuition fee loans and
 maintenance loans here:
 
-  - Guidance for EU Students studying in the UK
-  - New eligibility rules for home fee status and student finance for 2021/22
+  - [Guidance for EU Students studying in the UK](https://www.gov.uk/guidance/studying-in-the-uk-guidance-for-eu-students)
+  - [New eligibility rules for home fee status and student finance for 2021/22](https://www.gov.uk/government/publications/student-finance-eligibility-2021-to-2022-academic-year)
   - [Access to student finance FAQs](https://dfemedia.blog.gov.uk/access-to-student-finance-from-academic-year-2021-22-faqs/)
 
 You can [contact Student Finance England directly](https://www.gov.uk/contact-student-finance-england) –
