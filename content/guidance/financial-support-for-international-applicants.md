@@ -22,7 +22,7 @@ years immediately before the start of your course.
 
 For more information, contact [Student Finance England](https://www.gov.uk/contact-student-finance-england).
 
-## Applicants from countries within the [European Economic Area (EEA) or Switzerland
+## Applicants from countries within the European Economic Area (EEA) or Switzerland
 
 The EEA includes EU countries, plus Iceland, Liechtenstein and Norway.
 
