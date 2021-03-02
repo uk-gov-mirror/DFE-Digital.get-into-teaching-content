@@ -133,9 +133,7 @@ status.
 
 If you have a disability, children or adult dependents, and you are
 eligible for a tuition fee loan and maintenance loan, you may be able to
-apply for extra help. [Learn more about extra
-financial
-support](https://beta-getintoteaching.education.gov.uk/funding-your-training).
+apply for extra help. [Learn more about extra financial support](/funding-your-training).
 
 ### Teacher training bursary or scholarship
 
@@ -143,7 +141,7 @@ If you meet the eligibility requirements for a tuition fee loan, or
 tuition fee and maintenance loan, you may also be eligible for a teacher
 training bursary or scholarship.
 
-[Bursaries and scholarships are only available in certain subjects](https://beta-getintoteaching.education.gov.uk/funding-your-training).
+[Bursaries and scholarships are only available in certain subjects](/funding-your-training#bursaries-and-scholarships).
 
 ## How to apply
 
@@ -159,7 +157,7 @@ Apply to [Student Finance England](https://www.gov.uk/student-finance) for:
 Talk to your training provider about:
 
   - home fee status (they are likely to offer this if you’ve been awarded a tuition fee loan)
-  - a [bursary or scholarship](https://beta-getintoteaching.education.gov.uk/funding-your-training)
+  - a [bursary or scholarship](/funding-your-training#bursaries-and-scholarships)
 
 ## More information
 
