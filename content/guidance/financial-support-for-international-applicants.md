@@ -13,8 +13,8 @@ or contact [Student Finance England](https://www.gov.uk/contact-student-finance-
 
 ## Applicants from countries outside the European Economic Area (EEA) or Switzerland
 
-If you are an applicant from these countries, you are unlikely to be
-eligible for financial support.
+If you are an applicant from outside [the EEA](https://www.gov.uk/eu-eea) or
+Switzerland, you are unlikely to be eligible for financial support.
 
 In order to be eligible for student support, you must usually have
 'settled' status and have been living in the UK throughout the three
