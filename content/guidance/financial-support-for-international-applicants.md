@@ -159,7 +159,7 @@ Apply to [Student Finance England](https://www.gov.uk/student-finance) for:
 Talk to your training provider about:
 
   - home fee status (they are likely to offer this if you’ve been awarded a tuition fee loan)
-  - a [bursary](https://beta-getintoteaching.education.gov.uk/funding-your-training) or scholarship
+  - a [bursary or scholarship](https://beta-getintoteaching.education.gov.uk/funding-your-training)
 
 ## More information
 
