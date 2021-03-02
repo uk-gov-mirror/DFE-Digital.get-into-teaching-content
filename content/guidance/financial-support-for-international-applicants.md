@@ -72,7 +72,7 @@ maintenance loan if you:
   - have settled status under the [EU Settlement Scheme](https://www.gov.uk/settled-status-eu-citizens-families),
     and
   - have been resident in the UK throughout the 3 years before the
-    start of your course.
+    start of your course
 
 Alternatively, you may be able to get both a tuition fee loan and a
 maintenance loan if you:
