@@ -1,8 +1,8 @@
 ---
 title: |-
   UK government financial support for international applicants to
-  unsalaried teacher training courses in England (academic year 2021 to
-  2022)
+  unsalaried teacher training courses in England 
+title_caption: Academic year 2021 to 2022
 ---
 
 You may be eligible for financial support if you meet the requirements
