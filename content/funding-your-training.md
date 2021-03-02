@@ -136,7 +136,7 @@ Contact the education authority if you live in the Channel Islands ([Jersey](htt
 
 You could get a bursary or scholarship, student finance and extra funding to train to teach.
 
-If you’re an EU national starting a teacher training course in the academic year 2021/22, you may get a bursary or scholarship, and student finance.
+If you’re from within the EEA or Switzerland and are starting a teacher training course in the academic year 2021/22, you [may get a bursary or scholarship, and student finance](/guidance/financial-support-for-international-applicants#applicants-from-countries-within-the-european-economic-area-eea-or-switzerland).
 
 $international-candidates$
 
