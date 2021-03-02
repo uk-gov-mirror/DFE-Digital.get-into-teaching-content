@@ -25,6 +25,9 @@ keywords:
   - EU Settlement Scheme
   - NARIC
   - UK NARIC
+  - ENIC
+  - UK ENIC
+  - European Network of Information Centre
   - National Recognition Information Centre for the United Kingdom 
   - PhD
   - Immigration
@@ -114,7 +117,7 @@ To apply for a place on a teacher training course in England, you need to have:
 
 To teach children aged 3 to 11, you also need to have achieved a standard equivalent to a grade 4 in a GCSE science subject.
 
-For help understanding these UK qualifications and their international equivalents, call Get Into Teaching on Freephone 0800 389 2501. You may be able to get a free statement of comparability (this usually costs £49.50 plus VAT) from [National Recognition Information Centre for the United Kingdom](https://www.naric.org.uk/Qualifications/SOC/Default.aspx) (UK NARIC), after you've submitted your application and if required by your training provider.
+For help understanding these UK qualifications and their international equivalents, call Get Into Teaching on Freephone 0800 389 2501. You may be able to get a free statement of comparability (this usually costs £49.50 plus VAT) from [UK ENIC](https://www.enic.org.uk/) (previously known as the National Recognition Information Centre for the United Kingdom, UK NARIC), after you've submitted your application and if required by your training provider.
 
 You will also need to:
 
