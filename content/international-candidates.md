@@ -106,7 +106,11 @@ You can browse available teaching jobs in England using the UK government’s [T
 
 ### Funding
 
-If you’re an EU national starting a teacher training course in the academic year 2021/22, you may get a bursary or scholarship, and student finance on a similar basis to domestic students if you have settled or pre-settled status under the [EU Settlement Scheme](https://www.gov.uk/settled-status-eu-citizens-families), and meet the usual residence requirements.
+If you're an applicant from the EEA or Switzerland starting a teacher training course in the academic year 2021/22, you may get a bursary or scholarship, and student finance on a similar basis to domestic students if you have settled or pre-settled status under the EU Settlement Scheme, and meet the usual residence requirements. [Find out more about financial support for international applicants](/guidance/financial-support-for-international-applicants).
+
+<!-- what are the 'usual residence requirements'? -->
+<!-- "bursary or scholarship, and student finance" sounds clunky -->
+<!-- can we link some actual text rather than appending on a 'find out more' sentence? -->
 
 ### What you’ll need
 
