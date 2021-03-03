@@ -38,13 +38,13 @@ Types of financial help:
 ### Tuition fee loan
 
 Your tuition fees are paid, with the money going directly to your teacher
-training provider. This is a loan you have to pay back, but you’ll only start
+training provider. This is a loan you have to pay back, but you'll only start
 your repayments when your income is over £27,295 per year.
 
 ### Maintenance loan
 
 Money is paid directly into your bank account to help with living costs. This
-is a loan you have to pay back, but you’ll only start your repayments when your
+is a loan you have to pay back, but you'll only start your repayments when your
 income is over £27,295 per year.
 
 ### Home fee status
@@ -145,7 +145,7 @@ training bursary or scholarship.
 
 ## How to apply
 
-You can apply for financial support when you’ve accepted your place on
+You can apply for financial support when you've accepted your place on
 an unsalaried teacher training course.
 
 Apply to [Student Finance England](https://www.gov.uk/student-finance) for:
@@ -156,7 +156,7 @@ Apply to [Student Finance England](https://www.gov.uk/student-finance) for:
 
 Talk to your training provider about:
 
-  - home fee status (they are likely to offer this if you’ve been awarded a tuition fee loan)
+  - home fee status (they are likely to offer this if you've been awarded a tuition fee loan)
   - a [bursary or scholarship](/funding-your-training#bursaries-and-scholarships)
 
 ## More information
