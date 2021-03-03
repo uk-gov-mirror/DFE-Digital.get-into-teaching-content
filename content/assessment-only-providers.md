@@ -4,7 +4,8 @@ image: false
 backlink: /
 fullwidth: true
 content:
-  - content/assessment-only-providers-listing
+  - content/assessment-only-providers/listing
+  - content/assessment-only-providers/update-details
 providers:
   East of England:
   - header: Billericay Educational Consortium
