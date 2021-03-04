@@ -65,8 +65,7 @@ You should check your country’s advice as well as the UK's advice to keep up t
 Further information is available if you are affected by [changes to UK immigration and borders due to coronavirus (COVID-19)](https://www.gov.uk/government/collections/coronavirus-covid-19-immigration-and-borders).
 
 ---
-
-For more information about the government response to coronavirus (COVID-19), please visit GOV.UK(https://www.gov.uk/coronavirus).
+For more information about the government response to coronavirus (COVID-19), please see the [GOV.UK coronavirus guidance](https://www.gov.uk/coronavirus).
 
 If you have another question, not covered here, please [get in touch](#talk-to-us).
 
