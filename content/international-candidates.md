@@ -106,13 +106,10 @@ You can browse available teaching jobs in England using the UK government’s [T
 
 ### Funding
 
-You may be entitled to a [bursary or scholarship](/funding-your-training#bursaries-and-scholarships) or
-[student finance](/funding-your-training#tuition-fee-and-maintenance-loans) if you:
+Read our [guidance on financial help for international applicants](/guidance/financial-support-for-international-applicants) to check:
 
-* are starting a teacher training course in the academic year 2021/22
-* are from the EEA or Switzerland
-* have settled or [pre-settled status under the EU Settlement Scheme](https://www.gov.uk/settled-status-eu-citizens-families)
-* meet the [required residence requirements](/guidance/financial-support-for-international-applicants)
+* the types of financial help available
+* whether you meet the eligibility requirements
 
 ### What you’ll need
 
