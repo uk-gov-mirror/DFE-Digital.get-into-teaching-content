@@ -26,7 +26,7 @@ ITT is covered in the [updated guidance for schools](https://www.gov.uk/governme
 
 ## Advice for applicants
 
-#### Do I need to have school experience?
+### Do I need to have school experience?
 
 Getting some classroom experience can help you decide whether teaching is right for you. It is not an entry requirement for Initial Teacher Training.
 
@@ -38,25 +38,25 @@ Some schools are offering the opportunity for ITT candidates to undertake school
 
 Candidates can search and sign up through our [Get school experience service](https://schoolexperience.education.gov.uk/).
 
-#### Does the 40-day rule for making decisions about ITT applications still apply?
+### Does the 40-day rule for making decisions about ITT applications still apply?
 
 The 40-day rule for making decisions about ITT applications still applies.
 
-#### Do I have to have a face-to-face interview?
+### Do I have to have a face-to-face interview?
 
 There is no requirement for a face-to-face interview. These can take place electronically, ideally by Skype or similar. Documentation such as degree and GCSE certificates may be scanned and sent electronically.
 
 Applicants should wait to be contacted by the providers for specific guidance.
 
-#### I am studying a GCSE in maths/English/science to be eligible to start ITT later in 2021, however GCSE exams have been cancelled. What should I do?
+### I am studying a GCSE in maths/English/science to be eligible to start ITT later in 2021, however GCSE exams have been cancelled. What should I do?
 
 Details on assessment for GCSEs in summer 2021 are due to be confirmed after consultation in the spring term. In the meantime you should speak to your chosen training provider to discuss your situation.
 
-#### Are the planned Train To Teach events going ahead?
+### Are the planned Train To Teach events going ahead?
 
 Spring events have now been confirmed, please check the [events page](/events) for more information.
 
-#### What if I’m an overseas applicant?
+### What if I’m an overseas applicant?
 
 Although global travel, including to the UK, is affected by coronavirus, we still encourage you to take the steps to becoming a teacher in England.
 
