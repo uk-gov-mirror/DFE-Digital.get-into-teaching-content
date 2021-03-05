@@ -5,6 +5,11 @@ title: |-
 title_caption: Academic year 2021 to 2022
 ---
 
+### Contents
+
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
+
 You may be eligible for financial support if you meet the requirements
 explained on this page. This is an overview of the rules, and exceptions
 may apply in certain circumstances. For help and advice, review the
