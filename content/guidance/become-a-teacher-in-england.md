@@ -200,8 +200,8 @@ Spending time in a school will help you decide if teaching is for you.
 You will learn about different subjects and age groups and get insights
 and information for your personal statement.
 
-The Department for Education helps candidates find placements in school
-– learn more about [getting school
+The Department for Education helps candidates find placements in school.
+Learn more about [getting school
 experience](https://schoolexperience.education.gov.uk/).
 
 ### Science, technology, engineering and mathematics (STEM)
