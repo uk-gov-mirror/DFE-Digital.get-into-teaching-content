@@ -89,13 +89,13 @@ Ireland](https://www.education-ni.gov.uk/articles/initial-teacher-education-cour
 
 To be eligible to start teacher training, you'll need:
 
-  - a degree or equivalent qualification
-  - grade 4 (C) or above in English and maths GCSEs or to demonstrate a
+* a degree or equivalent qualification
+* grade 4 (C) or above in English and maths GCSEs or to demonstrate a
     standard equivalent
 
 To teach at primary school level, you will also need:
 
-  - grade 4 (C) or above in GCSE science or to demonstrate a standard
+* grade 4 (C) or above in GCSE science or to demonstrate a standard
     equivalent
 
 If you want to teach in England and you studied overseas you can find
@@ -108,8 +108,8 @@ You can study for a degree which includes teacher training and leads to
 Qualified Teacher Status (QTS). Courses take 1 to 4 years and may
 include one of these:
 
-  - Bachelor of Education degree (BEd)
-  - Bachelor of Arts (BA) and Bachelor of Science (BSc) with QTS
+* Bachelor of Education degree (BEd)
+* Bachelor of Arts (BA) and Bachelor of Science (BSc) with QTS
 
 [Search UCAS to find a degree leading
 to](https://digital.ucas.com/search) Qualified Teacher Status.
@@ -242,13 +242,13 @@ You can also search for ‘further education’ courses leading to a post-compul
 
 You can train to teach:
 
-  - under fives (also known as ‘early years’)
-  - primary school children
-  - primary school with a specialism (for example, English, modern
+* under fives (also known as ‘early years’)
+* primary school children
+* primary school with a specialism (for example, English, modern
     languages or science)
-  - secondary school age children (you’ll need to specialise in a
+* secondary school age children (you’ll need to specialise in a
     subject)
-  - further education (14 to adult)
+* further education (14 to adult)
 
 Use [Find postgraduate teacher
 training](https://www.find-postgraduate-teacher-training.service.gov.uk/start/subject?l=2)
@@ -275,29 +275,29 @@ finance. Some are also salaried.
 
 Undergraduate courses:
 
-  - take 3 to 4 years of full-time study and lead to a degree in an
+* take 3 to 4 years of full-time study and lead to a degree in an
     early
-  - have tuition fee loans available from [Student Finance England (SFE)](https://www.gov.uk/student-finance).
+* have tuition fee loans available from [Student Finance England (SFE)](https://www.gov.uk/student-finance).
 
 Graduate entry courses:
 
-  - typically take one year of full-time study
-  - provide a £7,000 grant to cover course fees
-  - offer bursaries for graduates up to £5,000 for a first class degree
+* typically take one year of full-time study
+* provide a £7,000 grant to cover course fees
+* offer bursaries for graduates up to £5,000 for a first class degree
 
 Graduate employment-based courses:
 
-  - are one year part-time courses for graduates working in early years
+* are one year part-time courses for graduates working in early years
     settings who need further training to demonstrate the Teachers’
     Standards (Early Years)
-  - offer funding of £14,000 to cover up to £7,000 fees and £7,000
+* offer funding of £14,000 to cover up to £7,000 fees and £7,000
     contribution to employer costs
 
 Assessment Only is:
 
-  - self-funded
-  - maximum of 3 months duration
-  - ideal for graduates with experience of working with children from
+* self-funded
+* maximum of 3 months duration
+* ideal for graduates with experience of working with children from
     birth age to 5, who meet the Teachers’ Standards (Early Years) and have no need for further training
 
 ### Choose a subject
@@ -309,11 +309,11 @@ When you apply for teacher training, you’ll be asked to give detailed evidence
 
 Evidence can include:
 
-  - the subject of your undergraduate degree
-  - modules you studied as part of your degree
-  - postgraduate degrees (for example, a Masters or PhD)
-  - your A level subjects
-  - expertise you’ve gained at work
+* the subject of your undergraduate degree
+* modules you studied as part of your degree
+* postgraduate degrees (for example, a Masters or PhD)
+* your A level subjects
+* expertise you’ve gained at work
 
 ### Subject knowledge enhancement courses
 
@@ -358,8 +358,8 @@ to search for training courses that involve working with SEND children.
 You don’t have to take a SEND specialist course. If you want to be a
 SEND teacher you can apply to teach in a special school if you have:
 
-  - been teaching for a few years
-  - experience of managing SEND pupils in your primary or secondary
+* been teaching for a few years
+* experience of managing SEND pupils in your primary or secondary
     school
 
 #### Teaching children with sensory impairments
@@ -371,8 +371,8 @@ impairments, you’ll need a specific qualification.
 
 As a SENCo you’ll be responsible for assessing, planning and monitoring the progress of children with SEND. To apply for a job as a SENCo, you’ll need to:
 
-  - be a qualified teacher
-  - complete the National Award in Special Educational Needs Coordination (NASENCO) when you take up the SENCO post
+* be a qualified teacher
+* complete the National Award in Special Educational Needs Coordination (NASENCO) when you take up the SENCO post
 
 ### Training to teach if you have a disability
 
@@ -382,10 +382,10 @@ Teachers with disabilities make valuable contributions both to classrooms and th
 
 It is against the law for teacher training providers to discriminate against teacher training candidates with disabilities. Under the Equality Act 2010, providers must make adjustments to help you do a course or go to an interview, providing your requests are reasonable. Examples of support could be:
 
-  - organising equipment like a hearing loop or an adapted keyboard
-  - putting you in touch with support staff if you have a mental health
+* organising equipment like a hearing loop or an adapted keyboard
+* putting you in touch with support staff if you have a mental health
     condition
-  - making sure classrooms are wheelchair accessible
+* making sure classrooms are wheelchair accessible
 
 If the help you need is not covered by your provider making adjustments,
 you might also be able to get support from [Access to
@@ -436,14 +436,14 @@ all lead to QTS or PGCE/PGDE plus QTS.
 
 The majority of postgraduate teacher training courses are made up of:
 
-  - academic study of the theory of teaching (also known as ‘pedagogy’)
-  - hands-on experience in the classroom
+* academic study of the theory of teaching (also known as ‘pedagogy’)
+* hands-on experience in the classroom
 
 The course typically lasts a year (3 school terms) and training will
 usually take place:
 
-  - at your training provider's main site
-  - in school placements organised by your provider
+* at your training provider's main site
+* in school placements organised by your provider
 
 Details of course structure and location will vary between training
 providers – you can research specific courses on [Find postgraduate
@@ -452,13 +452,13 @@ training](https://www.gov.uk/find-postgraduate-teacher-training-courses).
 
 When you’re researching training providers, bear in mind:
 
-  - location – you will need to be able to travel to your academic learning location as well as your placement schools
-  - reputation – check Ofsted’s report on your training provider for more detail
-  - competition for entry – some providers are tougher than others
-  - special academic requirements for entry – check the training provider listing in [Find postgraduate teacher
+* location – you will need to be able to travel to your academic learning location as well as your placement schools
+* reputation – check Ofsted’s report on your training provider for more detail
+* competition for entry – some providers are tougher than others
+* special academic requirements for entry – check the training provider listing in [Find postgraduate teacher
     training](https://www.gov.uk/find-postgraduate-teacher-training-courses)
     to see what class of degree, for example, the provider asks for
-  - size of institution – would you be happier in a large university campus, or in a smaller local school setting?
+* size of institution – would you be happier in a large university campus, or in a smaller local school setting?
 
 You can use [Find postgraduate teacher
 training](https://www.gov.uk/find-postgraduate-teacher-training-courses)
@@ -469,14 +469,14 @@ you.
 
 Under some circumstances, you can train as a teacher ‘on the job’. On these courses, you will:
 
-  - earn a salary
-  - pay no student fees for training towards QTS
+* earn a salary
+* pay no student fees for training towards QTS
 
 There are 3 options available:
 
-  - School Direct (salaried)
-  - Postgraduate teaching apprenticeships
-  - High Potential Initial Teacher Training Programme
+* School Direct (salaried)
+* Postgraduate teaching apprenticeships
+* High Potential Initial Teacher Training Programme
 
 On these courses you’ll be paid and taxed as an unqualified teacher. The salary awarded will differ between schools – you should check the salary with the school before you apply.
 
@@ -497,9 +497,9 @@ The Career Changers programme aims to attract high calibre graduates who have ha
 It provides help and guidance with the transition from a previous career
 into teaching. Career changers can add value to teaching with:
 
-  - previous employment experience
-  - industry knowledge
-  - wider perspectives into teaching practice and school policies
+* previous employment experience
+* industry knowledge
+* wider perspectives into teaching practice and school policies
 
 [Now Teach (NT)](https://nowteach.org.uk/) and [Transition to Teach
 (TT)](https://www.transitiontoteach.co.uk/) are bespoke teacher recruitment and retention programmes developed exclusively to support career changers, providing transitional support and additional mentoring so that successful career changers can get the most out of their
@@ -530,16 +530,16 @@ To [apply to this teacher training
 programme](https://researchersinschools.org/), you'll need (or be about
 to finish) a doctorate in one of the following subjects:
 
-  - physics
-  - mathematics
-  - chemistry
-  - biology
-  - engineering
-  - computing
-  - English
-  - history
-  - classics (Latin or Greek)
-  - modern foreign languages (French, German or Spanish)
+* physics
+* mathematics
+* chemistry
+* biology
+* engineering
+* computing
+* English
+* history
+* classics (Latin or Greek)
+* modern foreign languages (French, German or Spanish)
 
 ### Assessment only (candidates already working in school)
 
@@ -561,13 +561,13 @@ to select a short list of training providers which are right for you.
 
 You can filter your results by:
 
-  - qualification on completion
-  - location
-  - provider
-  - subject
-  - age group
-  - salaried or unsalaried
-  - length of course
+* qualification on completion
+* location
+* provider
+* subject
+* age group
+* salaried or unsalaried
+* length of course
 
 ## Apply for teacher training
 
@@ -600,14 +600,14 @@ During the first round of your application, you should apply to no more than thr
 
 We suggest you use Apply for teacher training if:
 
-  - all your chosen training providers are available through this new
+* all your chosen training providers are available through this new
     service
-  - you want to trial a streamlined, modern GOV.UK service
+* you want to trial a streamlined, modern GOV.UK service
 
 We suggest you use UCAS Teacher Training if:
 
-  - you’ve already started applying via UCAS
-  - some of your chosen training providers are not available through Apply for teacher training and you do not want to use 2 different services
+* you’ve already started applying via UCAS
+* some of your chosen training providers are not available through Apply for teacher training and you do not want to use 2 different services
 
 ### COVID-19
 
@@ -634,14 +634,14 @@ To get help with personal statements from a Teacher Training Adviser, [use the G
 You don't have to cover everything in this list, but suggested topics
 include:
 
-  - why you want to be a teacher
-  - your passion for your subject and the age group you’ve chosen to teach
-  - the welfare and education of children and/or young people
-  - the demands and rewards of the profession
-  - personal qualities that will make you a good teacher
-  - your contribution to the life of the school outside the classroom –
+* why you want to be a teacher
+* your passion for your subject and the age group you’ve chosen to teach
+* the welfare and education of children and/or young people
+* the demands and rewards of the profession
+* personal qualities that will make you a good teacher
+* your contribution to the life of the school outside the classroom –
     for example, running extra-curricular activities and clubs
-  - if you have school experience or have worked as a volunteer with children or young people, give details of what this has taught you
+* if you have school experience or have worked as a volunteer with children or young people, give details of what this has taught you
 
 #### What do you know about the subject you want to teach?
 
@@ -656,18 +656,18 @@ You'll need to supply contact details for 2 referees with your application form.
 
 Choose referees who’ll endorse your:
 
-  - teaching passion and potential
-  - suitability to work with children
-  - academic abilities
-  - reliability and professionalism
+* teaching passion and potential
+* suitability to work with children
+* academic abilities
+* reliability and professionalism
 
 Suitable referees include:
 
-  - your current line manager at work
-  - previous employers
-  - a teacher at a school where you work or volunteer
-  - your university tutor or supervisor
-  - a supplier or client you’ve worked with (if you’re self-employed)
+* your current line manager at work
+* previous employers
+* a teacher at a school where you work or volunteer
+* your university tutor or supervisor
+* a supplier or client you’ve worked with (if you’re self-employed)
 
 Referees should not be family members, partners or friends. Training providers will only accept character references if there’s also an
 academic or professional reference.
@@ -676,8 +676,8 @@ If you're applying for a salaried course, one of your references must be from an
 
 If you're struggling to find suitable referees, you can:
 
-  - contact one of your chosen training providers for advice
-  - [Get an adviser](/tta-service) to help you
+* contact one of your chosen training providers for advice
+* [Get an adviser](/tta-service) to help you
 
 ### Attend an interview
 
@@ -692,14 +692,14 @@ However they vary from provider to provider – you’ll be given all the inform
 If your training provider offers you a place, it may come with some
 conditions. For example:
 
-  - get an enhanced DBS check
-  - complete a health questionnaire to determine whether you're fit to
+* get an enhanced DBS check
+* complete a health questionnaire to determine whether you're fit to
     train to teach
 
 Other common conditions some candidates may need to meet include:
 
-  - sitting a GCSE equivalence test
-  - [taking a enhancement
+* sitting a GCSE equivalence test
+* [taking a enhancement
     course](#subject-knowledge-enhancement-courses)
 
 Your training provider will help you meet your conditions.

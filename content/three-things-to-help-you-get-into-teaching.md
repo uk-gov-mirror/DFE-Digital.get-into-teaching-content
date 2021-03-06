@@ -30,10 +30,10 @@ All our Teacher Training Advisers are experienced teachers who can provide you w
 
 Advisers can:
 
-- help you choose the right training
-- offer advice on financial support
-- give you practical advice and guidance at every stage of your application
-- offer support when you write your personal statement and prepare for interview
+* help you choose the right training
+* offer advice on financial support
+* give you practical advice and guidance at every stage of your application
+* offer support when you write your personal statement and prepare for interview
 
 Whatever you need, your adviser will be just a phone call, text, or email away.
 

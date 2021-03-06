@@ -61,9 +61,9 @@ choose and the way you train to become a teacher.
 There are several types of funding that may all be available to you,
 depending on your eligibility:
 
-  - a bursary or scholarship
-  - tuition fee and maintenance loans
-  - extra financial support if you're a parent, a carer, or you have a
+* a bursary or scholarship
+* tuition fee and maintenance loans
+* extra financial support if you're a parent, a carer, or you have a
     disability
 
 Please note that alternative funding is in place to train as an Early
@@ -79,23 +79,23 @@ receive both. If you receive one, you will not have to pay it back.
 
 They are only available in the following subjects:
 
-  - chemistry, computing, maths, physics - £24,000
-  - classics, languages - £10,000
-  - biology - £7,000
+* chemistry, computing, maths, physics - £24,000
+* classics, languages - £10,000
+* biology - £7,000
 
 ### Eligibility
 
 Bursaries are awarded to candidates:
 
-  - with a 2:2 or above in their undergraduate degree, a Masters or a
+* with a 2:2 or above in their undergraduate degree, a Masters or a
     PhD
-  - eligible to receive student support
-  - taking a qualifying postgraduate or undergraduate ITT course in
+* eligible to receive student support
+* taking a qualifying postgraduate or undergraduate ITT course in
     England
-  - who comply with the terms and conditions of the bursary scheme
-  - not in possession of, or eligible for QTS
-  - not undertaking paid teaching work when in receipt of the bursary
-  - not simultaneously undertaking any other ITT course, training scheme
+* who comply with the terms and conditions of the bursary scheme
+* not in possession of, or eligible for QTS
+* not undertaking paid teaching work when in receipt of the bursary
+* not simultaneously undertaking any other ITT course, training scheme
     or programme that leads to QTS
 
 ### How you will be paid
@@ -119,10 +119,10 @@ $chat-bursary$
 If you're a final year undergraduate student, you may be eligible for a
 training bursary of £9,000 if:
 
-  - you're studying a QTS course in secondary mathematics or physics
-  - you're studying an opt-in QTS course in secondary undergraduate
+* you're studying a QTS course in secondary mathematics or physics
+* you're studying an opt-in QTS course in secondary undergraduate
     computing, languages, mathematics or physics
-  - your course started in the academic year 2021 to 2022
+* your course started in the academic year 2021 to 2022
 
 You will receive the bursary in the final year of your course.
 
@@ -138,13 +138,13 @@ Teacher Status (QTS) in England.
 
 To be eligible for the bursary, you must:
 
-  - train to teach secondary biology, physics, chemistry, computing,
+* train to teach secondary biology, physics, chemistry, computing,
     maths or modern foreign languages
-  - not already have a undergraduate degree
-  - have left full-time employment with the British Army, Royal Air
+* not already have a undergraduate degree
+* have left full-time employment with the British Army, Royal Air
     Force or Royal Navy no more than 5 years before the start of the
     course
-  - be entitled to support under the [Student Finance England](https://www.gov.uk/student-finance/who-qualifies)
+* be entitled to support under the [Student Finance England](https://www.gov.uk/student-finance/who-qualifies)
     eligibility criteria
 
 You can also apply for a tuition fee and maintenance loan for the
@@ -158,10 +158,10 @@ Scholarships are awarded in partnership with professional subject
 associations to the most gifted applicants, as a tax-free sum of money
 worth £26,000 by:
 
-  - [Royal Society of Chemistry](https://www.rsc.org/awards-funding/funding/teacher-training-scholarships/) (chemistry)
-  - [BCS The Chartered Institute for IT](https://www.bcs.org/get-qualified/certification-and-scholarships-for-teachers/bcs-computer-teacher-scholarships/) (computing)
-  - [Mathematics Teacher Training Scholarship](https://ima.org.uk/support/mathematics-teacher-training-scholarship/) (maths)
-  - [Institute of Physics](https://www.iop.org/about/support-grants/iop-teacher-training-scholarships#gref) (physics)
+* [Royal Society of Chemistry](https://www.rsc.org/awards-funding/funding/teacher-training-scholarships/) (chemistry)
+* [BCS The Chartered Institute for IT](https://www.bcs.org/get-qualified/certification-and-scholarships-for-teachers/bcs-computer-teacher-scholarships/) (computing)
+* [Mathematics Teacher Training Scholarship](https://ima.org.uk/support/mathematics-teacher-training-scholarship/) (maths)
+* [Institute of Physics](https://www.iop.org/about/support-grants/iop-teacher-training-scholarships#gref) (physics)
 
 They are awarded according to each of the professional subject
 associations scholarship' eligibility criteria. If you are awarded one,
@@ -189,9 +189,9 @@ $chat-scholarship$
 
 You may be able to apply for:
 
-  - [Parents’ Learning Allowance](https://www.gov.uk/parents-learning-allowance)
-  - [Childcare Grant](https://www.gov.uk/childcare-grant)
-  - [Adult Dependants’ Grant](https://www.gov.uk/adult-dependants-grant)
+* [Parents’ Learning Allowance](https://www.gov.uk/parents-learning-allowance)
+* [Childcare Grant](https://www.gov.uk/childcare-grant)
+* [Adult Dependants’ Grant](https://www.gov.uk/adult-dependants-grant)
 
 You do not need to pay back these kinds of financial support.
 
