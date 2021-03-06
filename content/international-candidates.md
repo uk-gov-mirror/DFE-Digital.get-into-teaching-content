@@ -28,7 +28,7 @@ keywords:
   - ENIC
   - UK ENIC
   - European Network of Information Centre
-  - National Recognition Information Centre for the United Kingdom 
+  - National Recognition Information Centre for the United Kingdom
   - PhD
   - Immigration
   - Ireland
@@ -41,7 +41,7 @@ keywords:
   - Japan
   - Monaco
   - Hong Kong
-  - Republic of Korea 
+  - Republic of Korea
   - Taiwan
   - Family Visa
   - UK Ancestry Visa
@@ -86,7 +86,7 @@ Outside the state school sector, ‘private schools’ or ‘independent schools
 
 If you are qualified to teach in one of these countries, you can apply to the UK's Teaching Regulation Agency for QTS.
 
-Your application may take up to 4 months to process, but you will not need to do any further teacher training to get QTS. 
+Your application may take up to 4 months to process, but you will not need to do any further teacher training to get QTS.
 
 ### Assessment only QTS for teachers who qualified in other countries
 
@@ -158,11 +158,11 @@ If your application is successful, you can continue to live, work and study in t
 
 ### Changes to the UK’s immigration system
 
-The points-based immigration system applies to all non-UK citizens arriving in the UK from 1 January 2021, including those from the EEA or Switzerland. 
+The points-based immigration system applies to all non-UK citizens arriving in the UK from 1 January 2021, including those from the EEA or Switzerland.
 
 ### Irish citizens
 
-Irish citizens can continue to enter, work and study in the UK under the [Commmon Travel Area](https://www.gov.uk/government/publications/common-travel-area-guidance/common-travel-area-guidance) as they did previously. 
+Irish citizens can continue to enter, work and study in the UK under the [Commmon Travel Area](https://www.gov.uk/government/publications/common-travel-area-guidance/common-travel-area-guidance) as they did previously.
 
 ## Choosing the correct visa for your teaching job or teacher training course
 

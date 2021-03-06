@@ -87,7 +87,7 @@ You could get a bursary of up to £24,000 or apply for a scholarship of up to £
 ### Check which subjects have bursaries and scholarships
 
 Bursaries and scholarships are only available for the subjects listed
-below. 
+below.
 
 | Subject       | Bursary  | Scholarship      |
 | ------------- | -------: | ---------------: |

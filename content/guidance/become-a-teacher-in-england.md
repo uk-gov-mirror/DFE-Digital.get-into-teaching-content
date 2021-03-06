@@ -34,7 +34,7 @@ keywords:
   - Further Education
   - under fives
   - Early years
-  - Early Years Initial Teacher Training 
+  - Early Years Initial Teacher Training
   - EYTT
   - EYITT
   - SKE
@@ -322,7 +322,7 @@ If you've got the right qualities to teach but need to build up or refresh your 
 These courses are usually available if:
 
 * your degree wasn’t in your chosen subject, but is closely related
-* you studied the subject at A level, but not at degree level 
+* you studied the subject at A level, but not at degree level
 * you have an unrelated degree, but relevant professional knowledge in the subject
 * it's been some time since you used your degree knowledge
 * you studied for a languages degree but need a second language at an acceptable level for teaching in schools

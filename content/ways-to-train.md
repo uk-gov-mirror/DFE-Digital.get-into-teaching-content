@@ -2,7 +2,7 @@
 title: "Ways to train"
 image: "/assets/images/international-dt.jpg"
 mobileimage: "/assets/images/steps-hero-mob.jpg"
-backlink: "../"	
+backlink: "../"
 navigation: 20
 right_column:
   ctas:
@@ -109,7 +109,7 @@ To teach in a state school in England, you must have a degree, and gain Qualifie
 
 ### Things to consider
 
-There are a few ways to train to become a teacher. Each route has different eligibility criteria, end qualifications, and funding options. These will depend on which school or training provider you select and the type of training they provide. 
+There are a few ways to train to become a teacher. Each route has different eligibility criteria, end qualifications, and funding options. These will depend on which school or training provider you select and the type of training they provide.
 
 You may be eligible for funding to pay course fees and support with living costs whilst in training.
 
@@ -181,11 +181,11 @@ For more information about Assessment Only options, you can view a list of appro
 
 <p class="call-to-action__action">
   <a href="/assessment-only-providers">See Assessment Only <span>providers</span></a>
-</p>  
+</p>
 
 ## Other ways to train
 
-There are a number of specialised routes into teaching. 
+There are a number of specialised routes into teaching.
 
 ### Career changers
 
@@ -201,7 +201,7 @@ A number of postgraduate Early Years Initial Teacher Training (EYITT) courses ar
 
 ### More information
 
-For more information about ways to train, [read more detailed guidance](/guidance/become-a-teacher-in-england) or talk to us to discuss your options.  
+For more information about ways to train, [read more detailed guidance](/guidance/become-a-teacher-in-england) or talk to us to discuss your options.
 
 <div class="call-to-action__action">
   <a href="/guidance/become-a-teacher-in-england">Find out about other ways to <span>train</span></a>

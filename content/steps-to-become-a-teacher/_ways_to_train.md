@@ -1,8 +1,8 @@
-Once you know what age or subject you want to teach, you can decide how to train. 
+Once you know what age or subject you want to teach, you can decide how to train.
 
 There are a few ways to train to become a teacher. Each route has different eligibility criteria, end qualifications, and funding options. These will depend on which school or training provider you select and the type of training they provide.
 
-Some things you may want to think about: 
+Some things you may want to think about:
 
 * how long you want to study for
 * if the course is in a convenient location for you

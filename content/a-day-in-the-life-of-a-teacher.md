@@ -6,15 +6,15 @@
   navigation: 25
 ---
 
-A day in the life of a teacher is really varied, and no two days will be the same. Your day as a teacher will look different depending on whether you teach primary, secondary, or what subject you teach. Each school will have its own schedule and different responsibilities outside of teaching hours. 
+A day in the life of a teacher is really varied, and no two days will be the same. Your day as a teacher will look different depending on whether you teach primary, secondary, or what subject you teach. Each school will have its own schedule and different responsibilities outside of teaching hours.
 
-Aside from classroom time, teaching is quite flexible. You can choose when you do your marking, planning, and admin. Teachers also get more holidays than other professions. Full-time teachers work for 195 days per year in school. 
+Aside from classroom time, teaching is quite flexible. You can choose when you do your marking, planning, and admin. Teachers also get more holidays than other professions. Full-time teachers work for 195 days per year in school.
 
 ----
 
 #### 7:45 - Arrive at school
 
-Many teachers like to get to school around this time or before. They prepare for the day, get any equipment they need, and make sure everything’s ready for classes to start. 
+Many teachers like to get to school around this time or before. They prepare for the day, get any equipment they need, and make sure everything’s ready for classes to start.
 
 <figure>
   <blockquote>
@@ -25,15 +25,15 @@ Many teachers like to get to school around this time or before. They prepare for
   </figcaption>
 </figure>
 
-#### 8:20 - Staff meeting 
+#### 8:20 - Staff meeting
 
-There may be staff meetings in the morning to catch up with all staff, year group, or faculty members. 
+There may be staff meetings in the morning to catch up with all staff, year group, or faculty members.
 
-#### 8:30 - Day begins 
-The day begins with form time. This might include uniform and planner checks, or even some numeracy and literacy skills activities. 
+#### 8:30 - Day begins
+The day begins with form time. This might include uniform and planner checks, or even some numeracy and literacy skills activities.
 
-#### 9:00 - Morning lessons start 
-Not every day is a full timetable of lessons. Teachers have free periods which are spread across the week. These are used to catch up on marking or planning. 
+#### 9:00 - Morning lessons start
+Not every day is a full timetable of lessons. Teachers have free periods which are spread across the week. These are used to catch up on marking or planning.
 
 <figure class="right">
   <blockquote>
@@ -44,13 +44,13 @@ Not every day is a full timetable of lessons. Teachers have free periods which a
   </figcaption>
 </figure>
 
-Lessons are often 50 minutes long. Mornings could be structured as two 50 minute lessons followed by a break, then another two 50 minute lessons. 
+Lessons are often 50 minutes long. Mornings could be structured as two 50 minute lessons followed by a break, then another two 50 minute lessons.
 
-#### 12:30 - 30 minute lunch break 
+#### 12:30 - 30 minute lunch break
 
 #### 13:00 - Afternoon lessons
 
-Lunch is followed by two more 50 minute lessons.  
+Lunch is followed by two more 50 minute lessons.
 
 #### 15:00 - End of lessons
 
@@ -65,12 +65,12 @@ Lunch is followed by two more 50 minute lessons.
   </figcaption>
 </figure>
 
-Teachers usually stay at school for a couple of hours to do marking, planning, admin, or contact parents about any behaviour issues. Some days, the school will have staff meetings or professional development time after the children have gone home. 
+Teachers usually stay at school for a couple of hours to do marking, planning, admin, or contact parents about any behaviour issues. Some days, the school will have staff meetings or professional development time after the children have gone home.
 
-### 17:00 - Leave school for the day 
+### 17:00 - Leave school for the day
 
-### Weekend 
-Some teachers may do some marking or planning over the weekend, but others may choose to fit everything in the working week. 
+### Weekend
+Some teachers may do some marking or planning over the weekend, but others may choose to fit everything in the working week.
 
 <figure>
   <blockquote>

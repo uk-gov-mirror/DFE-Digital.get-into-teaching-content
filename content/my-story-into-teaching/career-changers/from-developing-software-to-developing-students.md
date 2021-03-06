@@ -26,4 +26,4 @@ Becoming a teacher has been the best decision ever. Teaching is so much more sat
 
 Though in hindsight, I do not regret my career in computing – it has contributed to my teaching skills, knowledge and experience.
 
-The financial support available is also good, but the primary reason must be that you want to teach, as no amount of money will compensate for the commitment that you make once you become a teacher. 
+The financial support available is also good, but the primary reason must be that you want to teach, as no amount of money will compensate for the commitment that you make once you become a teacher.

@@ -454,7 +454,7 @@ providers:
     email: Institute@tesglobal.com
 ---
 
-A number of accredited providers have been approved to offer the 
-Assessment Only (AO) route to qualified teacher status (QTS). 
-If you wish to apply for the AO route you should apply directly to one if the 
+A number of accredited providers have been approved to offer the
+Assessment Only (AO) route to qualified teacher status (QTS).
+If you wish to apply for the AO route you should apply directly to one if the
 following approved providers:
