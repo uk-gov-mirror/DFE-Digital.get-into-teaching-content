@@ -6,17 +6,16 @@ mobileimage: /assets/images/my-story-hero-mob.jpg
 hide_page_helpful_question: true
 navigation: 35
 fullwidth: true
-featured_story:
-  image: /assets/images/victoria.jpg
-  name: Victoria
-  heading: Bring your professional skills to the classroom
-  subheading: Victoria Barton, teacher and former police officer
+featured_page:
+  image: /assets/images/a-day-in-the-life-of-a-teacher.jpg
+  heading: Day in the life of a teacher
+  subheading: “Every day is so different”
   text: >
-    In addition to 2 Master’s degrees, Victoria’s career had included
-    time working as a police officer and property inspector. Find out
-    why she decided to bring that diverse experience to teaching as a
-    primary PE specialist.
-  link: /my-story-into-teaching/career-changers/police-officer-to-pe-teacher
+    There’s more to teaching than being in class. Teachers enjoy planning lessons, 
+    working with colleagues, talking to parents and running school clubs.
+  link: 
+    text: Follow a teacher’s day
+    path: /a-day-in-the-life-of-a-teacher
 sections:
   Changing career:
     link: /my-story-into-teaching/career-changers
