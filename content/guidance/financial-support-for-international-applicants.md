@@ -67,26 +67,26 @@ people to care for. You do not have to pay this money back.
 Money is paid directly into your bank account and you can use this as you wish.
 You do not have to pay this money back.
 
-## Check what support is available
+### Check what support is available
 
-### Tuition fee and maintenance loans
+#### Tuition fee and maintenance loans
 
 You will generally be eligible for both a tuition fee loan and a
 maintenance loan if you:
 
-  - have settled status under the [EU Settlement Scheme](https://www.gov.uk/settled-status-eu-citizens-families),
-    and
-  - have been resident in the UK throughout the 3 years before the
-    start of your course
+* have settled status under the [EU Settlement Scheme](https://www.gov.uk/settled-status-eu-citizens-families),
+  and
+* have been resident in the UK throughout the 3 years before the
+  start of your course
 
 Alternatively, you may be able to get both a tuition fee loan and a
 maintenance loan if you:
 
-  - have settled or pre-settled status under the EU Settlement Scheme,
-    and
-  - have been resident in the UK, EEA or Switzerland throughout the 3
-    years before the start of your course, and
-  - are an EEA/Swiss worker or a family member of one
+* have settled or pre-settled status under the EU Settlement Scheme,
+  and
+* have been resident in the UK, EEA or Switzerland throughout the 3
+  years before the start of your course, and
+* are an EEA/Swiss worker or a family member of one
 
 A '[worker](https://www.ukcisa.org.uk/information--advice/fees-and-money/government-student-support#layer-6212)'
 is someone who is employed or self-employed in the UK.
@@ -94,16 +94,16 @@ is someone who is employed or self-employed in the UK.
 A '[family member](https://www.ukcisa.org.uk/information--advice/fees-and-money/government-student-support#layer-6212)'
 is a spouse or civil partner, child and, sometimes, parent or grandparent.
 
-### Tuition fee loan without maintenance loan
+#### Tuition fee loan without maintenance loan
 
 If you are not eligible for both a tuition fee loan and maintenance loan
 then you may be able to get a tuition fee loan without a maintenance
 loan if you:
 
-  - are an EU national with settled or pre-settled status under the EU
-    Settlement Scheme, and
-  - have been resident in the UK, EEA or Switzerland throughout the 3
-    years before the start of your course
+* are an EU national with settled or pre-settled status under the EU
+  Settlement Scheme, and
+* have been resident in the UK, EEA or Switzerland throughout the 3
+  years before the start of your course
 
 More detailed guidance is available for [EEA and Swiss students about
 eligibility for tuition fee and maintenance loans in the academic year 2021 to
