@@ -138,7 +138,7 @@ status.
 
 If you have a disability, children or adult dependents, and you are
 eligible for a tuition fee loan and maintenance loan, you may be able to
-apply for extra help. [Learn more about extra financial support](/funding-your-training).
+apply for extra help. [Learn more about extra financial support](/funding-your-training#extra-financial-support-for-parents-carers-or-people-with-disabilities).
 
 ### Teacher training bursary or scholarship
 
