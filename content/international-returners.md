@@ -35,8 +35,6 @@ accordion:
       partial: content/international-returners/get-started-on-your-personal-and-professional-admin
     Research visas and immigration:
       partial: content/international-returners/research-visas-and-immigration
-    Contact us for support and help:
-      partial: content/international-returners/contact-us-for-support-and-help
 ---
 
 Are you a UK-trained teacher and UK citizen currently working abroad? Our
