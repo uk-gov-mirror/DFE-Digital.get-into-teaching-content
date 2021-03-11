@@ -37,7 +37,7 @@ to get help from the Return to teaching support service, or call the Return to
 teaching helpline on 0800 085 0971 (charges may apply for calls made from
 overseas).
 
-##### Join us on social media
+#### Join us on social media
 
 Join us on [Facebook](https://www.facebook.com/getintoteaching),
 [Instagram](https://www.instagram.com/get_into_teaching/) and
