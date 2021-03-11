@@ -29,28 +29,7 @@ collaborated with schools to:
 Teacher mental health is an important focus for DfE. Read our Teaching blog to
 learn more.
 
-### Do you need extra support?
-
-#### Support for shortage subjects
-
-If you teach maths, physics or modern foreign languages, you’re eligible for
-personalised support from the Return to teaching support service.
-
-You can get:
-
-* help and advice from a teaching adviser over phone and email
-* information on vacancies in your local area
-* tips on application and interview prep
-* advice on subject specialist training courses
-* online courses and webinars
-* membership of our closed Facebook group
-
-Register with [Get an adviser](https://beta-adviser-getintoteaching.education.gov.uk/)
-to get help from the Return to teaching support service, or call the Return to
-teaching helpline on 0800 085 0971 (charges may apply for calls made from
-overseas).
-
-#### Contact us for help
+### Contact us for help
 
 If you teach maths, physics or modern foreign languages, you can register with
 [Get an adviser](https://beta-adviser-getintoteaching.education.gov.uk/)
