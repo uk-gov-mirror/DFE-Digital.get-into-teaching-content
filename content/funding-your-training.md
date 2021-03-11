@@ -137,7 +137,9 @@ If you live in [Wales](http://www.studentfinancewales.co.uk/), [Scotland](http:/
 
 Contact the education authority if you live in the Channel Islands ([Jersey](https://www.gov.je/Working/Careers/16To19YearOlds/EnteringHigherEducation/FinancingHigherEducationCourses/FundingDegreeProfessionalQualifications/Pages/index.aspx) and [Guernsey](https://www.gov.gg/article/152744/Policies)) or on the [Isle of Man](https://www.gov.im/student-grants).
 
-If you are an applicant from outside the UK, read our [guidance on financial help for international applicants](/guidance/financial-support-for-international-applicants#applicants-from-countries-within-the-european-economic-area-eea-or-switzerland) to check:
+If you are an applicant from outside the UK, read our
+[guidance on financial help for international applicants](/guidance/financial-support-for-international-applicants)
+to check:
 
 * the types of financial help available
 * whether you meet the eligibility requirements
