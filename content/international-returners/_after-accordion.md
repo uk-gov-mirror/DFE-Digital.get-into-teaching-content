@@ -26,7 +26,7 @@ collaborated with schools to:
 * increase [flexible working opportunities](https://www.gov.uk/government/collections/flexible-working-resources-for-teachers-and-schools)
   for teachers
 
-Teacher mental health is an important focus for DfE. Read our Teaching blog to
+Teacher mental health is an important focus for DfE. Read our [Teaching blog](https://teaching.blog.gov.uk/) to
 learn more.
 
 ### Contact us for help
