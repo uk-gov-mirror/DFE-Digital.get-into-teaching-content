@@ -1,5 +1,5 @@
 ---
-title: Returning to teaching from overseas
+title: Return to teaching from overseas
 image: /assets/images/international-returners-dt.jpg
 backlink: "../../"
 right_column:
