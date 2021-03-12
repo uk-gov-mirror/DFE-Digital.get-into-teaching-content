@@ -6,7 +6,7 @@ right_column:
   ctas:
     - title: Find out more at our next online event.
       link_text: "Sign up"
-      link_target: "#"        # FIXME: this should link to a specific event
+      link_target: "https://www.eventbrite.co.uk/e/return-to-teach-in-england-information-for-uk-teachers-working-overseas-tickets-141969770405"
       icon: "icon-calendar"
 jump_links-dt:
   Help finding your next role: "#using-dfes-teaching-vacancies-service-to-find-your-next-role"
