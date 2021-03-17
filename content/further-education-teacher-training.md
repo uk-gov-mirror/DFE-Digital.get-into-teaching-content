@@ -10,7 +10,7 @@ keywords:
 
 ## Becoming a Further Education teacher
 
-Being a Further Education (FE) teacher means you’ll teach students from 14 to adult. Further Education covers an hugely diverse range of subjects and qualifications. 
+Being a Further Education (FE) teacher means you’ll teach students from 14 to adult. Further Education covers a hugely diverse range of subjects and qualifications. 
 
 As an FE teacher, you’ll be improving your students’ qualifications and future job prospects - as well as inspiring those who simply want to enjoy building new skills and knowledge.
 
