@@ -12,13 +12,11 @@ In July 2020, competitive new salary increases for teachers were agreed.
 
 The COVID-19 pandemic has highlighted the vital role of teachers, who continue
 to show extraordinary dedication and commitment. We at DfE are profoundly
-grateful for the hard work and sacrifice of everyone in the profession.
+grateful for the hard work of everyone in the profession.
 
 [Read our COVID-19 guidance for school and teachers](https://www.gov.uk/government/collections/guidance-for-schools-coronavirus-covid-19).
 
-Before the COVID-19 pandemic hit, DfE was working hard to improve life for
-teachers in England by reducing teaching stress and workload. We’ve
-collaborated with schools to:
+We’re taking action to address some of the common issues that teachers face in the classroom and have collaborated with schools to:
 
 * [develop a workload reduction kit](https://www.gov.uk/guidance/school-workload-reduction-toolkit)
 * [invest £10m in Behaviour hubs](https://www.gov.uk/guidance/behaviour-hubs)
