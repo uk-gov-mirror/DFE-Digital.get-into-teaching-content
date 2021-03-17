@@ -27,7 +27,7 @@ For more information, visit the <a href='https://www.feadvice.org.uk/i-want-work
 To find out more, you can <a href='https://www.feadvice.org.uk/i-want-work-fe-skills-sector'>get free support from the FE Advice team</a>.
  
 ## Funding for training as a Further Education teacher
-  
+
 ### Bursaries
 
 There are FE teacher training bursaries and grants are available for the academic year 2021/22.
@@ -47,6 +47,7 @@ You can find more information in the <a href='https://www.gov.uk/government/publ
 ### Grants
 
 Grants of £18,200 are available for FE teacher training in:
+
 * English
 * Maths 
 * Special educational needs and disabilities (SEND) in employment
