@@ -9,3 +9,5 @@ To apply for a course, you will need:
 * GCSE (or equivalent) and Degree certificates
 
 For support finding and applying for a course, you can [get support from an adviser](/tta-service). They can help to select the best provider for you, and assist you with your application. 
+
+<a href="https://www.gov.uk/find-postgraduate-teacher-training-courses" class="button button--smaller button--no-external-icon">Search for postgraduate teacher training</a>

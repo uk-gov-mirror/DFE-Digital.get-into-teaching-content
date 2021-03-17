@@ -11,3 +11,5 @@ Some things you may want to think about:
 * what funding you may need for any tuition fees or living expenses
 
 If you need to pay fees, there are a number of different ways you can get [funding to train](/funding-your-training) as a teacher in England.
+
+<a href="/ways-to-train" class="button button--smaller">Find out more about ways to train</a>
