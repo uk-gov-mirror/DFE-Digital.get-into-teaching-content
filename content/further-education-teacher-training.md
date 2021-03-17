@@ -10,7 +10,7 @@ keywords:
 
 ## Becoming a Further Education teacher
 
-Being a Further Education (FE) teacher means you’ll teach students from 14 to adult. Further education covers an hugely diverse range of subjects and qualifications. 
+Being a Further Education (FE) teacher means you’ll teach students from 14 to adult. Further Education covers an hugely diverse range of subjects and qualifications. 
 
 As an FE teacher, you’ll be improving your students’ qualifications and future job prospects - as well as inspiring those who simply want to enjoy building new skills and knowledge.
 
@@ -22,14 +22,14 @@ FE students come from a range of backgrounds and levels of experience. People co
 
 Because the courses and qualifications are so varied, the qualifications teachers need are too. There are qualifications on education and training, as well as the specialised subject-area skills or qualifications that a teacher is expected to have. You might even be able to gain new qualifications while you teach.
 
-For more information, visit the <a href='https://www.feadvice.org.uk/i-want-work-fe-skills-sector'>FE Advice website</a> or phone 0300 303 1877
+For more information, visit the <a href='https://www.feadvice.org.uk/i-want-work-fe-skills-sector'>FE Advice website</a> or phone 0300 303 1877.
 
 To find out more, you can <a href='https://www.feadvice.org.uk/i-want-work-fe-skills-sector'>get free support from the FE Advice team</a>.
  
 ## Funding for training as a Further Education teacher
 ### Bursaries
 
-There are FE teacher training bursaries and grants are available for the  academic year 2021/22.
+There are FE teacher training bursaries and grants are available for the academic year 2021/22.
 Bursaries from £26,000 to £12,000 are available for FE teacher training in: 
 
 | Subject                       | Bursary Amount | 
