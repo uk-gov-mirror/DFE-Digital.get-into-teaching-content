@@ -10,7 +10,9 @@ keywords:
  - EYTS
  - Early Years Teacher Status
  - Under 5
-EY-undergraduate:
+
+calls_to_action:
+ EY-undergraduate:
     name: feature_table
     arguments:
       - Cost: "Up to £9250"
