@@ -70,4 +70,4 @@ For more information about the government response to coronavirus (COVID-19), pl
 
 If you have another question, not covered here, please [get in touch](#talk-to-us).
 
-We have been working closely across government to [develop guidance on COVID-19](https://www.gov.uk/government/publications/coronavirus-covid-19-initial-teacher-training-itt) and its impact on Initial Teacher Training, and [the amended ITT criteria](https://www.gov.uk/government/publications/initial-teacher-training-criteria).
+We have been working closely across government to [develop guidance on COVID-19](https://www.gov.uk/government/publications/coronavirus-covid-19-initial-teacher-training-itt) and its impact on Initial Teacher Training, [the amended ITT criteria](https://www.gov.uk/government/publications/initial-teacher-training-criteria) and [assessment for QTS](https://www.gov.uk/government/publications/coronavirus-covid-19-initial-teacher-training-itt/coronavirus-covid-19-initial-teacher-training-itt#legal-reqs).
