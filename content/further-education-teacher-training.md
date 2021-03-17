@@ -27,6 +27,7 @@ For more information, visit the <a href='https://www.feadvice.org.uk/i-want-work
 To find out more, you can <a href='https://www.feadvice.org.uk/i-want-work-fe-skills-sector'>get free support from the FE Advice team</a>.
  
 ## Funding for training as a Further Education teacher
+  
 ### Bursaries
 
 There are FE teacher training bursaries and grants are available for the academic year 2021/22.
