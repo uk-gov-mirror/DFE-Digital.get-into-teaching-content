@@ -54,6 +54,6 @@ You can find more information in the <a href='https://www.gov.uk/government/publ
  
 ### Find out more
 
-* Visit the <a href=https://www.feadvice.org.uk/i-want-work-fe-skills-sector'>FE Advice website</a>. 
+* Visit the <a href='https://www.feadvice.org.uk/i-want-work-fe-skills-sector'>FE Advice website</a>. 
 * Ring our dedicated FE teaching support team on 0300 303 1877.
  
