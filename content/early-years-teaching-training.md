@@ -12,7 +12,7 @@ keywords:
  - Under 5
 
 calls_to_action:
- EY-undergraduate:
+  EY-undergraduate:
     name: feature_table
     arguments:
       - Cost: "Up to £9250"
@@ -21,7 +21,7 @@ calls_to_action:
         Length of training: "3 or 4 years"
         Qualification: "Early Years Teacher Status"
       - "Undergraduate early years teacher training"
- EY-graduate:
+  EY-graduate:
     name: feature_table
     arguments:
       - Cost: "£7000"
@@ -30,7 +30,7 @@ calls_to_action:
         Length of training: "Typically 1 academic year"
         Qualification: "Early Years Teacher Status"
       - "Graduate early years teacher training"     
- EY-graduate-employment:
+  EY-graduate-employment:
     name: feature_table
     arguments:
       - Cost: "£7000"
@@ -39,7 +39,7 @@ calls_to_action:
         Length of training: "Typically 1 academic year"
         Qualification: "Early Years Teacher Status"
       - "Graduate employment-based early years teacher training"
- EY-self-funded:
+  EY-self-funded:
     name: feature_table
     arguments:
       - Cost: "Self-funded"
