@@ -21,7 +21,7 @@ I'd always had teaching in mind, because I'd really enjoyed the work I'd done wi
 
 > The best parts of teaching for me are seeing that lightbulb moment when a child suddenly understands something they didn't before.
 
-Making the decision to leave an established career wasn't easy, and I had to be sure Iwas making the right decision. I went to a 'train to teach roadshow', taking the opportunity to speak to experienced teachers, schools and universities that offer teacher training and fellow professionals seeking to establish a new career in teaching.
+Making the decision to leave an established career wasn't easy, and I had to be sure I was making the right decision. I went to a 'train to teach roadshow', taking the opportunity to speak to experienced teachers, schools and universities that offer teacher training and fellow professionals seeking to establish a new career in teaching.
 
 I'd assumed that my age would be a barrier, but it absolutely wasn't. Everybody was very welcoming and said, 'You're absolutely not too old to become a teacher, we're looking for people like you'.
 
