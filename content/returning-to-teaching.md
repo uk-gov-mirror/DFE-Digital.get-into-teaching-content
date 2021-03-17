@@ -41,7 +41,7 @@ right_column:
 
 Returning to teaching might be easier than you expect.
 
-If you’re considering coming back to the profession, or if you’re qualified to teach but have never taught in a state school in England, we’re help here to help.  
+If you’re considering coming back to the profession, or if you’re qualified to teach but have never taught in a state school in England, we’re here to help.  
 
 ## Why now?
 
