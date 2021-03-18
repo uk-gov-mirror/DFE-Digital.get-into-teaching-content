@@ -71,10 +71,10 @@ In this licence, the terms below have the following meanings:
 
 The National Archives has developed this licence as a tool to enable Information Providers in the public sector to license the use and re-use of their Information under a common open licence. The National Archives invites public sector bodies owning their own copyright and database rights to permit the use of their Information under this licence.
 
-The Keeper of the Public Records has authority to license Information subject to copyright and database right owned by the Crown. The extent of the offer to license this Information under the terms of this licence is set out in the [UK Government Licensing Framework](http://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/re-use-and-licensing/ukglf/).
+The Keeper of the Public Records has authority to license Information subject to copyright and database right owned by the Crown. The extent of the offer to license this Information under the terms of this licence is set out in the [UK Government Licensing Framework](https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/re-use-and-licensing/ukglf/).
 
 This is version 3.0 of the Open Government Licence. The National Archives may, from time to time, issue new versions of the Open Government Licence. If you are already using Information under a previous version of the Open Government Licence, the terms of that licence will continue to apply.
 
 These terms are compatible with the Creative Commons Attribution License 4.0 and the Open Data Commons Attribution License, both of which license copyright and database rights. This means that when the Information is adapted and licensed under either of those licences, you automatically satisfy the conditions of the OGL when you comply with the other licence. The OGLv3.0 is Open Definition compliant.
 
-Further context, best practice and guidance can be found in the [UK Government Licensing Framework section](http://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/) on The National Archives website.
+Further context, best practice and guidance can be found in the [UK Government Licensing Framework section](https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/) on The National Archives website.
