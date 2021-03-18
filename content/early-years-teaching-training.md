@@ -43,7 +43,7 @@ calls_to_action:
     name: feature_table
     arguments:
       - Cost: "Self-funded"
-        Salary: "Yes"
+        Salary: "No"
         Funding available: "No"
         Length of training: "3 months"
         Qualification: "Early Years Teacher Status"
@@ -56,9 +56,9 @@ As an early years teacher, you will work with young children from birth up to ag
  
 By training to deliver the Early Years Foundation Stage, you’ll learn how to use your knowledge and skills to help young children enjoy high standards of teaching. These early years are critical for young children’s development, and you’ll be opening their minds to new ideas every day.
  
-### How to become an early years teacher
+###How to become an early years teacher
  
-To qualify as an early years teacher, you’ll need Early Years Teacher StatusStatu,s which is different from Qualified Teacher Status (its equivalent for teaching children aged five to 18). Your training will enable you to meet the  [Teachers’ Standards (Early Years)](https://www.gov.uk/government/publications/early-years-teachers-standards).
+To qualify, you’ll need Early Years Teacher Status, which is different from Qualified Teacher Status (the equivalent for teaching children aged five to 18). Your training will enable you to meet the  [Teachers’ Standards (Early Years)](https://www.gov.uk/government/publications/early-years-teachers-standards).
  
 To start early years teacher training, you’ll need these qualifications (or equivalents):
 
