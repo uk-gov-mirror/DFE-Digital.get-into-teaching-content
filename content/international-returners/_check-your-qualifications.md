@@ -14,7 +14,7 @@ all school types if you have QTS.
 
 If you have experience working as a teacher, and a degree, you may be able to
 get QTS through the Assessment only (AO) route without any further training.
-Some [training providers](https://getintoteaching.education.gov.uk/explore-my-options/teacher-training-routes/specialist-training-options/assessment-only/ao-provider-list)
+Some [training providers](/assessment-only-providers)
 do AO overseas. You can check with providers directly to see if they provide
 overseas AO.
 
