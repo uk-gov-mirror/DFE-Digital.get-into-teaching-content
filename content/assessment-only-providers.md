@@ -333,7 +333,7 @@ providers:
     email: admin@itt-westberks.org
   - header: Xavier Catholic Education Trust
     link: http://www.teachsoutheast.co.uk/
-    email: a.harper@sjb.surrey.sch.ul 
+    email: a.harper@sjb.surrey.sch.uk 
   South West:
   - header: Bath Spa University
     link: http://www.bathspa.ac.uk/
