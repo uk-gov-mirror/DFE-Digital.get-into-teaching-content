@@ -5,6 +5,10 @@ backlink: "../"
 keywords:
   - training
   - adviser
+  - TTA
+  - advisor
+  - personal statement
+  - interview
 ---
 
 Enjoy free expert one-on-one advice on getting school experience, writing your personal statement, finding funding, applying for training, passing course interviews and more.
@@ -36,7 +40,6 @@ Your adviser will be just a call, text or email away.
 <p class="call-to-action__action">
   <a href="/tta-service">Get a Teacher Training <span>Adviser</span></a>
 </p>
-
 
 Corinne wanted to become a chemistry teacher, and was paired with adviser Leilah
 
