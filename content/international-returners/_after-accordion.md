@@ -1,12 +1,12 @@
 ### What can you expect from the Department for Education?
 
-#### Continuous professional development (CPD) and teaching salaries
+#### Continuous professional development (CPD) and competitive teaching salaries
 
 DfE can support your CPD through [National Professional Qualifications (NPQs)](https://www.gov.uk/government/publications/national-professional-qualifications-npqs-list-of-providers)
 for middle and senior leadership, headship and executive leadership.
 [We'll be introducing improved NPQs from September 2021](https://www.gov.uk/government/publications/national-professional-qualifications-frameworks-from-september-2021).
 
-In July 2020, competitive new salary increases for teachers were agreed.
+In July 2020, [competitive new salary increases](https://www.gov.uk/government/news/teachers-set-for-biggest-pay-rise-in-fifteen-years) for teachers were agreed.
 
 #### Supporting our critical workers in education
 
