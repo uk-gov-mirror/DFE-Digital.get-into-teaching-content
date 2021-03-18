@@ -100,6 +100,6 @@ There’s lots you can do to re-familiarise yourself with teaching. For example,
 
 ## Teachers who trained in England returning from overseas 
 
-If you’re returning from teaching overseas and looking for new opportunities to teach in England, we’re here to support you and progress your career in teaching. 
+If you’re returning from teaching overseas and looking for new opportunities to teach in England, we’re here to support you and progress your career in teaching.
 
 Visit our [international returners page](/international-returners) for bespoke guidance and support to return to teaching in England.  
