@@ -246,6 +246,9 @@ providers:
     name: Stephanie Rodgers
     telephone: '01494 787573'
     email: sro@challoners.org
+  - header: Boleyn Trust
+    link: https://www.elascitt.com 
+    email: elascitt@tollgate.boleyntrust.org 
   - header: Bourton Meadow Initial Teacher Training Centre
     link: http://www.bourtonmeadowittc.co.uk
     name: Helen Byrom
@@ -328,6 +331,9 @@ providers:
     name: Emmeline Bird
     telephone: 01635 42155
     email: admin@itt-westberks.org
+  - header: Xavier Catholic Education Trust
+    link: http://www.teachsoutheast.co.uk/
+    email: a.harper@sjb.surrey.sch.uk 
   South West:
   - header: Bath Spa University
     link: http://www.bathspa.ac.uk/
