@@ -1,6 +1,10 @@
 ---
 layout: "layouts/stories/landing"
 title: My story into teaching
+description: |-
+  Teachers offer an insight into day-to-day school life and the satisfaction
+  that comes with making a difference to young people's lives.
+date: "2021-02-02"
 image: /assets/images/my-story-hero-dt.jpg
 mobileimage: /assets/images/my-story-hero-mob.jpg
 hide_page_helpful_question: true
