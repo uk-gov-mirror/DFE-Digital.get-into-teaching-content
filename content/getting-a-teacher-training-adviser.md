@@ -44,7 +44,7 @@ Your adviser will be just a call, text or email away.
 
 ## How a Teacher Training Adviser can help you succeed 
 
-### Corinne wanted to become a chemistry teacher, and was paired with adviser Leilah
+#### Corinne wanted to become a chemistry teacher, and was paired with adviser Leilah
 
 Shortly after beginning to fill in my application form I received a telephone call, from the Teacher Training Adviser service, which was a relief. 
 
