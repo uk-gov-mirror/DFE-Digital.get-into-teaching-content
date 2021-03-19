@@ -149,7 +149,7 @@ providers:
     telephone: 020 8411 5555
     email: enquiries@mdx.ac.uk
   - header: North Essex Teacher Training (NETT)
-    link: https://www.nett.org.uk/
+    link: http://www.nett.org.uk/
     telephone: '01255431949'
     email: teach@nett.org.uk
   - header: St Mary’s University
