@@ -168,7 +168,7 @@ providers:
     telephone: '01708 255006'
     email: http@hallmeadschool.com
   - header: The Pimlico-London SCITT
-    link: https://www.futuretraining.org/assessment-only/
+    link: https://www.futuretraining.org/page/?title=Assessment+Only+Route&pid=20
     email: info@futuretraining.org
   - header: University of East London
     link: https://www.uel.ac.uk/
