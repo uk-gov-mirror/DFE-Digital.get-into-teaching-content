@@ -47,7 +47,7 @@ providers:
     telephone: 01234 827145
     email: SBernard@saf.org.uk
   - header: Suffolk and Norfolk ITT
-    link: https://www.snitt.co.uk/
+    link: https://www.suffolkandnorfolkscitt.co.uk
     name: Lucinda James
     telephone: 01473 265077
     email: enquiries@suffolkandnorfolkscitt.co.uk
