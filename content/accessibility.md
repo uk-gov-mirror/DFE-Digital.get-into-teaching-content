@@ -2,7 +2,7 @@
 title: "Accessibility"
 image: false
 description: |-
-  This website is run by the Department for Educatoin. It is designed to be
+  This website is run by the Department for Education. It is designed to be
   used by as many people as possible. The text should be clear and easy to
   understand.
 date: "2020-11-06"
