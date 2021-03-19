@@ -1,5 +1,10 @@
 ---
   title: "Funding your training"
+  description: |-
+    Multiple funding options in the form of bursaries, scholarships and
+    maintenance loans are available to support your postgraduate teacher
+    training.
+  date: "2021-03-11"
   image: "/assets/images/funding-hero-dt.jpg"
   mobileimage: "/assets/images/funding-hero-mob.jpg"
   backlink: "../"

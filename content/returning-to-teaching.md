@@ -1,5 +1,7 @@
 ---
 title: "Returning to teaching"
+description: |-
+date: "2021-02-25"
 image: "/assets/images/return-to-teaching-dt.jpg"
 backlink: "../../"
 keywords:

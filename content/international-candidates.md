@@ -1,5 +1,10 @@
 ---
 title: "International teachers and trainees"
+description: |-
+  There are lots of options for people from the EU or beyond to come
+  and teach in England. We can help you see if you're ready and guide
+  you through the application process.
+date: "2020-03-04"
 image: "/assets/images/international-dt.jpg"
 backlink: "../../"
 right_column:
