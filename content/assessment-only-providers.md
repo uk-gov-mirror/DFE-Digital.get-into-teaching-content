@@ -86,7 +86,7 @@ providers:
     telephone: '07919 568841'
     email: jwoolley@cfbt.com
   - header: Educate Teacher Training
-    link: https://www.educateteachertraining.co.uk/
+    link: https://www.educate-group.co.uk/teacher-training/how-training-works/routes/#ASSESSMENT
     name: Claire King
     telephone: 01476 512793
     email: aor@educate-group.co.uk
