@@ -44,6 +44,7 @@ Your adviser will be just a call, text or email away.
 <br>
 <b>Corinne wanted to become a chemistry teacher, and was paired with adviser Leilah.</b>
 <br>
+<br>
 Shortly after beginning to fill in my application form I received a telephone call, from the Teacher Training Adviser service, which was a relief. 
 
 > Applying for teacher training is an in-depth process, and it’s good to have guidance.
