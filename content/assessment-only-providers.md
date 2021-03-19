@@ -204,7 +204,7 @@ providers:
     email: jill.wilkinson@sunderland.ac.uk
   North West:
   - header: Ashton on Mersey SCITT
-    link: https://aomscitt.co.uk/assessment-only/
+    link: http://aomscitt.co.uk/assessment-only/
     name: Samantha Buckley
     telephone: 0161 973 1179 (ext 2229)
     email: SamanthaBuckley@thedeantrust.co.uk
