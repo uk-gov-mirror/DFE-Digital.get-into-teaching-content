@@ -1,6 +1,7 @@
 ---
 title: "Getting a Teacher Training Adviser"
-image: false
+image: "/assets/images/getting-a-teacher-training-adviser-dt.jpg"
+mobileimage: "/assets/images/getting-a-teacher-training-adviser-mob.jpg"
 backlink: "../"
 keywords:
   - training
