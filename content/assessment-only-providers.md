@@ -9,7 +9,7 @@ content:
 providers:
   East of England:
   - header: Billericay Educational Consortium
-    link: https://secondary.billericayscitt.com/assessment-only-route-2/
+    link: http://secondary.billericayscitt.com/assessment-only-route-2/
     name: Fiona Manby
     telephone: 01245 683619
     email: info@billericayscitt.com
