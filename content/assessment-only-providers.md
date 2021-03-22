@@ -186,7 +186,7 @@ providers:
     email: ssteward@scitt.wandsworth.sch.uk
   North East:
   - header: Carmel Teacher Training Partnership (CTTP)
-    link: https://www.carmel.org.uk/
+    link: https://carmelteachertraining.com/
     name: Marielle Thonnart
     telephone: 01325 254525
     email: thonnartm@carmel.bhcet.org.uk
@@ -314,11 +314,6 @@ providers:
     name: Marc Jacobs
     telephone: '0118 378 2672'
     email: m.l.jacobs@reading.ac.uk
-  - header: University of Southampton
-    link: https://www.southampton.ac.uk/education/postgraduate/itt_courses/assessment_only.page?
-    name: Jan Lewis
-    telephone: 023 8059 4669
-    email: j.v.lewis@soton.ac.uk
   - header: University of Sussex
     link: https://www.sussex.ac.uk/
     name: Janet Steadman
@@ -379,7 +374,7 @@ providers:
     telephone: '01782 432538'
     email: ao@knste-shaw.org.uk
   - header: St. Joseph's College Stoke Secondary Partnership
-    link: https://www.stjosephstrentvale.com/teaching-school/partnership/
+    link: http://www.stjosephstrentvale.com/teaching-school/partnership/
     email: schater@stjosephsmail.com
   - header: Staffordshire University
     link: https://www.staffs.ac.uk/
@@ -422,7 +417,7 @@ providers:
     link: https://www.sheffieldscitt.org.uk/
     email: kbarna@hallamtsa.org.uk
   - header: Bradford College
-    link: https://www.bradfordcollege.ac.uk/qts-assessment
+    link: https://www.bradfordcollege.ac.uk/courses/course/qualified-teacher-status-qts-assessment-only-programme/
     name: Lee Parsell
     telephone: 01274 088 368
     email: l.parsell@bradfordcollege.ac.uk
@@ -454,7 +449,7 @@ providers:
     email: cfletcher@yhtt.co.uk
   National:
   - header: TES Institute
-    link: https://www.tes.com/institute/assessment-only-route-qts?utm_source=nctl&utm_medium=referral&utm_content=AO-get-into-teaching-page&utm_campaign=web-referral
+    link: https://www.tes.com/institute/assessment-only-route
     name: Mikki Burns
     telephone: 0203 194 3200
     email: Institute@tesglobal.com
