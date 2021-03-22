@@ -14,7 +14,7 @@ providers:
     telephone: 01245 683619
     email: info@billericayscitt.com
   - header: Chiltern Training Group SCITT
-    link: http://www.challneyboys.co.uk/
+    link: https://www.challneyboys.co.uk/
     name: Karen Bateman
     telephone: '01582 599921'
     email: kbateman@challneyboys.luton.sch.uk
@@ -24,16 +24,16 @@ providers:
     telephone: '01268 570215'
     email: Fran@etpscitt.co.uk
   - header: Essex Teacher Training
-    link: http://www.essexteachertraining.co.uk
+    link: https://www.essexteachertraining.co.uk
     name: Kay Satchell
     email: kay.satchell@essexteachertraining.co.uk
   - header: Mid Essex Initial Teacher Training
-    link: http://midessexteachertraining.com/
+    link: https://midessexteachertraining.com/
     name: Keith Ferguson
     telephone: 01376 556398
     email: ao@midessexteachertraining.com
   - header: Newlands Spring Primary School Academy Trust (Essex Primary SCITT)
-    link: http://www.essexprimaryscitt.co.uk/
+    link: https://www.essexprimaryscitt.co.uk/
     name: Fiona Willett
     telephone: '0738885808'
     email: fiona@essexprimaryscitt.co.uk
@@ -47,12 +47,12 @@ providers:
     telephone: 01234 827145
     email: SBernard@saf.org.uk
   - header: Suffolk and Norfolk ITT
-    link: http://www.snitt.co.uk/
+    link: https://www.suffolkandnorfolkscitt.co.uk
     name: Lucinda James
     telephone: 01473 265077
     email: enquiries@suffolkandnorfolkscitt.co.uk
   - header: The Bedfordshire Schools Training Partnership
-    link: http://www.bedsscitt.org.uk/
+    link: https://www.bedsscitt.org.uk/
     name: David Goode
     telephone: 01462 817445
     email: office@bedsscitt.org.uk
@@ -66,18 +66,18 @@ providers:
     telephone: '01582 522121'
     email: jdarmody@shirefoundation.co.uk
   - header: University of Bedfordshire
-    link: http://www.beds.ac.uk/
+    link: https://www.beds.ac.uk/
     name: Bedford Admissions
     telephone: 01234 793279
     email: admission@beds.ac.uk
   - header: University of Hertfordshire
-    link: http://www.herts.ac.uk/apply/schools-of-study/education/initial-teacher-training/assessment-only-route
+    link: https://www.herts.ac.uk/apply/schools-of-study/education/initial-teacher-training/assessment-only-route
     name: Lee Hague (AO Administrator)
     telephone: 01707 285612
     email: l.a.hague@herts.ac.uk
   East Midlands:
   - header: Bishop Grosseteste University
-    link: http://www.bishopg.ac.uk
+    link: https://www.bishopg.ac.uk
     name: Dr Abigail Parrish
     telephone: 01522 583729
     email: abigail.parrish@bishopg.ac.uk
@@ -86,37 +86,37 @@ providers:
     telephone: '07919 568841'
     email: jwoolley@cfbt.com
   - header: Educate Teacher Training
-    link: http://www.educateteachertraining.co.uk/
+    link: https://www.educate-group.co.uk/teacher-training/how-training-works/routes/#ASSESSMENT
     name: Claire King
     telephone: 01476 512793
     email: aor@educate-group.co.uk
   - header: Nottingham Trent University
-    link: http://www.ntu.ac.uk/
+    link: https://www.ntu.ac.uk/
     name: Admissions team
     telephone: 0115 848 4200
     email: applications@ntu.ac.uk
   - header: The Grand Union Training Partnership
-    link: http://www.gutp.co.uk/
+    link: https://www.gutp.co.uk/
     name: Tracey Oakley
     telephone: 01327 350284 ext. 251
     email: gutp@sponne.org.uk
   - header: University of Derby
-    link: http://www.derby.ac.uk/
+    link: https://www.derby.ac.uk/
     name: Aneesa Akhtar
     email: AO@derby.ac.uk
   Greater London:
   - header: 2Schools Consortium
-    link: http://www.2schools.org/assessment-only-route/
+    link: https://www.2schools.org/assessment-only-route/
     name: Isabella Mora
     telephone: '0208 807 6906'
     email: training@oakthorpe.enfield.sch.uk
   - header: Bromley Schools’ Collegiate
-    link: http://www.bscteach.co.uk/
+    link: https://www.bscteach.co.uk/
     name: Derek Boyle
     telephone: 020 8300 6566
     email: Administrator@gradteach.co.uk
   - header: Goldsmiths, University of London
-    link: http://www.gold.ac.uk/
+    link: https://www.gold.ac.uk/
     name: Lynsey Salt
     telephone: 020 7717 2245
     email: ao@gold.ac.uk
@@ -126,12 +126,12 @@ providers:
     telephone: '0208 5203142'
     email: training@henrymaynard.waltham.sch.uk
   - header: Jewish Teacher Training Partnership
-    link: http://www.lsjs.ac.uk/
+    link: https://www.lsjs.ac.uk/
     name: Galia Segal
     telephone: 020 8203 6427
     email: galia.segal@lsjs.ac.uk
   - header: Kingston University
-    link: http://www.kingston.ac.uk/postgraduate-course/assessment-only-route-leading-to-qualified-teacher-status/
+    link: https://www.kingston.ac.uk/postgraduate-course/assessment-only-route-leading-to-qualified-teacher-status/
     name: Marcus Bhargava
     telephone: 020 8417 4766
     email: aoenquiries@kingston.ac.uk
@@ -153,25 +153,25 @@ providers:
     telephone: '01255431949'
     email: teach@nett.org.uk
   - header: St Mary’s University
-    link: http://www.stmarys.ac.uk/education-theology-and-leadership/assessment-only-qts.htm
+    link: https://www.stmarys.ac.uk/education-theology-and-leadership/assessment-only-qts.htm
     name: Elizabeth Jackson
     telephone: '0208 2404326'
     email: ao@stmarys.ac.uk
   - header: 'Teaching London: LDBS SCITT'
-    link: http://teachinglondon.org
+    link: https://teachinglondon.org
     name: Saskia Rossi
     telephone: 0207 932 1126
     email: admin@teachinglondon.org
   - header: The Havering Teacher Training Partnership
-    link: http://www.haveringteachertraining.co.uk/
+    link: https://www.haveringteachertraining.co.uk/
     name: Liz Connell
     telephone: '01708 255006'
     email: http@hallmeadschool.com
   - header: The Pimlico-London SCITT
-    link: http://www.futuretraining.org/assessment-only/
+    link: https://www.futuretraining.org/page/?title=Assessment+Only+Route&pid=20
     email: info@futuretraining.org
   - header: University of East London
-    link: http://www.uel.ac.uk/
+    link: https://www.uel.ac.uk/
     name: Bryce Wilby
     telephone: 020 8223 6372
     email: b.wilby@uel.ac.uk
@@ -180,25 +180,25 @@ providers:
     telephone: 020 8331 9000
     email: courseinfo@gre.ac.uk
   - header: Wandsworth Primary Schools’ Consortium
-    link: http://www.beatrixpotterschool.com/our-school/wandsworth-scitt-teacher-training/
+    link: https://www.beatrixpotterschool.com/our-school/wandsworth-scitt-teacher-training/
     name: Sam Steward
     telephone: 020 8772 9528
     email: ssteward@scitt.wandsworth.sch.uk
   North East:
   - header: Carmel Teacher Training Partnership (CTTP)
-    link: http://www.carmel.org.uk/
+    link: https://carmelteachertraining.com/
     name: Marielle Thonnart
     telephone: 01325 254525
     email: thonnartm@carmel.bhcet.org.uk
   - header: Durham University
     email: ed.ite@durham.ac.uk
   - header: Stockton-on-Tees Teacher Training Partnership
-    link: http://www.stocktonscitt.uk
+    link: https://www.stocktonscitt.uk
     name: Kirsten Webber
     telephone: 01642 527675
     email: scitt@stockton.gov.uk
   - header: University of Sunderland
-    link: http://www.sunderland.ac.uk/
+    link: https://www.sunderland.ac.uk/
     name: Jill Wilkinson
     telephone: '0191 5153099'
     email: jill.wilkinson@sunderland.ac.uk
@@ -209,7 +209,7 @@ providers:
     telephone: 0161 973 1179 (ext 2229)
     email: SamanthaBuckley@thedeantrust.co.uk
   - header: Cumbria Teacher Training
-    link: http://www.ctt.ac.uk/
+    link: https://www.ctt.ac.uk/
     email: scittlead@ctt.ac.uk
   - header: Kingsbridge EIP SCITT
     name: Gail Thomson
@@ -232,17 +232,17 @@ providers:
     telephone: 0330 313 9876
     email: felicity.ackroyd@staracademies.org
   - header: University of Chester
-    link: http://www.chester.ac.uk/
+    link: https://www.chester.ac.uk/
     name: Jenn Simmonds
     email: j.simmonds@chester.ac.uk
   - header: University of Cumbria
-    link: http://www.cumbria.ac.uk/Courses/Subjects/Education/Postgraduate/DirectAssessmentOnlyRoute.aspx
+    link: https://www.cumbria.ac.uk/Courses/Subjects/Education/Postgraduate/DirectAssessmentOnlyRoute.aspx
     name: Carolyn Reade
     email: arolyn.reade@cumbria.ac.uk
   South East:
   - header: Astra School Centred Initial Teacher Training / Dr Challoner's Grammar
       School
-    link: http://www.astra-alliance.com/285/the-assessment-only-route
+    link: https://www.astra-alliance.com/285/the-assessment-only-route
     name: Stephanie Rodgers
     telephone: '01494 787573'
     email: sro@challoners.org
@@ -250,7 +250,7 @@ providers:
     link: https://www.elascitt.com 
     email: elascitt@tollgate.boleyntrust.org 
   - header: Bourton Meadow Initial Teacher Training Centre
-    link: http://www.bourtonmeadowittc.co.uk
+    link: https://www.bourtonmeadowittc.co.uk
     name: Helen Byrom
     telephone: '01280 823374'
     email: hbyrom@bucksgfl.org.uk
@@ -259,11 +259,11 @@ providers:
     telephone: 01227 925555
     email: pgadmissions@canterbury.ac.uk
   - header: e-Qualitas
-    link: http://www.e-qualitas.org.uk/
+    link: https://www.e-qualitas.org.uk/
     name: Vivien Johnston
     email: vivien@e-qualitas.co.uk
   - header: George Abbot SCITT
-    link: http://www.georgeabbottraining.co.uk/assessment-only-route/
+    link: https://www.georgeabbottraining.co.uk/assessment-only-route/
     name: Lyndsay Cameron
     telephone: '01483 888070'
     email: lcameron@georgeabbot.surrey.sch.uk
@@ -287,7 +287,7 @@ providers:
     telephone: '01932 219412'
     email: c.lane@thamesmead.surrey.sch.uk
   - header: The Buckingham Partnership
-    link: http://www.bpscitt.uk/
+    link: https://www.bpscitt.uk/
     name: Laura Whitty
     telephone: '01280 827 377'
     email: lwhitty@royallatin.org
@@ -297,34 +297,29 @@ providers:
     telephone: '01908 505030'
     email: brownc@denbigh.net
   - header: The University of Buckingham
-    link: http://www.buckingham.ac.uk/
+    link: https://www.buckingham.ac.uk/
     name: Nikki Mugford
     telephone: '01280 820219'
     email: education@buckingham.ac.uk
   - header: Two Mile Ash ITT Partnership
-    link: http://www.mkitt.co.uk/
+    link: https://www.mkitt.co.uk/
     name: Sarah Hand
     telephone: '01908 533284'
     email: info@mkitt.co.uk
   - header: University of Chichester
-    link: http://www.chi.ac.uk/
+    link: https://www.chi.ac.uk/
     email: ao@chi.ac.uk
   - header: University of Reading
-    link: http://www.reading.ac.uk/
+    link: https://www.reading.ac.uk/
     name: Marc Jacobs
     telephone: '0118 378 2672'
     email: m.l.jacobs@reading.ac.uk
-  - header: University of Southampton
-    link: http://www.southampton.ac.uk/education/postgraduate/itt_courses/assessment_only.page?
-    name: Jan Lewis
-    telephone: 023 8059 4669
-    email: j.v.lewis@soton.ac.uk
   - header: University of Sussex
-    link: http://www.sussex.ac.uk/
+    link: https://www.sussex.ac.uk/
     name: Janet Steadman
     email: l.harknett@sussex.ac.uk
   - header: University of Winchester
-    link: http://www.winchester.ac.uk/pages/home.aspx
+    link: https://www.winchester.ac.uk/pages/home.aspx
     name: Keith Smith
     email: ao@winchester.ac.uk
   - header: West Berkshire Training Partnership
@@ -332,21 +327,21 @@ providers:
     telephone: 01635 42155
     email: admin@itt-westberks.org
   - header: Xavier Catholic Education Trust
-    link: http://www.teachsoutheast.co.uk/
+    link: https://www.teachsoutheast.co.uk/
     email: a.harper@sjb.surrey.sch.uk 
   South West:
   - header: Bath Spa University
-    link: http://www.bathspa.ac.uk/
+    link: https://www.bathspa.ac.uk/
     name: Clare Furlonger
     telephone: 01225 875650
     email: assessmentonly@bathspa.ac.uk
   - header: Cornwall School Centred Initial Teacher Training (Cornwall SCITT)
-    link: http://www.cornwallscitt.org/
+    link: https://www.cornwallscitt.org/
     name: Julie Bennett
     telephone: '01872 267092'
     email: juliebennett@truro-penwith.ac.uk
   - header: Mid Somerset Consortium for Teacher Training
-    link: http://www.mscitt.org.uk/Routes/Assessment-only/
+    link: https://www.mscitt.org.uk/Routes/Assessment-only/
     name: Sarah Lewis
     telephone: '01458 449418'
     email: office@mscitt.org.uk
@@ -354,12 +349,12 @@ providers:
     link: https://www.sciltraining.co.uk
     email: CLeoni@somerset.gov.uk
   - header: The Learning Institute South West SCITT
-    link: http://www.learninginstitute.co.uk
+    link: https://www.learninginstitute.co.uk
     name: Ania Glowczynska
     telephone: 01726 891 745
     email: info@learninginstitute.co.uk
   - header: University of Gloucestershire
-    link: http://www.glos.ac.uk/study/Pages/study-with-us.aspx
+    link: https://www.glos.ac.uk/study/Pages/study-with-us.aspx
     name: Tim Adams
     telephone: 01242 714638
     email: qtsassessmentonly@glos.ac.uk
@@ -369,7 +364,7 @@ providers:
     email: WSTP@poolehigh.poole.sch.uk
   West Midlands:
   - header: Birmingham City University
-    link: http://www.bcu.ac.uk/
+    link: https://www.bcu.ac.uk/
     name: Programme Leader
     telephone: 0121 331 4627
     email: assessmentonlyqts@bcu.ac.uk
@@ -382,7 +377,7 @@ providers:
     link: http://www.stjosephstrentvale.com/teaching-school/partnership/
     email: schater@stjosephsmail.com
   - header: Staffordshire University
-    link: http://www.staffs.ac.uk/
+    link: https://www.staffs.ac.uk/
     name: Cath Hickling
     email: c.hickling@staffs.ac.uk
   - header: The National School of Education and Teaching, Coventry University
@@ -399,7 +394,7 @@ providers:
     telephone: 0121 607 1930
     email: sean.bates@titan.org.uk
   - header: University College Birmingham
-    link: http://www.ucb.ac.uk/home.aspx
+    link: https://www.ucb.ac.uk/home.aspx
     name: Dr. Marj Jeavons
     email: m.jeavons@ucb.ac.uk
   - header: University of Warwick
@@ -407,13 +402,13 @@ providers:
     name: CTE Admissions and Enrolment Team
     email: cte.admissions@warwick.ac.uk
   - header: University of Wolverhampton – primary
-    link: http://www.wlv.ac.uk/
+    link: https://www.wlv.ac.uk/
     email: AOPrimary@wlv.ac.uk
   - header: University of Wolverhampton – secondary
-    link: http://www.wlv.ac.uk/
+    link: https://www.wlv.ac.uk/
     email: AOSecondary@wlv.ac.uk
   - header: West Midlands Consortium
-    link: http://wmc.ttsonline.net/
+    link: https://wmc.ttsonline.net/
     name: Su Plant
     telephone: '01952 200000'
     email: ssplant@ttsonline.net
@@ -422,7 +417,7 @@ providers:
     link: https://www.sheffieldscitt.org.uk/
     email: kbarna@hallamtsa.org.uk
   - header: Bradford College
-    link: https://www.bradfordcollege.ac.uk/qts-assessment
+    link: https://www.bradfordcollege.ac.uk/courses/course/qualified-teacher-status-qts-assessment-only-programme/
     name: Lee Parsell
     telephone: 01274 088 368
     email: l.parsell@bradfordcollege.ac.uk
@@ -439,7 +434,7 @@ providers:
     telephone: 01724 297950
     email: jo.leedham@northlincs.gov.uk
   - header: Three Counties Alliance SCITT
-    link: http://ytcascitt.co.uk/
+    link: https://ytcascitt.co.uk/
     name: Rebecca Turner-Loisel
     telephone: '01977 657604'
     email: ytca@minsthorpe.cc
@@ -454,7 +449,7 @@ providers:
     email: cfletcher@yhtt.co.uk
   National:
   - header: TES Institute
-    link: https://www.tes.com/institute/assessment-only-route-qts?utm_source=nctl&utm_medium=referral&utm_content=AO-get-into-teaching-page&utm_campaign=web-referral
+    link: https://www.tes.com/institute/assessment-only-route
     name: Mikki Burns
     telephone: 0203 194 3200
     email: Institute@tesglobal.com
