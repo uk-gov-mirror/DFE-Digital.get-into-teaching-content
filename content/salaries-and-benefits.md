@@ -63,6 +63,7 @@ Headteachers lead, motivate and manage staff. In this role you will earn between
 | London fringe                 | £48,901 | £118,356 |
 | The rest of England and Wales | £47,735 | £117,197 |
 
+Headteachers are members of what is called a leadership group, alongside other leadership teachers. Salaries are higher for leadership teachers (excluding headteachers), the average salary in 2019 being £54,911.
 
 ## Unqualified teachers
 
