@@ -1,9 +1,7 @@
 ---
 title: Research
 description: |-
-  Censuswide carried out a survey on behalf of the Get Into Teaching campaign
-  to explore people's career aspirations and how the COVID-19 pandamic has
-  affected them.
+  A record of recent surveys and research carried out on behalf of the Get Into Teaching campaign, such as the effect of the Covid-19 pandemic on people's career aspirations.
 date: "2021-01-19"
 image: false
 keywords:
