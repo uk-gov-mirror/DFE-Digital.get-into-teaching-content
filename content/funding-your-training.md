@@ -74,20 +74,31 @@
     - Isle of Man
 ---
 
+
+## Tuition fee and maintenance loans
+
+You can apply for a tuition fee loan of up to £9,250 to cover your teacher training, so you don't need to pay course fees upfront. You can also apply for a maintenance loan of up to £12,382 to help with living costs.
+
+You can still apply for a tuition fee and/or a maintenance loan if you already have a student loan, and regardless of whether you get a bursary or scholarship.
+
+You will only have to make loan repayments once you're earning. Your repayments will not increase if you already have a student loan and take an additional loan for teacher training.
+
+$student-finance-calculator$
+
+
 ## Bursaries and scholarships
 
-Bursaries and scholarships are tax-free amounts of money to train in certain subjects. You don’t need to pay them back.
+You may be eligible for a bursary or scholarship when training to teach. These are tax-free amounts of money you receive to train in certain subjects. You don’t need to pay them back.
 
-You’ll need a first, 2:1, 2:2 degree or a PhD or Master's to be eligible for a bursary.
+You’ll need a first, 2:1, 2:2 degree or a PhD or Master's to be eligible for a bursary, as well as meeting the bursary scheme's individual terms and conditions.
 
-For a scholarship, each professional scholarship body sets its own criteria.
+For a scholarship, each professional scholarship body sets its own criteria. These bodies include the Royal Society of Chemistry (chemistry), BCS The Chartered Institute for IT (computing), Mathematics Teacher Training Scholarship (maths) and the Institute of Physics (physics).
 
-You could get a bursary of up to £24,000 or apply for a scholarship of up to £26,000.
 
 ### Check which subjects have bursaries and scholarships
 
 Bursaries and scholarships are only available for the subjects listed
-below. 
+below. You cannot receive both a bursary and a scholarship.
 
 | Subject       | Bursary  | Scholarship      |
 | ------------- | -------: | ---------------: |
@@ -101,28 +112,32 @@ below.
 
 $bursaries-and-scholarships$
 
-## Tuition fee and maintenance loans
+(CTA TO Chat to us here)
+If you're unsure about whether you qualify for a bursary or scholarship you can chat to us
+Chat online
 
-You can apply for a tuition fee loan to pay for your training so you don't need to pay anything upfront. You can also apply for a maintenance loan to help with living costs and you may be able to get a [bursary or a scholarship](#bursaries-and-scholarships).
+### Non-graduate bursaries
 
-Even if a bursary or scholarship is available for your course, you can get student finance to cover your fees and help with your living costs. You can apply for a tuition fee and/or a maintenance loan even if you already have a student loan.
+If you're a final year undergraduate student and your course started in the academic year 2021 to 2022, you may be eligible for a training bursary of £9,000. The bursary is available if you're studying a QTS course in secondary maths or physics, or you're studying an opt-in QTS course in secondary undergraduate computing, languages, mathematics or physics.
 
-You can apply for a tuition fee loan of up to £9,250 to cover the full cost of your course fees and a maintenance loan of up to £12,382 to help with your living costs.
+There are [Troops to Teachers] (https://www.ucas.com/teaching-option/troops-teachers) tax-free bursaries of £40,000 for former military personel  undertaking  undergraduate degrees leading to Qualified Teacher Status (QTS) in England. You may be eligible for the bursary if you train to teach secondary biology, physics, chemistry, computing, maths or modern foreign languages.
 
-You will only have to make repayments when you're earning. Your repayments will not increase if you already have a student loan and take a loan out for teacher training.
+(CTA to UCAS here)
 
-$student-finance-calculator$
 
-## Extra financial support for parents, carers or people with disabilities
 
-You may be able to get extra financial support if you have a disability, or if you have children or dependent adults. If you get this type of funding, you do not need to pay it back.
+## Extra financial support for parents and carers
 
-You could apply for:
+You may be able to get extra financial support if you have children or other caring responsibilities.
 
-* [Disabled Students’ Allowance (DSA)](https://www.gov.uk/disabled-students-allowances-dsas/how-to-claim)
 * [Childcare Grant](https://www.gov.uk/childcare-grant)
 * [Parents Learning Allowance](https://www.gov.uk/parents-learning-allowance)
 * [Adult Dependants’ Grant](https://www.gov.uk/adult-dependants-grant)
+
+
+## Extra financial support for students with disabilities
+
+If you have additional needs due to a mental health condition, long-term illness or disability you can apply for [Disabled Students’ Allowance (DSA)](https://www.gov.uk/disabled-students-allowances-dsas/how-to-claim).
 
 $financial-support-for-teacher-training$
 
@@ -145,23 +160,3 @@ to check:
 * whether you meet the eligibility requirements
 
 $international-candidates$
-
-## Early Career Framework
-
-The Department for Education has developed a 2 year package to support new teachers at the start of their career, based on the [Early Career Framework](https://www.gov.uk/government/publications/supporting-early-career-teachers).
-
-The Early Career Framework was designed with an expert advisory group to support early career teacher development.
-
-The support package includes:
-
-* funded 5% time off timetable in the second year of teaching, in addition to the existing 10% in the first year
-* a range of high-quality, freely available curricula and training materials underpinned by the Early Career Framework
-* funded training for mentors of early career teachers
-* funded time for mentors to support early career teachers
-
-The support package will be launched:
-
-* to early rollout areas in September 2020
-* nationally from September 2021
-
-This is part of government’s commitment to transform support for early career teachers.
