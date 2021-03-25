@@ -49,13 +49,18 @@ If you’re considering coming back to the profession, or if you’re qualified 
 
 ## Why now
 
-Thousands of former teachers return to teaching each year. 
- 
-Here at the Department for Education, we’re taking action to address some of the common issues that teachers face in the classroom, by helping schools to [reduce workload](https://www.gov.uk/guidance/school-workload-reduction-toolkit), supporting mental health and wellbeing, and [publishing guidance on flexible working](https://www.gov.uk/government/collections/flexible-working-resources-for-teachers-and-schools) and [manage behaviour](https://www.gov.uk/guidance/behaviour-hubs). 
- 
+Thousands of former teachers return to teaching each year.
+
+Here at the Department for Education, we’re taking action to address some of the common issues that teachers face in the classroom, such as helping schools to:
+
+* [reduce workload](https://www.gov.uk/guidance/school-workload-reduction-toolkit)
+* support mental health and wellbeing
+* [enable flexible working](https://www.gov.uk/government/collections/flexible-working-resources-for-teachers-and-schools)
+* [manage behaviour](https://www.gov.uk/guidance/behaviour-hubs)
+
 The education sector promotes inclusivity and diversity, and there are many organisations who support teachers with protected characteristics, such as [WomenEd](https://www.womened.org/), [BAMEed](https://www.bameednetwork.com/), [LGBTed](https://lgbted.uk/) and [DisabilityEd](https://www.twitter.com/disability_ed).
 
-You can search for jobs easily, including those with flexible working patterns, by using [Teaching Vacancies](https://teaching-vacancies.service.gov.uk/). 
+[Search for jobs, including those with flexible working patterns, on Teaching Vacancies](https://teaching-vacancies.service.gov.uk/).
 
 ## Return to teaching advisers
 
@@ -64,10 +69,9 @@ secondary school in England, we can help.
 
 Our return to teaching advisers can give free one-to-one support with:
 
-* help with applications process, writing personal statements and preparing for
-  teaching interview
+* the applications process, such as writing personal statements and preparing for interviews
 * accessing courses to enhance your subject knowledge
-* how to find teaching vacancies
+* finding teaching vacancies
 
 $get-a-tta$
 
@@ -81,9 +85,9 @@ to find the best opportunity for you.
 
 ## National Tutoring Programme
 
-The National Tutoring Programme supports schools to close the attainment gap in light of the coronavirus pandemic and provides two different options to return to a school environment without taking on a full-time or part-time classroom role. 
+The National Tutoring Programme supports schools to close the attainment gap in light of the coronavirus pandemic and provides 2 different options to return to a school environment without taking on a full-time or part-time classroom role.
 
-If you’re unsure about taking on a teacher role at this time, you could consider [applying to tutor or mentor through the National Tutoring Programme](https://nationaltutoring.org.uk/). 
+If you’re unsure about taking on a teacher role at this time, [consider applying to tutor or mentor through the National Tutoring Programme](https://nationaltutoring.org.uk/).
 
 ## If you've been out of teaching for a while
 
@@ -92,8 +96,7 @@ There’s lots you can do to re-familiarise yourself with teaching. For example,
 * attend an [online return to teaching event](/events/return-to-teaching-8)
 * review the latest [Teachers’ Standards](https://www.gov.uk/government/publications/teachers-standards)
 * catch up on changes to the [national curriculum and qualifications](https://www.gov.uk/topic/schools-colleges-childrens-services/curriculum-qualifications)
-* read through current behaviour management guidelines – see the Department
-  for Education’s [advice](https://www.gov.uk/government/publications/behaviour-and-discipline-in-schools)
+* [read through current behaviour management guidelines](https://www.gov.uk/government/publications/behaviour-and-discipline-in-schools)
 * join the [Chartered College of Teaching](https://chartered.college/), the
   professional body for teachers
 * join a [teaching union](https://www.tes.com/jobs/careers-advice/pay-and-conditions/which-teachers-union)
@@ -102,8 +105,6 @@ There’s lots you can do to re-familiarise yourself with teaching. For example,
   [pointers for remote interviewing](https://www.tes.com/news/coronavirus-10-tips-acing-remote-job-interview)
 * ensure your [pension is up to date](https://www.teacherspensions.co.uk/members/working-life/life-events/moving-abroad.aspx)
 
-## Teachers who trained in England returning from overseas 
+## If you trained to teach in England and are returning from overseas
 
-If you’re returning from teaching overseas and looking for new opportunities to teach in England, we’re here to support you and progress your career in teaching.
-
-Visit our [international returners page](/international-returners) for bespoke guidance and support to return to teaching in England.  
+We’re here to support you to progress your career in teaching. Visit our [international returners page](/international-returners) for guidance and support to return to teaching in England.  
