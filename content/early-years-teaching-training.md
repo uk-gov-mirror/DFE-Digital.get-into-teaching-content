@@ -54,7 +54,9 @@ calls_to_action:
  
 As an early years teacher, you'll work with young children up to the age of 5. Your input will have a lasting and positive effect on their development and wellbeing.
  
-By training to deliver the Early Years Foundation Stage, you’ll learn how to use your knowledge and skills to help young children enjoy high standards of teaching. These early years are critical for young children’s development, and you’ll be opening their minds to new ideas every day.
+By training to be an early years teacher, you’ll use your knowledge and skills to help young children enjoy high standards of teaching. 
+
+The early years are critical in children's development. You’ll be opening their minds to new ideas every day.
  
 ###How to become an early years teacher
  
