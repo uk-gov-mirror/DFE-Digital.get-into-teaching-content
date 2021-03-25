@@ -33,7 +33,7 @@ calls_to_action:
   EY-graduate-employment:
     name: feature_table
     arguments:
-      - Cost: "£7000"
+      - Cost: "£7,000"
         Salary: "Provided by employer"
         Funding available: "Yes"
         Length of training: "Typically 1 academic year"
