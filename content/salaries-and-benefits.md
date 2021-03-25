@@ -80,6 +80,17 @@ As an unqualified teacher you could earn between £18,169 and £33,410 depending
 
 ## Teacher benefits
 
+### Newly qualified teacher benefits
+ 
+A new 2-year package to support teachers at the start of their career, based on the [Early Career Framework](https://www.gov.uk/government/publications/supporting-early-career-teachers), launches nationally in September 2021.
+ 
+The support package includes:
+ 
+* funded 5% time off timetable in the second year of teaching, in addition to the existing 10% in the first year
+* a range of high-quality, freely available curricula and training materials underpinned by the Early Career Framework
+* funded training for mentors of early career teachers
+* funded time for mentors to support early career teachers 
+
 ### Teaching and learning responsibility (TLR) payments
 
 If you take on extra ongoing responsibilities in your role, you could get a salary uplift.
