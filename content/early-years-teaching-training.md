@@ -15,7 +15,7 @@ calls_to_action:
   EY-undergraduate:
     name: feature_table
     arguments:
-      - Cost: "Up to £9250"
+      - Cost: "Up to £9,250"
         Salary: "No"
         Funding available: "Yes"
         Length of training: "3 or 4 years"
@@ -94,4 +94,3 @@ This self-funded route is ideal for graduates with early-years experience. If yo
 To apply for your early years teacher training place, please contact one of our [training providers](https://www.gov.uk/government/publications/early-years-initial-teacher-training-itt-providers-and-school-direct-early-years-lead-organisations/early-years-initial-teacher-training-itt-providers-and-school-direct-lead-organisations).
 
 You can read more about funding guidance on the [relevant gov.uk page](https://www.gov.uk/guidance/early-years-initial-teacher-training-2021-to-2022-funding-guidance)
-
