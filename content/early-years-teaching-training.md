@@ -72,7 +72,7 @@ To start early years teacher training, you’ll need these qualifications (or to
 
 Graduate training also requires a 2:2 bachelor’s degree with honours or higher.
  
-To apply for your early years teacher training place, please contact one of our [training providers](https://www.gov.uk/government/publications/early-years-initial-teacher-training-itt-providers-and-school-direct-early-years-lead-organisations/early-years-initial-teacher-training-itt-providers-and-school-direct-lead-organisations).
+[Contact one of our early years training providers to apply for a place](https://www.gov.uk/government/publications/early-years-initial-teacher-training-itt-providers-and-school-direct-early-years-lead-organisations/early-years-initial-teacher-training-itt-providers-and-school-direct-lead-organisations).
 
 ## Ways to train
 
