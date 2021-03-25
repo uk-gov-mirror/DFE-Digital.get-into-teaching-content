@@ -11,13 +11,6 @@
      Extra financial support for parents, carers or people with disabilities: "#extra-financial-support-for-parents-carers-or-people-with-disabilities"
      Applying for funding if you come from outside England: "#applying-for-funding-if-you-come-from-outside-england"
   calls_to_action:
-    bursaries-and-scholarships:
-      name: simple
-      arguments:
-        icon: "icon-arrow"
-        text: "Find out more about bursaries and scholarships."
-        link_text: "Financial support for teacher training"
-        link_target: "/guidance/financial-support-for-teacher-training"
     get-school-experience:
       name: simple
       arguments:
@@ -33,13 +26,6 @@
         text: "Use the student finance calculator on GOV.UK to find out how much you can get."
         link_text: "Student finance calculator"
         link_target: "https://www.gov.uk/student-finance-calculator"
-    financial-support-for-teacher-training:
-      name: simple
-      arguments:
-        icon: "icon-arrow"
-        text: "Find out more about extra financial support."
-        link_text: "Financial support for teacher training"
-        link_target: "/guidance/financial-support-for-teacher-training"
     international-candidates:
       name: simple
       arguments:
@@ -110,11 +96,6 @@ below. You cannot receive both a bursary and a scholarship.
 | **Languages** | £10,000  | *N/A*            |
 | **Biology**   | £7,000   | *N/A*            |
 
-$bursaries-and-scholarships$
-
-(CTA TO Chat to us here)
-If you're unsure about whether you qualify for a bursary or scholarship you can chat to us
-Chat online
 
 ### Non-graduate bursaries
 
@@ -122,8 +103,9 @@ If you're a final year undergraduate student and your course started in the acad
 
 There are [Troops to Teachers] (https://www.ucas.com/teaching-option/troops-teachers) tax-free bursaries of £40,000 for former military personel  undertaking  undergraduate degrees leading to Qualified Teacher Status (QTS) in England. You may be eligible for the bursary if you train to teach secondary biology, physics, chemistry, computing, maths or modern foreign languages.
 
-(CTA to UCAS here)
-
+(CTA TO Chat to us here)
+If you're unsure about whether you qualify for a bursary or scholarship you can chat to us
+Chat online
 
 
 ## Extra financial support for parents and carers
@@ -139,7 +121,6 @@ You may be able to get extra financial support if you have children or other car
 
 If you have additional needs due to a mental health condition, long-term illness or disability you can apply for [Disabled Students’ Allowance (DSA)](https://www.gov.uk/disabled-students-allowances-dsas/how-to-claim).
 
-$financial-support-for-teacher-training$
 
 ## Applying for funding if you come from outside England
 
