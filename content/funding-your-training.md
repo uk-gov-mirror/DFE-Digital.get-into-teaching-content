@@ -6,10 +6,11 @@
   navigation: 25
   lid_pixel_event: "Funding"
   jump_links:
-     Bursaries and scholarships: "#bursaries-and-scholarships"
-     Tuition fee and maintenance loans: "#tuition-fee-and-maintenance-loans"
-     Extra financial support for parents, carers or people with disabilities: "#extra-financial-support-for-parents-carers-or-people-with-disabilities"
-     Applying for funding if you come from outside England: "#applying-for-funding-if-you-come-from-outside-england"
+    Tuition fee and maintenance loans: "#tuition-fee-and-maintenance-loans"
+    Bursaries and scholarships: "#bursaries-and-scholarships"
+    Extra financial support for parents and carers: "#extra-financial-support-for-parents-and-carers"
+    Extra financial support for students with disabilities: "#extra-financial-support-for-students-with-disabilities"
+    Applying for funding if you come from outside England: "#applying-for-funding-if-you-come-from-outside-england"
   calls_to_action:
     chat:
       name: chat_online
