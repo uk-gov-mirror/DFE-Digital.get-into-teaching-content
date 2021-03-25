@@ -83,7 +83,11 @@ A full-time bachelor’s degree leading to EYTS for those studying for a degree 
 
 $EY-graduate$
  
-There are also bursaries available of up to £5,000 for graduates with a first class degree, £4,000 for graduates with a 2:1, and £2,000 for graduates with a 2:2.
+Bursaries are available, including:
+
+ * £5,000 if you have a first class degree
+ * £4,000 if you have a 2:1 degree
+ * £2,000 if you have a 2:2 degree
  
 $EY-graduate-employment$
 
