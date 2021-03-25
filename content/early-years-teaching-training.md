@@ -70,7 +70,7 @@ To start early years teacher training, you’ll need these qualifications (or to
 * English grade 4 (C)
 * Science grade 4 (C)
 
-Graduate training also requires a Bachelor’s degree with honours, class 2:2 or higher.
+Graduate training also requires a 2:2 bachelor’s degree with honours or higher.
  
 To apply for your early years teacher training place, please contact one of our [training providers](https://www.gov.uk/government/publications/early-years-initial-teacher-training-itt-providers-and-school-direct-early-years-lead-organisations/early-years-initial-teacher-training-itt-providers-and-school-direct-lead-organisations).
 
