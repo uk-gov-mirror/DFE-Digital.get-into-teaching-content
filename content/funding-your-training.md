@@ -11,6 +11,12 @@
      Extra financial support for parents, carers or people with disabilities: "#extra-financial-support-for-parents-carers-or-people-with-disabilities"
      Applying for funding if you come from outside England: "#applying-for-funding-if-you-come-from-outside-england"
   calls_to_action:
+    chat:
+      name: chat_online
+      arguments:
+        text: |-
+          If you're unsure about whether you qualify for a bursary or scholarship
+          you can chat to us.
     get-school-experience:
       name: simple
       arguments:
@@ -103,10 +109,7 @@ If you're a final year undergraduate student and your course started in the acad
 
 There are [Troops to Teachers](https://www.ucas.com/teaching-option/troops-teachers) tax-free bursaries of £40,000 for former military personel  undertaking  undergraduate degrees leading to Qualified Teacher Status (QTS) in England. You may be eligible for the bursary if you train to teach secondary biology, physics, chemistry, computing, maths or modern foreign languages.
 
-(CTA TO Chat to us here)
-If you're unsure about whether you qualify for a bursary or scholarship you can chat to us
-Chat online
-
+$chat$
 
 ## Extra financial support for parents and carers
 
