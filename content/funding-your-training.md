@@ -101,7 +101,7 @@ below. You cannot receive both a bursary and a scholarship.
 
 If you're a final year undergraduate student and your course started in the academic year 2021 to 2022, you may be eligible for a training bursary of £9,000. The bursary is available if you're studying a QTS course in secondary maths or physics, or you're studying an opt-in QTS course in secondary undergraduate computing, languages, mathematics or physics.
 
-There are [Troops to Teachers] (https://www.ucas.com/teaching-option/troops-teachers) tax-free bursaries of £40,000 for former military personel  undertaking  undergraduate degrees leading to Qualified Teacher Status (QTS) in England. You may be eligible for the bursary if you train to teach secondary biology, physics, chemistry, computing, maths or modern foreign languages.
+There are [Troops to Teachers](https://www.ucas.com/teaching-option/troops-teachers) tax-free bursaries of £40,000 for former military personel  undertaking  undergraduate degrees leading to Qualified Teacher Status (QTS) in England. You may be eligible for the bursary if you train to teach secondary biology, physics, chemistry, computing, maths or modern foreign languages.
 
 (CTA TO Chat to us here)
 If you're unsure about whether you qualify for a bursary or scholarship you can chat to us
