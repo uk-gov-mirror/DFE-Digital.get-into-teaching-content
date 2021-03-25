@@ -50,7 +50,7 @@ calls_to_action:
       - "Graduate Assessment-Only training"
 ---
 
-## Becoming an early years teacher
+## Become an early years teacher
  
 As an early years teacher, you will work with young children from birth up to age five. Your input will have a lasting and positive effect on children’s development and wellbeing.
  
