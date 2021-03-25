@@ -60,7 +60,9 @@ The early years are critical in children's development. You’ll be opening thei
  
 ###How to become an early years teacher
  
-To qualify, you’ll need Early Years Teacher Status, which is different from Qualified Teacher Status (the equivalent for teaching children aged three to 18). Your training will enable you to meet the [Teachers’ Standards (Early Years)](https://www.gov.uk/government/publications/early-years-teachers-standards).
+You’ll need to achieve Early Years Teacher Status (EYTS). This is different from Qualified Teacher Status (QTS), which is the equivalent for teaching children aged 3 to 18. 
+
+Your training will enable you to meet the [Teachers’ Standards (Early Years)](https://www.gov.uk/government/publications/early-years-teachers-standards).
  
 To start early years teacher training, you’ll need these qualifications (or be able to deomnstrate an equivalent standard):
 
