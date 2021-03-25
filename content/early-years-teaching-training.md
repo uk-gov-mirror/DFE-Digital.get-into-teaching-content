@@ -52,7 +52,7 @@ calls_to_action:
 
 ## Become an early years teacher
  
-As an early years teacher, you will work with young children from birth up to age five. Your input will have a lasting and positive effect on children’s development and wellbeing.
+As an early years teacher, you'll work with young children up to the age of 5. Your input will have a lasting and positive effect on their development and wellbeing.
  
 By training to deliver the Early Years Foundation Stage, you’ll learn how to use your knowledge and skills to help young children enjoy high standards of teaching. These early years are critical for young children’s development, and you’ll be opening their minds to new ideas every day.
  
