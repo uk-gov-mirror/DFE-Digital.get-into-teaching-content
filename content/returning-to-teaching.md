@@ -49,7 +49,7 @@ Thousands of former teachers return to teaching each year.
  
 Here at the Department for Education, we’re taking action to address some of the common issues that teachers face in the classroom, by helping schools to [reduce workload](https://www.gov.uk/guidance/school-workload-reduction-toolkit), supporting mental health and wellbeing, and [publishing guidance on flexible working](https://www.gov.uk/government/collections/flexible-working-resources-for-teachers-and-schools) and [manage behaviour](https://www.gov.uk/guidance/behaviour-hubs). 
  
-The education sector promotes inclusivity and diversity, and there are many organisations who support teachers with protected characteristics, such as [WomenEd](https://www.womened.org/), [BAMEed](https://www.bameednetwork.com/), [LGBTed](http://lgbted.uk/) and [DisabilityEd](https://www.twitter.com/disability_ed).
+The education sector promotes inclusivity and diversity, and there are many organisations who support teachers with protected characteristics, such as [WomenEd](https://www.womened.org/), [BAMEed](https://www.bameednetwork.com/), [LGBTed](https://lgbted.uk/) and [DisabilityEd](https://www.twitter.com/disability_ed).
 
 You can search for jobs easily, including those with flexible working patterns, by using [Teaching Vacancies](https://teaching-vacancies.service.gov.uk/). 
 

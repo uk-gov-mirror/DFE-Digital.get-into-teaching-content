@@ -405,12 +405,12 @@ Protection Act
 problem or
 disability](https://www.gov.uk/disabled-students-allowances-dsas)
 * [The Equality and Human Rights Commission
-(EHRC)](http://www.equalityhumanrights.com/en) for information about
+(EHRC)](https://www.equalityhumanrights.com/en) for information about
 discrimination on the grounds of disablity.
-* [AbilityNet](http://www.abilitynet.org.uk/) for advice on the use of
+* [AbilityNet](https://www.abilitynet.org.uk/) for advice on the use of
 computers and communication technology for disabled people.
 * [Disability Rights
-UK](http://www.disabilityrightsuk.org/adjustments-disabled-students) for
+UK](https://www.disabilityrightsuk.org/adjustments-disabled-students) for
 advice on adjustments for disabled students while studying.
 
 #### Completing a fitness questionnaire
