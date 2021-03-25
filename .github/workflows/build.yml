@@ -108,6 +108,7 @@ jobs:
           tags: |
                  ${{ steps.sha.outputs.image }}
                  ${{ steps.sha.outputs.local }}
+                 latest
           push: true
           build-args: |
                       CONTENT_SHA=${{ steps.sha.outputs.short }}

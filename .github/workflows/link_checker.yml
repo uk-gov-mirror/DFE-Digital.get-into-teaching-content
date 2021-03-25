@@ -1,0 +1,36 @@
+name: Link Checker
+
+on:
+  schedule:
+    - cron: "35 6 * * *"
+
+jobs:
+  linkchecker:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment: Development
+    steps:
+      - uses: Azure/login@v1
+        with:
+            creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+      - uses: Azure/get-keyvault-secrets@v1
+        id:   azSecret
+        with:
+           keyvault: ${{ secrets.KEY_VAULT}}
+           secrets: 'SLACK-WEBHOOK'
+
+      - name: Check for broken links
+        run: |
+          docker run -t --rm -e RAILS_ENV=test \
+            ${{ env.DOCKERHUB_REPOSITORY }}:latest \
+            rspec --format documentation -t onschedule spec/features/external_links_spec.rb
+
+      - name: Slack Notification
+        if: failure()
+        uses: rtCamp/action-slack-notify@master
+        env:
+          SLACK_COLOR: ${{env.SLACK_ERROR}}
+          SLACK_MESSAGE: Broken links found on Get into Teaching
+          SLACK_TITLE: Broken links on GiT ${{ github.workflow }}
+          SLACK_WEBHOOK: ${{ steps.azSecret.outputs.SLACK-WEBHOOK }}
