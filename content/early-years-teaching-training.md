@@ -91,7 +91,7 @@ Bursaries are available, including:
  
 $EY-graduate-employment$
 
-This one-year part-time route is for graduates working in an early years setting who need further training to meet the Teachers’ Standards (Early Years). Funding of up to £14,000 is available. This would cover course fees of up to £7,000, plus £7,000 for your employer, to help cover their extra costs while you train.
+This one-year part-time route is for graduates working in an early years setting who need further training to meet the [early years teachers' standards](https://www.gov.uk/government/publications/early-years-teachers-standards). Funding of up to £14,000 is available. This would cover course fees of up to £7,000, plus £7,000 for your employer, to help cover their extra costs while you train.
 
 $EY-self-funded$ 
 
