@@ -51,14 +51,14 @@ If you’re considering coming back to the profession, or if you’re qualified 
 
 Thousands of former teachers return to teaching each year.
 
-Here at the Department for Education, we’re taking action to address some of the common issues that teachers face in the classroom, such as helping schools to:
+Here at the Department for Education, we’re taking action to address some of the common issues that teachers face in the classroom. This includes helping schools to:
 
 * [reduce workload](https://www.gov.uk/guidance/school-workload-reduction-toolkit)
 * support mental health and wellbeing
 * [enable flexible working](https://www.gov.uk/government/collections/flexible-working-resources-for-teachers-and-schools)
 * [manage behaviour](https://www.gov.uk/guidance/behaviour-hubs)
 
-The education sector promotes inclusivity and diversity, and there are many organisations who support teachers with protected characteristics, such as [WomenEd](https://www.womened.org/), [BAMEed](https://www.bameednetwork.com/), [LGBTed](https://lgbted.uk/) and [DisabilityEd](https://www.twitter.com/disability_ed).
+The education sector promotes inclusivity and diversity. There are many organisations that support teachers with protected characteristics, such as [WomenEd](https://www.womened.org/), [BAMEed](https://www.bameednetwork.com/), [LGBTed](https://lgbted.uk/) and [DisabilityEd](https://www.twitter.com/disability_ed).
 
 [Search for jobs, including those with flexible working patterns, on Teaching Vacancies](https://teaching-vacancies.service.gov.uk/).
 
@@ -101,10 +101,9 @@ There’s lots you can do to re-familiarise yourself with teaching. For example,
   professional body for teachers
 * join a [teaching union](https://www.tes.com/jobs/careers-advice/pay-and-conditions/which-teachers-union)
 * read up on [teaching interview tips](https://www.teachertoolkit.co.uk/2019/04/04/job-interviews)
-  if it’s been a while since your last interview, as well as specific
-  [pointers for remote interviewing](https://www.tes.com/news/coronavirus-10-tips-acing-remote-job-interview)
+  and [get pointers on remote interviews](https://www.tes.com/news/coronavirus-10-tips-acing-remote-job-interview)
 * ensure your [pension is up to date](https://www.teacherspensions.co.uk/members/working-life/life-events/moving-abroad.aspx)
 
-## If you trained to teach in England and are returning from overseas
+## If you're a UK-trained teacher considering returning from overseas
 
-We’re here to support you to progress your career in teaching. Visit our [international returners page](/international-returners) for guidance and support to return to teaching in England.  
+We’re here to support you to [progress your teaching career in England](/international-returners).
