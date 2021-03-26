@@ -95,7 +95,7 @@ This one-year part-time route is for graduates working in an early years setting
 
 $EY-self-funded$ 
 
-This self-funded route is ideal for graduates with early-years experience. If you already meet the Teachers’ Standards (Early Years), you can gain the qualification without the need for further training. 
+This self-funded route is ideal for graduates with early-years experience. If you already meet the [early years teachers' standards](https://www.gov.uk/government/publications/early-years-teachers-standards), you can gain EYTS without the need for further training. 
 
 ## Next Steps
 
