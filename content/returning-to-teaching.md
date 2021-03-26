@@ -1,5 +1,9 @@
 ---
 title: "Returning to teaching"
+description: |-
+  Our return to teaching advisers can advise you on making a return to
+  teaching, finding a role or joining the National Tutoring Programme.
+date: "2021-02-25"
 image: "/assets/images/return-to-teaching-dt.jpg"
 backlink: "../../"
 keywords:

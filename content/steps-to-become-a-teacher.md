@@ -1,6 +1,10 @@
 ---
   title: "Steps to become a teacher"
   layout: "layouts/steps"
+  description: |-
+    These are the steps that people who want to become qualified teachers in
+    England need to take.
+  date: "2021-02-23"
   image: "/assets/images/steps-hero-dt.jpg"
   mobileimage: "/assets/images/steps-hero-mob.jpg"
   backlink: "../"

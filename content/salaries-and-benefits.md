@@ -1,5 +1,10 @@
 ---
 title: "Salaries and benefits"
+description: |-
+  View the teachers' pay ranges table for England and London. This
+  also includes additional pay if you teach SEN or take on extra
+  responsibilities.
+date: "2021-02-24"
 image: "/assets/images/salaries-hero-dt.jpg"
 backlink: "../../"
 navigation: 40

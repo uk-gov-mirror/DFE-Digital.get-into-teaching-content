@@ -1,5 +1,9 @@
 ---
 title: Providers of the Assessment Only (AO) route to QTS
+description: |-
+  A number of accredited providers have been approved to offer the
+  Assessment-Only route to qualified teacher status (QTS).
+date: "2021-03-02"
 image: false
 backlink: /
 fullwidth: true

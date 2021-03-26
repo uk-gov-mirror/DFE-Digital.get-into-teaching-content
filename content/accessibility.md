@@ -1,6 +1,11 @@
 ---
 title: "Accessibility information"
 image: false
+description: |-
+  This website is run by the Department for Education. It is designed to be
+  used by as many people as possible. The text should be clear and easy to
+  understand.
+date: "2020-11-06"
 backlink: "../"
 keywords:
   - Accessibility
