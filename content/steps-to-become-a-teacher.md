@@ -97,7 +97,7 @@
 Follow these steps if you want to become a qualified primary or secondary school teacher in England.
 
 If you’re interested in teaching in another area, take a look at our guidance on:
-* [becoming a further education teacher](further-education-teacher-training)
+* [becoming a further education teacher](/further-education-teacher-training)
 * [becoming an early years teacher](/early-years-teaching-training)
 
 To work as a qualified primary or secondary school teacher in a state school in England, you need to

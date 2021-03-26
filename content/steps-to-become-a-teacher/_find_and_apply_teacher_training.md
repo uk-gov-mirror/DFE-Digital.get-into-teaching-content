@@ -1,6 +1,6 @@
-When you’ve decided the best route for you and what you want to teach, search for a course using [Find postgraduate teacher training service](https://www.find-postgraduate-teacher-training.service.gov.uk/). You can search by: location, provider, subject, study type, and qualification.
+When you’ve decided the best route for you and what you want to teach, search for a course using [Find postgraduate teacher training](https://www.find-postgraduate-teacher-training.service.gov.uk/). You can search by location, provider, subject, study type, and qualification.
 
-Once you have an idea of the courses available, you can do more research about the individual providers. You can look at their websites, attend one of their events, or look at Ofsted inspection reports for schools. There is also guidance if you [want to teach a subject that you didn't study at degree level](/guidance/become-a-teacher-in-england#subject-knowledge-enhancement-courses).
+Once you have an idea of the courses available, you can do more research about the individual providers. You can look at their websites, attend one of their events, or look at Ofsted inspection reports for schools. There is also guidance if you [want to teach a subject that you did not study at degree level](/guidance/become-a-teacher-in-england#subject-knowledge-enhancement-courses).
 
 To apply for a course, you will need:
 
