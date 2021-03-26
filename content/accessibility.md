@@ -1,5 +1,5 @@
 ---
-title: "Accessibility"
+title: "Accessibility information"
 image: false
 backlink: "../"
 keywords:
@@ -9,8 +9,6 @@ keywords:
   - Braille
   - Audio Recording
 ---
-
-# Accessibility information
 
 This service is run by the Department for Education (DfE).
 
