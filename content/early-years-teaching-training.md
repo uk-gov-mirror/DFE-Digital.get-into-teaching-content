@@ -78,7 +78,7 @@ If you do postgraduate early years teacher training, you'll need a 2:2 bachelor�
 
 $EY-undergraduate$
 
-A full-time bachelor’s degree leading to EYTS for those studying for a degree in an early childhood-related subject. Tuition fee loans are available from [Student Finance England
+A full-time bachelor’s degree in an early childhood-related subject leading to EYTS. [Tuition fee loans are available from Student Finance England
 (SFE)](https://www.gov.uk/student-finance).
 
 $EY-graduate$
