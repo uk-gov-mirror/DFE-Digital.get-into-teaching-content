@@ -1,4 +1,4 @@
-To start postgraduate initial teacher training, you'll need to have a degree, or equivalent qualification.
+To start postgraduate initial teacher training, you'll need to have a degree or equivalent qualification.
 
 [Find out what to do if you do not have a degree](/guidance/become-a-teacher-in-england#if-you-do-not-have-a-degree).
 
