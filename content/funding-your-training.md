@@ -72,7 +72,7 @@
 
 You can apply for a tuition fee loan of up to £9,250 to cover your teacher training, so you don't need to pay course fees upfront. You can also apply for a maintenance loan of up to £12,382 to help with living costs.
 
-You can still apply for a tuition fee and/or a maintenance loan if you already have a student loan, and regardless of whether you get a bursary or scholarship.
+You can still apply for a tuition fee and a maintenance loan if you already have a student loan, and regardless of whether you get a bursary or scholarship.
 
 You will only have to make loan repayments once you're earning. Your repayments will not increase if you already have a student loan and take an additional loan for teacher training.
 
@@ -85,8 +85,7 @@ You may be eligible for a bursary or scholarship when training to teach. These a
 
 You’ll need a first, 2:1, 2:2 degree or a PhD or Master's to be eligible for a bursary, as well as meeting the bursary scheme's individual terms and conditions.
 
-For a scholarship, each professional scholarship body sets its own criteria. These bodies include the Royal Society of Chemistry (chemistry), BCS The Chartered Institute for IT (computing), Mathematics Teacher Training Scholarship (maths) and the Institute of Physics (physics).
-
+For a scholarship, each professional scholarship body sets its own criteria. These bodies include the [Royal Society of Chemistry](https://www.rsc.org/awards-funding/funding/teacher-training-scholarships/) (chemistry), [BCS The Chartered Institute for IT](https://www.bcs.org/get-qualified/certification-and-scholarships-for-teachers/bcs-computer-teacher-scholarships/) (computing), [Mathematics Teacher Training Scholarship](https://ima.org.uk/support/mathematics-teacher-training-scholarship/) (maths) and the [Institute of Physics](https://www.iop.org/about/support-grants/iop-teacher-training-scholarships#gref) (physics).
 
 ### Check which subjects have bursaries and scholarships
 
