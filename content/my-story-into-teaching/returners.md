@@ -1,6 +1,6 @@
 ---
 layout: "layouts/stories/list"
-title: "Returning to the classroom"
+title: "Be a teacher again"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"
 hide_page_helpful_question: true
