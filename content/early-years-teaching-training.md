@@ -101,4 +101,4 @@ This self-funded route is ideal for graduates with early-years experience. If yo
 
 [Contact one of our early years training providers to apply for a place](https://www.gov.uk/government/publications/early-years-initial-teacher-training-itt-providers-and-school-direct-early-years-lead-organisations/early-years-initial-teacher-training-itt-providers-and-school-direct-lead-organisations).
 
-You can read more about funding guidance on the [relevant gov.uk page](https://www.gov.uk/guidance/early-years-initial-teacher-training-2021-to-2022-funding-guidance)
+[Read more about funding](https://www.gov.uk/guidance/early-years-initial-teacher-training-2021-to-2022-funding-guidance)
