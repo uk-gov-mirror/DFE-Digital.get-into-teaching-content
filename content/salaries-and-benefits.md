@@ -1,5 +1,10 @@
 ---
 title: "Salaries and benefits"
+description: |-
+  View the teachers' pay ranges table for England and London. This
+  also includes additional pay if you teach SEN or take on extra
+  responsibilities.
+date: "2021-02-24"
 image: "/assets/images/salaries-hero-dt.jpg"
 backlink: "../../"
 navigation: 40
@@ -63,6 +68,9 @@ Headteachers lead, motivate and manage staff. In this role you will earn between
 | London fringe                 | £48,901 | £118,356 |
 | The rest of England and Wales | £47,735 | £117,197 |
 
+#### Other leadership team positions
+
+Headteachers work with other leadership teachers. The average salary for leadership teachers (excluding headteachers) in 2019 was £54,911.
 
 ## Unqualified teachers
 

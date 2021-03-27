@@ -1,5 +1,9 @@
 ---
 title: Train to Teach events - Presentations
+description: |-
+  The materials shown during the Train to Teach events will guide
+  you through getting into teaching.
+date: "2021-01-11"
 image: false
 backlink: /
 content:

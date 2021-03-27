@@ -1,5 +1,9 @@
 ---
   title: Three things to help you get into teaching
+  description: |-
+    Get some advice and tips on taking the next step in your journey into
+    becoming a teacher.
+  date: "2021-02-22"
   image: /assets/images/hero-home-dt.jpg
   layout: layouts/campaigns/landing_page_with_hero_nav
   hero_nav:

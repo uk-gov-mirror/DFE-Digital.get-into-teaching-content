@@ -25,11 +25,6 @@ stories:
     image: /assets/images/stories/stories-steven.jpg
     image_description: Photograph of Steven Li, deputy director of learning for ICT and maths
     link: /my-story-into-teaching/career-changers/from-developing-software-to-developing-students
-  - name: Jon
-    snippet: Swapping senior management for students
-    image: /assets/images/stories/stories-jon.jpg
-    image_description: Photograph of head of department, Jon Simmons
-    link: /my-story-into-teaching/career-changers/leaping-to-head-of-department
   - name: Sarah
     snippet: Make a difference to young people
     image: /assets/images/stories/stories-sarah.jpg

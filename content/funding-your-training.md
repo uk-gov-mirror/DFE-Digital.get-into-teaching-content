@@ -1,5 +1,10 @@
 ---
   title: "Funding your training"
+  description: |-
+    Multiple funding options in the form of bursaries, scholarships and
+    maintenance loans are available to support your postgraduate teacher
+    training.
+  date: "2021-03-11"
   image: "/assets/images/funding-hero-dt.jpg"
   mobileimage: "/assets/images/funding-hero-mob.jpg"
   backlink: "../"
@@ -133,7 +138,7 @@ If you live outside England you may still be eligible for funding to train to te
 * a [bursary or scholarship](#bursaries-and-scholarships)
 * [student finance](#tuition-fee-and-maintenance-loans)
 
-If you live in [Wales](http://www.studentfinancewales.co.uk/), [Scotland](http://www.saas.gov.uk/) or [Northern Ireland](http://www.studentfinanceni.co.uk/) you’ll need to contact your country’s student finance body.
+If you live in [Wales](https://www.studentfinancewales.co.uk/), [Scotland](https://www.saas.gov.uk/) or [Northern Ireland](https://www.studentfinanceni.co.uk/) you’ll need to contact your country’s student finance body.
 
 Contact the education authority if you live in the Channel Islands ([Jersey](https://www.gov.je/Working/Careers/16To19YearOlds/EnteringHigherEducation/FinancingHigherEducationCourses/FundingDegreeProfessionalQualifications/Pages/index.aspx) and [Guernsey](https://www.gov.gg/article/152744/Policies)) or on the [Isle of Man](https://www.gov.im/student-grants).
 
