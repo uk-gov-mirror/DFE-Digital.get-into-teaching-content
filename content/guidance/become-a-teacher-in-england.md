@@ -721,4 +721,4 @@ did in the first round of applications.
 
 ## Further support and information
 
-Send an email to: getintoteaching.helpdesk@education.gov.uk or call Freephone 0800 389 2501.
+Send an email to: getintoteaching.helpdesk@education.gov.uk or call Freephone 0800 389 2500.
