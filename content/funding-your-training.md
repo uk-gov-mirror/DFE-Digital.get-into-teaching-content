@@ -11,18 +11,18 @@
   navigation: 25
   lid_pixel_event: "Funding"
   jump_links:
-     Bursaries and scholarships: "#bursaries-and-scholarships"
-     Tuition fee and maintenance loans: "#tuition-fee-and-maintenance-loans"
-     Extra financial support for parents, carers or people with disabilities: "#extra-financial-support-for-parents-carers-or-people-with-disabilities"
-     Applying for funding if you come from outside England: "#applying-for-funding-if-you-come-from-outside-england"
+    Tuition fee and maintenance loans: "#tuition-fee-and-maintenance-loans"
+    Bursaries and scholarships: "#bursaries-and-scholarships"
+    Extra financial support for parents and carers: "#extra-financial-support-for-parents-and-carers"
+    Extra financial support for students with disabilities: "#extra-financial-support-for-students-with-disabilities"
+    Applying for funding if you come from outside England: "#applying-for-funding-if-you-come-from-outside-england"
   calls_to_action:
-    bursaries-and-scholarships:
-      name: simple
+    chat:
+      name: chat_online
       arguments:
-        icon: "icon-arrow"
-        text: "Find out more about bursaries and scholarships."
-        link_text: "Financial support for teacher training"
-        link_target: "/guidance/financial-support-for-teacher-training"
+        text: |-
+          If you're unsure about whether you qualify for a bursary or scholarship
+          you can chat to us.
     get-school-experience:
       name: simple
       arguments:
@@ -38,13 +38,6 @@
         text: "Use the student finance calculator on GOV.UK to find out how much you can get."
         link_text: "Student finance calculator"
         link_target: "https://www.gov.uk/student-finance-calculator"
-    financial-support-for-teacher-training:
-      name: simple
-      arguments:
-        icon: "icon-arrow"
-        text: "Find out more about extra financial support."
-        link_text: "Financial support for teacher training"
-        link_target: "/guidance/financial-support-for-teacher-training"
     international-candidates:
       name: simple
       arguments:
@@ -79,20 +72,30 @@
     - Isle of Man
 ---
 
+
+## Tuition fee and maintenance loans
+
+You can apply for a tuition fee loan of up to £9,250 to cover your teacher training, so you don't need to pay course fees upfront. You can also apply for a maintenance loan of up to £12,382 to help with living costs.
+
+You can still apply for a tuition fee and a maintenance loan if you already have a student loan, and regardless of whether you get a bursary or scholarship.
+
+You will only have to make loan repayments once you're earning. Your repayments will not increase if you already have a student loan and take an additional loan for teacher training.
+
+$student-finance-calculator$
+
+
 ## Bursaries and scholarships
 
-Bursaries and scholarships are tax-free amounts of money to train in certain subjects. You don’t need to pay them back.
+You may be eligible for a bursary or scholarship when training to teach. These are tax-free amounts of money you receive to train in certain subjects. You don’t need to pay them back.
 
-You’ll need a first, 2:1, 2:2 degree or a PhD or Master's to be eligible for a bursary.
+You’ll need a first, 2:1, 2:2 degree or a PhD or Master's to be eligible for a bursary, as well as meeting the bursary scheme's individual terms and conditions.
 
-For a scholarship, each professional scholarship body sets its own criteria.
-
-You could get a bursary of up to £24,000 or apply for a scholarship of up to £26,000.
+For a scholarship, each professional scholarship body sets its own criteria. These bodies include the [Royal Society of Chemistry](https://www.rsc.org/awards-funding/funding/teacher-training-scholarships/) (chemistry), [BCS The Chartered Institute for IT](https://www.bcs.org/get-qualified/certification-and-scholarships-for-teachers/bcs-computer-teacher-scholarships/) (computing), [Mathematics Teacher Training Scholarship](https://ima.org.uk/support/mathematics-teacher-training-scholarship/) (maths) and the [Institute of Physics](https://www.iop.org/about/support-grants/iop-teacher-training-scholarships#gref) (physics).
 
 ### Check which subjects have bursaries and scholarships
 
 Bursaries and scholarships are only available for the subjects listed
-below. 
+below. You cannot receive both a bursary and a scholarship.
 
 | Subject       | Bursary  | Scholarship      |
 | ------------- | -------: | ---------------: |
@@ -104,32 +107,28 @@ below.
 | **Languages** | £10,000  | *N/A*            |
 | **Biology**   | £7,000   | *N/A*            |
 
-$bursaries-and-scholarships$
 
-## Tuition fee and maintenance loans
+### Non-graduate bursaries
 
-You can apply for a tuition fee loan to pay for your training so you don't need to pay anything upfront. You can also apply for a maintenance loan to help with living costs and you may be able to get a [bursary or a scholarship](#bursaries-and-scholarships).
+If you're a final year undergraduate student, you may be eligible for a [training bursary of £9,000](https://www.gov.uk/government/publications/initial-teacher-training-itt-bursary-funding-manual/initial-teacher-training-bursaries-funding-manual-2021-to-2022-academic-year#undergraduate-bursary). The bursary is available if you're studying a Qualified Teacher Status (QTS) course in secondary maths or physics, or you're studying an opt-in QTS course in secondary undergraduate computing, languages, mathematics or physics.
 
-Even if a bursary or scholarship is available for your course, you can get student finance to cover your fees and help with your living costs. You can apply for a tuition fee and/or a maintenance loan even if you already have a student loan.
+There are [Troops to Teachers](https://www.ucas.com/teaching-option/troops-teachers) tax-free bursaries of £40,000 for former military personel  undertaking  undergraduate degrees leading to QTS in England. You may be eligible for the bursary if you train to teach secondary biology, physics, chemistry, computing, maths or modern foreign languages.
 
-You can apply for a tuition fee loan of up to £9,250 to cover the full cost of your course fees and a maintenance loan of up to £12,382 to help with your living costs.
+$chat$
 
-You will only have to make repayments when you're earning. Your repayments will not increase if you already have a student loan and take a loan out for teacher training.
+## Extra financial support for parents and carers
 
-$student-finance-calculator$
+You may be able to get extra financial support if you have children or other caring responsibilities.
 
-## Extra financial support for parents, carers or people with disabilities
-
-You may be able to get extra financial support if you have a disability, or if you have children or dependent adults. If you get this type of funding, you do not need to pay it back.
-
-You could apply for:
-
-* [Disabled Students’ Allowance (DSA)](https://www.gov.uk/disabled-students-allowances-dsas/how-to-claim)
 * [Childcare Grant](https://www.gov.uk/childcare-grant)
 * [Parents Learning Allowance](https://www.gov.uk/parents-learning-allowance)
 * [Adult Dependants’ Grant](https://www.gov.uk/adult-dependants-grant)
 
-$financial-support-for-teacher-training$
+
+## Extra financial support for students with disabilities
+
+If you have additional needs due to a mental health condition, long-term illness or disability you can apply for [Disabled Students’ Allowance (DSA)](https://www.gov.uk/disabled-students-allowances-dsas/how-to-claim).
+
 
 ## Applying for funding if you come from outside England
 
@@ -150,23 +149,3 @@ to check:
 * whether you meet the eligibility requirements
 
 $international-candidates$
-
-## Early Career Framework
-
-The Department for Education has developed a 2 year package to support new teachers at the start of their career, based on the [Early Career Framework](https://www.gov.uk/government/publications/supporting-early-career-teachers).
-
-The Early Career Framework was designed with an expert advisory group to support early career teacher development.
-
-The support package includes:
-
-* funded 5% time off timetable in the second year of teaching, in addition to the existing 10% in the first year
-* a range of high-quality, freely available curricula and training materials underpinned by the Early Career Framework
-* funded training for mentors of early career teachers
-* funded time for mentors to support early career teachers
-
-The support package will be launched:
-
-* to early rollout areas in September 2020
-* nationally from September 2021
-
-This is part of government’s commitment to transform support for early career teachers.
