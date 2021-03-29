@@ -22,13 +22,11 @@ There’s no national curriculum for FE, so courses are often tailored to meet e
 
 ### How to become a further education teacher
 
-The qualifications you need to become an FE teacher depend on the type of course you'd like to teach. For example, you can get qualifications in education and training, as well as qualifications in specific subjects. 
+The qualifications you need to become an FE teacher depend on the type of course you'd like to teach. For example, you can get qualifications in education and training, as well as qualifications in specific subjects.
 
-You can even gain new qualifications once you start teaching. 
+You can even gain new qualifications once you start teaching.
 
 Visit <a href='https://www.feadvice.org.uk/i-want-work-fe-skills-sector'>Further Education Advice</a> or ring their support service on 0300 303 1877.
-
-To find out more, you can <a href='https://www.feadvice.org.uk/i-want-work-fe-skills-sector'>get free support from the FE Advice team</a>.
 
 ## Funding for training as a further education teacher
 
@@ -47,8 +45,6 @@ Bursaries ranging from £12,000 to £26,000 are available, depending on the subj
 | Special educational needs and disabilities (SEND)| £15,000 |
 | English                       | £12,000 |
 
-You can find more information in the <a href='https://www.gov.uk/government/publications/fe-funding-initial-teacher-education-ite-2021-to-2022'>FE funding bursary manual</a>.
-
 ### Grants
 
 Grants of £18,200 are available for FE teacher training in:
@@ -59,4 +55,6 @@ Grants of £18,200 are available for FE teacher training in:
 
 ### Find out more
 
-Visit the <a href='https://www.feadvice.org.uk/i-want-work-fe-skills-sector'>FE Advice website</a> or ring our dedicated FE teaching support team on 0300 303 1877.
+Visit <a href='https://www.feadvice.org.uk/i-want-work-fe-skills-sector'>Further Education Advice</a> or ring their support service 0300 303 1877.
+
+<a href='https://www.gov.uk/government/publications/fe-funding-initial-teacher-education-ite-2021-to-2022'>Find out more about further education funding</a>.
