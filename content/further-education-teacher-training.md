@@ -12,7 +12,7 @@ keywords:
 
 Being a further education (FE) teacher means you’ll teach students aged 14 and above. Further education covers a hugely diverse range of subjects and qualifications.
 
-As an FE teacher, you’ll be improving your students’ qualifications and future job prospects - as well as inspiring those who simply want to enjoy building new skills and knowledge.
+As an FE teacher, you’ll improve your students’ qualifications and job prospects. You'll also inspire people who want to enjoy building new skills and knowledge.
 
 FE qualifications range from basic literacy and numeracy to higher-level apprenticeships and technical qualifications, including the <a href='https://www.gov.uk/government/publications/introduction-of-t-levels/introduction-of-t-levels'>new T levels</a>, which are vocational alternatives to A levels.
 
