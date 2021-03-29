@@ -18,7 +18,7 @@ FE qualifications range from basic literacy and numeracy to higher-level apprent
 
 FE students come from a range of backgrounds and levels of experience. People come to FE from local schools, the community, industry and local businesses.
 
-Because there’s no national curriculum for FE, courses are often tailored to meet employer needs and are delivered in a range of different settings, such as colleges, community centres, private training centres or workplaces.
+There’s no national curriculum for FE, so courses are often tailored to meet employer needs. They're delivered in a range of different settings, such as colleges, community centres, private training centres or workplaces.
 
 ### How to become a further education teacher
 
