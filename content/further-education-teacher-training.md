@@ -26,7 +26,7 @@ The qualifications you need to become an FE teacher depend on the type of course
 
 You can even gain new qualifications once you start teaching. 
 
-For more information, visit the <a href='https://www.feadvice.org.uk/i-want-work-fe-skills-sector'>FE Advice website</a> or phone 0300 303 1877.
+Visit <a href='https://www.feadvice.org.uk/i-want-work-fe-skills-sector'>Further Education Advice</a> or ring their support service on 0300 303 1877.
 
 To find out more, you can <a href='https://www.feadvice.org.uk/i-want-work-fe-skills-sector'>get free support from the FE Advice team</a>.
 
