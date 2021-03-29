@@ -22,7 +22,9 @@ There’s no national curriculum for FE, so courses are often tailored to meet e
 
 ### How to become a further education teacher
 
-Because the courses and qualifications are so varied, the qualifications teachers need are too. There are qualifications on education and training, as well as the specialised subject-area skills or qualifications that a teacher is expected to have. You might even be able to gain new qualifications while you teach.
+The qualifications you need to become an FE teacher depend on the type of course you'd like to teach. For example, you can get qualifications in education and training, as well as qualifications in specific subjects. 
+
+You can even gain new qualifications once you start teaching. 
 
 For more information, visit the <a href='https://www.feadvice.org.uk/i-want-work-fe-skills-sector'>FE Advice website</a> or phone 0300 303 1877.
 
