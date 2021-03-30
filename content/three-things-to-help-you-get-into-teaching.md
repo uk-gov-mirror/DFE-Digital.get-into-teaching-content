@@ -65,4 +65,4 @@ Get personalised information straight to your inbox with everything you need to 
 * how to take your next step to becoming a teacher
 * where your teaching career could take you
 
-<a class="button" href="/mailinglist/signup"><span>Get email updates</span></a>
+<a class="button" href="/mailinglist/signup/name"><span>Get email updates</span></a>
