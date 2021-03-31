@@ -31,9 +31,13 @@ They’ll guide you through each step of the process from wherever you are. And 
 
 ### Personalised help for you
 
-Taking on teacher training and preparing for a new career can be daunting for anyone, but taking your next step might be more complicated if you have caring responsibilities, people dependent on your earnings, or you are living with a disability. Your Teacher Training Adviser can help you navigate your path into teaching, and make sure you get any additional help that is available. Your adviser will be just a call, message or email away.
+Taking on teacher training and preparing for a new career can be daunting for anyone, but taking your next step might be more complicated if you have caring responsibilities, people dependent on your earnings, or you are living with a disability. 
 
 > It's tailor-made to individual needs. I received an abundance of help.
+
+Your Teacher Training Adviser can help you navigate your path into teaching, and make sure you get any additional help that is available. Your adviser will be just a call, message or email away.
+
+
 
 ### Are you ready for an adviser
 
