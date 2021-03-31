@@ -12,9 +12,30 @@ keywords:
   - interview
 ---
 
+## Ready for your next step? 
+
 Enjoy free expert one-on-one advice on getting school experience, writing your personal statement, finding funding, applying for training, passing course interviews and more.
 
-#### Are you ready for an adviser?
+Are you interested in becoming a teacher, but not sure what to do next? When you’re at the start of your teacher journey it can feel overwhelming. But help is at hand. We can connect you with an experienced teacher who knows the system inside out.
+
+## What an adviser can do for you
+
+They’ll guide you through each step of the process from wherever you are. And they’ll help you feel ready for each stage: working out who you want to teach, applying for funding, filling in application forms and much more - right through to getting on to the right teacher training course for you. Trainee teachers say they’ve particularly valued help with: 
+
+* Arranging school experience
+* Seeking out financial support
+* Writing your personal statement
+* Preparing for course interviews
+
+> I can genuinely say that I wouldn't have completed my application without my adviser.
+
+## Personalised help for you
+
+Taking on teacher training and preparing for a new career can be daunting for anyone, but taking your next step might be more complicated if you have caring responsibilities, people dependent on your earnings, or you are living with a disability. Your Teacher Training Adviser can help you navigate your path into teaching, and make sure you get any additional help that is available. Your adviser will be just a call, message or email away.
+
+> It's tailor-made to individual needs. I received an abundance of help.
+
+## Are you ready for an adviser?
 
 To sign up, you’ll need one of these:
 
@@ -24,23 +45,10 @@ To sign up, you’ll need one of these:
 
 Not sure how your qualification compares? An adviser can help with that.
 
-Your experienced teaching professional can guide you through every stage of applying for teacher training. You can get an adviser if you’re ready to apply now, a first- or second-year undergraduate, or thinking about changing career.
-
-Our advisers are based all over the UK and can give you practical guidance on:
-
-* Finding local teaching events	
-* Arranging school experience
-* Seeking out financial support
-* Writing your personal statement
-* Preparing for course interviews
-
-Their expertise can also help you overcome any particular challenges that may be getting in your way, such as caring responsibilities or working hours. 
-
-Your adviser will be just a call, text or email away.
-
 <p class="call-to-action__action">
   <a href="/tta-service">Get a Teacher Training <span>Adviser</span></a>
 </p>
+
 
 ## How a Teacher Training Adviser can help you succeed 
 
