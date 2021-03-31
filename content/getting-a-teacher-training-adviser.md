@@ -14,9 +14,9 @@ keywords:
 
 ## Get ready for your next step
 
-Enjoy free expert one-on-one advice on getting school experience, writing your personal statement, finding funding, applying for training, passing course interviews and more.
-
 Are you interested in becoming a teacher, but not sure what to do next? When you’re at the start of your teacher journey it can feel overwhelming. But help is at hand. We can connect you with an experienced teacher who knows the system inside out.
+
+Enjoy free expert one-on-one advice on getting school experience, writing your personal statement, finding funding, applying for training, passing course interviews and more.
 
 ### What an adviser can do for you
 
@@ -27,19 +27,16 @@ They’ll guide you through each step of the process from wherever you are. And 
 * Writing your personal statement
 * Preparing for course interviews
 
-> I can genuinely say that I wouldn't have completed my application without my adviser.
-
 ### Personalised help for you
 
 Taking on teacher training and preparing for a new career can be daunting for anyone, but taking your next step might be more complicated if you have caring responsibilities, people dependent on your earnings, or you are living with a disability. 
 
-> It's tailor-made to individual needs. I received an abundance of help.
+> I can genuinely say that I wouldn't have completed my application without my adviser.
 
 Your Teacher Training Adviser can help you navigate your path into teaching, and make sure you get any additional help that is available. Your adviser will be just a call, message or email away.
 
 
-
-### Are you ready for an adviser
+### What you'll need
 
 To sign up, you’ll need one of these:
 
