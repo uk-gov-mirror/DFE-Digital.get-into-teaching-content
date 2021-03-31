@@ -443,9 +443,9 @@ providers:
     telephone: '01977 657604'
     email: ytca@minsthorpe.cc
   - header: University of Hull
+    name: Initial Teacher Education Partners
     link: https://www.hull.ac.uk
-    telephone: '01482 466530'
-    email: FACE-admissions@hull.ac.uk
+    email: FACE-ITEPartners@hull.ac.uk
   - header: Yorkshire and Humber Teacher Training
     link: https://www.yhtt.co.uk
     name: Chris Fletcher
