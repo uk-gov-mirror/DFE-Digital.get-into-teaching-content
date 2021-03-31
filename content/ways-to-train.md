@@ -4,10 +4,10 @@ image: "/assets/images/international-dt.jpg"
 mobileimage: "/assets/images/steps-hero-mob.jpg"
 description: |-
   To teach in England you must have a degree and Qualified Teacher Status. You can
-  get QTS by doing a PGCE, Postgraduate Teaching Apprenticeship or via one of the 
+  get QTS by doing a PGCE, Postgraduate Teaching Apprenticeship or via one of the
   other routes listed here.
 date: "2021-02-26"
-backlink: "../"	
+backlink: "../"
 navigation: 20
 right_column:
   ctas:
@@ -110,21 +110,21 @@ calls_to_action:
       - "Assessment only"
 ---
 
-To teach in a state school in England, you must have a degree, and gain Qualified Teacher Status (QTS). There are a number of ways to gain QTS, such as completion of postgraduate initial teacher training (ITT) or an undergraduate degree course with QTS included.
+You need to get Qualified Teacher Status (QTS) to be a primary or secondary teacher in a state school in England.
 
-### Things to consider
+You can get QTS in different ways.
 
-There are a few ways to train to become a teacher. Each route has different eligibility criteria, end qualifications, and funding options. These will depend on which school or training provider you select and the type of training they provide. 
+For example, if you already have an undergraduate degree you can do a postgraduate initial teacher training (ITT) course which leads to QTS.
 
-You may be eligible for funding to pay course fees and support with living costs whilst in training.
+If you do not have a degree, you can do an undergraudate degree which leads to QTS.
+
+Different types of training have different eligibility criteria, funding options and qualifications.
+
+You may be eligible for funding to pay course fees and support with living costs.
 
 <p class="call-to-action__action">
   <a href="/funding-your-training">Find out about <span>funding</span></a>
 </p>
-
-### Subject knowledge enhancement (SKE)
-
-If you need to top up your knowledge of the subject you want to teach, you could take a [subject knowledge enhancement course (SKE)](/guidance/become-a-teacher-in-england#subject-knowledge-enhancement-courses)
 
 $get-a-tta$
 
@@ -190,7 +190,7 @@ For more information about Assessment Only options, you can view a list of appro
 
 ## Other ways to train
 
-There are a number of specialised routes into teaching. 
+There are a number of specialised routes into teaching.
 
 ### Career changers
 
