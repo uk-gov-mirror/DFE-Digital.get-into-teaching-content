@@ -12,6 +12,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Katherine Hills's route into teaching
+date: "2020-02-01"
 ---
 
 I always wanted to teach, I wanted to instil a love of languages in young people, but I also knew I didn't have to pursue that ambition straight after graduating. I worked for 4 years in an investment bank before training to teach.

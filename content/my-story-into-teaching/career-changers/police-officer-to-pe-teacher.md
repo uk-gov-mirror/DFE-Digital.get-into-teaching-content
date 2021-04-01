@@ -12,6 +12,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Victoria Barton's route into teaching
+date: "2020-02-01"
 ---
 
 I graduated with a BSc in sport and human movement studies, and then went on to achieve Master's degrees in sports biomechanics and exercise nutrition science. I had a career in the police force and feel this has shaped who I am as a teacher.

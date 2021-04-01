@@ -13,6 +13,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Karen Roberts's route into teaching
+date: "2020-02-01"
 ---
 
 I am a French and Spanish teacher at Norbury Manor Business Enterprise College for Girls. I was a director of a large market research agency, but I had always always harboured a long-term ambition to teach.

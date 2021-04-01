@@ -12,6 +12,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Hasina Nizamee's route into teaching
+date: "2020-02-01"
 ---
 
 With a 2:1 degree in biology and health and safety management, I initially pursued a career as a health and safety adviser. But realised this wasn’t allowing me to use my knowledge of biology, and I wanted to work with young people and really make a difference – so teaching was the ideal profession for me.

@@ -15,6 +15,9 @@ more_information:
   link: /international-candidates
   text: International candidates information
 build_layout_from_frontmatter: true
+description: |-
+  Katie Lockett's route into teaching
+date: "2020-02-01"
 ---
 
 After four years of teaching modern foreign languages in London, I decided to try something different. I moved to China to teach in an international school, but after a while, I wanted to move back to England to be closer to my partner.

@@ -4,6 +4,10 @@ title: "Career changers' stories"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"
 hide_page_helpful_question: true
+description: |-
+  Read about people who’ve chosen to switch career and make a difference to
+  young people's lives.
+date: "2020-02-01"
 stories:
   - name: Claire
     snippet: Becoming a mum sparked my interest in teaching

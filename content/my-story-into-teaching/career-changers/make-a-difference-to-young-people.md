@@ -12,6 +12,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Sarah Birt's route into teaching
+date: "2020-02-01"
 ---
 
 Having completed a degree in psychology, my initial plans were to be a clinical psychologist. I had never really considered teaching as a career option. It was only after becoming a mental health researcher and discovering how much I enjoyed working with young people that I realised I might be even happier in teaching.

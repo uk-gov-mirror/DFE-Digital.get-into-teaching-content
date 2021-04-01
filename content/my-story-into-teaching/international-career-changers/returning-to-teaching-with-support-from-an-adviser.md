@@ -15,6 +15,9 @@ more_information:
   link: /international-candidates
   text: International candidates information
 build_layout_from_frontmatter: true
+description: |-
+  Shaun's route into teaching
+date: "2020-02-01"
 ---
 
 I taught abroad for a number of years and returned to the UK in 2017. On returning, I felt teaching back in the UK was too daunting as things had moved on a lot since I was last in a UK classroom.

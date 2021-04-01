@@ -12,6 +12,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Roger Brown's route into teaching
+date: "2020-02-01"
 ---
 
 After gaining a 2:1 degree in engineering, I initially enjoyed a varied career, as an account manager, freelance cartoonist, and even an Olympic athlete before deciding to teach physics.

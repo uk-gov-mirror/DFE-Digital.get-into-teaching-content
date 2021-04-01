@@ -12,6 +12,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Steven Li's route into teaching
+date: "2020-02-01"
 ---
 
 I graduated with a degree in computing mathematics and spent 13 years in industry with 4 different companies ranging from small to large, I didn't feel the role was as enjoyable or rewarding anymore. I did some work at schools and I relished working with pupils and the sense of reward I got whilst supporting them. It's worth noting that teaching was never in my career plan!

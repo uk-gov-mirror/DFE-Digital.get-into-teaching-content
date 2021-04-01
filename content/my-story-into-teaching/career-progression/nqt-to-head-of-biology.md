@@ -12,6 +12,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Sarah Fisher's route into teaching
+date: "2020-02-01"
 ---
 
 Two years after qualifying as a teacher, I progressed to head of biology, climbing the career ladder. I always had an inkling that teaching was the right direction.

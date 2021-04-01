@@ -12,6 +12,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Amy Salwey's route into teaching
+date: "2020-02-01"
 ---
 
 After university I became an accountant and built my way up to chief financial officer. I wanted to use this experience to break down the perceived barriers around the subject I love: maths.

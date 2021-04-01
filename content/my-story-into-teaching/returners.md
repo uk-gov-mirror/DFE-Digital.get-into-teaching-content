@@ -4,6 +4,9 @@ title: "Be a teacher again"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"
 hide_page_helpful_question: true
+description: |-
+  Stories from former teachers who have returned to the profession.
+date: "2020-02-01"
 stories:
   - name: Jill
     snippet: Getting back into the classroom
