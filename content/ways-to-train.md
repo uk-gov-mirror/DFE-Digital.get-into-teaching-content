@@ -52,16 +52,6 @@ calls_to_action:
       link_target: "/tta-service"
       icon: "icon-person"
       hide_on_desktop: true
-  undergraduate:
-    name: feature_table
-    arguments:
-      - Cost: "Typically £9,250 per year"
-        Salary: "No"
-        Funding available: "Yes"
-        Length of training: "1 to 4 years"
-        Available for: "Primary, secondary"
-        Qualification: "Qualifications vary — for example, BA (Hons) with QTS, or BSc (Hons) with QTS"
-      - "Undergraduate teacher training"
   pgce:
     name: feature_table
     arguments:
@@ -135,18 +125,6 @@ You can also [get support to improve your subject knowledge](https://beta-getint
 Not looking for primary or secondary training? Consider training to teach [early years](/early-years-teaching-training) or [further education](/further-education-teacher-training).
 
 $get-a-tta$
-
-$undergraduate$
-
-You can get Qualified Teacher Status (QTS) as part of an undergraduate degree course.
-
-This could be right for you if you do not have a degree yet.
-
-You can also [get funding](/funding-your-training).
-
-<p class="call-to-action__action">
-  <a href="https://digital.ucas.com/search">Find an undergraduate <span>course</span></a>
-</p>
 
 $pgce$
 
