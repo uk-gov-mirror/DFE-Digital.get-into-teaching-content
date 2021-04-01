@@ -12,6 +12,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Danny Holliday's route into teaching
+date: "2020-02-01"
 ---
 
 I started in quite a hard school in a deprived area. I taught there for three years and it was tough, but extremely rewarding.

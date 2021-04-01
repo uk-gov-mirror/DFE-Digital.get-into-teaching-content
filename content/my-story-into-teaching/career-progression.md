@@ -4,6 +4,10 @@ title: "Career progression stories"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"
 hide_page_helpful_question: true
+description: |-
+  Read stories from teachers who have taken advantage of the many progression
+  possibilities the career has to offer.
+date: "2020-02-01"
 stories:
   - name: Paul
     snippet: "Grasp every opportunity: you will progress"
@@ -39,4 +43,4 @@ keywords:
   - Leadership
 ---
 
-The opportunities for career progression as a teacher are plentiful. This includes the possibility of rapid progression into a leadership role and as your career progresses.  Read stories from teachers who’ve taken advantage of the many progression possibilities the career has to offer.
+The opportunities for career progression as a teacher are plentiful. This includes the possibility of rapid progression into a leadership role and as your career progresses. Read stories from teachers who’ve taken advantage of the many progression possibilities the career has to offer.

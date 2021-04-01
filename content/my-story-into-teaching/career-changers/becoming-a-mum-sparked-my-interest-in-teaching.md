@@ -12,6 +12,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Clair Johnson's route into teaching
+date: "2020-02-01"
 ---
 
 After college, I went traveling and then spent my 20s trying out different careers.

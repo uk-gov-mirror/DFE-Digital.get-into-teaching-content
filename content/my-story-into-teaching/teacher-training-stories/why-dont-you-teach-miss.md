@@ -12,6 +12,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Emma Maskell's route into teaching
+date: "2020-02-01"
 ---
 
 I am a trainee at Carshalton Boys College and have a degree in biomedical sciences. I have spent time as a fitness instructor, private tutor and school science technician. So with some gentle encouragement from colleagues, I finally decided to become a qualified teacher. I did this through the School Direct (salaried) course.

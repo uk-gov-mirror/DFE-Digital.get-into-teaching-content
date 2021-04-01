@@ -15,6 +15,9 @@ more_information:
   link: /returning-to-teaching
   text: Read further guidance if you're returning to teaching
 build_layout_from_frontmatter: true
+description: |-
+  Helen's route into teaching
+date: "2020-02-01"
 ---
 
  I took over a decade out to focus on my family, after which I decided I would like to return to teaching on a part-time basis.

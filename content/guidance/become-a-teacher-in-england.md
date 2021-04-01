@@ -1,5 +1,8 @@
 ---
 title: Become a teacher in England
+description: |-
+  A summary of the requirements for becoming a teacher in England.
+date: "2021-03-05"
 related_content:
   Find postgraduate teacher training courses: https://www.gov.uk/find-postgraduate-teacher-training-courses
   Apply for teacher training in England: https://www.gov.uk/apply-for-teacher-training

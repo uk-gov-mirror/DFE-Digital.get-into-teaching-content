@@ -12,6 +12,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Paul Evason's route into teaching
+date: "2020-02-01"
 ---
 
 I always wanted to work in an environment that was never going to be the same every day – teaching definitely provides this. Working with students from different backgrounds and preparing them to take their next steps towards success was always a huge draw to the profession.

@@ -15,6 +15,9 @@ more_information:
   link: /returning-to-teaching
   text: Read further guidance if you're returning to teaching
 build_layout_from_frontmatter: true
+description: |-
+  Jill's route into teaching
+date: "2020-02-01"
 ---
 
  After almost a decade of teaching science, I Ieft the job in 2001 when my husband and I started a family. During my time out of the classroom, I did quite a lot of work for an exam board and lots of private tuition. This kept me occupied for many years.

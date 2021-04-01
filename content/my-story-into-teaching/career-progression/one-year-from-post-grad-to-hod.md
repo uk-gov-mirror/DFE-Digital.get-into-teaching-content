@@ -12,6 +12,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Dr Owen Mather's route into teaching
+date: "2020-02-01"
 ---
 
 Just one year after completing my postgraduate teacher training, I was head of department. Four years later, and I am now undertaking consultancy work at various schools, as well as training as a specialist leader of education and leader of teaching standards.

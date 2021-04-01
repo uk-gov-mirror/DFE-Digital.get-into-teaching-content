@@ -12,6 +12,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Julia Capon's route into teaching
+date: "2020-02-01"
 ---
 
 I am an engineering graduate and began my career as a quantity surveyor in the construction industry. I actually worked on a number of school construction projects. After 5 years, I decided the time was right for a change.

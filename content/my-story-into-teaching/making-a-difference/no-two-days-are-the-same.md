@@ -13,6 +13,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Gavin McIntyre's route into teaching
+date: "2020-02-01"
 ---
 
 I am an assistant headteacher and ICT learning co-ordinator and have an MSc in computing and information systems. I had always been open to the idea of teaching as a potential career path – so I took the plunge when I moved from Northern Ireland to England.

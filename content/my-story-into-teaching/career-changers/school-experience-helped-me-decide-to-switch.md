@@ -12,6 +12,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Zainab Kasmani's route into teaching
+date: "2020-02-01"
 ---
 
 I graduated with a degree in English language and communication, I wasn't sure what I wanted to do, but I knew I wanted to travel. I completed a starter course and went to teach English abroad.
