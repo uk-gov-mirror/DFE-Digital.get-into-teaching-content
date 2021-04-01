@@ -6,7 +6,7 @@ backlink: "../../"
 hide_page_helpful_question: true
 description: |-
   Read stories from teachers who have taken advantage of the many progression
-  possibilities the career has to offer.
+  possibilities teaching has to offer.
 date: "2020-02-01"
 stories:
   - name: Paul
