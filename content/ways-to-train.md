@@ -116,7 +116,7 @@ You can get QTS in different ways.
 
 For example, if you already have an undergraduate degree you can do a postgraduate initial teacher training (ITT) course which leads to QTS.
 
-If you do not have a degree, you can do an undergraudate degree which leads to QTS.
+If you do not have a degree, you can do an undergraduate degree which leads to QTS.
 
 Different types of training have different eligibility criteria, funding options and qualifications.
 
