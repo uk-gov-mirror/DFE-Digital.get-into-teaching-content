@@ -278,9 +278,8 @@ finance. Some are also salaried.
 
 Undergraduate courses:
 
-  - take 3 to 4 years of full-time study and lead to a degree in an
-    early
-  - have tuition fee loans available from [Student Finance England (SFE)](https://www.gov.uk/student-finance).
+  - take 3 to 4 years of full-time study and lead to a degree in an early childhood-related subject
+  - have tuition fee loans available from [Student Finance England (SFE)](https://www.gov.uk/student-finance)
 
 Graduate entry courses:
 
