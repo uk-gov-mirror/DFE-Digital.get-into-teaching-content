@@ -5,7 +5,7 @@ image: /assets/images/stories/stories-claire.jpg
 backlink: "./"
 backlink_text: Career changers' stories
 story:
-  teacher: Clair Johnson
+  teacher: Claire Johnson
   position: Physics teacher
 explore:
   - card_type: find events
@@ -13,7 +13,7 @@ explore:
   - card_type: chat online
 build_layout_from_frontmatter: true
 description: |-
-  Clair Johnson's route into teaching
+  Claire Johnson's route into teaching
 date: "2020-02-01"
 ---
 
