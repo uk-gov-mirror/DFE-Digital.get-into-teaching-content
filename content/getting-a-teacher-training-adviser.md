@@ -41,7 +41,7 @@ Your Teacher Training Adviser can help you navigate your path into teaching, and
 To sign up, you’ll need one of these:
 
 * Bachelor’s degree with honours, grade 2:2 or higher
-* Predicted grade 2:2 or higherfor your bachelor’s degree with honours, if you’re still a student
+* Predicted grade 2:2 or higher for your bachelor’s degree with honours, if you’re still a student
 * Overseas qualification equivalent to a bachelor’s degree with honours, grade 2:2 or higher
 
 Not sure how your qualification compares? An adviser can help with that.
