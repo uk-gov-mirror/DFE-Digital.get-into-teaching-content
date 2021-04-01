@@ -71,6 +71,6 @@ Follow these steps if you want to become a qualified primary or secondary school
 * doing a postgraduate initial teacher training (ITT) course if you already have a degree
 * doing an undergraduate degree course which leads to QTS
 
-If you're interested in teaching a different age group, consider training to teach [early years](/early-years-teaching-training) or [further education](/further-education-teacher-training).
+If you're not looking to teach primary or secondary, consider training to teach [early years](/early-years-teaching-training) or [further education](/further-education-teacher-training).
 
 [What to do if you've already qualified to teach and want to come back to teaching.](/returning-to-teaching)
