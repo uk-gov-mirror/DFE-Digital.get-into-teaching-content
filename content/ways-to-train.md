@@ -236,7 +236,7 @@ A [career change into teaching](/guidance/become-a-teacher-in-england#career-cha
 
 ### Researchers in schools
 
-To go  down the [researchers in schools](/guidance/become-a-teacher-in-england#researchers-in-schools-candidates-with-a-doctorate) route you’ll need a doctorate, or be about to receive one, in the subject you want to teach.
+To go down the [researchers in schools](/guidance/become-a-teacher-in-england#researchers-in-schools-candidates-with-a-doctorate) route you’ll need a doctorate, or be about to receive one, in the subject you want to teach.
 
 You’ll then train over 3 years with a bursary.
 
