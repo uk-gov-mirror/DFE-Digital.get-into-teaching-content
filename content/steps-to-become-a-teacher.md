@@ -73,4 +73,4 @@ Follow these steps if you want to become a qualified primary or secondary school
 
 If you're interested in teaching a different age group, consider training to teach [early years](/early-years-teaching-training) or [further education](/further-education-teacher-training).
 
-[What to do if you're already qualified to teach and want to come back to teaching.](/returning-to-teaching)
+[What to do if you've already qualified to teach and want to come back to teaching.](/returning-to-teaching)
