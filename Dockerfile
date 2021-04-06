@@ -5,11 +5,13 @@ COPY content app/views/content
 COPY assets public/assets
 
 # Add image compression packages
-RUN apk add --no-cache jpegoptim=1.4.6-r0
+RUN apk add --no-cache jpegoptim=1.4.6-r0 optipng=0.7.7-r0
 
-# Optimize all assets
-RUN find . -type f \( -iname "*.jpg" -o -iname "*.jpg" \) -exec jpegoptim -m90 -f --strip-all {} \;
-RUN find . -type f \( -iname "*.jpeg" -o -iname "*.jpeg" \) -exec jpegoptim -m90 -f --strip-all {} \;
+# Lossless optimize PNGs
+RUN find . -type f -iname "*.png" -exec optipng -nb -nc -np {} \;
+# Optimize JPEG at 90% quality
+RUN find . -type f \( -iname "*.jpg" -o -iname "*.jpg" \) -exec jpegoptim -m90 --strip-all {} \;
+RUN find . -type f \( -iname "*.jpeg" -o -iname "*.jpeg" \) -exec jpegoptim -m90 --strip-all {} \;
 
 # Fingerprint content assets
 RUN bundle exec rake fingerprinter:run
