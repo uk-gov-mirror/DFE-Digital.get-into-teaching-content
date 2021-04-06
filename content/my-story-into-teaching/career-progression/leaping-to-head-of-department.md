@@ -12,6 +12,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Jon Simmons's route into teaching
+date: "2020-02-01"
 ---
 
 After 6 years of working in the world of recruitment consultancy, I felt it was time for a new career.

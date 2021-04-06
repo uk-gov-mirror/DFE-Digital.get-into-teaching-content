@@ -12,6 +12,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Tarik Reghif's route into teaching
+date: "2020-02-01"
 ---
 
 I am a 'geek' and have always been passionate about computing. It's a professional outlet that helped me develop a fabulously varied and exciting career, which included travelling the world.

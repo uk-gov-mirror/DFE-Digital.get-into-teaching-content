@@ -5,13 +5,16 @@ image: /assets/images/stories/stories-claire.jpg
 backlink: "./"
 backlink_text: Career changers' stories
 story:
-  teacher: Clair Johnson
+  teacher: Claire Johnson
   position: Physics teacher
 explore:
   - card_type: find events
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Claire Johnson's route into teaching
+date: "2020-02-01"
 ---
 
 After college, I went traveling and then spent my 20s trying out different careers.

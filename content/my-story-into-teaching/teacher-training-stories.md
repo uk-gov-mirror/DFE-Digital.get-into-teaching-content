@@ -4,6 +4,11 @@ title: "Teacher training stories"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"
 hide_page_helpful_question: true
+description: |-
+  Insights from current and former trainees on what you can expect during your
+  teacher training.
+date: "2020-02-01"
+
 stories:
   - name: Katherine
     snippet: Banker turned teacher

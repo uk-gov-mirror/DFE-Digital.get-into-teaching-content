@@ -4,6 +4,10 @@ title: "Making a difference"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"
 hide_page_helpful_question: true
+description: |-
+  Find out how these teachers are helping pupils realise their
+  ambitions, and enjoying every moment.
+date: "2020-02-01"
 stories:
   - name: Craig
     snippet: Broadening horizons through travelling and teaching

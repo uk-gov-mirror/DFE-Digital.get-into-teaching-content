@@ -12,6 +12,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Karen Falcon's route into teaching
+date: "2020-02-01"
 ---
 
 I've enjoyed rapid career progression. I made the most of the opportunities and prospects that teaching offered me, and was head of department for geography at The Toynbee School in Chandler's Ford within two years of my NQT year.

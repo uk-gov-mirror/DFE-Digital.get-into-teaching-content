@@ -12,6 +12,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Craig Cairns's route into teaching
+date: "2020-02-01"
 ---
 
 I spent my first year after graduating working in Pakistan, coding for software companies. Now I am a support teacher for years 5 and 6 at Eleanor Palmer Primary School in London and I teach young pupils basic programming as part of the new computing curriculum.

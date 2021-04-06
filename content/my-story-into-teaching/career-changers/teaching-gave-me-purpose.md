@@ -12,6 +12,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Luke Anderson's route into teaching
+date: "2020-02-01"
 ---
 
 With a Masters in applied translation studies, I set out on a career with a language services company. I've always enjoyed sharing my knowledge of languages, so teaching was a natural step. Using my language skills was a key to my role, but it didn't provide opportunities for interaction.

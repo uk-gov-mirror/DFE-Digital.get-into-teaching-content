@@ -12,6 +12,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Laura Hurn's route into teaching
+date: "2020-02-01"
 ---
 
 I have been a business studies teacher for 8 years, after a career in the retail industry. I loved the excitement of retail, but the chance to educate children to become whatever they want to be was just really appealing.

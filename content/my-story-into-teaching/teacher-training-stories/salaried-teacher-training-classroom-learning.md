@@ -12,6 +12,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Nathan Sproule's route into teaching
+date: "2020-02-01"
 ---
 
 Salaried teacher training offered the best option for me, earning an income while I trained towards qualified teacher status (QTS). My course also included a postgraduate certificate in education (PGCE), and Masters-level credits.

@@ -12,6 +12,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Thomas's route into teaching
+date: "2020-02-01"
 ---
 
 I joined the Royal Marine Commandos after university – I wanted to be on the Royal Navy's amphibious force. After 4 years of Service, I decided teaching was the profession I had always wanted to join. Gaining essential life experience was invaluable; not only did I achieve a better understanding of the world, but it has also equipped me with the knowledge and confidence to provide guidance and advice to teenagers.

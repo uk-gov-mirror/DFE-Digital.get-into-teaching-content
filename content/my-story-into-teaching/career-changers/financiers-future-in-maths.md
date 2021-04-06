@@ -12,6 +12,9 @@ explore:
   - card_type: featured story
   - card_type: chat online
 build_layout_from_frontmatter: true
+description: |-
+  Peter Bassett's route into teaching
+date: "2020-02-01"
 ---
 
 I spent 27 years working in finance in London. Having raised my own family and enjoyed a successful career in the city, I wanted to pursue one of my long-term ambitions, and chose to make the switch to teaching.

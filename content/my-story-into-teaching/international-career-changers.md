@@ -4,6 +4,10 @@ title: "International career changers"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"
 hide_page_helpful_question: true
+description: |-
+  Stories from teachers with international experience who have returned to
+  teaching in England.
+date: "2020-02-01"
 stories:
   - name: Katie
     snippet: Returning to teaching with international experience

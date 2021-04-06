@@ -66,22 +66,11 @@
 
 ## Become a qualified teacher in England
 
-Follow these steps if you want to become a qualified primary or secondary school teacher in England.
+Follow these steps if you want to become a qualified primary or secondary school teacher in England. You'll need to work towards Qualified Teacher Status (QTS). This can be achieved in different ways, including:
 
-If you’re interested in teaching in another area, take a look at our guidance on:
+* doing a postgraduate initial teacher training (ITT) course if you already have a degree
+* doing an undergraduate degree course which leads to QTS
 
-* [becoming a further education teacher](/further-education-teacher-training)
-* [becoming an early years teacher](/early-years-teaching-training)
+If you're not looking to teach primary or secondary, consider training to teach [early years](/early-years-teaching-training) or [further education](/further-education-teacher-training).
 
-To work as a qualified primary or secondary school teacher in a state school in England, you need to
-have Qualified Teacher Status (QTS).
-
-There are a number of ways to get QTS, such as:
-
-* completing a postgraduate initial teacher training (ITT) course
-* doing a degree course which leads to QTS
-
-We also have information for:
-
-* [international candidates](/international-candidates)
-* [those returning to teaching](/returning-to-teaching)
+[What to do if you've already qualified to teach and want to come back to teaching.](/returning-to-teaching)
