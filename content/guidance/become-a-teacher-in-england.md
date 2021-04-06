@@ -146,7 +146,7 @@ check if you intend to teach students under 18.
 
 ## Financial support
 
-If you need further information on financial support options, such as bursaries, scholarships and extra support for parents, carers or people with disabilities, this is available on the [financial support for teaching training guidance page](/guidance/financial-support-for-teacher-training).
+If you need further information on financial support options, such as bursaries, scholarships and extra support for parents, carers or people with disabilities, this is available on the [financial support for teaching training guidance page](/funding-your-training).
 
 ## Ways to train
 
