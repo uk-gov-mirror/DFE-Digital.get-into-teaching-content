@@ -70,6 +70,7 @@ jobs:
       - name: Setup Environment Variables
         id: variables
         run: |
+             echo ::set-output name=RUN_TEST::"true"
              if [ "${{github.event.inputs.environment }}" == "Review" ]
              then
                  echo ::set-output name=control::$(echo "review" )
@@ -100,6 +101,7 @@ jobs:
 
              if [ "${{github.event.inputs.environment }}" == "Speed" ]
              then
+                 echo ::set-output name=RUN_TEST::"false"
                  echo ::set-output name=control::$(echo "pagespeed" )
                  echo ::set-output name=healthcheck::$(echo "${{env.PAAS_APPLICATION_NAME}}-pagespeed" )
                  echo ::set-output name=key::"app.pagespeed.terraform"
@@ -157,7 +159,10 @@ jobs:
 
       - name: Smoke tests
         run: |
-            tests/confidence/healthcheck.sh  "${{steps.variables.outputs.healthcheck}}"  "${{ steps.sha.outputs.short }}"
+            if [ "${{steps.variables.outputs.RUN_TEST}}" == "true" ]
+            then
+                   tests/confidence/healthcheck.sh  "${{steps.variables.outputs.healthcheck}}"  "${{ steps.sha.outputs.short }}"
+            fi
         env:
           HTTPAUTH_PASSWORD: ${{ steps.azSecret.outputs.HTTP-PASSWORD }}
           HTTPAUTH_USERNAME: ${{ steps.azSecret.outputs.HTTP-USERNAME }}
