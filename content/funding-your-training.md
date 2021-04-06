@@ -70,6 +70,19 @@
     - Guernsey
     - Jersey
     - Isle of Man
+    - Undergraduate
+    - Troops to Teachers
+    - Army
+    - Air Force
+    - Navy
+    - Parents
+    - Parents’ Learning Allowance
+    - Childcare
+    - Childcare Grant
+    - Adult Dependants’ Grant
+    - Disabled students
+    - Disabled Students’ Allowances
+    
 ---
 
 

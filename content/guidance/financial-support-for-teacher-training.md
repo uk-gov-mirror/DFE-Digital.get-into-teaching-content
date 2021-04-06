@@ -6,24 +6,6 @@ related_content:
   Teacher training funding: https://www.gov.uk/teacher-training-funding
   "Early years initial teacher training: 2020 to 2021 funding guidance": https://www.gov.uk/guidance/early-years-initial-teacher-training-2020-to-2021-funding-guidance
   "Qualified teacher status (QTS): qualify to teach in England": https://www.gov.uk/guidance/qualified-teacher-status-qts
-keywords:
-  - Bursary
-  - Bursaries
-  - Scholarship
-  - Undergraduate
-  - Troops to Teachers
-  - Army
-  - Air Force
-  - Navy
-  - Student Finance
-  - Parent
-  - Career
-  - Parents’ Learning Allowance
-  - Childcare Grant
-  - Adult Dependants’ Grant
-  - Disability
-  - Disabled students
-  - Disabled Students’ Allowances
 calls_to_action:
   bursaries:
     name: simple
