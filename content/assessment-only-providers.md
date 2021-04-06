@@ -28,7 +28,7 @@ providers:
     telephone: '01268 570215'
     email: Fran@etpscitt.co.uk
   - header: Essex Teacher Training
-    link: https://www.essexteachertraining.co.uk
+    link: https://www.essexteachertraining.co.uk/assessment-only/
     name: Kay Satchell
     email: kay.satchell@essexteachertraining.co.uk
   - header: Mid Essex Initial Teacher Training
@@ -90,7 +90,7 @@ providers:
     telephone: '07919 568841'
     email: jwoolley@cfbt.com
   - header: Educate Teacher Training
-    link: https://www.educate-group.co.uk/teacher-training/how-training-works/routes/#ASSESSMENT
+    link: https://educate-group.co.uk/itt/
     name: Claire King
     telephone: 01476 512793
     email: aor@educate-group.co.uk
@@ -213,7 +213,7 @@ providers:
     telephone: 0161 973 1179 (ext 2229)
     email: SamanthaBuckley@thedeantrust.co.uk
   - header: Cumbria Teacher Training
-    link: https://www.ctt.ac.uk/
+    link: http://www.ctt.ac.uk
     email: scittlead@ctt.ac.uk
   - header: Kingsbridge EIP SCITT
     name: Gail Thomson
@@ -240,7 +240,7 @@ providers:
     name: Jenn Simmonds
     email: j.simmonds@chester.ac.uk
   - header: University of Cumbria
-    link: https://www.cumbria.ac.uk/Courses/Subjects/Education/Postgraduate/DirectAssessmentOnlyRoute.aspx
+    link: https://www.cumbria.ac.uk/study/academic-departments/institute-of-education/qts-direct-assessment-only-route/
     name: Carolyn Reade
     email: arolyn.reade@cumbria.ac.uk
   South East:
@@ -263,16 +263,16 @@ providers:
     telephone: 01227 925555
     email: pgadmissions@canterbury.ac.uk
   - header: e-Qualitas
-    link: https://www.e-qualitas.org.uk/
+    link: https://www.e-qualitas.co.uk/for-schools/training-routes/assessment-only/
     name: Vivien Johnston
     email: vivien@e-qualitas.co.uk
   - header: George Abbot SCITT
-    link: https://www.georgeabbottraining.co.uk/assessment-only-route/
+    link: https://georgeabbottraining.co.uk/courses/
     name: Lyndsay Cameron
     telephone: '01483 888070'
     email: lcameron@georgeabbot.surrey.sch.uk
   - header: GLF Schools’ Teacher Training
-    link: https://www.glftt.org
+    link: http://www.glynsurreyscitt.co.uk/846/assessment-only-route
     name: Helen Shaw
     telephone: '0208 716 4934'
     email: info@glftt.org
@@ -296,7 +296,7 @@ providers:
     telephone: '01280 827 377'
     email: lwhitty@royallatin.org
   - header: The Tommy Flowers SCITT
-    link: https://tommyflowersscitt.co.uk
+    link: https://tommyflowersscitt.co.uk/assessment-only/
     name: Catherine Brown (senior administrator)
     telephone: '01908 505030'
     email: brownc@denbigh.net
@@ -311,7 +311,7 @@ providers:
     telephone: '01908 533284'
     email: info@mkitt.co.uk
   - header: University of Chichester
-    link: https://www.chi.ac.uk/
+    link: https://www.chi.ac.uk/institute-education/degrees-qts/assessment-only-route
     email: ao@chi.ac.uk
   - header: University of Reading
     link: https://www.reading.ac.uk/
