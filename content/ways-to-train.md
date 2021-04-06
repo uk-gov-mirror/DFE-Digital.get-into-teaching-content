@@ -102,6 +102,16 @@ calls_to_action:
         Available for: "Primary, secondary"
         Qualification: "PGDE with QTS"
       - "Teach First"
+  undergraduate:
+    name: feature_table
+    arguments:
+      - Cost: "Typically £9,250 per year"
+        Salary: "No"
+        Funding available: "Yes"
+        Length of training: "1 to 4 years"
+        Available for: "Primary, secondary"
+        Qualification: "Qualifications vary — for example, BA (Hons) with QTS, or BSc (Hons) with QTS"
+      - "Undergraduate teacher training"
   assessment-only:
     name: feature_table
     arguments:
@@ -164,6 +174,14 @@ You’ll be employed by a school and learn while you’re working. You’ll spli
 
 <p class="call-to-action__action">
   <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses">Find a Postgraduate Teaching <span>Apprenticeship</span></a>
+</p>
+
+$undergraduate$
+You can get Qualified Teacher Status (QTS) as part of an undergraduate degree course.
+This could be right for you if you do not have a degree yet.
+You can also [get funding](/funding-your-training).
+<p class="call-to-action__action">
+  <a href="https://digital.ucas.com/search">Find an undergraduate <span>course</span></a>
 </p>
 
 $teach-first$
