@@ -51,7 +51,8 @@ to learn how we can support your journey to the UK.
 ### Return to teaching success stories
 
 Read [inspiring case studies](/my-story-into-teaching/international-career-changers)
-and [join our webinar](https://www.eventbrite.co.uk/e/return-to-teach-in-england-information-for-uk-teachers-working-overseas-tickets-141969770405)
-to take part in a live Q&A with a teacher who's successfully made the move back home.
+and [access the slides from our recent webinar](https://drive.google.com/file/d/1kqQPsjW45JjXgBA6A5KnxyTU_RHstzG8/view?usp=sharing)
+which included a live Q&A with a headteacher who has successfully made the move
+back home.
 
 ## Return to teach in England: step by step
