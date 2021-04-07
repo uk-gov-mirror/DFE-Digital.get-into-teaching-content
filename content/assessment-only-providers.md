@@ -125,7 +125,7 @@ providers:
     telephone: 020 7717 2245
     email: ao@gold.ac.uk
   - header: Henry Maynard Training E17
-    link: https://www.henrymaynardtraining.co.uk
+    link: http://www.henrymaynardtraining.co.uk
     name: Clare Hunton
     telephone: '0208 5203142'
     email: training@henrymaynard.waltham.sch.uk
