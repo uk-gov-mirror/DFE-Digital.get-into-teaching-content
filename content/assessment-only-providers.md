@@ -28,7 +28,7 @@ providers:
     telephone: '01268 570215'
     email: Fran@etpscitt.co.uk
   - header: Essex Teacher Training
-    link: https://www.essexteachertraining.co.uk/assessment-only/
+    # link: https://www.essexteachertraining.co.uk/assessment-only/
     name: Kay Satchell
     email: kay.satchell@essexteachertraining.co.uk
   - header: Mid Essex Initial Teacher Training
@@ -125,7 +125,7 @@ providers:
     telephone: 020 7717 2245
     email: ao@gold.ac.uk
   - header: Henry Maynard Training E17
-    link: https://www.henrymaynardtraining.co.uk
+    link: http://www.henrymaynardtraining.co.uk
     name: Clare Hunton
     telephone: '0208 5203142'
     email: training@henrymaynard.waltham.sch.uk
@@ -254,7 +254,7 @@ providers:
     link: https://www.elascitt.com 
     email: elascitt@tollgate.boleyntrust.org 
   - header: Bourton Meadow Initial Teacher Training Centre
-    link: https://www.bourtonmeadowittc.co.uk
+    # link: https://www.bourtonmeadowittc.co.uk
     name: Helen Byrom
     telephone: '01280 823374'
     email: hbyrom@bucksgfl.org.uk

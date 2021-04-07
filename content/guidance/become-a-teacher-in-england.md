@@ -131,7 +131,7 @@ of knowledge as an English, maths or science GCSE grade 4 (C) or above.
 Ask if they recommend you do the test or if they will accept other evidence of attainment.
 
 You can also visit the [National Careers
-Service](https://nationalcareersservice.direct.gov.uk/course-directory/home)
+Service](https://nationalcareers.service.gov.uk/find-a-course)
 to find GCSE courses for people who are over 16 and have left school.
 
 ### Health and fitness
