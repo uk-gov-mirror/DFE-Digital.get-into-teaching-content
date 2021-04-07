@@ -45,7 +45,7 @@ If you're thinking about coming home to teach, we want to help.
 
 If you are a non-UK citizen interested in teaching or training to teach in
 England, please read our
-[guidance for international teachers and trainees](https://beta-getintoteaching.education.gov.uk/international-candidates)
+[guidance for international teachers and trainees](/international-candidates)
 to learn how we can support your journey to the UK.
 
 ### Return to teaching success stories
