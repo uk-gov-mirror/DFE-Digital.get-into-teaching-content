@@ -28,7 +28,7 @@ providers:
     telephone: '01268 570215'
     email: Fran@etpscitt.co.uk
   - header: Essex Teacher Training
-    link: https://www.essexteachertraining.co.uk/assessment-only/
+    # link: https://www.essexteachertraining.co.uk/assessment-only/
     name: Kay Satchell
     email: kay.satchell@essexteachertraining.co.uk
   - header: Mid Essex Initial Teacher Training
