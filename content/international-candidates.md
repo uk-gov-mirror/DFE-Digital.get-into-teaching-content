@@ -127,7 +127,7 @@ To apply for a place on a teacher training course in England, you need to have:
 
 To teach children aged 3 to 11, you also need to have achieved a standard equivalent to a grade 4 in a GCSE science subject.
 
-For help understanding these UK qualifications and their international equivalents, call Get Into Teaching for free on 0800 389 2501.
+For help understanding these UK qualifications and their international equivalents, call Get Into Teaching for free on 0800 389 2500.
 
 You may be able to get a free statement of comparability after you've submitted your application and if required by your training provider.
 
