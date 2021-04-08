@@ -203,6 +203,7 @@ redirects:
   "/funding-and-salary/overview": "/funding-your-training"
   "/train-to-teach-with-a-disability": "/ways-to-train"
   "/explore-my-options/secondary/training-options": "/ways-to-train"
+  "/user/register": "/tta-service"
 
   # Events
   "/teaching-events/train-to-teach-events/train-to-teach-london-virtual-event-300121": "/events/train-to-teach-london-virtual-event-300121"
