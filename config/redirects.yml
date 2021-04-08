@@ -223,10 +223,9 @@ redirects:
   "/we-have-changed-our-website": "/"
   "/bursaries-and-funding": "/funding-your-training"
   "/plan-my-application": "/steps-to-become-a-teacher"
-  "/explore-my-options/training/university-led-postgraduate-training": ""
+  "/explore-my-options/training/university-led-postgraduate-training": "/ways-to-train"
   "/funding": "/funding-your-training"
   "/funding-%20andsalary/overview": "/funding-your-training"
-  "/explore-my-options/postgraduate-teacher-training-courses/te": "/ways-to-train"
   "/explore-my-options/school-led-training": "/ways-to-train"
   "/explore-my-options/teach-french": "/ways-to-train"
 
