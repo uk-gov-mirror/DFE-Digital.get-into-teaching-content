@@ -63,6 +63,7 @@ redirects:
   "/life-as-a-teacher/my-story-into-teaching/teacher-training-stories/salaried-teacher-training-classroom-learning": "/my-story-into-teaching/teacher-training-stories/salaried-teacher-training-classroom-learning"
   "/life-as-a-teacher/my-story-into-teaching/teacher-training-stories/teacher-training-its-worth-it": "/my-story-into-teaching/teacher-training-stories/teacher-training-its-worth-it"
   "/life-as-a-teacher/my-story-into-teaching/teacher-training-stories/why-dont-you-teach-miss": "/my-story-into-teaching/teacher-training-stories/why-dont-you-teach-miss"
+  "/life-as-a-teacher/real-life-experiences/career-progression-stories": "/my-story-into-teaching/career-progression"
 
   # Slides
   "/slides": "/presentations"
@@ -198,6 +199,9 @@ redirects:
   "/career-changers": "/"
   "/lp/email-computing": "/"
   "/register": "/"
+  "/funding-and-salary/overview": "/funding-your-training"
+  "/train-to-teach-with-a-disability": "/ways-to-train"
+  "/explore-my-options/secondary/training-options": "/ways-to-train"
 
   # Events
   "/teaching-events/train-to-teach-events/train-to-teach-london-virtual-event-300121": "/events/train-to-teach-london-virtual-event-300121"
