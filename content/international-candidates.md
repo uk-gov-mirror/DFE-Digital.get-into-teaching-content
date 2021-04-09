@@ -172,7 +172,7 @@ You may have a pre-existing right to work in the UK, such as settled or pre-sett
 
 ### Consider getting qualified teacher status
 
-You need 'qualified teacher status' (QTS) to teach in many state schools in England.
+You need 'qualified teacher status' (QTS) to teach in state schools in England.
 
 It's not a requirement in all [types of schools](https://www.gov.uk/types-of-school), such as academy schools, free schools, private schools and independent schools. However, having QTS can help your application.
 
