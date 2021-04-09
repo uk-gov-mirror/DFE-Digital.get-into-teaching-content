@@ -62,7 +62,7 @@ There are two main ranges for these (TLR 1 and TLR 2), depending on the category
 | TLR 1   | £8,291  | £14,030 |
 | TLR 2   | £2,873  | £7,017  |
 
-Examples of factors that apply to awarding TLRs include impact on educational progress beyond the teacher’s assigned pupils and leading, developing and enhancing the teaching practice of others.
+Factors that apply to awarding TLRs include impact on educational progress beyond the teacher’s assigned pupils. It may also involve leading, developing and enhancing the teaching practice of others.
 
 ### Holidays
 
