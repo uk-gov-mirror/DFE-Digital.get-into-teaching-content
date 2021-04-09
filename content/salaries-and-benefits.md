@@ -44,6 +44,46 @@ As you progress in your teaching career, it's possible to move up through these 
 | London fringe                 | £26,948 | £42,780 |
 | The rest of England and Wales | £25,714 | £41.604 |
 
+## Teacher benefits
+
+### Newly qualified teacher benefits
+ 
+A new 2-year package to support teachers at the start of their career, based on the [Early Career Framework](https://www.gov.uk/government/publications/supporting-early-career-teachers), launches nationally in September 2021.
+ 
+The support package includes:
+ 
+* funded 5% time off timetable in the second year of teaching, in addition to the existing 10% in the first year
+* a range of high-quality, freely available curricula and training materials underpinned by the Early Career Framework
+* funded training for mentors of early career teachers
+* funded time for mentors to support early career teachers 
+
+### Teaching and learning responsibility (TLR) payments
+
+If you take on extra ongoing responsibilities in your role, you could get a salary uplift.
+
+There are two main ranges for these (TLR 1 and TLR 2), depending on the category your duties come under:
+
+| Level   | Minimum | Maximum |
+| ------- | -----   | -----   |
+| TLR 1   | £8,291  | £14,030 |
+| TLR 2   | £2,873  | £7,017  |
+
+### Holidays
+
+You'll get more days than people in many other professions. Full-time teachers work for 195 days per year in school.
+
+### Teachers’ Pension Scheme
+
+The Teachers’ Pension Scheme gives you a regular source of income when you retire. It is:
+
+* based on your salary and service rather than investments
+* registered with HM Revenue and Customs - so your contributions are tax-free
+* flexible and allows you to take some of it as a tax-free lump sum
+
+[Find out more from Teachers’ Pensions](https://www.teacherspensions.co.uk/members/new-starter.aspx)
+
+## Career progression
+
 ## Leading practitioners
 
 A Leading Practitioner is an excellent and highly skilled teacher who consistently demonstrates the highest standards of classroom practice. They share their skills and experience through the coaching, mentoring and induction of teachers, including trainees and newly qualified teachers (NQTs). 
@@ -83,40 +123,3 @@ As an unqualified teacher you could earn between £18,169 and £33,410 depending
 | London fringe                 | £19,363 | £29,924 |
 | The rest of England and Wales | £18,169 | £28,735 |
 
-## Teacher benefits
-
-### Newly qualified teacher benefits
- 
-A new 2-year package to support teachers at the start of their career, based on the [Early Career Framework](https://www.gov.uk/government/publications/supporting-early-career-teachers), launches nationally in September 2021.
- 
-The support package includes:
- 
-* funded 5% time off timetable in the second year of teaching, in addition to the existing 10% in the first year
-* a range of high-quality, freely available curricula and training materials underpinned by the Early Career Framework
-* funded training for mentors of early career teachers
-* funded time for mentors to support early career teachers 
-
-### Teaching and learning responsibility (TLR) payments
-
-If you take on extra ongoing responsibilities in your role, you could get a salary uplift.
-
-There are two main ranges for these (TLR 1 and TLR 2), depending on the category your duties come under:
-
-| Level   | Minimum | Maximum |
-| ------- | -----   | -----   |
-| TLR 1   | £8,291  | £14,030 |
-| TLR 2   | £2,873  | £7,017  |
-
-### Holidays
-
-You'll get more days than people in many other professions. Full-time teachers work for 195 days per year in school.
-
-### Teachers’ Pension Scheme
-
-The Teachers’ Pension Scheme gives you a regular source of income when you retire. It is:
-
-* based on your salary and service rather than investments
-* registered with HM Revenue and Customs - so your contributions are tax-free
-* flexible and allows you to take some of it as a tax-free lump sum
-
-[Find out more from Teachers’ Pensions](https://www.teacherspensions.co.uk/members/new-starter.aspx)
