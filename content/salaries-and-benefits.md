@@ -25,10 +25,6 @@ keywords:
   - Pension
 ---
 
-
-
-## Teacher salaries
-
 Schools develop their own pay policies to attract and retain teachers that have the greatest impact on their pupils' learning. What you're paid will be linked to performance, not length of service - meaning your salary can move forward in line with your career.
 
 ## Qualified teachers
