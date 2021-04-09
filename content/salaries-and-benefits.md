@@ -44,8 +44,6 @@ As you progress in your teaching career, it's possible to move up through these 
 | London fringe                 | £26,948 | £42,780 |
 | The rest of England and Wales | £25,714 | £41.604 |
 
-## Teacher benefits
-
 ### Newly qualified teacher benefits
  
 A new 2-year package to support teachers at the start of their career, based on the [Early Career Framework](https://www.gov.uk/government/publications/supporting-early-career-teachers), launches nationally in September 2021.
@@ -84,7 +82,7 @@ The Teachers’ Pension Scheme gives you a regular source of income when you ret
 
 ## Career progression
 
-## Leading practitioners
+### Leading practitioners
 
 A Leading Practitioner is an excellent and highly skilled teacher who consistently demonstrates the highest standards of classroom practice. They share their skills and experience through the coaching, mentoring and induction of teachers, including trainees and newly qualified teachers (NQTs). 
 
@@ -97,7 +95,7 @@ In this role you could earn between £42,402 and £72,480 depending on where you
 | London fringe                 | £43,570 | £65,631 |
 | The rest of England and Wales | £42,402 | £64,461 |
 
-## Headteachers
+### Headteachers
 
 Headteachers lead, motivate and manage staff. In this role you will earn between £47,735 to £125,098 depending on where you teach.
 
@@ -112,7 +110,7 @@ Headteachers lead, motivate and manage staff. In this role you will earn between
 
 Headteachers work with other leadership teachers. The average salary for leadership teachers (excluding headteachers) in 2019 was £54,911.
 
-## Unqualified teachers
+### Unqualified teachers
 
 As an unqualified teacher you could earn between £18,169 and £33,410 depending on where you teach and your level of experience.
 
@@ -122,4 +120,3 @@ As an unqualified teacher you could earn between £18,169 and £33,410 depending
 | Outer London                  | £21,582 | £32,151 |
 | London fringe                 | £19,363 | £29,924 |
 | The rest of England and Wales | £18,169 | £28,735 |
-
