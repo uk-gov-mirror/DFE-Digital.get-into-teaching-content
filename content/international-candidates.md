@@ -9,6 +9,12 @@ image: "/assets/images/international-dt.jpg"
 backlink: "../../"
 right_column:
   ctas:
+    - title: Already a teacher?
+      text: |
+        Find out how to train to become a teacher in England.
+      link_text: "Come to England to teach"
+      link_target: "/international-candidates#already-a-teacher-teach-in-england"
+      icon: "icon-person"
     - title: Online Q&As
       text: |
         Come to an online event where you can ask advice from our panel of
@@ -51,10 +57,6 @@ keywords:
   - Family Visa
   - UK Ancestry Visa
 ---
-
-Find out how to train to become a teacher in England.
-
-[Already a teacher? Come to England to teach](/international-candidates#already-a-teacher-teach-in-england).
 
 ## Train to teach in England
 
