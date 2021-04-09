@@ -140,7 +140,7 @@ You do not necessarily have to be in England to study with an English institutio
 
 A PGCEi will help you develop your teaching skills and knowledge.
 
-However, it does not lead to QTS and will not qualify you to teach in schools in England which require QTS.
+However, it does not lead to QTS. This means you will not be able to teach in schools which require QTS. 
 
 ## Already a teacher? Teach in England
 
