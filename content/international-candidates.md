@@ -54,7 +54,7 @@ keywords:
 
 Find out how to train to become a teacher in England.
 
-[Already a teacher? Come to England to teach](/international-candidates#already-a-teacher-teach-in-england)
+[Already a teacher? Come to England to teach](/international-candidates#already-a-teacher-teach-in-england).
 
 ## Train to teach in England
 
@@ -72,7 +72,7 @@ To start postgraduate teacher training in England, you need:
 
 Your degree can be from outside the UK.
 
-If you do not have a degree yet, you can [apply to an undergraduate teaching course](https://www.ucas.com/postgraduate/teacher-training/train-teach-england/undergraduate-teacher-training-england) instead of a postgraduate course.
+If you do not have a degree yet, you can apply to an [undergraduate teacher training course](https://www.ucas.com/postgraduate/teacher-training/train-teach-england/undergraduate-teacher-training-england) instead of a postgraduate course.
 
 #### English and maths qualifications
 
@@ -80,19 +80,21 @@ You usually need the equivalent of a GCSE (grade 4) in English and maths.
 
 To teach children aged 3 to 11, you also need the equivalent of a GCSE (grade 4) in a science subject.
 
-[Contact UK ENIC to find out if your qualifications meet the standard](https://www.enic.org.uk/)
+[Contact UK ENIC to find out if your qualifications meet the standard](https://www.enic.org.uk/).
 
 #### An offer to train
 
-Explore the [different qualifications you can get](/international-candidates#what-qualifications-you-can-get) and [find a postgraduate course in England](https://www.gov.uk/find-postgraduate-teacher-training-courses).
+Explore the [different qualifications you can get](/international-candidates#what-qualifications-you-can-get) and find a [postgraduate course](https://www.gov.uk/find-postgraduate-teacher-training-courses) or an [undergraduate course](https://digital.ucas.com/search).
 
 Contact providers before you apply to get their advice about eligibility and the application process.
 
 #### The right visa or status
 
-Unless you're an [Irish citizen](https://www.gov.uk/government/publications/common-travel-area-guidance) you'll need to [get the right visa or status to study in the UK](https://www.gov.uk/government/publications/train-to-teach-in-england-non-uk-applicants/train-to-teach-in-england-non-uk-applicants#visas-and-immigration).
+You need to [get the right visa or status to study in the UK](https://www.gov.uk/government/publications/train-to-teach-in-england-non-uk-applicants/train-to-teach-in-england-non-uk-applicants#visas-and-immigration).
 
 You usually need a confirmed offer on a course to apply for a visa.
+
+[If you're an Irish citizen you do not need a visa](https://www.gov.uk/government/publications/common-travel-area-guidance).
 
 #### To pass certain checks
 
@@ -100,13 +102,13 @@ Your training provider will check you’re suitable for teaching in terms of you
 
 ### Funding
 
-[Check your eligibility for financial support for teacher training](https://www.gov.uk/government/publications/train-to-teach-in-england-non-uk-applicants/train-to-teach-in-england-non-uk-applicants#financial-support-for-non-uk-applicants-for-unsalaried-teacher-training-in-england)
+[You may be able to get financial support for teacher training](https://www.gov.uk/government/publications/train-to-teach-in-england-non-uk-applicants/train-to-teach-in-england-non-uk-applicants#financial-support-for-non-uk-applicants-for-unsalaried-teacher-training-in-england).
 
 ### Get support
 
 You can get an adviser for one-to-one support.
 
-Your adviser can help you get a 'statement of comparability' which shows [how your overseas qualifications compare to UK qualifications](https://enic.org.uk/Qualifications/SOC/Default.aspx)
+Your adviser can help you get a 'statement of comparability' showing [how your overseas qualifications compare to UK qualifications](https://enic.org.uk/Qualifications/SOC/Default.aspx).
 
 <p class="call-to-action__action">
   <a href="https://beta-adviser-getintoteaching.education.gov.uk/">Get an <span>adviser</span></a>
@@ -118,7 +120,7 @@ Your adviser can help you get a 'statement of comparability' which shows [how yo
   <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses">Find a postgraduate teacher training <span>course</span></a>
 </p>
 
-Or [search for an undergraduate teacher training course](https://digital.ucas.com/search)
+Or [search for an undergraduate teacher training course](https://digital.ucas.com/search).
 
 ### What qualifications you can get
 
@@ -126,7 +128,7 @@ Or [search for an undergraduate teacher training course](https://digital.ucas.co
 
 QTS allows you to apply for paid teaching jobs in all schools in England.
 
-You need QTS to work in many English schools, but it’s desirable for all teaching jobs.
+You need QTS to work in many English schools, but it’s desirable in all schools.
 
 #### PGCE with QTS
 
@@ -134,7 +136,7 @@ You can do a course which combines QTS with a Postgraduate Certificate of Educat
 
 #### PGCEi
 
-You do not necessarily have to be in England to study with an English institution. You can do a Postgraduate Certificate of Education International (PGCEi) outside the UK.
+You do not necessarily have to be in England to study with an English institution. You can do an international Postgraduate Certificate of Education (PGCEi) outside the UK.
 
 A PGCEi will help you develop your teaching skills and knowledge.
 
@@ -144,7 +146,7 @@ However, it does not lead to QTS and will not qualify you to teach in schools in
 
 Teach in England and you’ll benefit from working in a world-class education system.
 
-You’ll earn a competitive salary, get supported in your professional development and have varied job opportunities.
+You’ll earn a [competitive salary](https://getintoteaching.education.gov.uk/salaries-and-benefits), get supported in your professional development and have varied job opportunities.
 
 Not looking to teach in England? Consider teaching in [Wales](https://www.discoverteaching.wales/), [Scotland](https://teachinscotland.scot/) or [Northern Ireland](https://www.education-ni.gov.uk/articles/initial-teacher-education-courses-northern-ireland).
 
@@ -160,11 +162,13 @@ It is also helpful to have a teaching qualification from your own or another non
 
 ### Get the right visa or status
 
-Unless you're an [Irish citizen](https://www.gov.uk/government/publications/common-travel-area-guidance) you'll need to [get the right visa or status](https://www.gov.uk/government/publications/teach-in-england-if-you-qualified-outside-the-uk/teach-in-england-if-you-qualified-outside-the-uk#visas-and-immigration).
+You'll need to [get the right visa or status to work in the UK](https://www.gov.uk/government/publications/teach-in-england-if-you-qualified-outside-the-uk/teach-in-england-if-you-qualified-outside-the-uk#visas-and-immigration).
 
 Some job offers allow you to apply for a ‘skilled worker visa’. Otherwise, you may be eligible for another type of visa.
 
 You may have a pre-existing right to work in the UK, such as settled or pre-settled status under the [EU Settlement Scheme](https://www.gov.uk/settled-status-eu-citizens-families) or [indefinite leave to remain in the UK](https://www.gov.uk/guidance/indefinite-leave-to-remain-in-the-uk).
+
+[If you're an Irish citizen you do not need a visa](https://www.gov.uk/government/publications/common-travel-area-guidance).
 
 ### Consider getting qualified teacher status
 
@@ -174,7 +178,7 @@ It's not a requirement in all [types of schools](https://www.gov.uk/types-of-sch
 
 If you’re a qualified teacher from outside the UK you can [work as a teacher in England for up to 4 years without QTS](https://www.gov.uk/guidance/recruit-teachers-from-overseas#employing-overseas-teachers-without-qts-the-4-year-rule).
 
-[Apply for QTS if you trained outside the UK](https://www.gov.uk/guidance/qualified-teacher-status-qts) or find out more about qualifications.
+[Apply for QTS if you trained outside the UK](https://www.gov.uk/guidance/qualified-teacher-status-qts).
 
 ### Search for a job
 
@@ -196,9 +200,7 @@ If you’re an international qualified teacher of maths, physics, or modern fore
 
 ### Find out what salary you can earn
 
-[Find out what you can earn as a teacher in England](https://getintoteaching.education.gov.uk/salaries-and-benefits).  
-
-Schools have some flexibility on salary. It also varies by region and your level of skill, experience and qualifications.
+Schools have some flexibility on [salary](https://getintoteaching.education.gov.uk/salaries-and-benefits). It varies by region and your level of skill, experience and qualifications.
 
 There are [specific salary requirements for a skilled worker visa](https://www.gov.uk/government/publications/teach-in-england-if-you-qualified-outside-the-uk/teach-in-england-if-you-qualified-outside-the-uk#visas-and-immigration).
 
