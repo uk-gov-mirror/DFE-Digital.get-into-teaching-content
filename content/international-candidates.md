@@ -100,7 +100,7 @@ You usually need a confirmed offer on a course to apply for a visa.
 
 #### To pass certain checks
 
-Your training provider will check you’re suitable for teaching in terms of your health, safeguarding and your level of maths and English.
+Your training provider will check you’re suitable for teaching in terms of your health, whether you're safe to work with children and your level of maths and English.
 
 ### Funding
 
@@ -130,7 +130,7 @@ Or [search for an undergraduate teacher training course](https://digital.ucas.co
 
 QTS allows you to apply for paid teaching jobs in all schools in England.
 
-You need QTS to work in many English schools, but it’s desirable in all schools.
+[You need QTS to work in many English schools](https://www.gov.uk/guidance/qualified-teacher-status-qts#overview), but it’s desirable in all schools.
 
 #### PGCE with QTS
 
@@ -142,7 +142,7 @@ You do not necessarily have to be in England to study with an English institutio
 
 A PGCEi will help you develop your teaching skills and knowledge.
 
-However, it does not lead to QTS. This means you will not be able to teach in schools which require QTS. 
+However, it does not lead to QTS. This means you will not be able to teach in [the types of schools which require QTS](https://www.gov.uk/guidance/qualified-teacher-status-qts#overview).
 
 ## Already a teacher? Teach in England
 
@@ -166,15 +166,15 @@ It is also helpful to have a teaching qualification from your own or another non
 
 You'll need to [get the right visa or status to work in the UK](https://www.gov.uk/government/publications/teach-in-england-if-you-qualified-outside-the-uk/teach-in-england-if-you-qualified-outside-the-uk#visas-and-immigration).
 
-Some job offers allow you to apply for a ‘skilled worker visa’. Otherwise, you may be eligible for another type of visa.
+Many teaching job offers allow you to apply for a ‘skilled worker visa’. You may also be eligible for another type of visa.
 
-You may have a pre-existing right to work in the UK, such as settled or pre-settled status under the [EU Settlement Scheme](https://www.gov.uk/settled-status-eu-citizens-families) or [indefinite leave to remain in the UK](https://www.gov.uk/guidance/indefinite-leave-to-remain-in-the-uk).
+Alternatively, you may have a pre-existing right to work in the UK, such as settled or pre-settled status under the [EU Settlement Scheme](https://www.gov.uk/settled-status-eu-citizens-families) or [indefinite leave to remain in the UK](https://www.gov.uk/guidance/indefinite-leave-to-remain-in-the-uk).
 
 [If you're an Irish citizen you do not need a visa](https://www.gov.uk/government/publications/common-travel-area-guidance).
 
 ### Consider getting qualified teacher status
 
-You need 'qualified teacher status' (QTS) to teach in state schools in England.
+[You need 'qualified teacher status' (QTS) to teach in many schools in England](https://www.gov.uk/guidance/qualified-teacher-status-qts#overview).
 
 It's not a requirement in all [types of schools](https://www.gov.uk/types-of-school), such as academy schools, free schools, private schools and independent schools. However, having QTS can help your application.
 
