@@ -12,7 +12,7 @@ keywords:
  - Under 5
 date: "2021-03-29"
 description: |-
-  Early years teachers use their knowledge and skills to help younger children
+  As an early years teacher you'll use your knowledge and skills to help younger children
   enjoy high standards of teaching. Your input will have a long and positive
   impact on their development and wellbeing.
 calls_to_action:
