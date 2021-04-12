@@ -1,9 +1,9 @@
 ---
 title: "Further education teacher training"
 description: |-
-  Teaching in further education means teaching a wide range of subjects
-  to students aged 14 and above. You'll get to inspire people from a range
-  of backgrounds who want to build their skills and knowledge.
+  Being a further education teacher will give you the opportunity to teach a
+  wider range of subjects. You'll inspire students aged 14 and above to build
+  their skills and knowledge.
 date: "2021-03-29"
 image: false
 backlink: "../"
