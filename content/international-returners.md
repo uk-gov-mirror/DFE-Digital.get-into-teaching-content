@@ -3,8 +3,8 @@ title: Return to teaching from overseas
 image: /assets/images/international-returners-dt.jpg
 backlink: "../../"
 description: |-
-  We want to help you return to teach in England. We provide courses, webinars
-  and free one-to-one assistance from a teaching adviser.
+  Return to England to teach with the help of a teacher training adviser.
+  Courses and events are available to help make your transition easier.
 date: "2020-04-07"
 jump_links-dt:
   Help finding your next role: "#using-dfes-teaching-vacancies-service-to-find-your-next-role"
