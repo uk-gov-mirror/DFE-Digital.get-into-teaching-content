@@ -73,6 +73,9 @@ Our return to teaching advisers can give free one-to-one support with:
 * accessing courses to enhance your subject knowledge
 * finding teaching vacancies
 
+<iframe src="https://www.youtube-nocookie.com/embed/2NrLm_XId4k"
+frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Return to teaching advisers also run events to support returners. [Sign up here](https://www.eventbrite.co.uk/e/return-to-teaching-tickets-147578628651).
 
 $get-a-tta$
