@@ -8,9 +8,8 @@ related_content:
   "Qualified teacher status (QTS): qualify to teach in England": https://www.gov.uk/guidance/qualified-teacher-status-qts
 date: "2021-02-26"
 description: |-
-  There are several types of funding available to help you become a teacher, from
-  bursaries and scholarships to tuition fees and maintenance loans. Extra help is
-  available to parents, carers and people with disabilities.
+  Become a teacher with the help of a bursary, scholarship or loan. Extra help
+  is available is you're disabled or if you're a parent or carer.
 calls_to_action:
   bursaries:
     name: simple
