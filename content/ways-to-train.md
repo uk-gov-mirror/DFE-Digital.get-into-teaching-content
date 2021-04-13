@@ -110,7 +110,7 @@ calls_to_action:
       - "Assessment only"
 ---
 
-You need to get Qualified Teacher Status (QTS) to be a primary or secondary teacher in a state school in England.
+You need to get 'qualified teacher status' (QTS) to teach in the majority of schools in England. This includes primary, secondary and special ‘maintained schools’ - part of the state funded schools system. 
 
 You can get QTS in different ways.
 

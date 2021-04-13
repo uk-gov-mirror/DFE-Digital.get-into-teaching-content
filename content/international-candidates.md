@@ -86,9 +86,11 @@ To teach children aged 3 to 11, you also need the equivalent of a GCSE (grade 4)
 
 #### An offer to train
 
-Explore the [different qualifications you can get](/international-candidates#what-qualifications-you-can-get) and find a [postgraduate course](https://www.gov.uk/find-postgraduate-teacher-training-courses) or an [undergraduate course](https://digital.ucas.com/search).
+Explore different [ways to train](/ways-to-train) and consider whether you want do a training programme which leads to [qualified teacher status (QTS)](/ways-to-train). QTS allows you to apply to all teaching jobs in England.
 
-Contact providers before you apply to get their advice about eligibility and the application process.
+Fees may be higher for international trainees but you may be able to [get financial support](https://www.gov.uk/government/publications/train-to-teach-in-england-non-uk-applicants/train-to-teach-in-england-non-uk-applicants#financial-support-for-non-uk-applicants-for-unsalaried-teacher-training-in-england).
+
+Contact providers before you [apply](#apply-for-a-place) to get their advice about eligibility and the application process.
 
 #### The right visa or status
 
@@ -101,10 +103,6 @@ You usually need a confirmed offer on a course to apply for a visa.
 #### To pass certain checks
 
 Your training provider will check you’re suitable for teaching in terms of your health, whether you're safe to work with children and your level of maths and English.
-
-### Funding
-
-[You may be able to get financial support for teacher training](https://www.gov.uk/government/publications/train-to-teach-in-england-non-uk-applicants/train-to-teach-in-england-non-uk-applicants#financial-support-for-non-uk-applicants-for-unsalaried-teacher-training-in-england).
 
 ### Get support
 
@@ -124,25 +122,13 @@ Your adviser can help you get a 'statement of comparability' showing [how your o
 
 Or [search for an undergraduate teacher training course](https://digital.ucas.com/search).
 
-### What qualifications you can get
-
-#### Qualified teacher status (QTS)
-
-QTS allows you to apply for paid teaching jobs in all schools in England.
-
-[You need QTS to work in many English schools](https://www.gov.uk/guidance/qualified-teacher-status-qts#overview), but it’s desirable in all schools.
-
-#### PGCE with QTS
-
-You can do a course which combines QTS with a Postgraduate Certificate of Education (PGCE). This includes some academic study.
-
-#### PGCEi
+### If you cannot come to England
 
 You do not necessarily have to be in England to study with an English institution. You can do an international Postgraduate Certificate of Education (PGCEi) outside the UK.
 
 A PGCEi will help you develop your teaching skills and knowledge.
 
-However, it does not lead to QTS. This means you will not be able to teach in [the types of schools which require QTS](https://www.gov.uk/guidance/qualified-teacher-status-qts#overview).
+However, it does not lead to 'qualified teacher status'. This means you will not be able to teach in [the types of schools which require qualified teacher status](https://www.gov.uk/guidance/qualified-teacher-status-qts#overview).
 
 ## Already a teacher? Teach in England
 
