@@ -20,7 +20,7 @@ providers:
       name: Susanne Combe
       email: scombe@bestacademies.org.uk
     - header: Bishop Challoner
-      link: "www.bctsa.org/teaching-internship-programme"
+      link: "https://www.bctsa.org/teaching-internship-programme"
       name: Catherine Haines
       email:  teachingschool@bishopchalloner.bham.sch.uk
     - header: Carmel Teacher Training
