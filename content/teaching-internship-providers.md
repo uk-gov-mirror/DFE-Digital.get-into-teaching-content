@@ -40,7 +40,7 @@ providers:
       name: Sarah Brennan
       email: sbrennan@george-spencer.notts.sch.uk
     - header: Wonder Teaching School
-      link: "www.learningpartnership.education "
+      link: "https://www.learningpartnership.education"
       name: Jonathan Chapman
       email: "jchapman@learningpartnership.education"
     - header: Priory Academy LSST Lincolnshire TSA
@@ -72,7 +72,7 @@ providers:
       name:  Susan Ingram
       email:  susan.ingram@shottonhallacademy.co.uk
     - header: Poole Grammar
-      link: "www.poolegrammar.com"
+      link: "https://www.poolegrammar.com"
       name: Kirsty Stevens
       email: stevensk@poolegrammar.com
     - header: Ringwood School
@@ -80,7 +80,7 @@ providers:
       name: Clare Adams
       email: teachingschool@ringwood.hants.sch.uk
     - header: St Mary's College
-      link:  "www.schooldirecthull.co.uk"
+      link:  "http://www.schooldirecthull.co.uk"
       name: Kerry Kirby
       email: schooldirect@smchull.org
     - header: St Peter's Catholic School TSA
@@ -108,7 +108,7 @@ providers:
       name: Patrick Lanigan, Emma Templeman
       email: Laniganp@cvms.co.uk; e.templeman@stbons.org
     - header: Cardinal Hulme
-      link: "www.cardinalhume.com"
+      link: "http://www.cardinalhume.com"
       name: Carolyn Adams
       email: cadams@chs.bwcet.com
     - header: Exeter Maths School
