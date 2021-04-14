@@ -101,7 +101,7 @@ $student-finance-calculator$
 
 You may be eligible for a bursary or scholarship when training to teach. These are tax-free amounts of money you receive to train in certain subjects. You don’t need to pay them back.
 
-You’ll need a first, 2:1, 2:2 degree or a PhD or Master's to be eligible for a bursary, as well as meeting the bursary scheme's individual terms and conditions. [Get further guidance on your eligbility for bursaries](https://www.gov.uk/government/publications/funding-initial-teacher-training-itt/funding-initial-teacher-training-itt-academic-year-2021-to-2022).
+You’ll need a first, 2:1, 2:2 degree or a PhD or Master's to be eligible for a bursary, as well as meeting the bursary scheme's individual terms and conditions. [Get further guidance on your eligibility for bursaries](https://www.gov.uk/government/publications/funding-initial-teacher-training-itt/funding-initial-teacher-training-itt-academic-year-2021-to-2022).
 
 For a scholarship, each professional scholarship body sets its own criteria. These bodies include the [Royal Society of Chemistry](https://www.rsc.org/awards-funding/funding/teacher-training-scholarships/) (chemistry), [BCS The Chartered Institute for IT](https://www.bcs.org/get-qualified/certification-and-scholarships-for-teachers/bcs-computer-teacher-scholarships/) (computing), [Mathematics Teacher Training Scholarship](https://ima.org.uk/support/mathematics-teacher-training-scholarship/) (maths) and the [Institute of Physics](https://www.iop.org/about/support-grants/iop-teacher-training-scholarships#gref) (physics).
 
