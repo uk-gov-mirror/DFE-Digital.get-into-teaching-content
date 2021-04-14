@@ -9,11 +9,12 @@ fullwidth: true
 content:
   - content/teaching-internship-providers/listing
 providers:
-  - header: Billericay Educational Consortium
-    link: http://secondary.billericayscitt.com/assessment-only-route-2/
-    name: Fiona Manby
-    telephone: 01245 683619
-    email: info@billericayscitt.com
+  Area:
+    - header: Billericay Educational Consortium
+      link: http://secondary.billericayscitt.com/assessment-only-route-2/
+      name: Fiona Manby
+      telephone: 01245 683619
+      email: info@billericayscitt.com
 
 ---
 
