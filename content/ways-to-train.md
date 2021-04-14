@@ -222,6 +222,6 @@ A career change into teaching will give you the opportunity to use your life, wo
 
 ### Researchers in schools
 
-The [researchers in schools](https://thebrilliantclub.org/researchers-in-schools/) offers a route into teaching if you have or are about to get a PHD.
+[Researchers in schools](https://thebrilliantclub.org/researchers-in-schools/) offers a route into teaching if you have or are about to get a PHD.
 
 If you have a lot of relevant work experience you could [train and earn a salary](https://thebrilliantclub.org/researchers-in-schools/ris-applicants/ris-training-routes/salary-route/).
