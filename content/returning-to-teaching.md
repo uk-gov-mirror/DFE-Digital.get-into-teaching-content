@@ -73,7 +73,7 @@ Our return to teaching advisers can give free one-to-one support with:
 * accessing courses to enhance your subject knowledge
 * finding teaching vacancies
 
-Return to teaching advisers also run events to support returners. [Sign up here](https://www.eventbrite.co.uk/e/return-to-teaching-tickets-147578628651).
+Return to teaching advisers also run events to support returners. [Sign up here](/event-categories/online-q-as).
 
 $get-a-tta$
 
@@ -95,7 +95,7 @@ If you’re unsure about taking on a teacher role at this time, [consider applyi
 
 There’s lots you can do to re-familiarise yourself with teaching. For example, you can:  
 
-* attend an [online return to teaching event](/events/return-to-teaching-8)
+* attend an [online return to teaching event](/event-categories/online-q-as)
 * review the latest [Teachers’ Standards](https://www.gov.uk/government/publications/teachers-standards)
 * catch up on changes to the [national curriculum and qualifications](https://www.gov.uk/topic/schools-colleges-childrens-services/curriculum-qualifications)
 * [read through current behaviour management guidelines](https://www.gov.uk/government/publications/behaviour-and-discipline-in-schools)
