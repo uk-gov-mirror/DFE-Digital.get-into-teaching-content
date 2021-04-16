@@ -1,7 +1,12 @@
 FROM dfedigital/get-into-teaching-web:sha-6b66c41
 
+# hadolint ignore=DL3045
 COPY config/*.yml config
+
+# hadolint ignore=DL3045
 COPY content app/views/content
+
+# hadolint ignore=DL3045
 COPY assets public/assets
 
 # Add image compression packages
