@@ -1,5 +1,5 @@
 ---
-title: Providers of the Teaching Internships
+title: Providers of Teaching Internships
 description: |-
   A number of accredited providers have been approved to offer Teaching
   Internships. You can find them listed on this page.
