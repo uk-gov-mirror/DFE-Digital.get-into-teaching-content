@@ -153,6 +153,8 @@ If you need further information on financial support options, such as bursaries,
 If your undergraduate degree is in a STEM or STEM-related subject, and
 you are still a student, you can apply for a summer teaching internship.
 
+[See a list of schools participating in STEM internships](/teaching-internship-providers).
+
 ## Choose an age group
 
 You can train to teach:
