@@ -10,7 +10,7 @@ fullwidth: true
 content:
   - content/teaching-internship-providers/listing
 providers:
-  East Midlands: 
+  East Midlands:
     - header: Beuchamp College
       link: "https://www.beauchampteach.org.uk/opportunities/internships/"
       name: Emma Lowe
@@ -22,11 +22,11 @@ providers:
     - header: Northampton School for Boys
       link: "http://www.ntctsa.co.uk/initial-teacher-training/internship-programme/"
       name: Shirley Morrison
-      email: smorrison@nsb.northants.sch.uk    
+      email: smorrison@nsb.northants.sch.uk
     - header: Priory Academy LSST Lincolnshire TSA
       link: "https://www.lincolnshiretsa.co.uk/page/?title=Paid+Teaching+Internship+Programme&pid=269"
       name: Angela Murphy
-      email: anmurphy@prioryacademies.co.uk        
+      email: anmurphy@prioryacademies.co.uk
   East of England:
     - header: Teach Manchester - Loreto Sixth Form College
       link: "http://teachmanchester.com/internship-2021/"
@@ -35,15 +35,15 @@ providers:
     - header: Lyons Hall School
       link:  "http://www.prolearnnet.com/news/"
       name: Verity Boreham
-      email: vboreham@lyonshall.org.uk  
+      email: vboreham@lyonshall.org.uk
     - header: Redborne Upper School and Community College
       link:  "https://www.redborne.com/page/?title=Paid+Internship+Programme+SUMMER+2021&pid=179"
       name: Vicki Walsh
-      email: vicki.walsh@redborne.com     
+      email: vicki.walsh@redborne.com
     - header: Samuel Whitbread Academy
       link: "https://www.bestteachingschool.org.uk/"
       name: Susanne Combe
-      email: scombe@bestacademies.org.uk  
+      email: scombe@bestacademies.org.uk
     - header: South Essex Teaching School Alliance
       link: "https://www.setsa.info/1569/news-1/post/20/teaching-internship-2021"
       name: Emma Lowne
@@ -52,12 +52,12 @@ providers:
       link: "http://www.benfleet-teaching-school.co.uk/internship-scheme/"
       name: Maxine Howard
       email: mhoward@theappletonschool.org
-  North East: 
+  North East:
     - header: Cardinal Hulme
       link: "http://www.cardinalhume.com"
       name: Carolyn Adams
       email: cadams@chs.bwcet.com
-  - header: Carmel Teacher Training
+    - header: Carmel Teacher Training
       link: "https://carmelteachertraining.com/internship/"
       name: "Tyler Holmes, Monita Atkinson"
       email: teachertraining@carmel.bhcet.org.uk
@@ -75,11 +75,11 @@ providers:
       link: "https://www.furzeplatt.com/page/?title=Physics+and+Maths+Internships&pid=536"
       name: Debbie Harding
       email: debbie.harding@furzeplatt.net
-  - header: Ringwood School
+    - header: Ringwood School
       link: "https://www.ringwood.hants.sch.uk/teaching-school/ringwood-school-teaching-alliance-paid-internships/"
       name: Clare Adams
       email: teachingschool@ringwood.hants.sch.uk
-  - header: Spires Academy
+    - header: Spires Academy
       link: "https://www.e21c.co.uk/"
       name: Chris Wallis
       email: cwallis@spires.e21c.co.uk
@@ -113,7 +113,7 @@ providers:
       link: "https://www.sjctsa.co.uk/"
       name: Angela Davies
       email: TSA@stjosephsmail.com
-  - header: St Peter's Catholic School TSA
+    - header: St Peter's Catholic School TSA
       link: "https://www.st-peters.solihull.sch.uk/teaching-school/"
       name: Anthony Jones
       email: jonesa@st-peters.solihull.sch.uk
@@ -122,7 +122,7 @@ providers:
       link: "https://ywtt.org.uk/"
       name: Sarah Barley
       email: sarah.barley@theeducationalliance.org.uk
-    - header: North and West Yorkshire and Calderdale Internships 
+    - header: North and West Yorkshire and Calderdale Internships
       link: "http://www.northernlightstsa.org/"
       name: Ginette Hawkins
       email: shine@northernlightstsa.org
@@ -151,6 +151,4 @@ providers:
       link:  "https://www.cvms.co.uk/Physics-and-Maths-Undergraduate-Summer-Internship-/"
       name: Patrick Lanigan, Emma Templeman
       email: Laniganp@cvms.co.uk; e.templeman@stbons.org
-
-
 ---
