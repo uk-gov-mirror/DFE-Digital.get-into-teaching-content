@@ -183,7 +183,7 @@ If you’re an internationally-qualified teacher of maths, physics, or modern fo
 * finding teaching vacancies
 
 <p class="call-to-action__action">
-  <a href="https://adviser-getintoteaching.education.gov.uk/">Get an <span>adviser</span></a>
+  <a href="/tta-service">Get an <span>adviser</span></a>
 </p>
 
 ### Find out what salary you can earn
