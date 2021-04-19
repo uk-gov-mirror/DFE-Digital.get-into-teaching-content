@@ -111,7 +111,7 @@ You can get an adviser for one-to-one support.
 Your adviser can help you get a 'statement of comparability' showing [how your overseas qualifications compare to UK qualifications](https://enic.org.uk/Qualifications/SOC/Default.aspx).
 
 <p class="call-to-action__action">
-  <a href="https://beta-adviser-getintoteaching.education.gov.uk/">Get an <span>adviser</span></a>
+  <a href="https://adviser-getintoteaching.education.gov.uk/">Get an <span>adviser</span></a>
 </p>
 
 ### Apply for a place
@@ -183,7 +183,7 @@ If you’re an internationally-qualified teacher of maths, physics, or modern fo
 * finding teaching vacancies
 
 <p class="call-to-action__action">
-  <a href="https://beta-adviser-getintoteaching.education.gov.uk/">Get an <span>adviser</span></a>
+  <a href="https://adviser-getintoteaching.education.gov.uk/">Get an <span>adviser</span></a>
 </p>
 
 ### Find out what salary you can earn
