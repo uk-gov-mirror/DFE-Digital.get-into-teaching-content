@@ -134,7 +134,7 @@ However, it does not lead to 'qualified teacher status'. This means you will not
 
 Teach in England and you’ll benefit from working in a world-class education system.
 
-You’ll earn a [competitive salary](https://getintoteaching.education.gov.uk/salaries-and-benefits), get supported in your professional development and have varied job opportunities.
+You’ll earn a [competitive salary](/salaries-and-benefits), get supported in your professional development and have varied job opportunities.
 
 Not looking to teach in England? Consider teaching in [Wales](https://www.discoverteaching.wales/), [Scotland](https://teachinscotland.scot/) or [Northern Ireland](https://www.education-ni.gov.uk/articles/initial-teacher-education-courses-northern-ireland).
 
@@ -144,7 +144,7 @@ To teach in England you need:
 
 * teaching skills and experience
 * to pass criminal and professional safeguarding checks (these will be organised by your employer)
-* to [get the right visa or status](/international-candidates#get-the-right-visa-or-status)
+* to [get the right visa or status](#get-the-right-visa-or-status)
 
 It is also helpful to have a teaching qualification from your own or another non-UK country, or to get '[qualified teacher status](/international-candidates#consider-getting-qualified-teacher-status)'.
 
@@ -176,7 +176,7 @@ If you’re a qualified teacher from outside the UK you can [work as a teacher i
 
 ### Get support if you're qualified to teach maths, physics or modern languages
 
-If you’re an international qualified teacher of maths, physics, or modern foreign languages at secondary school age, you can get one-to-one support with:
+If you’re an internationally-qualified teacher of maths, physics, or modern foreign languages at secondary school age, you can get one-to-one support with:
 
 * the application process, such as writing a personal statement and preparing for an interview
 * accessing courses to enhance your subject knowledge
@@ -188,13 +188,13 @@ If you’re an international qualified teacher of maths, physics, or modern fore
 
 ### Find out what salary you can earn
 
-Schools have some flexibility on [salary](https://getintoteaching.education.gov.uk/salaries-and-benefits). It varies by region and your level of skill, experience and qualifications.
+Schools have some flexibility on [salary](/salaries-and-benefits). It varies by region and your level of skill, experience and qualifications.
 
 There are [specific salary requirements for a skilled worker visa](https://www.gov.uk/government/publications/teach-in-england-if-you-qualified-outside-the-uk/teach-in-england-if-you-qualified-outside-the-uk#visas-and-immigration).
 
 ### Learn about life as a teacher in England
 
-[Read other teachers’ stories](https://getintoteaching.education.gov.uk/my-story-into-teaching) and research the [English curriculum](https://www.gov.uk/national-curriculum) and [teachers’ standards](https://www.gov.uk/government/publications/teachers-standards).
+[Read other teachers’ stories](/my-story-into-teaching) and research the [English curriculum](https://www.gov.uk/national-curriculum) and [teachers’ standards](https://www.gov.uk/government/publications/teachers-standards).
 
 ### Get support
 
