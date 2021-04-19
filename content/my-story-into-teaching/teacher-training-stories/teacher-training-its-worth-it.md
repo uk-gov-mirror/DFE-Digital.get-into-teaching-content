@@ -19,7 +19,7 @@ date: "2020-02-01"
 
 With a 2:1 degree in biology and health and safety management, I initially pursued a career as a health and safety adviser. But realised this wasn’t allowing me to use my knowledge of biology, and I wanted to work with young people and really make a difference – so teaching was the ideal profession for me.
 
-I chose a teacher training course led by a school with the Arthur Terry National Teaching School. Teacher training has its ups and downs, but is it’s all worth it. When you get through to a child and see their eyes light up with curiosity and wonder, you remember what brought you into teaching.
+I chose a teacher training course led by a school with the Arthur Terry National Teaching School. Teacher training has its ups and downs, but it’s all worth it. When you get through to a child and see their eyes light up with curiosity and wonder, you remember what brought you into teaching.
 
 > I also received a generous training bursary that has supported me throughout the duration of the course
 

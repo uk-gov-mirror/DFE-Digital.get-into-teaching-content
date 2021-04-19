@@ -10,7 +10,6 @@ You can get:
 * online courses and webinars
 * membership of our closed Facebook group
 
-Register with [Get an
-adviser](https://beta-adviser-getintoteaching.education.gov.uk/) to get help
-from the Return to teaching support service, or call the Return to teaching
-helpline on 0800 085 0971 (charges may apply for calls made from overseas).
+Register with [Get an adviser](/tta-service) to get help from the Return to
+teaching support service, or call the Return to teaching helpline on 0800 085
+0971 (charges may apply for calls made from overseas).

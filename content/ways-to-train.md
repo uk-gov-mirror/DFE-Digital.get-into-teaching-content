@@ -92,6 +92,16 @@ calls_to_action:
         Available for: "Primary, secondary"
         Qualification: "QTS"
       - "Postgraduate teaching apprenticeship"
+  undergraduate:
+    name: feature_table
+    arguments:
+      - Cost: "Typically £9,250 per year"
+        Salary: "No"
+        Funding available: "Yes"
+        Length of training: "1 to 4 years"
+        Available for: "Primary, secondary"
+        Qualification: "Qualifications vary — for example, BA (Hons) with QTS, or BSc (Hons) with QTS"
+      - "Undergraduate teacher training"
   teach-first:
     name: feature_table
     arguments:
@@ -118,7 +128,7 @@ For example, if you already have an undergraduate degree you can do a postgradua
 
 If you do not have a degree, you can do an undergraduate degree which leads to QTS.
 
-Different types of training have different eligibility criteria, [funding options](/funding-your-training) and qualifications.
+Different types of training have different eligibility criteria, [funding options](/funding-your-training) and qualifications. Lots of courses also allow you to study part-time.
 
 You can also [get support to improve your subject knowledge](/guidance/become-a-teacher-in-england#subject-knowledge-enhancement-courses) to supplement your training.
 
@@ -130,12 +140,18 @@ $pgce$
 
 PGCE programmes combine academic study with a minimum of 24 weeks spent training in schools.
 
-You do not need an academic award such as a PGCE to teach in England, but it may be useful if you want to teach in another country.
+You do not need an academic qualification such as a PGCE to teach in England, but it may be useful if you want to teach in another country.
+
+Many PGCE courses give you credits that count towards a master’s degree.
 
 You can also [get funding](/funding-your-training).
 
+#### Postgraduate Diploma in Education
+
+Some providers offer a Postgraduate Diploma in Education (PGDE) instead of a PGCE. A PGDE sometimes offers more masters credits than a PGCE.
+
 <p class="call-to-action__action">
-  <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses">Find a PGCE <span>course</span></a>
+  <a href="https://www.gov.uk/find-postgraduate-teacher-training-courses">Find a PGCE or PGDE <span>course</span></a>
 </p>
 
 $school-direct-fee-funded$
@@ -192,6 +208,18 @@ A PGDE contains up to 120 credits at master’s degree level.
   <a href="https://www.teachfirst.org.uk/">Find a Teach First <span>course</span></a>
 </p>
 
+$undergraduate$
+
+ You can get Qualified Teacher Status (QTS) as part of an undergraduate degree course.
+ 
+ This could be right for you if you do not have a degree yet.
+ 
+ You can also [get funding](/funding-your-training).
+ 
+ <p class="call-to-action__action">
+   <a href="https://digital.ucas.com/search">Find an undergraduate <span>course</span></a>
+ </p>
+
 $assessment-only$
 
 If you’re an experienced teacher with a degree, you can gain QTS without doing a teacher training programme.
@@ -210,16 +238,12 @@ You can apply to them directly.
 
 ### Career changers
 
-A [career change into teaching](/guidance/become-a-teacher-in-england#career-changers) will give you the opportunity to use your life, work experience and passion for your subject to inspire young people.
+A career change into teaching will give you the opportunity to use your life, work experience and passion for your subject to inspire young people.
+
+[Now Teach](https://nowteach.org.uk/) and [Transition to Teach](https://www.transitiontoteach.co.uk/) can support you with your career change.
 
 ### Researchers in schools
 
-To go down the [researchers in schools](/guidance/become-a-teacher-in-england#researchers-in-schools-candidates-with-a-doctorate) route you’ll need a doctorate, or be about to receive one, in the subject you want to teach.
-
-You’ll then train over 3 years with a bursary.
+[Researchers in schools](https://thebrilliantclub.org/researchers-in-schools/) offers a route into teaching if you have or are about to get a PHD.
 
 If you have a lot of relevant work experience you could [train and earn a salary](https://thebrilliantclub.org/researchers-in-schools/ris-applicants/ris-training-routes/salary-route/).
-
-### Find out more about ways to train
-
-[Find out more about ways to train](/guidance/become-a-teacher-in-england#ways-to-train) or talk to us to discuss your options.  
