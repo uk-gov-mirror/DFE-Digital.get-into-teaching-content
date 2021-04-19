@@ -2,12 +2,10 @@
 title: Return to teaching from overseas
 image: /assets/images/international-returners-dt.jpg
 backlink: "../../"
-#right_column:
-#  ctas:
-#    - title: Find out more at our next online event.
-#      link_text: "Sign up"
-#      link_target: "https://www.eventbrite.co.uk/e/return-to-teach-in-england-information-for-uk-teachers-working-overseas-tickets-141969770405"
-#      icon: "icon-calendar"
+description: |-
+  Return to England to teach with the help of a teacher training adviser.
+  Courses and events are available to help make your transition easier.
+date: "2020-04-07"
 jump_links-dt:
   Help finding your next role: "#using-dfes-teaching-vacancies-service-to-find-your-next-role"
   Return to teaching success stories: "#return-to-teaching-success-stories"

@@ -6,6 +6,10 @@ related_content:
   Teacher training funding: https://www.gov.uk/teacher-training-funding
   "Early years initial teacher training: 2020 to 2021 funding guidance": https://www.gov.uk/guidance/early-years-initial-teacher-training-2020-to-2021-funding-guidance
   "Qualified teacher status (QTS): qualify to teach in England": https://www.gov.uk/guidance/qualified-teacher-status-qts
+date: "2021-02-26"
+description: |-
+  Become a teacher with the help of a bursary, scholarship or loan. Extra help
+  is available is you're disabled or if you're a parent or carer.
 calls_to_action:
   bursaries:
     name: simple
