@@ -28,6 +28,10 @@ providers:
       name: Angela Murphy
       email: anmurphy@prioryacademies.co.uk
   East of England:
+    - header: Farlingaye High School
+      link: "https://www.eastscitt.co.uk/Undergraduate-Internships/"
+      name: Peter Smith
+      email: Psmith@farlingaye.suffolk.sch.uk
     - header: Teach Manchester - Loreto Sixth Form College
       link: "http://teachmanchester.com/internship-2021/"
       name: Rachel Eppy
@@ -71,6 +75,10 @@ providers:
       name: Jackie Iddon
       email: j.iddon@deyeshigh.co.uk
   South East:
+    - header: The Cardinal Vaughan Memorial School
+      link:  "https://www.cvms.co.uk/Physics-and-Maths-Undergraduate-Summer-Internship-/"
+      name: Patrick Lanigan, Emma Templeman
+      email: Laniganp@cvms.co.uk; e.templeman@stbons.org
     - header: Furze Platt Senior School
       link: "https://www.furzeplatt.com/page/?title=Physics+and+Maths+Internships&pid=536"
       name: Debbie Harding
@@ -134,21 +142,12 @@ providers:
       link: "https://www.sheffieldscitt.org.uk/"
       name: Anna Shirley
       email: ashirley@notredame-high.co.uk
-  Other Providers:
-    - header: Farlingaye High School
-      link: "https://www.eastscitt.co.uk/Undergraduate-Internships/"
-      name: Peter Smith
-      email: Psmith@farlingaye.suffolk.sch.uk
-    - header: Wonder Teaching School
-      link: "https://www.learningpartnership.education"
-      name: Jonathan Chapman
-      email: "jchapman@learningpartnership.education"
     - header: St Mary's College
       link:  "http://www.schooldirecthull.co.uk"
       name: Kerry Kirby
       email: schooldirect@smchull.org
-    - header: The Cardinal Vaughan Memorial School
-      link:  "https://www.cvms.co.uk/Physics-and-Maths-Undergraduate-Summer-Internship-/"
-      name: Patrick Lanigan, Emma Templeman
-      email: Laniganp@cvms.co.uk; e.templeman@stbons.org
+    - header: Wonder Teaching School
+      link: "https://www.learningpartnership.education"
+      name: Jonathan Chapman
+      email: "jchapman@learningpartnership.education"
 ---
