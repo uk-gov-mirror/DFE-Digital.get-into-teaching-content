@@ -150,8 +150,7 @@ If you need further information on financial support options, such as bursaries,
 
 ## Science, technology, engineering and mathematics (STEM)
 
-If your undergraduate degree is in a STEM or STEM-related subject, and
-you are still a student, you can apply for a summer teaching internship.
+If you are studying for an undergraduate degree in a STEM or STEM-related subject and you are interested in teaching secondary maths or physics, you can apply for a summer teaching internship.
 
 [See a list of schools participating in STEM internships](/teaching-internship-providers).
 
