@@ -1,5 +1,5 @@
 ---
-title: Providers of Teaching Internships
+title: Providers offering maths and physics teaching internships
 description: |-
   A number of accredited providers have been approved to offer Teaching
   Internships. You can find them listed on this page.
@@ -32,10 +32,6 @@ providers:
       link: "https://www.eastscitt.co.uk/Undergraduate-Internships/"
       name: Peter Smith
       email: Psmith@farlingaye.suffolk.sch.uk
-    - header: Teach Manchester - Loreto Sixth Form College
-      link: "http://teachmanchester.com/internship-2021/"
-      name: Rachel Eppy
-      email: Rachel.eppy@teachmanchester.com
     - header: Lyons Hall School
       link:  "http://www.prolearnnet.com/news/"
       name: Verity Boreham
@@ -74,6 +70,10 @@ providers:
       link: "https://www.amp-scitt.lydiatelearningtrust.co.uk/contact/the-stem-internship/"
       name: Jackie Iddon
       email: j.iddon@deyeshigh.co.uk
+    - header: Teach Manchester - Loreto Sixth Form College
+      link: "http://teachmanchester.com/internship-2021/"
+      name: Rachel Eppy
+      email: Rachel.eppy@teachmanchester.com
   South East:
     - header: The Cardinal Vaughan Memorial School
       link:  "https://www.cvms.co.uk/Physics-and-Maths-Undergraduate-Summer-Internship-/"
