@@ -25,7 +25,7 @@ This presentation covers:
 - Why train to teach?
 - How can I train to teach?
 - What do I need to train to teach?
-- Advice and support from Teacher Training Advisers
+- Advice and support from teacher training advisers
 
 <a href="/assets/documents/train-to-teach-and-support.pdf" class="call-to-action-icon-button">
     Train to Teach and Support slides

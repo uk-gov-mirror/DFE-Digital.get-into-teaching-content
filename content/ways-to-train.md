@@ -11,9 +11,9 @@ backlink: "../"
 navigation: 20
 right_column:
   ctas:
-    - title: Get support from a Teacher Training Adviser
+    - title: Get support from a teacher training adviser
       text: |
-       If you’re not sure which would be the best way to train for you, you can get personalised support from a Teacher Training Adviser.
+       If you’re not sure which would be the best way to train for you, you can get personalised support from a teacher training adviser.
       link_text: "Get a Teaching Training Adviser"
       link_target: "/tta-service"
       icon: "icon-person"
@@ -46,8 +46,8 @@ calls_to_action:
   get-a-tta:
     name: simple
     arguments:
-      title: "Get support from a Teacher Training Adviser"
-      text: "If you’re not sure which would be the best way to train for you, you can get personalised support from a Teacher Training Adviser."
+      title: "Get support from a teacher training adviser"
+      text: "If you’re not sure which would be the best way to train for you, you can get personalised support from a teacher training adviser."
       link_text: "Get a Teaching Training Adviser"
       link_target: "/tta-service"
       icon: "icon-person"

@@ -58,7 +58,6 @@
     - Adviser
     - Advisers
     - TTA
-    - Teacher Training Adviser
     - Advisor
     - Teacher Training Advisor
     - get an adviser
