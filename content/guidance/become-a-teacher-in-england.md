@@ -552,7 +552,7 @@ You should use this section to showcase your motivation, commitment and teaching
 
 Give providers an insight into your personality by writing honestly and thoughtfully. Avoid cliché and write in clear, correct, concise English.
 
-To get help with personal statements from a Teacher Training Adviser, [use the Get an adviser service](/tta-service).
+To get help with personal statements from a teacher training adviser, [use the Get an adviser service](/tta-service).
 
 You don't have to cover everything in this list, but suggested topics
 include:
