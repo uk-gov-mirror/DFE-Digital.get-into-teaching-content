@@ -132,7 +132,8 @@ it’s worth taking your time on it.
 A personal statement is usually about 500 words. It’s your chance to show your
 motivation, commitment and teaching potential.
 
-* You may want to cover some of the following:
+You may want to cover some of the following:
+
 * why you want to teach
 * what inspired you to choose teaching
 * your thoughts on children and young children’s wellbeing and the education system
