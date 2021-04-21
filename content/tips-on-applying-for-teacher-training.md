@@ -160,7 +160,7 @@ Some providers are doing interviews online due to COVID-19 restrictions.
 
 Congratulations!
 
-Before you start your training provider will check whether you’re safe to work
+Before you start your training the provider will check whether you’re safe to work
 with children through an enhanced DBS check.
 
 They’ll also check whether you’re fit to train to teach through a health questionnaire.
