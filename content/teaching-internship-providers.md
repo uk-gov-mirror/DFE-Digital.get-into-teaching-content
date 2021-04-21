@@ -92,7 +92,7 @@ providers:
       name: Chris Wallis
       email: cwallis@spires.e21c.co.uk
   South West:
-    - header: Excaliber TSA
+    - header: Excalibur TSA
       link: "http://www.excaliburtsa.org.uk/itt/teaching-internships-summer-2021/"
       name: Kate Hunter
       email: AdminTSA@stjohns.excalibur.org.uk
