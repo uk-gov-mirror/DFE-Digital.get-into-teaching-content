@@ -39,7 +39,7 @@ You may want to ask potential training providers questions, such as:
 3. Which schools and how many schools will I teach in?
 4. Will I get any other qualifications aside from qualified teacher status
    (QTS), and what are the benefits of that?
-5. Do you advise me to [get school experience](link)?
+5. Do you advise me to [get school experience](https://schoolexperience.education.gov.uk/)?
 6. Will you support me to find my first teaching job?
 7. How long does the training take?
 
