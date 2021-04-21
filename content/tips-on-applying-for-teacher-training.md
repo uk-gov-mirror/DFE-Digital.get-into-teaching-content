@@ -168,7 +168,7 @@ They’ll also check whether you’re fit to train to teach through a health que
 If you’re missing certain qualifications they may also ask you to do an
 equivalence test or take a ‘subject knowledge enhancement’ course.
 
-If you do not get a place
+## If you do not get a place
 
 Your provider will give you feedback to help you address any issues with your application.
 
