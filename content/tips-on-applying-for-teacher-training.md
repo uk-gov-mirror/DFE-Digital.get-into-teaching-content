@@ -126,7 +126,7 @@ If you’re struggling, get free one-on-one support with choosing your referees.
 
 ## Your personal statement
 
-Explaining why you want to be a teacher is the crux of your application - so
+Explaining why you want to be a teacher is an essential part of your application - so
 it’s worth taking your time on it.
 
 A personal statement is usually about 500 words. It’s your chance to show your
