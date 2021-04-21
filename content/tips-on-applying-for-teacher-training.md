@@ -144,9 +144,7 @@ motivation, commitment and teaching potential.
 * your suitability to teach a subject or group
 * evidence of the knowledge you have in your subject
 
-Think about <mark>who and what to teach</mark> before you apply.
-
-If you’re invited to interview
+## If you’re invited to interview
 
 Interviews usually last a day and may include time spent teaching real pupils.
 
