@@ -141,7 +141,7 @@ You may want to cover some of the following:
 * personal qualities that will make you a good teacher
 * your contribution to the life of the school outside the classroom – for
   example, running extra-curricular activities and clubs
-* details any experience you have working with children and what you learnt
+* details of any experience you have working with children and what you learnt
 * your suitability to teach a subject or group
 * evidence of the knowledge you have in your subject
 
