@@ -154,4 +154,14 @@ providers:
       link: "https://www.learningpartnership.education"
       name: Jonathan Chapman
       email: "jchapman@learningpartnership.education"
+keywords:
+  - teaching internship
+  - internship
+  - providers
+  - maths
+  - physics
+  - STEM
+  - paid internship
+  - TI
+  - T.I.
 ---

@@ -13,6 +13,7 @@ keywords:
   - Event
   - Presentation
   - Slides
+  - resources
 ---
 
 Our Train to Teach events use these presentations to help guide you through 
