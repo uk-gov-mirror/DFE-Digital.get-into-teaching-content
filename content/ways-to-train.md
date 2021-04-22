@@ -135,7 +135,7 @@ Courses typically cost £9,250 per year and can take up to 4 years - but you can
 
 If you’re an experienced teacher with a degree, you may be able to get QTS without doing a teacher training programme.
 
-You can [apply directly to assessment only teacher training providers](https://getintoteaching.education.gov.uk/assessment-only-providers).
+You can [apply directly to assessment only teacher training providers](/assessment-only-providers).
 
 Contact providers for advice about entry criteria.
 
