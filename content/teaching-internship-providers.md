@@ -65,6 +65,10 @@ providers:
       link:  "https://www.shottonhallscitt.co.uk/?gclid=EAIaIQobChMIqtPx9uLD7wIVjpntCh3hVQCtEAAYASAAEgLoq_D_BwE"
       name:  Susan Ingram
       email:  susan.ingram@shottonhallacademy.co.uk
+    - header: Teach North with Outwood Grange Academies Trust
+      link: "https://teachnorth.com/internships"
+      name: Emma Sikora
+      email: e.sikora@outwood.com
   North West:
     - header: Deyes High School
       link: "https://www.amp-scitt.lydiatelearningtrust.co.uk/contact/the-stem-internship/"
@@ -134,7 +138,7 @@ providers:
       link: "http://www.northernlightstsa.org/"
       name: Ginette Hawkins
       email: shine@northernlightstsa.org
-    - header: Outwood Grange
+    - header: Teach North with Outwood Grange Academies Trust
       link: "https://teachnorth.com/internships"
       name: Emma Sikora
       email: e.sikora@outwood.com
