@@ -91,7 +91,7 @@ The National Tutoring Programme supports schools to close the attainment gap in 
 
 If you’re unsure about taking on a teacher role at this time, [consider applying to tutor or mentor through the National Tutoring Programme](https://nationaltutoring.org.uk/).
 
-## If you've been out of teaching for a while
+## If you've been out of teaching for some time
 
 There’s lots you can do to re-familiarise yourself with teaching. For example, you can:  
 
