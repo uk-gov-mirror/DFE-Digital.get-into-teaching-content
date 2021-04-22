@@ -82,7 +82,7 @@ personal statement.
 Some people do not get on the course they want because their application has
 not convinced the admissions team that they’re right for it.
 
-Talk to an experienced teacher for help preparing your application.
+[Talk to an experienced teacher for help preparing your application.](https://adviser-getintoteaching.education.gov.uk/)
 
 ## Choose your referees
 
