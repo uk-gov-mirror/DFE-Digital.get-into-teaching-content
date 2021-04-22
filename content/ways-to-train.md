@@ -10,8 +10,7 @@ backlink: "../"
 navigation: 20
 right_column:
   ctas:
-    - title: Get support from a teacher training adviser
-      text: Not sure which path to take? Get support from a teacher training adviser.
+    - title: Not sure which path to take?
       link_text: "Get a teaching training adviser"
       link_target: "/tta-service"
       icon: "icon-person"
@@ -71,8 +70,6 @@ Not looking for primary or secondary teacher training? Consider teaching [early 
 
 [I already have teaching experience](#if-you-already-have-teaching-experience)
 
-<p>&nbsp;</p>
-
 You can also find programmes tailored to you [if you're a career changer](#if-you-are-a-career-changer) or [if you have a doctorate](#if-you-have-a-doctorate).
 
 ## Ways to train
@@ -89,11 +86,7 @@ Courses typically take one year but you may be able to study part time.
 
 Fees are usually around £9,250 but you can get [non-repayable funding for certain subjects](/funding-your-training) and apply for a [student loan](/funding-your-training).
 
-<p class="call-to-action__action">
-  <a href="https://www.find-postgraduate-teacher-training.service.gov.uk/">Search for university <span>training</span></a>
-</p>
-
-<p>&nbsp;</p>
+<a class="button" href="https://www.find-postgraduate-teacher-training.service.gov.uk/">Search for university training</a>
 
 ### Learn on the job in schools near you
 
@@ -107,15 +100,11 @@ Although you sometimes have to pay course fees of up to £9,250 you can get [non
 
 Some training programmes offer a salary, although these can be harder to find.
 
-<p class="call-to-action__action">
-  <a href="https://www.find-postgraduate-teacher-training.service.gov.uk/">Search for a course near <span>you</span></a>
-</p>
+<a class="button" href="https://www.find-postgraduate-teacher-training.service.gov.uk/">Search for a course near you</a>
 
 #### Teach First
 
 You could also consider [Teach First](https://www.teachfirst.org.uk/). This practical, salaried, 2-year programme leads to a postgraduate diploma in education’ (PGDE), similar to a PGCE, and qualified teacher status.
-
-<p>&nbsp;</p>
 
 ### If you do not have a degree yet
 
@@ -125,11 +114,7 @@ Qualifications vary depending on the course you choose. For example, you could g
 
 Courses typically cost £9,250 per year and can take up to 4 years - but you can [get funding](https://www.gov.uk/student-finance-calculator).
 
-<p class="call-to-action__action">
-  <a href="https://digital.ucas.com/search">Search for an undergraduate <span>course</span></a>
-</p>
-
-<p>&nbsp;</p>
+<a class="button" href="https://digital.ucas.com/search">Search for an undergraduate course</a>
 
 ### If you already have teaching experience
 
@@ -139,15 +124,11 @@ You can [apply directly to assessment only teacher training providers](/assessme
 
 Contact providers for advice about entry criteria.
 
-<p>&nbsp;</p>
-
 ### If you are a career changer
 
 A career change into teaching will give you the opportunity to use your life, work experience and passion for your subject to inspire young people.
 
 [Now Teach](https://nowteach.org.uk/) and [Transition to Teach](https://www.transitiontoteach.co.uk/) can support you with your career change.
-
-<p>&nbsp;</p>
 
 ### If you have a doctorate
 
