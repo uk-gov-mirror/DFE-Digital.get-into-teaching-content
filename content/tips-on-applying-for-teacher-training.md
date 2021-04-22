@@ -122,7 +122,8 @@ It’s important to have at least one academic or professional reference.
 If you’re applying for a salaried course, one of your references must be from
 an employer.
 
-If you’re struggling, get free one-on-one support with choosing your referees.
+If you’re struggling to choose your referees, [get free one-on-one support from a
+teacher training adviser](/tta-service).
 
 ## Your personal statement
 
