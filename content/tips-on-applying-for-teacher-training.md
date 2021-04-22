@@ -2,7 +2,25 @@
 title: Tips on applying for teacher training
 description: |-
 date: "2021-04-20"
-keywords: []
+keywords:
+  - adviser
+  - advisor
+  - ITT
+  - Initial Teacher Training
+  - QTS
+  - Qualified Teacher Status
+  - Teacher Training Adviser
+  - application
+  - apply
+  - how to apply
+  - applying for teacher training
+  - referees
+  - references
+  - process
+  - personal statement
+  - when to apply
+  - interviews
+  - offers
 ---
 
 Give yourself the best chance of getting on the course you want.
