@@ -11,7 +11,7 @@ navigation: 20
 right_column:
   ctas:
     - title: Not sure which path to take?
-      link_text: "Get a teaching training adviser"
+      link_text: "Get a teacher training adviser"
       link_target: "/tta-service"
       icon: "icon-person"
       hide_on_mobile: Yes
