@@ -58,7 +58,7 @@ There are different ways to get qualified teacher status, for example:
 
 You can also find specialised programmes [if you're a career changer](#if-youre-a-career-changer) or [if you have a doctorate](#if-you-have-a-doctorate).
 
-Not looking for primary or secondary teacher training? Consider teaching [early years](/early-years-teaching-training) or [further education](/further-education-teacher training).
+Not looking for primary or secondary teacher training? Consider teaching [early years](/early-years-teaching-training) or [further education](/further-education-teacher-training).
 
 ### Go to university as a postgraduate student
 
