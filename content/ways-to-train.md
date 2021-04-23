@@ -58,7 +58,7 @@ There are different ways to get qualified teacher status, for example:
 
 You can also find specialised programmes [if you're a career changer](#if-youre-a-career-changer) or [if you have a doctorate](#if-you-have-a-doctorate).
 
-Not looking for primary or secondary teacher training? Consider teaching [early years](/early-years) or [further education](/further-education).
+Not looking for primary or secondary teacher training? Consider teaching [early years](/early-years-teaching-training) or [further education](/further-education-teacher training).
 
 ### Go to university as a postgraduate student
 
@@ -70,7 +70,9 @@ You spend about a third of your time in academic learning and the rest in school
 
 Courses typically take one year but you may be able to study part time.
 
-Fees are usually around £9,250 but you can get [non-repayable funding for certain subjects](/funding-your-training) and apply for a [student loan](/funding-your-training).
+Fees are usually around £9,250 but you can get [funding that you do not have to pay back for certain subjects](/funding-your-training).
+
+You can also apply for a [student loan](/funding-your-training).
 
 <a class="button" href="https://www.find-postgraduate-teacher-training.service.gov.uk/">Find university training</a>
 
@@ -80,11 +82,13 @@ If you already have a degree and want to spend as much time as possible in pract
 
 You'll only spend about about a fifth of your time in academic learning.
 
-Many courses even give you a PGCE or PGDE which you can use towards masters credits.
+Many courses even give you a PGCE or PGDE, an academic qualification which you can use towards masters credits.
 
 Courses typically take one year but you may be able to study part time.
 
-Although you may have to pay course fees of up to £9,250 you can get [non-repayable funding for certain subjects](/funding-your-training) and apply for a [student loan](/funding-your-training).
+Although you may have to pay course fees of up to £9,250 you can get [funding that you do not have to pay back for certain subjects](/funding-your-training).
+
+You can also apply for a [student loan](/funding-your-training).
 
 Some training programmes offer a salary, although these can be harder to find.
 
@@ -92,13 +96,13 @@ Some training programmes offer a salary, although these can be harder to find.
 
 #### Teach First
 
-You could also consider [Teach First](https://www.teachfirst.org.uk/), a salaried, 2-year programme leading to a PGDE and qualified teacher status.
+You can also consider [Teach First](https://www.teachfirst.org.uk/). It's a salaried, 2-year programme leading to a PGDE and qualified teacher status.
 
 ### If you do not have a degree
 
-You can get qualified teacher status (QTS) as part of an undergraduate degree course.
+You can get qualified teacher status (QTS) as part of an undergraduate degree.
 
-Qualifications vary depending on the course. For example, you could get a BA honours degree with QTS, or a BSc honours with QTS.
+Qualifications vary depending on the course. For example, you could get a BA honours with QTS or a BSc honours with QTS.
 
 Courses typically cost £9,250 per year and can take up to 4 years but you can [get funding](https://www.gov.uk/student-finance-calculator).
 
