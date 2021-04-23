@@ -70,7 +70,7 @@ You spend about a third of your time in academic learning and the rest in school
 
 Courses typically take one year but you may be able to study part time.
 
-Fees are usually around £9,250 but you can get [funding that you do not have to pay back for certain subjects](/funding-your-training).
+Fees are usually around £9,250 but you can get [funding that you do not have to pay back](/funding-your-training) for certain subjects.
 
 You can also apply for a [student loan](/funding-your-training).
 
@@ -86,7 +86,7 @@ Many courses even give you a PGCE or PGDE - an academic qualification which you 
 
 Courses typically take one year but you may be able to study part time.
 
-Although you may have to pay course fees of up to £9,250 you can get [funding that you do not have to pay back for certain subjects](/funding-your-training).
+Although you often have to pay course fees of around £9,250 you can get [funding that you do not have to pay back](/funding-your-training) for certain subjects.
 
 You can also apply for a [student loan](/funding-your-training).
 
@@ -100,9 +100,9 @@ You can also consider [Teach First](https://www.teachfirst.org.uk/). It's a sala
 
 ### If you do not have a degree
 
-You can get qualified teacher status (QTS) as part of an undergraduate degree.
+You can get qualified teacher status as part of an undergraduate degree.
 
-Qualifications vary depending on the course. For example, you could get a BA honours with QTS or a BSc honours with QTS.
+Qualifications vary depending on the course. For example, you could get qualified teacher status with a BA honours or a BSc honours.
 
 Courses typically cost £9,250 per year and can take up to 4 years but you can [get funding](https://www.gov.uk/student-finance-calculator).
 
@@ -110,9 +110,9 @@ Courses typically cost £9,250 per year and can take up to 4 years but you can [
 
 ### If you already have teaching experience
 
-If you’re an experienced teacher with a degree, you may be able to get qualified teacher status without doing a teacher training programme.
+If you have a degree and you're an experienced teacher, you may be able to get qualified teacher status through a 12-week 'assessment only' programme.
 
-You can [apply directly to assessment only teacher training providers](/assessment-only-providers) and ask them about entry criteria.
+[Apply directly to assessment only teacher training providers](/assessment-only-providers) and ask them about entry criteria.
 
 ### If you're a career changer
 
