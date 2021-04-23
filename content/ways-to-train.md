@@ -82,7 +82,7 @@ If you already have a degree and want to spend as much time as possible in pract
 
 You'll only spend about about a fifth of your time in academic learning.
 
-Many courses even give you a PGCE or PGDE, an academic qualification which you can use towards masters credits.
+Many courses even give you a PGCE or PGDE - an academic qualification which you can use towards masters credits.
 
 Courses typically take one year but you may be able to study part time.
 
@@ -122,4 +122,6 @@ A career change into teaching allows you to use your experience and passion to i
 
 ### If you have a doctorate
 
-If you have or are about to get a PHD you could consider the [researchers in schools](https://thebrilliantclub.org/researchers-in-schools/) programme. If you have a lot of relevant work experience you could even earn a salary.
+If you have or are about to get a PHD you could consider the [researchers in schools](https://thebrilliantclub.org/researchers-in-schools/) programme.
+
+If you have a lot of relevant work experience you could even earn a salary.
