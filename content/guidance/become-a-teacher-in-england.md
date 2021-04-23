@@ -37,7 +37,7 @@ keywords:
   - Further Education
   - under fives
   - Early years
-  - Early Years Initial Teacher Training 
+  - Early Years Initial Teacher Training
   - EYTT
   - EYITT
   - SKE
@@ -148,100 +148,13 @@ check if you intend to teach students under 18.
 
 If you need further information on financial support options, such as bursaries, scholarships and extra support for parents, carers or people with disabilities, this is available on the [financial support for teaching training guidance page](/funding-your-training).
 
-## Ways to train
+## Science, technology, engineering and mathematics (STEM)
 
-### What you’ll need to work as a teacher
+If you are interested in teaching secondary maths or physics, and you are studying for an undergraduate degree in a STEM or STEM-related subject, you can apply for a summer teaching internship.
 
-To work as a qualified teacher in state schools in England, you’ll need
-Qualified Teacher Status (QTS).
+[See a list of schools participating in STEM internships](/teaching-internship-providers).
 
-Undergraduate teacher training leading to QTS can take up to 4 years.
-
-Graduate teacher training leading to QTS typically takes one year of full-time study. Some providers offer part-time study, which typically take 2 years.
-
-Once you’ve gained your QTS, you can apply for jobs as a newly-qualified
-teacher (NQT).
-
-NQTs do a further ‘induction programme’ in school as a paid and
-qualified teacher, which allows them to build on their initial teacher
-training.
-
-### What’s the difference between a QTS, a PGCE and PGDE?
-
-QTS allows you to teach as a qualified teacher in state-maintained
-schools and non-maintained special schools in England. It may also allow
-you to teach in other parts of the UK.
-
-There is information available about teaching in [Northern
-Ireland](https://www.education-ni.gov.uk/articles/initial-teacher-education-courses-northern-ireland),
-[Scotland](https://teachinscotland.scot/) and
-[Wales](https://www.discoverteaching.wales/routes-into-teaching/).
-
-A PGCE (postgraduate certificate in education) with QTS gives you an academic qualification as well as QTS. Many PGCE courses include credits that count towards a Master’s degree.
-
-### Find postgraduate teacher training
-
-Use [Find postgraduate teacher training
-courses](https://www.gov.uk/find-postgraduate-teacher-training-courses)
-to search and compare government-approved teacher training providers in
-your area.
-
-All primary and secondary teacher training courses on [Find postgraduate
-teacher training
-courses](https://www.gov.uk/find-postgraduate-teacher-training-courses)
-lead to QTS.
-
-You can also search for ‘further education’ courses leading to a
-post-compulsory education and training qualification (PCET). You do not
-need a degree to apply for courses leading to a PCET.
-
-If you are still exploring options, here are some things to consider.
-
-### Get school experience
-
-Spending time in a school will help you decide if teaching is for you.
-You will learn about different subjects and age groups and get insights
-and information for your personal statement.
-
-The Department for Education helps candidates find placements in school.
-Learn more about [getting school
-experience](https://schoolexperience.education.gov.uk/).
-
-### Science, technology, engineering and mathematics (STEM)
-
-If your undergraduate degree is in a STEM or STEM-related subject, and
-you are still a student, you can apply for a summer teaching internship.
-For advice, and a list of schools participating in STEM internships,
-visit Get Into Teaching.
-
-### PGCE (or PGDE) with QTS
-
-A PGCE (postgraduate certificate in education) with QTS gives you an
-academic qualification as well as QTS. Many PGCE courses include credits
-that count towards a Master’s degree.
-
-A PGCE may allow you to teach in some other countries. If you’re
-planning to teach overseas, you should always check what’s needed in the
-country you’d like to teach in.
-
-Some providers offer a PGDE (postgraduate diploma in education) with
-QTS. In some cases these courses offer more credits towards a Master’s
-degree than PGCE courses.
-
-Use [Find postgraduate teacher
-training](https://www.find-postgraduate-teacher-training.service.gov.uk/start/subject?l=2)
-training to check and learn more about the content and structure of the
-courses on offer.
-
-#### Further education (PGCE or PGDE without QTS)
-
-To teach further education you do not need QTS. Instead you can study
-for a PGCE or PGDE without QTS. These courses are also eligible for
-candidates without a degree.
-
-You can also search for ‘further education’ courses leading to a post-compulsory education and training qualification (PCET). You do not need a degree to apply for courses leading to a PCET.
-
-### Choose an age group
+## Choose an age group
 
 You can train to teach:
 
@@ -302,7 +215,15 @@ Assessment Only is:
   - ideal for graduates with experience of working with children from
     birth age to 5, who meet the Teachers’ Standards (Early Years) and have no need for further training
 
-### Choose a subject
+### Further education
+
+To teach further education you do not need QTS.
+
+Instead you can study for a PGCE or PGDE without QTS. These courses are also eligible for candidates without a degree.
+
+You can [search for further education courses](https://www.gov.uk/find-postgraduate-teacher-training-courses) leading to a post-compulsory education and training qualification (PCET). You do not need a degree to apply for courses leading to a PCET.
+
+## Choose a subject
 
 [View a list of secondary school teaching
 subjects](https://www.find-postgraduate-teacher-training.service.gov.uk/start/subject?l=2)
@@ -317,14 +238,14 @@ Evidence can include:
   - your A level subjects
   - expertise you’ve gained at work
 
-### Subject knowledge enhancement courses
+## Subject knowledge enhancement courses
 
 If you've got the right qualities to teach but need to build up or refresh your subject knowledge, you can complete a subject knowledge enhancement (SKE) course.
 
 These courses are usually available if:
 
 * your degree wasn’t in your chosen subject, but is closely related
-* you studied the subject at A level, but not at degree level 
+* you studied the subject at A level, but not at degree level
 * you have an unrelated degree, but relevant professional knowledge in the subject
 * it's been some time since you used your degree knowledge
 * you studied for a languages degree but need a second language at an acceptable level for teaching in schools
@@ -347,7 +268,7 @@ SKE courses are available in the following subjects:
 
 SKE courses are usually available all over England at universities, schools, or with other organisations. They can be completed before, or alongside your teacher training and are available to study full-time or part-time, classroom-based or on-line. SKE is typically offered in ITT shortage subjects. The [SKE directory](https://www.gov.uk/government/publications/subject-knowledge-enhancement-course-directory) sets out what courses are provided.
 
-### Teaching children with special educational needs and/or disabilities (SEND)
+## Teaching children with special educational needs and/or disabilities (SEND)
 
 Qualified SEND teachers are eligible for an extra payment, on top of their annual salary, of between £2,209 and £4,359 a year.
 
@@ -355,7 +276,7 @@ Use [Find postgraduate teacher
 training](https://www.gov.uk/find-postgraduate-teacher-training-courses)
 to search for training courses that involve working with SEND children.
 
-#### Teaching SEND pupils
+### Teaching SEND pupils
 
 You don’t have to take a SEND specialist course. If you want to be a
 SEND teacher you can apply to teach in a special school if you have:
@@ -364,23 +285,23 @@ SEND teacher you can apply to teach in a special school if you have:
   - experience of managing SEND pupils in your primary or secondary
     school
 
-#### Teaching children with sensory impairments
+### Teaching children with sensory impairments
 
 If you want to teach pupils with hearing, vision or multi-sensory
 impairments, you’ll need a specific qualification.
 
-#### Be a Special Educational Needs Coordinator (SENCo)
+### Be a Special Educational Needs Coordinator (SENCo)
 
 As a SENCo you’ll be responsible for assessing, planning and monitoring the progress of children with SEND. To apply for a job as a SENCo, you’ll need to:
 
   - be a qualified teacher
   - complete the National Award in Special Educational Needs Coordination (NASENCO) when you take up the SENCO post
 
-### Training to teach if you have a disability
+## Training to teach if you have a disability
 
 Teachers with disabilities make valuable contributions both to classrooms and the culture of schools where they work.
 
-#### Your rights
+### Your rights
 
 It is against the law for teacher training providers to discriminate against teacher training candidates with disabilities. Under the Equality Act 2010, providers must make adjustments to help you do a course or go to an interview, providing your requests are reasonable. Examples of support could be:
 
@@ -394,14 +315,14 @@ you might also be able to get support from [Access to
 Work](https://www.gov.uk/access-to-work). This could include a grant to
 help cover the costs of practical support in the workplace.
 
-#### Telling your training provider about your disability when you apply
+### Telling your training provider about your disability when you apply
 
 It’s up to you if you want to tell your training provider about your
 disability. Information you give about your disability is protected under the [Data
 Protection Act
 2018](https://www.gov.uk/data-protection/the-data-protection-act).
 
-#### Useful resources for disabled candidates
+### Useful resources for disabled candidates
 
 * [Get funding help if you're a student with a learning difficulty, health
 problem or
@@ -415,13 +336,13 @@ computers and communication technology for disabled people.
 UK](https://www.disabilityrightsuk.org/adjustments-disabled-students) for
 advice on adjustments for disabled students while studying.
 
-#### Completing a fitness questionnaire
+### Completing a fitness questionnaire
 
 If you’re offered a place on a teacher training course, you may have to
 complete a fitness questionnaire before starting. Training providers
 should only ask relevant questions to make sure you’re able to teach.
 
-### Types of teacher training provider
+## Types of teacher training provider
 
 You can do your teacher training on a course run by a university, an
 individual school, or a partnership of schools (sometimes called a
@@ -631,7 +552,7 @@ You should use this section to showcase your motivation, commitment and teaching
 
 Give providers an insight into your personality by writing honestly and thoughtfully. Avoid cliché and write in clear, correct, concise English.
 
-To get help with personal statements from a Teacher Training Adviser, [use the Get an adviser service](/tta-service).
+To get help with personal statements from a teacher training adviser, [use the Get an adviser service](/tta-service).
 
 You don't have to cover everything in this list, but suggested topics
 include:
@@ -721,4 +642,4 @@ did in the first round of applications.
 
 ## Further support and information
 
-Send an email to: getintoteaching.helpdesk@education.gov.uk or call Freephone 0800 389 2501.
+Send an email to: getintoteaching.helpdesk@education.gov.uk or call Freephone 0800 389 2500.

@@ -1,5 +1,5 @@
 ---
-title: "Impact of COVID-19 on teacher training"
+title: "How coronavirus is affecting teacher training"
 description: |-
   Covid 19 has had an impact on teacher training, this advice
   is aimed at applicants, trainees, schools and ITT providers.
@@ -16,62 +16,64 @@ keywords:
   - interview
 ---
 
-For more information about the government response to coronavirus (COVID-19), please visit [GOV.UK](https://www.gov.uk/coronavirus).
+## If you're a current trainee
 
-If you have another question, not covered here, [please get in touch](#talk-to-us).
+[Visit GOV.UK for information about the government response to coronavirus](https://www.gov.uk/coronavirus).
 
-If you are an ITT provider, and have further urgent questions, please [email our dedicated COVID-19 inbox](mailto:DfE.coronavirushelpline@education.gov.uk).
+Contact your provider if you have any questions about how coronavirus is affecting your course.
 
-## Advice for current trainees
+## If you're an applicant: your questions answered
 
-If you are a current trainee teacher and have questions about your course, please contact your provider. This also applies if you are on an assessment only route.
+### Can I get school experience?
 
-ITT is covered in the [updated guidance for schools](https://www.gov.uk/government/publications/actions-for-schools-during-the-coronavirus-outbreak#school-workforce).
+Although it's not an entry requirement for initial teacher training (ITT), getting classroom experience can help you decide whether teaching is right for you.
 
-## Advice for applicants
+Some schools are offering school experience both in school and virtually.
 
-#### Do I need to have school experience?
+Sign up to [get school experience](https://schoolexperience.education.gov.uk/).
 
-Getting some classroom experience can help you decide whether teaching is right for you. It is not an entry requirement for Initial Teacher Training.
+### How long do teacher training providers have to make a decision on my application?
 
-You can search and sign up through our [Get school experience service](https://schoolexperience.education.gov.uk/).
+40 days.
 
-Can I get school experience?
+### Do I have to have a face-to-face interview?
 
-Some schools are offering the opportunity for ITT candidates to undertake school experience both in school and virtually.
+There is no requirement for a face-to-face interview. Your interview may take place online.
 
-Candidates can search and sign up through our [Get school experience service](https://schoolexperience.education.gov.uk/).
+You may be asked to send your degree or GCSE certificates digitally too.
 
-#### Does the 40-day rule for making decisions about ITT applications still apply?
+Wait for your provider to contact you with more information.
 
-The 40-day rule for making decisions about ITT applications still applies.
+### I am doing a GCSE to be eligible to start training but exams have been cancelled. What should I do?
 
-#### Do I have to have a face-to-face interview?
+Details on assessment for GCSEs in summer 2021 are due to be confirmed after consultation in the spring term.
 
-There is no requirement for a face-to-face interview. These can take place electronically, ideally by Skype or similar. Documentation such as degree and GCSE certificates may be scanned and sent electronically.
+Speak to your training provider to discuss your situation.
 
-Applicants should wait to be contacted by the providers for specific guidance.
+### Are Train To Teach events going ahead?
 
-#### I am studying a GCSE in maths/English/science to be eligible to start ITT later in 2021, however GCSE exams have been cancelled. What should I do?
+[Spring events have now been confirmed](/events).
 
-Details on assessment for GCSEs in summer 2021 are due to be confirmed after consultation in the spring term. In the meantime you should speak to your chosen training provider to discuss your situation.
+### What if I’m an overseas applicant?
 
-#### Are the planned Train To Teach events going ahead?
+Although global travel, including to the UK, is affected by coronavirus, we still encourage you to take steps to become a teacher in England.
 
-Spring events have now been confirmed, please check the [events page](/events) for more information.
+Check your country’s advice as well as the UK's advice to keep up to date with travel restrictions and self-isolation requirements.
 
-#### What if I’m an overseas applicant?
+The UK government has also published guidance about [what to do if you need a visa to travel to the UK](https://www.gov.uk/guidance/coronavirus-covid-19-advice-for-uk-visa-applicants-and-temporary-uk-residents#outside-uk) and has a coronavirus immigration [help centre](https://www.gov.uk/guidance/coronavirus-covid-19-advice-for-uk-visa-applicants-and-temporary-uk-residents#helpline).
 
-Although global travel, including to the UK, is affected by coronavirus, we still encourage you to take the steps to becoming a teacher in England.
+Further information is available if you are affected by [changes to UK immigration and borders due to coronavirus](https://www.gov.uk/government/collections/coronavirus-covid-19-immigration-and-borders).
 
-You should check your country’s advice as well as the UK's advice to keep up to date with travel restrictions and self-isolation requirements. The UK government has also published guidance about [what to do if you need a visa to travel to the UK](https://www.gov.uk/guidance/coronavirus-covid-19-advice-for-uk-visa-applicants-and-temporary-uk-residents#outside-uk) and has a coronavirus immigration [help centre](https://www.gov.uk/guidance/coronavirus-covid-19-advice-for-uk-visa-applicants-and-temporary-uk-residents#helpline).
+### How do I ask a question?
 
-Further information is available if you are affected by [changes to UK immigration and borders due to coronavirus (COVID-19)](https://www.gov.uk/government/collections/coronavirus-covid-19-immigration-and-borders).
+[Get in touch if you have a question not covered on this page](#talk-to-us).
 
----
+## If you're an initial teacher training provider
 
-For more information about the government response to coronavirus (COVID-19), please visit GOV.UK(https://www.gov.uk/coronavirus).
+See the government's [guidance for schools](https://www.gov.uk/government/publications/actions-for-schools-during-the-coronavirus-outbreak#school-workforce).
 
-If you have another question, not covered here, please [get in touch](#talk-to-us).
+We have been working closely across government to [develop guidance to support initial teacher training providers during this time](https://www.gov.uk/government/publications/coronavirus-covid-19-initial-teacher-training-itt).
 
-We have been working closely across government to [develop guidance on COVID-19](https://www.gov.uk/government/publications/coronavirus-covid-19-initial-teacher-training-itt) and its impact on Initial Teacher Training, [the amended ITT criteria](https://www.gov.uk/government/publications/initial-teacher-training-criteria) and [assessment for QTS](https://www.gov.uk/government/publications/coronavirus-covid-19-initial-teacher-training-itt/coronavirus-covid-19-initial-teacher-training-itt#legal-reqs).
+You can also find [amended ITT criteria](https://www.gov.uk/government/publications/initial-teacher-training-criteria) and guidance on [assessing for QTS](https://www.gov.uk/government/publications/coronavirus-covid-19-initial-teacher-training-itt/coronavirus-covid-19-initial-teacher-training-itt#recommendation-for-qualified-teacher-status-qts--progress-assessments-for-202021-trainees).
+
+If you have further urgent questions you can [email our coronavirus inbox](mailto:DfE.coronavirushelpline@education.gov.uk).

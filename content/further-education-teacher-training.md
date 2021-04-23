@@ -1,5 +1,10 @@
 ---
 title: "Further education teacher training"
+description: |-
+  Being a further education teacher will give you the opportunity to teach a
+  wider range of subjects. You'll inspire students aged 14 and above to build
+  their skills and knowledge.
+date: "2021-03-29"
 image: false
 backlink: "../"
 keywords:

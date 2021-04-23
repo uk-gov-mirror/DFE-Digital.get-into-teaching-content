@@ -7,11 +7,11 @@
   image: /assets/images/hero-home-dt.jpg
   layout: layouts/campaigns/landing_page_with_hero_nav
   hero_nav:
-    Get free one-to-one advice from a Teacher Training Adviser: "#get-free-one-to-one-advice-from-a-teacher-training-adviser"
+    Get free one-to-one advice from a teacher training adviser: "#get-free-one-to-one-advice-from-a-teacher-training-adviser"
     Speak to current teachers at a teaching event: "#speak-to-current-teachers-at-a-teaching-event"
     Receive personalised email updates and tips: "#receive-personalised-email-updates-and-tips"
   keywords:
-    - Teacher Training Adviser
+    - teacher training adviser
     - TTA
     - Adviser
     - Email
@@ -27,10 +27,10 @@
 
 <div id="get-free-one-to-one-advice-from-a-teacher-training-adviser" class="numbered-heading">
   <span class="pink-rotated-number">1</span>
-  <h2>Get free one-to-one advice from a Teacher Training Adviser</h2>
+  <h2>Get free one-to-one advice from a teacher training adviser</h2>
 </div>
 
-All our Teacher Training Advisers are experienced teachers who can provide you with support through the whole process of preparing and applying for teacher training.
+All our teacher training advisers are experienced teachers who can provide you with support through the whole process of preparing and applying for teacher training.
 
 Advisers can:
 
