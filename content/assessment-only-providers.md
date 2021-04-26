@@ -462,6 +462,7 @@ keywords:
   - Assessment
   - Provider
   - SCITT
+  - experienced
 ---
 
 A number of accredited providers have been approved to offer the 

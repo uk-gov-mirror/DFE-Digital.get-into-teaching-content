@@ -164,4 +164,5 @@ keywords:
   - paid internship
   - TI
   - T.I.
+  - summer internship
 ---
