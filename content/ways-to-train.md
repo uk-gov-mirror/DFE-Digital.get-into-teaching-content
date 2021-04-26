@@ -44,7 +44,7 @@ keywords:
 
 ## Train to get qualified teacher status
 
-You need ‘qualified teacher status’ to work in the majority of schools in England including state maintained primary, secondary and special schools.
+You need ‘qualified teacher status’ (QTS) to work in the majority of schools in England including state maintained primary, secondary and special schools.
 
 There are different ways to get qualified teacher status, for example:
 
