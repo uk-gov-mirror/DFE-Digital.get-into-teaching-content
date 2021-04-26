@@ -80,7 +80,7 @@ You can also apply for a [student loan](/funding-your-training#tuition-fee-and-m
 
 If you already have a degree and want to spend as much time as possible in practical learning, you can find a training programme led by a school or group of schools.
 
-You'll only spend about about a fifth of your time in academic learning.
+You'll only spend about about a fifth of your time in academic learning (for example, written assignments).
 
 Many courses even give you a PGCE or PGDE - an academic qualification which you can use towards masters credits.
 
