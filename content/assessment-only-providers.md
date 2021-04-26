@@ -36,6 +36,10 @@ providers:
     name: Keith Ferguson
     telephone: 01376 556398
     email: ao@midessexteachertraining.com
+  - header: North Essex Teacher Training (NETT)
+    link: http://www.nett.org.uk/
+    telephone: '01255431949'
+    email: teach@nett.org.uk
   - header: Newlands Spring Primary School Academy Trust (Essex Primary SCITT)
     link: https://www.essexprimaryscitt.co.uk/
     name: Fiona Willett
@@ -152,10 +156,6 @@ providers:
   - header: Middlesex University
     telephone: 020 8411 5555
     email: enquiries@mdx.ac.uk
-  - header: North Essex Teacher Training (NETT)
-    link: http://www.nett.org.uk/
-    telephone: '01255431949'
-    email: teach@nett.org.uk
   - header: St Mary’s University
     link: https://www.stmarys.ac.uk/education-theology-and-leadership/assessment-only-qts.htm
     name: Elizabeth Jackson

@@ -38,7 +38,7 @@ As you progress in your teaching career, it's possible to move up through these 
 | Inner London                  | £32,157 | £50,953 |
 | Outer London                  | £29,915 | £45,766 |
 | London fringe                 | £26,948 | £42,780 |
-| The rest of England and Wales | £25,714 | £41.604 |
+| The rest of England and Wales | £25,714 | £41,604 |
 
 ### Newly qualified teacher benefits
  
