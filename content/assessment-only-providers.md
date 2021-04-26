@@ -457,6 +457,12 @@ providers:
     name: Mikki Burns
     telephone: 0203 194 3200
     email: Institute@tesglobal.com
+keywords:
+  - Assessment Only
+  - Assessment
+  - Provider
+  - SCITT
+  - experienced
 ---
 
 A number of accredited providers have been approved to offer the 
