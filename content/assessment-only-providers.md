@@ -36,10 +36,6 @@ providers:
     name: Keith Ferguson
     telephone: 01376 556398
     email: ao@midessexteachertraining.com
-  - header: North Essex Teacher Training (NETT)
-    link: http://www.nett.org.uk/
-    telephone: '01255431949'
-    email: teach@nett.org.uk
   - header: Newlands Spring Primary School Academy Trust (Essex Primary SCITT)
     link: https://www.essexprimaryscitt.co.uk/
     name: Fiona Willett
@@ -50,6 +46,10 @@ providers:
     name: Jacqui Waring
     telephone: 01603 773708
     email: jacqui.waring@ccn.ac.uk
+  - header: North Essex Teacher Training (NETT)
+    link: http://www.nett.org.uk/
+    telephone: '01255431949'
+    email: teach@nett.org.uk
   - header: SAF ITT
     name: Su Bernard
     telephone: 01234 827145
