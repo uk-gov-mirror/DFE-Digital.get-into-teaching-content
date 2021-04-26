@@ -60,7 +60,7 @@ You can also find specialised programmes [if you're a career changer](#if-youre-
 
 Not looking for primary or secondary teacher training? Consider teaching [early years](/early-years-teaching-training) or [further education](/further-education-teacher-training).
 
-### Go to university as a postgraduate student
+### Return to university as a postgraduate student
 
 If you already have a degree and want to go to university again, you can do a university-led PGCE or PGDE leading to qualified teacher status.
 
