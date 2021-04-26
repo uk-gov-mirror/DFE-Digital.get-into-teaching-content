@@ -48,7 +48,7 @@ You need ‘qualified teacher status’ (QTS) to work in the majority of schools
 
 There are different ways to get qualified teacher status, for example:
 
-* [if you want to go to university as a postgraduate student](#go-to-university-as-a-postgraduate-student)
+* [if you want to return to university as a postgraduate student](#return-to-university-as-a-postgraduate-student)
 
 * [if you want to learn on the job in schools near you](#learn-on-the-job-in-schools-near-you)
 
