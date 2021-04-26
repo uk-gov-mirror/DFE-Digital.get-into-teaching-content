@@ -70,7 +70,7 @@ You spend about a third of your time in academic learning and the rest in school
 
 Courses typically take one year but you may be able to study part time.
 
-Fees are usually around £9,250 but you can get [funding that you do not have to pay back](/funding-your-training) for certain subjects.
+Fees are usually around £9,250 but you can get [funding that you do not have to pay back](/funding-your-training#bursaries-and-scholarships) for certain subjects.
 
 You can also apply for a [student loan](/funding-your-training#tuition-fee-and-maintenance-laons).
 
