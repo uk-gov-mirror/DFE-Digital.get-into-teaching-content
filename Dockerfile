@@ -1,4 +1,4 @@
-FROM dfedigital/get-into-teaching-web:sha-268a256
+FROM dfedigital/get-into-teaching-web:sha-6b2ed90
 
 # hadolint ignore=DL3045
 COPY config/*.yml config
