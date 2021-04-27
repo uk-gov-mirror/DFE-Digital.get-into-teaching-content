@@ -52,7 +52,7 @@ If you’re considering coming back to the profession, or if you’re qualified 
 
 ## Why now
 
-Thousands of former teachers return to teaching each year.
+Thousands of former teachers return to teaching each year. 
 
 Here at the Department for Education, we’re taking action to address some of the common issues that teachers face in the classroom. This includes helping schools to:
 
